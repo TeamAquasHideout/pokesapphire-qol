@@ -121,7 +121,7 @@ UseRockSmashPromptText: @ 81B0F4B
 	.string "Soll ZERTRÜMMERER eingesetzt werden?$"
 
 CannotUseRockSmashText: @ 81B0F90
-	.string "Ein großer Felsen. Ein POKéMON könnte\n"
+	.string "Ein großer Felsen. Ein Pokémon könnte\n"
 	.string "ihn vielleicht zertrümmern.$"
 
 S_PushableBoulder:: @ 81B0FCB
@@ -170,7 +170,7 @@ Strength_ChoseNo: @ 81B103A
 	end
 
 UseStrengthPromptText: @ 81B103D
-	.string "Ein POKéMON kann diesen Felsen\n"
+	.string "Ein Pokémon kann diesen Felsen\n"
 	.string "vielleicht bewegen.\p"
 	.string "Möchtest du STÄRKE einsetzen?$"
 
@@ -180,7 +180,7 @@ UsedStrengthText: @ 81B109D
 	.string "den Felsen zu bewegen.$"
 
 CannotUseStrengthText: @ 81B10E7
-	.string "Ein POKéMON kann diesen Felsen\n"
+	.string "Ein Pokémon kann diesen Felsen\n"
 	.string "vielleicht bewegen.$"
 
 AlreadyUsedStrengthText: @ 81B1127
@@ -273,7 +273,7 @@ UnderwaterDive_Done: @ 81B12BE
 	end
 
 CannotUseDiveText: @ 81B12C0
-	.string "Das Wasser ist hier tief. Ein POKéMON\n"
+	.string "Das Wasser ist hier tief. Ein Pokémon\n"
 	.string "könnte hier vielleicht tauchen.$"
 
 UseDivePromptText: @ 81B1303
@@ -285,7 +285,7 @@ UsedDiveText: @ 81B1335
 
 UnderwaterCannotUseDiveText: @ 81B1343
 	.string "Licht schimmert von oben herab. Ein\n"
-	.string "POKéMON könnte hier auftauchen.$"
+	.string "Pokémon könnte hier auftauchen.$"
 
 UnderwaterUseDivePromptText: @ 81B138E
 	.string "Licht schimmert von oben herab.\n"

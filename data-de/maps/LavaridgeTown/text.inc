@@ -4,9 +4,9 @@ LavaridgeTown_Text_16BDA4:: @ 816BDA4
 	.string "Oh? Als ich die Heißen Quellen aufge-\n"
 	.string "sucht habe, habe ich den ORDEN der\p"
 	.string "ARENA von BAD LAVASTADT erhalten.\n"
-	.string "Du hast anscheinend viele POKéMON\p"
+	.string "Du hast anscheinend viele Pokémon\p"
 	.string "gefangen... Äh, ich meine, du hast ja\n"
-	.string "schon einige POKéMON aufgezogen. \p"
+	.string "schon einige Pokémon aufgezogen. \p"
 	.string "Ich denke, das hier wirst du gut\n"
 	.string "gebrauchen können.$"
 
@@ -33,7 +33,7 @@ LavaridgeTown_Text_16BF92:: @ 816BF92
 LavaridgeTown_Text_16C020:: @ 816C020
 	.string "BRIX: Nimm das mit, wenn du in die\n"
 	.string "Wüste in der Nähe von ROUTE 111 willst.\p"
-	.string "Da sollten sich einige POKéMON fangen\n"
+	.string "Da sollten sich einige Pokémon fangen\n"
 	.string "lassen, die Wüstenbewohner sind. Schau\l"
 	.string "dich nach ihnen um.\p"
 	.string "Und ich...\n"
@@ -50,10 +50,10 @@ LavaridgeTown_Text_16C174:: @ 816C174
 	.string "Heißen Quellen vergrabe. Aber das reicht\n"
 	.string "offensichtlich nicht aus.\p"
 	.string "Jemand erzählte mir, dass man es\n"
-	.string "zusammen mit den POKéMON tragen\l"
+	.string "zusammen mit den Pokémon tragen\l"
 	.string "soll.\p"
 	.string "Du bist ein TRAINER, nicht wahr? Und\n"
-	.string "deine POKéMON strahlen Vitalität aus.\p"
+	.string "deine Pokémon strahlen Vitalität aus.\p"
 	.string "So, was meinst du? Wirst du das EI mit-\n"
 	.string "nehmen und zum Ausschlüpfen bringen?$"
 
@@ -65,7 +65,7 @@ LavaridgeTown_Text_16C2EA:: @ 816C2EA
 	.string "{PLAYER} erhält ein EI.$"
 
 LavaridgeTown_Text_16C2FF:: @ 816C2FF
-	.string "Oh! Du hast zu viele POKéMON dabei.\n"
+	.string "Oh! Du hast zu viele Pokémon dabei.\n"
 	.string "Du hast keinen Platz für das EI...$"
 
 LavaridgeTown_Text_16C33C:: @ 816C33C
@@ -94,7 +94,7 @@ LavaridgeTown_Text_16C4DB:: @ 816C4DB
 	.string "ist...  Seufz...\p"
 	.string "So warm und einfach himmlisch... Seufz...\p"
 	.string "Äh? Gyaah! Aua!\p"
-	.string "Ein POKéMON hat meinen Rücken ange-\n"
+	.string "Ein Pokémon hat meinen Rücken ange-\n"
 	.string "knabbert!$"
 
 LavaridgeTown_Text_16C54E:: @ 816C54E
@@ -109,7 +109,7 @@ LavaridgeTown_Text_16C59B:: @ 816C59B
 	.string "ARENALEITER wie FLAVIA werden.$"
 
 LavaridgeTown_Text_16C603:: @ 816C603
-	.string "Wenn Leute ihre POKéMON in die Heißen\n"
+	.string "Wenn Leute ihre Pokémon in die Heißen\n"
 	.string "Quellen setzen, ist das schon\l"
 	.string "merkwürdig.\p"
 	.string "Nun, es könnte auch ein Bad in\n"
@@ -125,14 +125,14 @@ LavaridgeTown_Text_16C694:: @ 816C694
 
 LavaridgeTown_Text_16C72F:: @ 816C72F
 	.string "BAD LAVASTADT\p"
-	.string "“POKéMON-CENTER - HEISSE QUELLEN\n"
+	.string "“Pokémon-CENTER - HEISSE QUELLEN\n"
 	.string "Der ideale Ort zum Entspannen!”$"
 
 LavaridgeTown_Text_16C77C:: @ 816C77C
-	.string "POKéMON ARENA von BAD LAVASTADT\n"
+	.string "Pokémon ARENA von BAD LAVASTADT\n"
 	.string "LEITERIN: FLAVIA\l"
 	.string "“Die mit der brennenden Leidenschaft!”$"
 
 LavaridgeTown_Text_16C7CF:: @ 816C7CF
-	.string "POKéMON KRÄUTERLADEN\n"
+	.string "Pokémon KRÄUTERLADEN\n"
 	.string "“Bitterer Geschmack - Bessere Kur!”$"

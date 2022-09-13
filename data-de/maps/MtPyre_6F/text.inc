@@ -6,7 +6,7 @@ MtPyre_6F_Text_196A30:: @ 8196A30
 	.string "Die Macht ebbt ab...$"
 
 MtPyre_6F_Text_196A4C:: @ 8196A4C
-	.string "Die Geister der hier ruhenden POKéMON\n"
+	.string "Die Geister der hier ruhenden Pokémon\n"
 	.string "erfüllen mich mit ihrer Macht...$"
 
 MtPyre_6F_Text_196A95:: @ 8196A95
@@ -17,5 +17,5 @@ MtPyre_6F_Text_196AB1:: @ 8196AB1
 	.string "Etwas war da und verschwand...$"
 
 MtPyre_6F_Text_196AC9:: @ 8196AC9
-	.string "Die POKéMON, die hier ruhen...\n"
+	.string "Die Pokémon, die hier ruhen...\n"
 	.string "Manchmal spielen sie...$"

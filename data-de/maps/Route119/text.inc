@@ -3,7 +3,7 @@ Route119_Text_1710BB:: @ 81710BB
 	.string "Ich habe dich schon gesucht!\p"
 	.string "Wie stark bist du geworden?\n"
 	.string "Lass mich das für dich herausfinden!\p"
-	.string "Bereit? Du und deine POKéMON?\n"
+	.string "Bereit? Du und deine Pokémon?\n"
 	.string "Natürlich seid ihr das! Los!$"
 
 Route119_Text_171156:: @ 8171156
@@ -19,7 +19,7 @@ Route119_Text_1711B1:: @ 81711B1
 
 Route119_Text_171214:: @ 8171214
 	.string "MAIKE: Setze FLIEGEN ein und deine\n"
-	.string "POKéMON bringen dich an jeden Ort, an\l"
+	.string "Pokémon bringen dich an jeden Ort, an\l"
 	.string "dem du schon einmal warst.\p"
 	.string "Aber um FLIEGEN einsetzen zu können,\n"
 	.string "brauchst du erst den ORDEN der ARENA\l"
@@ -32,7 +32,7 @@ Route119_Text_171214:: @ 8171214
 
 Route119_Text_171358:: @ 8171358
 	.string "BRIX: {PLAYER}! Hier schaust du dich\n"
-	.string "also nach POKéMON um?\p"
+	.string "also nach Pokémon um?\p"
 	.string "Zeig mir, wie gut du geworden bist.\n"
 	.string "Ich werde dich jetzt testen!\p"
 	.string "Nun!\n"
@@ -44,13 +44,13 @@ Route119_Text_1713E2:: @ 81713E2
 
 Route119_Text_17140B:: @ 817140B
 	.string "BRIX: Ich sage, du bist so gut, dass\n"
-	.string "du überall nach POKéMON suchen kannst.\p"
+	.string "du überall nach Pokémon suchen kannst.\p"
 	.string "Hier, das ist für dich.\n"
 	.string "Probier es aus.$"
 
 Route119_Text_171475:: @ 8171475
 	.string "BRIX: Setze es ein, und deine\n"
-	.string "POKéMON FLIEGEN dich sofort an jeden\l"
+	.string "Pokémon FLIEGEN dich sofort an jeden\l"
 	.string "Ort, an dem du schon einmal warst.\p"
 	.string "Aber du brauchst den ORDEN der ARENA\n"
 	.string "von BAUMHAUSEN CITY dafür.\p"
@@ -68,7 +68,7 @@ Route119_Text_17157C:: @ 817157C
 
 Route119_Text_1715D7:: @ 81715D7
 	.string "Ich dachte, FLIEGEN könnte man, indem\n"
-	.string "man viele VOGEL-POKéMON fängt, sie\p"
+	.string "man viele VOGEL-Pokémon fängt, sie\p"
 	.string "zusammenbindet und sich dann\n"
 	.string "dranhängt.\p"
 	.string "Aber es gibt tatsächlich eine VM, die\n"
@@ -82,7 +82,7 @@ Route119_Text_171698:: @ 8171698
 	.string "Speichen des RADS...$"
 
 Route119_Text_1716F4:: @ 81716F4
-	.string "Kann dein POKéMON GEHEIMPOWER an\n"
+	.string "Kann dein Pokémon GEHEIMPOWER an\n"
 	.string "einem Berg von Gras einsetzen und eine\l"
 	.string "GEHEIMBASIS einrichten?$"
 

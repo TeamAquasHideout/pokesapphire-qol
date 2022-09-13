@@ -15,9 +15,9 @@ SootopolisCity_PokemonCenter_1F_Text_18F770:: @ 818F770
 
 SootopolisCity_PokemonCenter_1F_Text_18F7EA:: @ 818F7EA
 	.string "Was auch immer wann oder wo passiert,\n"
-	.string "meine Freundschaft zu den POKéMON\l"
+	.string "meine Freundschaft zu den Pokémon\l"
 	.string "leidet darunter bestimmt nicht!\p"
-	.string "Ich liebe es, mit POKéMON zusammen\n"
+	.string "Ich liebe es, mit Pokémon zusammen\n"
 	.string "zu sein.$"
 
 SootopolisCity_PokemonCenter_1F_Text_18F860:: @ 818F860

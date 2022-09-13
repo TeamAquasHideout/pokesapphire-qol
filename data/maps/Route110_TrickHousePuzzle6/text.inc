@@ -12,7 +12,7 @@ Route110_TrickHousePuzzle6_Text_19DCE7:: @ 819DCE7
 	.string "repeating!$"
 
 Route110_TrickHousePuzzle6_Text_19DD49:: @ 819DD49
-	.string "Maybe I could get my BIRD POKéMON\n"
+	.string "Maybe I could get my BIRD Pokémon\n"
 	.string "to fly over the wall...$"
 
 Route110_TrickHousePuzzle6_Text_19DD83:: @ 819DD83

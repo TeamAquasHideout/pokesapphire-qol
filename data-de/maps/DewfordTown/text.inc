@@ -8,7 +8,7 @@ DewfordTown_Text_16B2A7:: @ 816B2A7
 	.string "“Eine kleine Insel im blauen Meer.”$"
 
 DewfordTown_Text_16B2D5:: @ 816B2D5
-	.string "POKéMON ARENA von FAUSTAUHAVEN\n"
+	.string "Pokémon ARENA von FAUSTAUHAVEN\n"
 	.string "LEITER: KAMILLO\l"
 	.string "“Eine große Welle des Kampfes!”$"
 

@@ -111,7 +111,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_18A8C4:: @ 818A8C4
 
 LilycoveCity_PokemonTrainerFanClub_Text_18A984:: @ 818A984
 	.string "Jeder hier ist ein großer Fan von\n"
-	.string "POKéMON-Kämpfen.\p"
+	.string "Pokémon-Kämpfen.\p"
 	.string "Wir diskutieren gerade, welcher\n"
 	.string "TRAINER der stärkste ist.\p"
 	.string "Wenn du berühmt wirst, werden wir\n"
@@ -226,7 +226,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_18B030:: @ 818B030
 LilycoveCity_PokemonTrainerFanClub_Text_18B0C8:: @ 818B0C8
 	.string "Du bist sehr populär...\p"
 	.string "Du bist stark und du sorgst gut für\n"
-	.string "deine POKéMON.\p"
+	.string "deine Pokémon.\p"
 	.string "Aber, weißt du, ich glaube an\n"
 	.string "{STR_VAR_1}.\p"
 	.string "{STR_VAR_1} ist definitiv stärker!\n"

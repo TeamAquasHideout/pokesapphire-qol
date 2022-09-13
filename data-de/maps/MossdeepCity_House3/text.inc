@@ -2,7 +2,7 @@ MossdeepCity_House3_Text_18D909:: @ 818D909
 	.string "Hey, du da! TRAINER!\n"
 	.string "Eine SUPERANGEL ist wirklich super!\p"
 	.string "Man kann sagen, was man will, aber mit\n"
-	.string "diesem Baby kann man POKéMON vom\l"
+	.string "diesem Baby kann man Pokémon vom\l"
 	.string "Meeresboden weg fangen!\p"
 	.string "Na? Du würdest doch zu gerne auch so\n"
 	.string "eine Angel haben, oder?$"
@@ -21,4 +21,4 @@ MossdeepCity_House3_Text_18DA26:: @ 818DA26
 
 MossdeepCity_House3_Text_18DA44:: @ 818DA44
 	.string "Mit deiner SUPERANGEL kannst du die\n"
-	.string "POKéMON am Meeresboden fangen.$"
+	.string "Pokémon am Meeresboden fangen.$"

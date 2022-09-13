@@ -6,15 +6,15 @@ const u8 ContestString_DescStartled2[] = _("Kann Irritation durch\nandere einmal
 const u8 ContestString_DescStartled3[] = _("Kann Irritation durch\nandere verhindern.");
 const u8 ContestString_DescStartled4[] = _("Kann Irritation durch an-\ndere ein wenig eindämmen.");
 const u8 ContestString_DescStartled5[] = _("Einsatz der Attacke dämmt\ndanach Irritation ein.");
-const u8 ContestString_DescStartled6[] = _("Irritiert das vordere\nPOKéMON ein wenig.");
-const u8 ContestString_DescStartled7[] = _("Irritiert die POKéMON ein\nwenig, die schon auftraten.");
-const u8 ContestString_DescStartled8[] = _("Irritiert das POKéMON, das\nvorher aufgetreten ist.");
-const u8 ContestString_DescStartled9[] = _("Irritiert alle POKéMON,\ndie bisher auftraten.");
-const u8 ContestString_DescStartled10[] = _("Irritiert das vordere\nPOKéMON sehr stark.");
-const u8 ContestString_DescStartled11[] = _("Irritiert die POKéMON, die\nschon aufgetreten sind.");
-const u8 ContestString_DescStartled12[] = _("Irritiert das POKéMON, das\nvorher aufgetreten ist.");
-const u8 ContestString_DescStartled13[] = _("Irritiert alle POKéMON, die\nvorher aufgetreten sind.");
-const u8 ContestString_DescAttentionShift[] = _("Lenkt den JUROR von den\nanderen POKéMON ab.");
+const u8 ContestString_DescStartled6[] = _("Irritiert das vordere\nPokémon ein wenig.");
+const u8 ContestString_DescStartled7[] = _("Irritiert die Pokémon ein\nwenig, die schon auftraten.");
+const u8 ContestString_DescStartled8[] = _("Irritiert das Pokémon, das\nvorher aufgetreten ist.");
+const u8 ContestString_DescStartled9[] = _("Irritiert alle Pokémon,\ndie bisher auftraten.");
+const u8 ContestString_DescStartled10[] = _("Irritiert das vordere\nPokémon sehr stark.");
+const u8 ContestString_DescStartled11[] = _("Irritiert die Pokémon, die\nschon aufgetreten sind.");
+const u8 ContestString_DescStartled12[] = _("Irritiert das Pokémon, das\nvorher aufgetreten ist.");
+const u8 ContestString_DescStartled13[] = _("Irritiert alle Pokémon, die\nvorher aufgetreten sind.");
+const u8 ContestString_DescAttentionShift[] = _("Lenkt den JUROR von den\nanderen Pokémon ab.");
 const u8 ContestString_DescStartled14[] = _("Irritiert PKMN, bes. die,\nauf die der JUROR achtet.");
 const u8 ContestString_DescJamOthersMissTurn[] = _("Stört die anderen und An-\nwender setzt 1 Runde aus.");
 const u8 ContestString_DescStartled15[] = _("Irritiert PKMN, bes. die, die\nAusdruck gl. Typs zeigten.");
@@ -24,13 +24,13 @@ const u8 ContestString_DescStartled18[] = _("Irritiert PKMN, die Ausdrck.\ndes T
 const u8 ContestString_DescStartled19[] = _("Irritiert PKMN, die Ausdrck.\ndes Typs KLUG vorführten.");
 const u8 ContestString_DescStartled20[] = _("Irritiert PKMN, die Ausdrck.\ndes Typs STARK vorführten.");
 
-const u8 ContestString_DescNervousOne[] = _("Macht nachfolgendes\nPOKéMON nervös.");
+const u8 ContestString_DescNervousOne[] = _("Macht nachfolgendes\nPokémon nervös.");
 
-const u8 ContestString_DescNervousAllAfter[] = _("Macht alle nachfolgenden\nPOKéMON nervös.");
+const u8 ContestString_DescNervousAllAfter[] = _("Macht alle nachfolgenden\nPokémon nervös.");
 
 const u8 ContestString_DescConditionWorseBefore[] = _("Schwächt Kondition der\nPKMN, die bisher auftraten.");
 
-const u8 ContestString_DescStartled21[] = _("Irritiert POKéMON, die eine\ngute Kondition haben.");
+const u8 ContestString_DescStartled21[] = _("Irritiert Pokémon, die eine\ngute Kondition haben.");
 const u8 ContestString_DescGreatWhenFirst[] = _("Ausdruck gelingt sehr gut,\nwenn als Erster vorgeführt.");
 const u8 ContestString_DescGreatWhenLast[] = _("Ausdruck gelingt sehr gut,\nwenn zuletzt vorgeführt.");
 const u8 ContestString_DescAppealGoodBeforeAll[] = _("Ausdruck gelingt so gut\nwie die der Vorgänger.");
@@ -47,7 +47,7 @@ const u8 ContestString_DescAppealLater[] = _("Der nächste Ausdruck kann\nspäte
 const u8 ContestString_DescRandomOrderEasier[] = _("Ändert die Reihenfolge der\nnächst. Auftritte leichter.");
 const u8 ContestString_DescRandomOrder[] = _("Ändert die Reihenfolge der\nnächsten Auftritte.");
 const u8 ContestString_DescAnyExcitement[] = _("Verzückt das Publikum in \njedem WETTBEWERB.");
-const u8 ContestString_DescStartled22[] = _("Irritiert alle POKéMON,\nderen Ausdruck gut war.");
+const u8 ContestString_DescStartled22[] = _("Irritiert alle Pokémon,\nderen Ausdruck gut war.");
 const u8 ContestString_DescScaleWithExcitement[] = _("Gelingt am besten, wenn\ndas Publikum gespannt ist.");
 const u8 ContestString_DescStopExcitement[] = _("Bremst zeitweise Begeis-\nterung des Publikums.");
 
@@ -153,7 +153,7 @@ const u8 gText_Contest_ButItCantParticipate[] = _("Ausdruck {NAME_END}! Aber es\
 
 const u8 gText_MonAppealedWithMove[] = _("{STR_VAR_1} führt\n{STR_VAR_2} vor!");
 
-const u8 gText_OtherPokemonMadeMoves[] = _("Die anderen POKéMON\nzeigten ihre Attacken!");
+const u8 gText_OtherPokemonMadeMoves[] = _("Die anderen Pokémon\nzeigten ihre Attacken!");
 
 const u8 gText_MonWasWatchingOthers[] = _("{STR_VAR_1} beobachtet\ndie anderen.{PAUSE 60}");
 
@@ -163,14 +163,14 @@ const u8 gText_TRICK[] = _("TRICK");
 const u8 gText_SPECIAL[] = _("SPEZIAL");
 
 const u8 ContestString_AppealJammed[] = _("Der Auftritt\nwurde gestört.");
-const u8 ContestString_FollowLead[] = _("Es folgte einem\nanderen POKéMON.");
+const u8 ContestString_FollowLead[] = _("Es folgte einem\nanderen Pokémon.");
 const u8 ContestString_MessedUp[] = _("Es scheiterte.");
 const u8 ContestString_BetterUsual[] = _("Das lief besser\nals sonst.");
 const u8 ContestString_JudgeLookAway[] = _("Der JUROR war\nirgendwie abgelenkt.");
 const u8 ContestString_WorkHard[] = _("Es strengte sich an,\nFehler auszubügeln.");
 const u8 ContestString_NoMoreMoves[] = _("Es kann keine Attacken\nmehr ausführen.");
 const u8 ContestString_WorkReallyWell[] = _("Das lief unheimlich gut.");
-const u8 ContestString_WorkHardStandout[] = _("Es strengte sich genauso\nwie das beste POKéMON an.");
+const u8 ContestString_WorkHardStandout[] = _("Es strengte sich genauso\nwie das beste Pokémon an.");
 const u8 ContestString_JudgeExpectantly[] = _("Der JUROR schaute es\nbesonders aufmerksam an.");
 const u8 ContestString_WorkRatherWell[] = _("Das lief bedeutend\nbesser.");
 const u8 ContestString_WorkBetter[] = _("Es lief etwas besser\nals sonst.");

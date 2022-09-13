@@ -1,6 +1,6 @@
 DewfordTown_House1_Text_174BA5:: @ 8174BA5
 	.string "Über das harmonische Leben mit den\n"
-	.string "POKéMON und der Familie auf diesem\l"
+	.string "Pokémon und der Familie auf diesem\l"
 	.string "kleinen Eiland ließe sich viel erzählen.$"
 
 DewfordTown_House1_Text_174C0D:: @ 8174C0D

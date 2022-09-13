@@ -25,7 +25,7 @@ LilycoveCity_House3_Text_18BA2B:: @ 818BA2B
 	.string "besser ist das. Vergiss das nicht!\p"
 	.string "Ein guter {POKEBLOCK} hat einen niedrigen\n"
 	.string "Würzwert und einen hohen Level.\p"
-	.string "Ein POKéMON kann mehr gute {POKEBLOCK}\n"
+	.string "Ein Pokémon kann mehr gute {POKEBLOCK}\n"
 	.string "essen als durchschnittliche.\p"
 	.string "Und das ist wichtig.\p"
 	.string "Wenn du weiche {POKEBLOCK} herstellen\n"
@@ -40,7 +40,7 @@ LilycoveCity_House3_Text_18BA2B:: @ 818BA2B
 	.string "{POKEBLOCK} herstellen.\p"
 	.string "Das ist alles, was du wissen musst, um\n"
 	.string "gute {POKEBLOCK} herstellen zu können.\p"
-	.string "Wenn jeder POKéMON hätte, die er liebt,\n"
+	.string "Wenn jeder Pokémon hätte, die er liebt,\n"
 	.string "weiche {POKEBLOCK} und eine liebevolle\p"
 	.string "Familie, sähe es auf der Welt viel\n"
 	.string "besser aus.\p"
@@ -68,5 +68,5 @@ LilycoveCity_House3_Text_18BE57:: @ 818BE57
 
 LilycoveCity_House3_Text_18BE8E:: @ 818BE8E
 	.string "Ich möchte damit angeben, wie stark\n"
-	.string "mein POKéMON ist, daher werden wir\l"
+	.string "mein Pokémon ist, daher werden wir\l"
 	.string "an einem WETTBEWERB teilnehmen.$"

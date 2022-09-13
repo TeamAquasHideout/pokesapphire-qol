@@ -1,11 +1,7 @@
 Common_EventScript_PkmnCenterNurse:: @ 819FD5B
 	lock
 	faceplayer
-	msgbox gText_NurseJoy_Welcome, MSGBOX_YESNO
-	compare VAR_RESULT, YES
-	goto_if_eq EventScript_PkmnCenterNurse_HealPkmn
-	compare VAR_RESULT, NO
-	goto_if_eq EventScript_PkmnCenterNurse_Goodbye
+	goto EventScript_PkmnCenterNurse_HealPkmn
 	end
 
 EventScript_PkmnCenterNurse_HealPkmn:: @ 819FD7C
@@ -24,8 +20,6 @@ EventScript_PkmnCenterNurse_HealPkmn:: @ 819FD7C
 	end
 
 EventScript_PkmnCenterNurse_ReturnPkmn:: @ 819FDB0
-	message gText_NurseJoy_ThankYouForWaiting
-	waitmessage
 	applymovement VAR_0x800B, Movement_PkmnCenterNurse_Bow
 	waitmovement 0
 	message gText_NurseJoy_WeHopeToSeeYouAgain

@@ -52,7 +52,7 @@ MossdeepCity_Text_169370:: @ 8169370
 
 MossdeepCity_Text_16944E:: @ 816944E
 	.string "A voyage on a ship is fine.\p"
-	.string "But crossing the sea with POKéMON\n"
+	.string "But crossing the sea with Pokémon\n"
 	.string "using SURF...\p"
 	.string "Now that's an exhilarating trip!\n"
 	.string "Wouldn't you agree, youngster?$"
@@ -71,13 +71,13 @@ MossdeepCity_Text_1695D3:: @ 81695D3
 	.string "It's a white rock.$"
 
 MossdeepCity_Text_1695E6:: @ 81695E6
-	.string "MOSSDEEP CITY POKéMON GYM\n"
+	.string "MOSSDEEP CITY Pokémon GYM\n"
 	.string "LEADERS: LIZA & TATE\p"
 	.string "“The mystic combination!”$"
 
 MossdeepCity_Text_16962F:: @ 816962F
 	.string "MOSSDEEP CITY\n"
-	.string "“Our slogan: Cherish POKéMON!”$"
+	.string "“Our slogan: Cherish Pokémon!”$"
 
 MossdeepCity_Text_16965C:: @ 816965C
 	.string "MOSSDEEP SPACE CENTER\n"

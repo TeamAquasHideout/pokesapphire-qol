@@ -27,7 +27,7 @@ ShoalCave_LowTideEntranceRoom_Text_1C6808:: @ 81C6808
 	.string "There! Done!$"
 
 ShoalCave_LowTideEntranceRoom_Text_1C688E:: @ 81C688E
-	.string "Have a POKéMON hold on to that.\n"
+	.string "Have a Pokémon hold on to that.\n"
 	.string "It'll love it, that's for certain.\p"
 	.string "Why, the SHELL BELL's chime...\n"
 	.string "It's simply sublime!\p"

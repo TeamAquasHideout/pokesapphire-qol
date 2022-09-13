@@ -1,11 +1,11 @@
 LilycoveCity_MoveDeletersHouse_Text_18B622:: @ 818B622
 	.string "Uh...\n"
 	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their moves.\p"
+	.string "I can make Pokémon forget their moves.\p"
 	.string "Would you like me to do that?$"
 
 LilycoveCity_MoveDeletersHouse_Text_18B68C:: @ 818B68C
-	.string "Which POKéMON should forget a move?$"
+	.string "Which Pokémon should forget a move?$"
 
 LilycoveCity_MoveDeletersHouse_Text_18B6B0:: @ 818B6B0
 	.string "Which move should be forgotten?$"

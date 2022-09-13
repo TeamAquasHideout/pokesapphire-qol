@@ -1,5 +1,5 @@
 SootopolisCity_House8_Text_1900F7:: @ 81900F7
-	.string "Kennst du das POKéMON KNILZ?\n"
+	.string "Kennst du das Pokémon KNILZ?\n"
 	.string "In XENEROVILLE wird es kaum gesehen.\p"
 	.string "Aber ich liebe große KNILZ.\n"
 	.string "Je größer, desto besser.\p"
@@ -47,7 +47,7 @@ SootopolisCity_House8_Text_1903C9:: @ 81903C9
 	.string "SCHMERBE gerne sein würde!$"
 
 SootopolisCity_House8_Text_190431:: @ 8190431
-	.string "Kennst du das POKéMON SCHMERBE?\n"
+	.string "Kennst du das Pokémon SCHMERBE?\n"
 	.string "Das ist bisher selten in XENEROVILLE\l"
 	.string "aufgetaucht.\p"
 	.string "Ich liebe große SCHMERBE.\p"

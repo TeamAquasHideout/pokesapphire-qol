@@ -3,7 +3,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_187348:: @ 8187348
 	.string "SEEGRASULB CITY.\p"
 	.string "Bitte nimm dir die Zeit, unsere Sammlung\n"
 	.string "wunderbarer Kunstwerke zum Thema\l"
-	.string "POKéMON zu betrachten.$"
+	.string "Pokémon zu betrachten.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_1873B9:: @ 81873B9
 	.string "Ich bin der KURATOR dieses MUSEUMS der\n"
@@ -18,7 +18,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_187459:: @ 8187459
 	.string "aufhalten. Bitte, nimm dir Zeit.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_187495:: @ 8187495
-	.string "Oh? Ich glaube, du bist ein POKéMON-\n"
+	.string "Oh? Ich glaube, du bist ein Pokémon-\n"
 	.string "TRAINER.\p"
 	.string "Bist du auch an Gemälden interessiert?$"
 
@@ -42,16 +42,16 @@ LilycoveCity_LilycoveMuseum_1F_Text_1875BE:: @ 81875BE
 
 LilycoveCity_LilycoveMuseum_1F_Text_1875F8:: @ 81875F8
 	.string "Das Bildnis einer hübschen, lächelnden\n"
-	.string "Frau mit einem POKéMON auf dem Schoß.$"
+	.string "Frau mit einem Pokémon auf dem Schoß.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_187641:: @ 8187641
-	.string "Das Bild eines legendären POKéMON aus\n"
+	.string "Das Bild eines legendären Pokémon aus\n"
 	.string "längst vergangener Zeit.\p"
 	.string "Der Künstler hat dies aus der\n"
 	.string "Vorstellung heraus gemalt.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_1876A1:: @ 81876A1
-	.string "PFLANZEN-POKéMON, die sich im\n"
+	.string "PFLANZEN-Pokémon, die sich im\n"
 	.string "Wind wiegen.\p"
 	.string "Es scheint, als genießen sie das zarte\n"
 	.string "Streicheln des Windes.$"
@@ -62,7 +62,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_18770C:: @ 818770C
 
 LilycoveCity_LilycoveMuseum_1F_Text_18775F:: @ 818775F
 	.string "Ein Replikat einer berühmten Skulptur.\p"
-	.string "Es zeigt ein antikes VOGEL-POKéMON.$"
+	.string "Es zeigt ein antikes VOGEL-Pokémon.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_1877A9:: @ 81877A9
 	.string "Ein großer POKéBALL aus schwarzem\n"
@@ -71,7 +71,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_1877A9:: @ 81877A9
 	.string "Festlichkeiten ausgestellt.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_187810:: @ 8187810
-	.string "Eine große Steintafel, auf der POKéMON\n"
+	.string "Eine große Steintafel, auf der Pokémon\n"
 	.string "und eng gesetzte, kleine Schrift-\l"
 	.string "zeichen einer alten unverständlichen\l"
 	.string "Sprache eingraviert sind.$"
@@ -81,7 +81,7 @@ UnknownString_818788B: @ 818788B
 	.string "Was für eine große Pracht...$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_1878B7:: @ 81878B7
-	.string "Die Kämpfe mit POKéMON machen schon\n"
+	.string "Die Kämpfe mit Pokémon machen schon\n"
 	.string "Spaß, das gebe ich zu.\p"
 	.string "Aber man darf darüber nicht seine Liebe\n"
 	.string "zu den schönen Künsten vergessen.$"
@@ -98,7 +98,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_1879BF:: @ 81879BF
 	.string "Genau wie meine Mama!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_1879E6:: @ 81879E6
-	.string "Dieses POKéMON ist anbetungswürdig!\n"
+	.string "Dieses Pokémon ist anbetungswürdig!\n"
 	.string "Genau wie unser kleiner Sohn!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_187A1A:: @ 8187A1A

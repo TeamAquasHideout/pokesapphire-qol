@@ -8,7 +8,7 @@ UnknownString_81B41D5: @ 81B41D5
 UnknownString_81B4201: @ 81B4201
 	.string "ARCHIE: Behold!\p"
 	.string "See how beautiful it is, the sleeping\n"
-	.string "form of the ancient POKéMON KYOGRE!\p"
+	.string "form of the ancient Pokémon KYOGRE!\p"
 	.string "I have waited so long for this day to\n"
 	.string "come...$"
 

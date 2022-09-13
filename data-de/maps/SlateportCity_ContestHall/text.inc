@@ -7,7 +7,7 @@ SlateportCity_ContestHall_Text_17CB71:: @ 817CB71
 	.string "Solange du genau weißt, was du wie zu\n"
 	.string "tun hast, wirst du erfolgreich sein.\p"
 	.string "Natürlich werden die Mitstreiter\n"
-	.string "versuchen, deinem POKéMON die Show zu\l"
+	.string "versuchen, deinem Pokémon die Show zu\l"
 	.string "stehlen.$"
 
 SlateportCity_ContestHall_Text_17CC80:: @ 817CC80
@@ -19,7 +19,7 @@ SlateportCity_ContestHall_Text_17CC80:: @ 817CC80
 SlateportCity_ContestHall_Text_17CCE2:: @ 817CCE2
 	.string "Hey, also, das ist wohl Künstlerpech,\n"
 	.string "Mann. Ich will einfach wissen, warum\l"
-	.string "mein POKéMON nie gewinnt.\l"
+	.string "mein Pokémon nie gewinnt.\l"
 	.string "Weißt du, Mann?\p"
 	.string "Daher, Mann, habe ich dem JUROR meinen\n"
 	.string "Senf dazugegeben.\p"
@@ -39,7 +39,7 @@ SlateportCity_ContestHall_Text_17CE28:: @ 817CE28
 
 SlateportCity_ContestHall_Text_17CEF3:: @ 817CEF3
 	.string "MC: Oh, meine Güte!\n"
-	.string "Ist das nicht ein Dandy von POKéMON?\p"
+	.string "Ist das nicht ein Dandy von Pokémon?\p"
 	.string "Bitte! Tritt näher und nimm an unserem\n"
 	.string "großartigen WETTBEWERB teil!\p"
 	.string "Ich bin sicher, du wirst hervorragend\n"
@@ -60,7 +60,7 @@ SlateportCity_ContestHall_Text_17D054:: @ 817D054
 	.string "Womit soll ich beginnen?$"
 
 SlateportCity_ContestHall_Text_17D07F:: @ 817D07F
-	.string "Der Auftritt meines POKéMON fand\n"
+	.string "Der Auftritt meines Pokémon fand\n"
 	.string "nicht viel Beachtung...\p"
 	.string "Männo, der Juror hat wohl Tomaten auf\n"
 	.string "den Augen!?!$"
@@ -73,39 +73,39 @@ SlateportCity_ContestHall_Text_17D0F9:: @ 817D0F9
 	.string "Wenn eine Attacke wirklich gut gelingt,\n"
 	.string "ist das Publikum begeistert.\p"
 	.string "Wenn alle begeistert sind, hat das\n"
-	.string "POKéMON einen tollen Auftritt gehabt.\p"
+	.string "Pokémon einen tollen Auftritt gehabt.\p"
 	.string "Dann weißt du, dass etwas Tolles\n"
 	.string "passieren wird!$"
 
 SlateportCity_ContestHall_Text_17D222:: @ 817D222
 	.string "Ich kann es einfach nicht! Ich bin\n"
-	.string "nervöser als mein POKéMON.\p"
+	.string "nervöser als mein Pokémon.\p"
 	.string "Ich zittere und mein Herz rast!$"
 
 SlateportCity_ContestHall_Text_17D27F:: @ 817D27F
 	.string "Ein Kampf und ein WETTBEWERB sind nicht\n"
 	.string "dasselbe, aber sie sind sich ähnlich.\p"
 	.string "Du musst hart arbeiten und an die\n"
-	.string "POKéMON, die du aufziehst, glauben.$"
+	.string "Pokémon, die du aufziehst, glauben.$"
 
 SlateportCity_ContestHall_Text_17D300:: @ 817D300
-	.string "Dieses POKéMON scheint an der Spitze\n"
+	.string "Dieses Pokémon scheint an der Spitze\n"
 	.string "zu stehen, was?\p"
-	.string "Ein POKéMON, das im zweiten Durchgang\n"
+	.string "Ein Pokémon, das im zweiten Durchgang\n"
 	.string "gut abschneidet, wird im Wettbewerb\l"
 	.string "viel ruhiger auftreten.$"
 
 SlateportCity_ContestHall_Text_17D39A:: @ 817D39A
 	.string "Guck dir mal diese jämmerlichen\n"
 	.string "Gestalten an.\p"
-	.string "Mein POKéMON ist viel, viel besser als\n"
+	.string "Mein Pokémon ist viel, viel besser als\n"
 	.string "dieser Haufen!$"
 
 SlateportCity_ContestHall_Text_17D3F0:: @ 817D3F0
 	.string "Geht es dir nicht auch so? Wenn ein\n"
-	.string "POKéMON all seine Energie in eine\l"
+	.string "Pokémon all seine Energie in eine\l"
 	.string "Attacke steckt, bewegt mich das enorm.$"
 
 SlateportCity_ContestHall_Text_17D447:: @ 817D447
-	.string "POKéMON WETTBEWERBE\n"
+	.string "Pokémon WETTBEWERBE\n"
 	.string "BÜHNE für die HYPER-KLASSE!$"

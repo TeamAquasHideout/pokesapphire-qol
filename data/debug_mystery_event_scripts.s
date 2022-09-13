@@ -196,20 +196,20 @@ _0845E34C:
 
 .ifdef ENGLISH
 _0845E34F:
-	.string "A POKéMON was added to the\n"
+	.string "A Pokémon was added to the\n"
 	.string "player's party.$"
 
 _0845E387:
 	.string "The player's party is full.\n"
-	.string "A POKéMON couldn't be added.$"
+	.string "A Pokémon couldn't be added.$"
 .else @ GERMAN
 _0845E34F:
-	.string "Ein POKéMON wurde in das Team des\n"
+	.string "Ein Pokémon wurde in das Team des\n"
 	.string "Spielers aufgenommen.$"
 
 _0845E387:
 	.string "Das Team des Spielers ist vollständig.\n"
-	.string "Es kann kein weiteres POKéMON\l"
+	.string "Es kann kein weiteres Pokémon\l"
 	.string "aufgenommen werden.$"
 .endif @ GERMAN
 

@@ -1,7 +1,7 @@
 Route111_Text_16F705:: @ 816F705
 	.string "Hallo! Ich hab's, du bist ein Reisender.\p"
 	.string "Was hältst du davon? Du trittst mit\n"
-	.string "deinen POKéMON gegen alle vier Familien-\l"
+	.string "deinen Pokémon gegen alle vier Familien-\l"
 	.string "mitglieder hintereinander an?$"
 
 Route111_Text_16F785:: @ 816F785
@@ -78,11 +78,11 @@ Route111_Text_16FB67:: @ 816FB67
 	.string "{PLAYER} lässt das KLAUENFOSSIL liegen.$"
 
 Route111_Text_16FB86:: @ 816FB86
-	.string "Wenn du deine POKéMON nicht ein\n"
+	.string "Wenn du deine Pokémon nicht ein\n"
 	.string "bisschen besser trainierst, wird es\l"
 	.string "schwer, sich hier durchzukämpfen.\p"
 	.string "Ich habe gehört, dass die TOP VIER der\n"
-	.string "POKéMON LIGA um einiges schwerer zu\l"
+	.string "Pokémon LIGA um einiges schwerer zu\l"
 	.string "besiegen sind als die ARENALEITER.$"
 
 Route111_Text_16FC3A:: @ 816FC3A
@@ -114,7 +114,7 @@ Route111_Text_16FD1B:: @ 816FD1B
 Route111_Text_16FD55:: @ 816FD55
 	.string "TIPPS für TRAINER\p"
 	.string "Ein Indikator für die Stärke eines\n"
-	.string "POKéMON ist der SP. ANG. Das steht\l"
+	.string "Pokémon ist der SP. ANG. Das steht\l"
 	.string "für “SPEZIAL ANGRIFF”.\p"
 	.string "SP. VER. steht für “SPEZIAL\n"
 	.string "VERTEIDIGUNG”.$"

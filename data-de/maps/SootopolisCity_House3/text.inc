@@ -1,5 +1,5 @@
 SootopolisCity_House3_Text_18FB36:: @ 818FB36
-	.string "Du bist ein POKéMON-TRAINER, oder?\p"
+	.string "Du bist ein Pokémon-TRAINER, oder?\p"
 	.string "Der ARENALEITER von XENEROVILLE, \n"
 	.string "WASSILI, hat viele Fans.\l"
 	.string "Hast du auch Fans?$"

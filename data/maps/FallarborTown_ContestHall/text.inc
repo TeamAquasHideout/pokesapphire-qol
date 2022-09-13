@@ -6,8 +6,8 @@ FallarborTown_ContestHall_Text_177335:: @ 8177335
 
 FallarborTown_ContestHall_Text_1773C6:: @ 81773C6
 	.string "See!\n"
-	.string "My POKéMON won all these RIBBONS!\p"
-	.string "Have your POKéMON earned any RIBBONS?\n"
+	.string "My Pokémon won all these RIBBONS!\p"
+	.string "Have your Pokémon earned any RIBBONS?\n"
 	.string "You can check them on your POKéNAV.$"
 
 FallarborTown_ContestHall_Text_177437:: @ 8177437
@@ -17,5 +17,5 @@ FallarborTown_ContestHall_Text_177437:: @ 8177437
 	.string "and it's all for naught...$"
 
 FallarborTown_ContestHall_Text_1774B1:: @ 81774B1
-	.string "POKéMON CONTESTS\n"
+	.string "Pokémon CONTESTS\n"
 	.string "SUPER RANK STAGE!$"

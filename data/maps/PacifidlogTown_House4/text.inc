@@ -1,12 +1,12 @@
 PacifidlogTown_House4_Text_17959B:: @ 817959B
-	.string "People were saying they saw a POKéMON\n"
+	.string "People were saying they saw a Pokémon\n"
 	.string "FLYING high above HOENN.\p"
 	.string "Is it FLYING around all the time?\n"
 	.string "Doesn't it need to rest somewhere?$"
 
 PacifidlogTown_House4_Text_17961F:: @ 817961F
-	.string "A sky POKéMON!\n"
-	.string "A sky POKéMON!$"
+	.string "A sky Pokémon!\n"
+	.string "A sky Pokémon!$"
 
 PacifidlogTown_House4_Text_17963D:: @ 817963D
 	.string "Where did you come from?$"

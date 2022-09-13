@@ -26,7 +26,7 @@ MossdeepCity_SpaceCenter_1F_Text_18E39B:: @ 818E39B
 
 MossdeepCity_SpaceCenter_1F_Text_18E3E5:: @ 818E3E5
 	.string "Einige Menschen nehmen an, dass die\n"
-	.string "POKéMON aus dem Weltall kommen. Ob das\l"
+	.string "Pokémon aus dem Weltall kommen. Ob das\l"
 	.string "stimmt?$"
 
 MossdeepCity_SpaceCenter_1F_Text_18E427:: @ 818E427

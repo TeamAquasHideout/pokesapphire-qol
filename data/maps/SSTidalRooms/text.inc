@@ -6,14 +6,14 @@ SSTidalRooms_Text_19958A:: @ 819958A
 	.string "Go back and forth between LILYCOVE\n"
 	.string "and SLATEPORT, that's what I do.\p"
 	.string "It's my hobby - going from port to port\n"
-	.string "to take in POKéMON CONTESTS.$"
+	.string "to take in Pokémon CONTESTS.$"
 
 SSTidalRooms_Text_199613:: @ 8199613
 	.string "That was an enjoyable match!$"
 
 SSTidalRooms_Text_199630:: @ 8199630
 	.string "I get so excited imagining what kinds\n"
-	.string "of POKéMON I'll get to see in the next\l"
+	.string "of Pokémon I'll get to see in the next\l"
 	.string "CONTEST. The anticipation of it thrills!$"
 
 SSTidalRooms_Text_1996A6:: @ 81996A6
@@ -24,7 +24,7 @@ SSTidalRooms_Text_1996BF:: @ 81996BF
 
 SSTidalRooms_Text_1996E1:: @ 81996E1
 	.string "Friends need not be human.\n"
-	.string "For me, POKéMON are treasured friends!$"
+	.string "For me, Pokémon are treasured friends!$"
 
 SSTidalRooms_Text_199723:: @ 8199723
 	.string "Child...\n"
@@ -51,7 +51,7 @@ SSTidalRooms_Text_199820:: @ 8199820
 	.string "You must be an awesome TRAINER!$"
 
 SSTidalRooms_Text_199887:: @ 8199887
-	.string "JED: You only have one POKéMON?\n"
+	.string "JED: You only have one Pokémon?\n"
 	.string "Isn't that just too lonesome?$"
 
 SSTidalRooms_Text_1998C5:: @ 81998C5
@@ -68,7 +68,7 @@ SSTidalRooms_Text_19991C:: @ 819991C
 
 SSTidalRooms_Text_199975:: @ 8199975
 	.string "LEA: I wanted to battle...\n"
-	.string "But you don't even have two POKéMON...$"
+	.string "But you don't even have two Pokémon...$"
 
 SSTidalRooms_Text_1999B7:: @ 81999B7
 	.string "Ah, you've come just in time.\p"
@@ -81,7 +81,7 @@ SSTidalRooms_Text_1999FF:: @ 81999FF
 SSTidalRooms_Text_199A10:: @ 8199A10
 	.string "Perhaps I shall get Father to acquire\n"
 	.string "a yacht for me.\l"
-	.string "A yacht for me and POKéMON!$"
+	.string "A yacht for me and Pokémon!$"
 
 SSTidalRooms_Text_199A62:: @ 8199A62
 	.string "Oh, you're such an adorable TRAINER.\n"

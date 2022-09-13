@@ -1,7 +1,7 @@
 SootopolisCity_Mart_Text_18F890:: @ 818F890
 	.string "PP UP is great!\p"
 	.string "It raises the POWER POINTS, the PP,\n"
-	.string "of a POKéMON move.$"
+	.string "of a Pokémon move.$"
 
 SootopolisCity_Mart_Text_18F8D7:: @ 818F8D7
 	.string "What... What is happening?$"

@@ -1,6 +1,6 @@
 Route102_Text_1B79C3:: @ 81B79C3
-	.string "Wenn du POKéMON bei dir hast, bist du\n"
-	.string "offiziell ein POKéMON-TRAINER! Daher\l"
+	.string "Wenn du Pokémon bei dir hast, bist du\n"
+	.string "offiziell ein Pokémon-TRAINER! Daher\l"
 	.string "kannst du meine Herausforderung nicht\l"
 	.string "ablehnen!$"
 
@@ -15,7 +15,7 @@ Route102_Text_1B7A60:: @ 81B7A60
 Route102_Text_1B7A9F:: @ 81B7A9F
 	.string "Seit ich gegen dich verloren habe,\n"
 	.string "trainiere ich verzweifelt meine\l"
-	.string "POKéMON. Sag nicht nein zu einem Kampf!$"
+	.string "Pokémon. Sag nicht nein zu einem Kampf!$"
 
 Route102_Text_1B7AFD:: @ 81B7AFD
 	.string "Aaaah, ich habe schon wieder verloren...\n"
@@ -40,7 +40,7 @@ Route102_Text_1B7BD0:: @ 81B7BD0
 Route102_Text_1B7C05:: @ 81B7C05
 	.string "Haha! Unsere Augen haben sich\n"
 	.string "getroffen! Ich kämpfe mit meinen\l"
-	.string "KÄFER-POKéMON gegen dich!$"
+	.string "KÄFER-Pokémon gegen dich!$"
 
 Route102_Text_1B7C40:: @ 81B7C40
 	.string "Auaaa! Besiegt und verloren!$"
@@ -61,7 +61,7 @@ Route102_Text_1B7CEC:: @ 81B7CEC
 
 Route102_Text_1B7D11:: @ 81B7D11
 	.string "Um auf der Straße der Sieger laufen zu\n"
-	.string "können, brauche ich mehr POKéMON.$"
+	.string "können, brauche ich mehr Pokémon.$"
 
 Route103_Text_1B7D55:: @ 81B7D55
 	.string "Spürst du die wohlige Berührung\n"
@@ -89,7 +89,7 @@ Route103_Text_1B7E50:: @ 81B7E50
 	.string "antrittst.$"
 
 Route103_Text_1B7EAC:: @ 81B7EAC
-	.string "NORA: Oh oh, du hast nur ein POKéMON\n"
+	.string "NORA: Oh oh, du hast nur ein Pokémon\n"
 	.string "dabei. Damit kannst du nicht gegen uns\l"
 	.string "beide antreten.$"
 
@@ -106,7 +106,7 @@ Route103_Text_1B7F40:: @ 81B7F40
 
 Route103_Text_1B7F8E:: @ 81B7F8E
 	.string "JO: Wenn du gegen uns kämpfen willst,\n"
-	.string "brauchst du zwei POKéMON. Hast du die\l"
+	.string "brauchst du zwei Pokémon. Hast du die\l"
 	.string "nicht, wäre der Kampf unfair!$"
 
 Route103_Text_1B7FE7:: @ 81B7FE7
@@ -124,7 +124,7 @@ Route103_Text_1B8053:: @ 81B8053
 	.string "antrittst. Erwähnte ich das schon?$"
 
 Route103_Text_1B80AF:: @ 81B80AF
-	.string "NORA: Oh oh, du hast nur ein POKéMON\n"
+	.string "NORA: Oh oh, du hast nur ein Pokémon\n"
 	.string "dabei. Damit kannst du nicht gegen uns\l"
 	.string "beide antreten.$"
 
@@ -142,7 +142,7 @@ Route103_Text_1B814D:: @ 81B814D
 
 Route103_Text_1B81A1:: @ 81B81A1
 	.string "JO: Wenn du gegen uns kämpfen willst,\n"
-	.string "brauchst du zwei POKéMON. Hast du die\l"
+	.string "brauchst du zwei Pokémon. Hast du die\l"
 	.string "nicht, wäre der Kampf unfair!$"
 
 Route103_Text_1B81FA:: @ 81B81FA
@@ -159,25 +159,25 @@ Route103_Text_1B8281:: @ 81B8281
 	.string "Grrrr...$"
 
 Route103_Text_1B82A9:: @ 81B82A9
-	.string "Mein POKéMON ist einfach anbetungs-\n"
+	.string "Mein Pokémon ist einfach anbetungs-\n"
 	.string "würdig. Nur keine Scheu, ich zeig's dir.$"
 
 Route103_Text_1B82EC:: @ 81B82EC
 	.string "Oh, so was aber auch!\n"
-	.string "Mein geliebtes POKéMON!$"
+	.string "Mein geliebtes Pokémon!$"
 
 Route103_Text_1B830D:: @ 81B830D
-	.string "Mein wunderbares POKéMON sieht sogar\n"
+	.string "Mein wunderbares Pokémon sieht sogar\n"
 	.string "besiegt noch wunderbar aus.$"
 
 Route103_Text_1B8349:: @ 81B8349
 	.string "Hey, du! Mein anbetungswürdiges\n"
-	.string "POKéMON ist noch anbetungswürdiger\l"
+	.string "Pokémon ist noch anbetungswürdiger\l"
 	.string "geworden.$"
 
 Route103_Text_1B838C:: @ 81B838C
 	.string "Oh!\n"
-	.string "Mein geliebtes POKéMON.$"
+	.string "Mein geliebtes Pokémon.$"
 
 Route103_Text_1B83A4:: @ 81B83A4
 	.string "Je mehr Zeit ich mit ihm verbringe,\n"
@@ -185,7 +185,7 @@ Route103_Text_1B83A4:: @ 81B83A4
 
 Route104_Text_1B83E9:: @ 81B83E9
 	.string "GINA: Okay, dann lass uns mit unseren\n"
-	.string "POKéMON kämpfen.$"
+	.string "Pokémon kämpfen.$"
 
 Route104_Text_1B8414:: @ 81B8414
 	.string "GINA: Wenn ich verliere, bin ich sauer.$"
@@ -195,33 +195,33 @@ Route104_Text_1B842C:: @ 81B842C
 	.string "Wir müssen doch mehr trainieren!$"
 
 Route104_Text_1B845C:: @ 81B845C
-	.string "GINA: Oh, nur ein POKéMON?\n"
+	.string "GINA: Oh, nur ein Pokémon?\n"
 	.string "Dann können wir nicht kämpfen.\p"
-	.string "Wenn du nur ein POKéMON hast, wird es\n"
+	.string "Wenn du nur ein Pokémon hast, wird es\n"
 	.string "sich einsam fühlen. Das ist nicht gut.$"
 
 Route104_Text_1B84DB:: @ 81B84DB
 	.string "MIA: Wir sind Zwillinge und kämpfen auch\n"
-	.string "mit unseren POKéMON zusammen.$"
+	.string "mit unseren Pokémon zusammen.$"
 
 Route104_Text_1B850D:: @ 81B850D
 	.string "MIA: Wir haben zusammen gekämpft und\n"
 	.string "auch zusammen verloren.$"
 
 Route104_Text_1B853B:: @ 81B853B
-	.string "MIA: Wir werden unsere POKéMON\n"
+	.string "MIA: Wir werden unsere Pokémon\n"
 	.string "trainieren. Und dann gewinnen wir!$"
 
 Route104_Text_1B8577:: @ 81B8577
 	.string "MIA: Du willst gegen uns kämpfen?\p"
 	.string "Ein dickes NEIN - da du weniger als zwei\n"
-	.string "POKéMON bei dir hast. Wir sind zu\l"
+	.string "Pokémon bei dir hast. Wir sind zu\l"
 	.string "stark für dich!$"
 
 Route104_Text_1B85EB:: @ 81B85EB
 	.string "Warum soll ich ein Geheimnis daraus\n"
 	.string "machen? Ich bin der...\p"
-	.string "WASSER-POKéMON-Experte!\n"
+	.string "WASSER-Pokémon-Experte!\n"
 	.string "Wie?!? Du kennst mich nicht?!?$"
 
 Route104_Text_1B8637:: @ 81B8637
@@ -230,7 +230,7 @@ Route104_Text_1B8637:: @ 81B8637
 
 Route104_Text_1B8680:: @ 81B8680
 	.string "Über das Angeln habe ich glatt das\n"
-	.string "Training meiner POKéMON vergessen.$"
+	.string "Training meiner Pokémon vergessen.$"
 
 Route104_Text_1B86BE:: @ 81B86BE
 	.string "Spuren im Sand zu hinterlassen ist total\n"
@@ -280,11 +280,11 @@ Route104_Text_1B8911:: @ 81B8911
 
 Route104_Text_1B8925:: @ 81B8925
 	.string "Manche Dinge kann man für Geld nicht\n"
-	.string "kaufen. Das sind POKéMON...$"
+	.string "kaufen. Das sind Pokémon...$"
 
 Route104_Text_1B895E:: @ 81B895E
 	.string "Nachdem ich gegen dich verloren hatte,\n"
-	.string "habe ich viel über POKéMON gelernt.$"
+	.string "habe ich viel über Pokémon gelernt.$"
 
 Route104_Text_1B899E:: @ 81B899E
 	.string "Ich habe schon wieder verloren???\n"
@@ -294,7 +294,7 @@ Route104_Text_1B89C0:: @ 81B89C0
 	.string "Ich bin unsagbar reich, aber einen\n"
 	.string "Kampf kann ich nicht gewinnen...\p"
 	.string "Sie ist so tiefgründig, die Welt der\n"
-	.string "POKéMON.$"
+	.string "Pokémon.$"
 
 Route104_Text_1B8A24:: @ 81B8A24
 	.string "Das Schicksal hat uns zusammengeführt.\n"
@@ -328,7 +328,7 @@ Route105_Text_1B8B40:: @ 81B8B40
 
 Route105_Text_1B8B93:: @ 81B8B93
 	.string "Ich habe zu sehr über den Felsen nach-\n"
-	.string "gedacht, so dass meine POKéMON schwach\l"
+	.string "gedacht, so dass meine Pokémon schwach\l"
 	.string "blieben...$"
 
 Route105_Text_1B8BDE:: @ 81B8BDE
@@ -402,13 +402,13 @@ Route106_Text_1B8F55:: @ 81B8F55
 
 Route106_Text_1B8FAC:: @ 81B8FAC
 	.string "Ich habe beim Angeln eine Menge\n"
-	.string "POKéMON gefangen. Ich zeige sie dir!$"
+	.string "Pokémon gefangen. Ich zeige sie dir!$"
 
 Route106_Text_1B8FF5:: @ 81B8FF5
 	.string "Ich habe wieder ganz famos verloren!$"
 
 Route106_Text_1B9011:: @ 81B9011
-	.string "Gewinnen, verlieren, POKéMON sind groß-\n"
+	.string "Gewinnen, verlieren, Pokémon sind groß-\n"
 	.string "artig! Stimmst du mir zu?$"
 
 Route106_Text_1B9052:: @ 81B9052
@@ -476,11 +476,11 @@ Route107_Text_1B938E:: @ 81B938E
 
 Route107_Text_1B93EB:: @ 81B93EB
 	.string "Durch das Schwimmen im Meer ist\n"
-	.string "mein POKéMON stärker geworden!$"
+	.string "mein Pokémon stärker geworden!$"
 
 Route107_Text_1B9429:: @ 81B9429
 	.string "Was für ein Schock!\p"
-	.string "Mein POKéMON ist stärker geworden,\n"
+	.string "Mein Pokémon ist stärker geworden,\n"
 	.string "aber ich bin ein Weichei von TRAINER.$"
 
 Route107_Text_1B9477:: @ 81B9477
@@ -524,10 +524,10 @@ Route107_Text_1B9630:: @ 81B9630
 
 Route107_Text_1B9672:: @ 81B9672
 	.string "BEA: Wenn du gegen uns kämpfen willst,\n"
-	.string "bring mehr POKéMON mit.$"
+	.string "bring mehr Pokémon mit.$"
 
 Route107_Text_1B96AB:: @ 81B96AB
-	.string "ERKO: Wir kämpfen immer mit POKéMON,\n"
+	.string "ERKO: Wir kämpfen immer mit Pokémon,\n"
 	.string "meine Schwester und ich.\p"
 	.string "Ich alleine verliere ständig, aber wir\n"
 	.string "können dich 2-gegen-2 schlagen!$"
@@ -538,12 +538,12 @@ Route107_Text_1B9707:: @ 81B9707
 
 Route107_Text_1B9735:: @ 81B9735
 	.string "ERKO: Meine Schwester hat mir mein\n"
-	.string "POKéMON gegeben und nun ist es mein\l"
+	.string "Pokémon gegeben und nun ist es mein\l"
 	.string "Partner!$"
 
 Route107_Text_1B9788:: @ 81B9788
 	.string "ERKO: Wenn du gegen uns antreten willst,\n"
-	.string "bring mehr POKéMON mit.$"
+	.string "bring mehr Pokémon mit.$"
 
 Route108_Text_1B97C3:: @ 81B97C3
 	.string "Mein Traum ist es, durch die sieben\n"
@@ -554,7 +554,7 @@ Route108_Text_1B97EF:: @ 81B97EF
 	.string "die sieben Weltmeere zu durchschwimmen.$"
 
 Route108_Text_1B9823:: @ 81B9823
-	.string "Mit maritimen POKéMON zu spielen, ist\n"
+	.string "Mit maritimen Pokémon zu spielen, ist\n"
 	.string "eine der Freuden beim Schwimmen.$"
 
 Route108_Text_1B9864:: @ 81B9864
@@ -687,7 +687,7 @@ Route109_Text_1B9E16:: @ 81B9E16
 
 Route109_Text_1B9E1D:: @ 81B9E1D
 	.string "Sobald ich den Schwimmreifen trage,\n"
-	.string "sehen meine POKéMON und ich noch\l"
+	.string "sehen meine Pokémon und ich noch\l"
 	.string "niedlicher aus!$"
 
 Route109_Text_1B9E60:: @ 81B9E60
@@ -739,7 +739,7 @@ Route109_Text_1BA069:: @ 81BA069
 Route109_Text_1BA0BF:: @ 81BA0BF
 	.string "OLE: Wir sind total heftig ineinander\n"
 	.string "verliebt. Deshalb lassen wir unsere\l"
-	.string "POKéMON auch gemeinsam kämpfen.$"
+	.string "Pokémon auch gemeinsam kämpfen.$"
 
 Route109_Text_1BA114:: @ 81BA114
 	.string "GELI: Wir sind total ineinander verliebt.\n"
@@ -756,7 +756,7 @@ Route109_Text_1BA193:: @ 81BA193
 Route109_Text_1BA1D0:: @ 81BA1D0
 	.string "GELI: Wir sind total heftig ineinander\n"
 	.string "verliebt. Daher kämpfen wir auch mit\l"
-	.string "unseren POKéMON zusammen.$"
+	.string "unseren Pokémon zusammen.$"
 
 Route110_Text_1BA22C:: @ 81BA22C
 	.string "Wow! Pass auf! Ich glaube, du hast\n"
@@ -787,7 +787,7 @@ Route110_Text_1BA352:: @ 81BA352
 	.string "schneller wird!$"
 
 Route110_Text_1BA379:: @ 81BA379
-	.string "Ich muss während eines POKéMON-\n"
+	.string "Ich muss während eines Pokémon-\n"
 	.string "Kampfes ruhig bleiben...$"
 
 Route110_Text_1BA3A5:: @ 81BA3A5
@@ -812,7 +812,7 @@ Route110_Text_1BA4A0:: @ 81BA4A0
 	.string "laufen.$"
 
 Route110_Text_1BA50F:: @ 81BA50F
-	.string "POKéMON-Kämpfe sind auch hart.$"
+	.string "Pokémon-Kämpfe sind auch hart.$"
 
 Route110_Text_1BA52E:: @ 81BA52E
 	.string "Ich bin erschöpft und brauche eine\n"
@@ -868,7 +868,7 @@ Route110_Text_1BA76C:: @ 81BA76C
 	.string "nicht, dass du immer gewinnen kannst!$"
 
 Route110_Text_1BA7D2:: @ 81BA7D2
-	.string "Zeigst du mir deine POKéMON?\n"
+	.string "Zeigst du mir deine Pokémon?\n"
 	.string "Nur ganz kurz, ja?$"
 
 Route110_Text_1BA803:: @ 81BA803
@@ -876,21 +876,21 @@ Route110_Text_1BA803:: @ 81BA803
 	.string "vervollständigen...$"
 
 Route110_Text_1BA829:: @ 81BA829
-	.string "Wenn ich ein mir unbekanntes POKéMON\n"
+	.string "Wenn ich ein mir unbekanntes Pokémon\n"
 	.string "sehe, kommt der Sammler in mir durch!$"
 
 Route110_Text_1BA877:: @ 81BA877
-	.string "Hi, hast du neue POKéMON gesammelt?\p"
+	.string "Hi, hast du neue Pokémon gesammelt?\p"
 	.string "Ich möchte einen Blick auf deine\n"
-	.string "POKéMON werfen. Ganz kurz, bitte?$"
+	.string "Pokémon werfen. Ganz kurz, bitte?$"
 
 Route110_Text_1BA8CD:: @ 81BA8CD
-	.string "Deine POKéMON...\n"
+	.string "Deine Pokémon...\n"
 	.string "Ich bin richtig neidisch!$"
 
 Route110_Text_1BA8E9:: @ 81BA8E9
 	.string "Oh, ich möchte so gerne alle seltenen\n"
-	.string "POKéMON besitzen.$"
+	.string "Pokémon besitzen.$"
 
 Route110_Text_1BA913:: @ 81BA913
 	.string "Hey!\n"
@@ -906,7 +906,7 @@ Route110_Text_1BA94A:: @ 81BA94A
 
 Route110_Text_1BA990:: @ 81BA990
 	.string "Ich würde überall hingehen, um meine\n"
-	.string "elysischen POKéMON zu präsentieren.$"
+	.string "elysischen Pokémon zu präsentieren.$"
 
 Route110_Text_1BA9D0:: @ 81BA9D0
 	.string "Oh, Schönheit reicht nicht aus...$"
@@ -917,7 +917,7 @@ Route110_Text_1BA9E9:: @ 81BA9E9
 
 Route110_Text_1BAA2D:: @ 81BAA2D
 	.string "Ich zeige dir meine elysischen\n"
-	.string "POKéMON, sooft du willst!$"
+	.string "Pokémon, sooft du willst!$"
 
 Route110_Text_1BAA76:: @ 81BAA76
 	.string "Oh, das war wieder nichts...$"
@@ -928,14 +928,14 @@ Route110_Text_1BAA8F:: @ 81BAA8F
 
 Route110_Text_1BAAC3:: @ 81BAAC3
 	.string "Ich habe hier im hohen Gras einige coole\n"
-	.string "POKéMON gefunden!$"
+	.string "Pokémon gefunden!$"
 
 Route110_Text_1BAAF7:: @ 81BAAF7
 	.string "Nur cool zu sein verhilft einem nicht\n"
 	.string "zum Sieg...$"
 
 Route110_Text_1BAB19:: @ 81BAB19
-	.string "Mit POKéMON zu kämpfen, die man gerade\n"
+	.string "Mit Pokémon zu kämpfen, die man gerade\n"
 	.string "erst gefangen hat, ist verdammt schwer.$"
 
 Route111_Text_1BAB4B:: @ 81BAB4B
@@ -963,7 +963,7 @@ Route111_Text_1BACC5:: @ 81BACC5
 
 Route111_Text_1BACD8:: @ 81BACD8
 	.string "Wenn du in einem Sandsturm kämpfst,\n"
-	.string "achte auf die KP deiner POKéMON.\p"
+	.string "achte auf die KP deiner Pokémon.\p"
 	.string "Sie können vom Sandsturm verletzt\n"
 	.string "werden und KP verlieren.$"
 
@@ -979,7 +979,7 @@ Route111_Text_1BADA3:: @ 81BADA3
 Route111_Text_1BADC2:: @ 81BADC2
 	.string "Eines Tages werde ich ein echter Held\n"
 	.string "sein. Ich arbeite daran, mich und meine\l"
-	.string "POKéMON richtig stark zu machen.$"
+	.string "Pokémon richtig stark zu machen.$"
 
 Route111_Text_1BAE24:: @ 81BAE24
 	.string "Ich habe gehört, dass man in der Wüste\n"
@@ -999,7 +999,7 @@ Route111_Text_1BAEC9:: @ 81BAEC9
 
 Route111_Text_1BAF14:: @ 81BAF14
 	.string "Ich habe nach Ruinen, aber leider nicht\n"
-	.string "nach starken POKéMON gesucht...$"
+	.string "nach starken Pokémon gesucht...$"
 
 Route111_Text_1BAF5B:: @ 81BAF5B
 	.string "Seit 30 Jahren suche ich nach antiken\n"
@@ -1015,7 +1015,7 @@ Route111_Text_1BAFC1:: @ 81BAFC1
 
 Route111_Text_1BB034:: @ 81BB034
 	.string "Ich habe keine Ruinen, und auch keine\n"
-	.string "starken POKéMON gefunden...$"
+	.string "starken Pokémon gefunden...$"
 
 Route111_Text_1BB070:: @ 81BB070
 	.string "Seit 30 Jahren suche ich nach antiken\n"
@@ -1027,10 +1027,10 @@ Route111_Text_1BB070:: @ 81BB070
 
 Route111_Text_1BB111:: @ 81BB111
 	.string "Ich bin voller Schwung und Elan!\n"
-	.string "Und mein POKéMON nicht minder!$"
+	.string "Und mein Pokémon nicht minder!$"
 
 Route111_Text_1BB140:: @ 81BB140
-	.string "Mein POKéMON hat ausgeschwungen.$"
+	.string "Mein Pokémon hat ausgeschwungen.$"
 
 Route111_Text_1BB15B:: @ 81BB15B
 	.string "Wenn ich einen TRAINER mit Schwung und\n"
@@ -1060,15 +1060,15 @@ Route111_Text_1BB290:: @ 81BB290
 	.string "dich besiegen kann.$"
 
 Route111_Text_1BB2E3:: @ 81BB2E3
-	.string "Zeig mir, wie stark deine POKéMON\n"
+	.string "Zeig mir, wie stark deine Pokémon\n"
 	.string "geworden sind.$"
 
 Route111_Text_1BB313:: @ 81BB313
 	.string "Ich habe es zu spüren bekommen. Deine\n"
-	.string "POKéMON sind viel stärker geworden.$"
+	.string "Pokémon sind viel stärker geworden.$"
 
 Route111_Text_1BB33E:: @ 81BB33E
-	.string "POKéMON und TRAINER lernen durch\n"
+	.string "Pokémon und TRAINER lernen durch\n"
 	.string "Kämpfe sehr viel.\p"
 	.string "Wichtig ist, niemals aufzugeben, auch\n"
 	.string "wenn du verlierst.$"
@@ -1083,10 +1083,10 @@ Route111_Text_1BB3FA:: @ 81BB3FA
 
 Route111_Text_1BB40E:: @ 81BB40E
 	.string "Da du so stark bist, solltest du dir die\n"
-	.string "POKéMON LIGA zum Ziel setzen.$"
+	.string "Pokémon LIGA zum Ziel setzen.$"
 
 Route111_Text_1BB44F:: @ 81BB44F
-	.string "Oh, deine POKéMON machen den Eindruck\n"
+	.string "Oh, deine Pokémon machen den Eindruck\n"
 	.string "ernsthafter Schauspieler.\l"
 	.string "Ich möchte sie gerne engagieren.$"
 
@@ -1095,22 +1095,22 @@ Route111_Text_1BB49F:: @ 81BB49F
 	.string "auch stark.$"
 
 Route111_Text_1BB4CE:: @ 81BB4CE
-	.string "Ich war überzeugt, meine POKéMON sorg-\n"
+	.string "Ich war überzeugt, meine Pokémon sorg-\n"
 	.string "fältig aufgezogen zu haben. Aber nein,\l"
 	.string "ich muss mich noch mehr anstrengen.$"
 
 Route111_Text_1BB529:: @ 81BB529
 	.string "Abhängig von den Attacken, die du ihnen\n"
-	.string "beibringst, sind deine POKéMON stärker\l"
+	.string "beibringst, sind deine Pokémon stärker\l"
 	.string "oder schwächer.\p"
-	.string "Welche Attacken haben deine POKéMON\n"
+	.string "Welche Attacken haben deine Pokémon\n"
 	.string "auf Lager?$"
 
 Route111_Text_1BB5A2:: @ 81BB5A2
 	.string "Ihre Attacken sind wirklich gut.$"
 
 Route111_Text_1BB5C1:: @ 81BB5C1
-	.string "Meine POKéMON sollten sich vielleicht\n"
+	.string "Meine Pokémon sollten sich vielleicht\n"
 	.string "nicht eher entwickeln, bis sie wirklich\l"
 	.string "gute Attacken gelernt haben...$"
 
@@ -1179,7 +1179,7 @@ Route112_Text_1BB942:: @ 81BB942
 
 Route112_Text_1BB958:: @ 81BB958
 	.string "Es ist egal, ob du besser singst oder\n"
-	.string "besser mit POKéMON kämpfen kannst.\p"
+	.string "besser mit Pokémon kämpfen kannst.\p"
 	.string "Wenn du Spaß hast, hast du schon\n"
 	.string "gewonnen!$"
 
@@ -1274,7 +1274,7 @@ Route113_Text_1BBE1D:: @ 81BBE1D
 
 Route113_Text_1BBE65:: @ 81BBE65
 	.string "LI: Wir beide sammeln Asche.\n"
-	.string "Wir beide kämpfen auch mit POKéMON.$"
+	.string "Wir beide kämpfen auch mit Pokémon.$"
 
 Route113_Text_1BBEA1:: @ 81BBEA1
 	.string "LI: Wir haben verloren... Mir ist lang-\n"
@@ -1290,7 +1290,7 @@ Route113_Text_1BBF25:: @ 81BBF25
 
 Route113_Text_1BBF62:: @ 81BBF62
 	.string "FLO: Wir beide sammeln Asche.\n"
-	.string "Wir beide kämpfen auch mit POKéMON.$"
+	.string "Wir beide kämpfen auch mit Pokémon.$"
 
 Route113_Text_1BBF9D:: @ 81BBF9D
 	.string "FLO: Wir haben verloren... Mir ist lang-\n"
@@ -1334,7 +1334,7 @@ Route114_Text_1BC1C8:: @ 81BC1C8
 	.string "Campen macht Spaß! Du kannst angeln,\n"
 	.string "Würstchen braten und andere mit\l"
 	.string "Spukgeschichten zu Tode erschrecken!\p"
-	.string "Aber das Beste sind die POKéMON-\n"
+	.string "Aber das Beste sind die Pokémon-\n"
 	.string "Kämpfe!$"
 
 Route114_Text_1BC23F:: @ 81BC23F
@@ -1342,7 +1342,7 @@ Route114_Text_1BC23F:: @ 81BC23F
 
 Route114_Text_1BC24F:: @ 81BC24F
 	.string "Ich finde es großartig, dass ich mit\n"
-	.string "meinen POKéMON campen gehen kann.$"
+	.string "meinen Pokémon campen gehen kann.$"
 
 Route114_Text_1BC289:: @ 81BC289
 	.string "Nach dem Essen muss ich Sport treiben.\n"
@@ -1357,28 +1357,28 @@ Route114_Text_1BC2C6:: @ 81BC2C6
 
 Route114_Text_1BC2F5:: @ 81BC2F5
 	.string "Hufhufhufhufhufhuf...\n"
-	.string "Komm, trete gegen mein POKéMON an.$"
+	.string "Komm, trete gegen mein Pokémon an.$"
 
 Route114_Text_1BC327:: @ 81BC327
-	.string "Mei... Mein POKéMON... hiiii...$"
+	.string "Mei... Mein Pokémon... hiiii...$"
 
 Route114_Text_1BC337:: @ 81BC337
 	.string "Einen großen Körper, der plump und hart\n"
 	.string "ist, riesige Hörner und scharfe Fänge...\p"
 	.string "Hufhufhufhuf...\n"
-	.string "So ein POKéMON hätte ich gerne...$"
+	.string "So ein Pokémon hätte ich gerne...$"
 
 Route114_Text_1BC3B3:: @ 81BC3B3
 	.string "Hufhufhufhufhuf...\n"
-	.string "Komm, mein POKéMON ist bereit.$"
+	.string "Komm, mein Pokémon ist bereit.$"
 
 Route114_Text_1BC3E0:: @ 81BC3E0
-	.string "Ich bin so froh, dass ich deine POKéMON\n"
+	.string "Ich bin so froh, dass ich deine Pokémon\n"
 	.string "sehen durfte...$"
 
 Route114_Text_1BC40F:: @ 81BC40F
 	.string "Hufhufhufhufhuf...\p"
-	.string "Wenn ich POKéMON kämpfen sehe, fange\n"
+	.string "Wenn ich Pokémon kämpfen sehe, fange\n"
 	.string "ich an zu zittern und zu schaudern...$"
 
 Route114_Text_1BC45A:: @ 81BC45A
@@ -1411,7 +1411,7 @@ Route114_Text_1BC58C:: @ 81BC58C
 Route114_Text_1BC5FC:: @ 81BC5FC
 	.string "Wenn wir angeln wären, hättest du nicht\n"
 	.string "den Hauch einer Chance gegen mich.\l"
-	.string "Also, dann zeig mal deine POKéMON.$"
+	.string "Also, dann zeig mal deine Pokémon.$"
 
 Route114_Text_1BC653:: @ 81BC653
 	.string "Wären wir Angeln, hätte ich gewonnen!$"
@@ -1437,12 +1437,12 @@ Route114_Text_1BC78A:: @ 81BC78A
 	.string "Dieses Mal werde ich trainieren!\p"
 	.string "Das denke ich jedes Mal und dann\n"
 	.string "kann ich mich doch nicht von meiner\l"
-	.string "Angel und meinen POKéMON trennen.$"
+	.string "Angel und meinen Pokémon trennen.$"
 
 Route114_Text_1BC7E3:: @ 81BC7E3
 	.string "TYRA: Natürlich. Ich bin in der\n"
 	.string "richtigen Stimmung. Ich werde dir\l"
-	.string "etwas über POKéMON beibringen.$"
+	.string "etwas über Pokémon beibringen.$"
 
 Route114_Text_1BC834:: @ 81BC834
 	.string "TYRA: Was für ein atemberaubender\n"
@@ -1450,27 +1450,27 @@ Route114_Text_1BC834:: @ 81BC834
 
 Route114_Text_1BC858:: @ 81BC858
 	.string "TYRA: Ich bringe meiner Juniorin IVY\n"
-	.string "etwas über POKéMON bei.$"
+	.string "etwas über Pokémon bei.$"
 
 Route114_Text_1BC88A:: @ 81BC88A
 	.string "TYRA: Kicher...\n"
 	.string "Wenn du mit uns kämpfen willst, reicht\l"
-	.string "ein POKéMON nicht aus.$"
+	.string "ein Pokémon nicht aus.$"
 
 Route114_Text_1BC8D8:: @ 81BC8D8
-	.string "IVY: Wer hat dir das alles über POKéMON\n"
+	.string "IVY: Wer hat dir das alles über Pokémon\n"
 	.string "beigebracht?$"
 
 Route114_Text_1BC8FB:: @ 81BC8FB
 	.string "IVY: Was für ein unglaublicher Kampfstil!$"
 
 Route114_Text_1BC91E:: @ 81BC91E
-	.string "IVY: Ich habe angefangen, POKéMON zu\n"
+	.string "IVY: Ich habe angefangen, Pokémon zu\n"
 	.string "trainieren, weil TYRA, meine Mentorin,\l"
 	.string "es mir beigebracht hat!$"
 
 Route114_Text_1BC96A:: @ 81BC96A
-	.string "IVY: Hast du nur ein POKéMON? Ich\n"
+	.string "IVY: Hast du nur ein Pokémon? Ich\n"
 	.string "glaube, das fühlt sich einsam!$"
 
 Route115_Text_1BC9AC:: @ 81BC9AC
@@ -1510,7 +1510,7 @@ Route115_Text_1BCB2E:: @ 81BCB2E
 
 Route115_Text_1BCB40:: @ 81BCB40
 	.string "Meine MACHOLLO haben gejauchzt!\p"
-	.string "Solange meine POKéMON nach Stärke\n"
+	.string "Solange meine Pokémon nach Stärke\n"
 	.string "suchen, werde auch ich stärker!$"
 
 Route115_Text_1BCB8A:: @ 81BCB8A
@@ -1522,7 +1522,7 @@ Route115_Text_1BCBC1:: @ 81BCBC1
 	.string "Mein Kopf wurde zertrümmert.$"
 
 Route115_Text_1BCBDE:: @ 81BCBDE
-	.string "Ich bringe meinem POKéMON Karate bei.\p"
+	.string "Ich bringe meinem Pokémon Karate bei.\p"
 	.string "Und es sieht so aus, als wäre es darin\n"
 	.string "viel besser als ich. Das freut mich.$"
 
@@ -1536,7 +1536,7 @@ Route115_Text_1BCCA2:: @ 81BCCA2
 	.string "Wir haben schon wieder verloren!$"
 
 Route115_Text_1BCCBA:: @ 81BCCBA
-	.string "Meine POKéMON werden stärker! Ich\n"
+	.string "Meine Pokémon werden stärker! Ich\n"
 	.string "habe mein Trainingspensum verdoppelt.$"
 
 Route115_Text_1BCCF4:: @ 81BCCF4
@@ -1555,36 +1555,36 @@ Route115_Text_1BCDB0:: @ 81BCDB0
 	.string "Okay, lass uns weiter kämpfen.$"
 
 Route115_Text_1BCDD0:: @ 81BCDD0
-	.string "Ich kann kämpfen, aber meine POKéMON...$"
+	.string "Ich kann kämpfen, aber meine Pokémon...$"
 
 Route115_Text_1BCDEF:: @ 81BCDEF
 	.string "Sogar wenn ich verliere, habe ich meine\n"
 	.string "Freude an dem Kampf. Wahrscheinlich\l"
-	.string "weil ich die POKéMON liebe.$"
+	.string "weil ich die Pokémon liebe.$"
 
 UnknownString_81BCE47: @ 81BCE47
-	.string "Ich habe ein seltenes POKéMON.\n"
+	.string "Ich habe ein seltenes Pokémon.\n"
 	.string "Möchtest du das mal sehen?$"
 
 UnknownString_81BCE7D: @ 81BCE7D
 	.string "Du...\n"
-	.string "Du willst mein POKéMON haben, oder?$"
+	.string "Du willst mein Pokémon haben, oder?$"
 
 UnknownString_81BCEA4: @ 81BCEA4
-	.string "Ich habe ein seltenes POKéMON. Das\n"
+	.string "Ich habe ein seltenes Pokémon. Das\n"
 	.string "reicht mir, um zufrieden zu sein.$"
 
 Route115_Text_1BCEE0:: @ 81BCEE0
-	.string "Ich habe ein seltenes POKéMON.\n"
+	.string "Ich habe ein seltenes Pokémon.\n"
 	.string "Willst du das mal sehen?$"
 
 Route115_Text_1BCF16:: @ 81BCF16
-	.string "Du... Du versuchst mir mein POKéMON\n"
+	.string "Du... Du versuchst mir mein Pokémon\n"
 	.string "abspenstig zu machen, oder?$"
 
 Route115_Text_1BCF3D:: @ 81BCF3D
 	.string "Und ich habe immer noch mein seltenes\n"
-	.string "POKéMON, und damit bin ich zufrieden!$"
+	.string "Pokémon, und damit bin ich zufrieden!$"
 
 Route116_Text_1BCF79:: @ 81BCF79
 	.string "Wenn es keinen Tunnel gibt, dann\n"
@@ -1600,7 +1600,7 @@ Route116_Text_1BCFE3:: @ 81BCFE3
 	.string "wie Straßen.$"
 
 Route116_Text_1BD02B:: @ 81BD02B
-	.string "Meine POKéMON sind die Kings.\n"
+	.string "Meine Pokémon sind die Kings.\n"
 	.string "Überzeug dich selbst!$"
 
 Route116_Text_1BD04C:: @ 81BD04C
@@ -1612,7 +1612,7 @@ Route116_Text_1BD078:: @ 81BD078
 	.string "Ich brauche unbedingt einen weiteren!$"
 
 Route116_Text_1BD0AF:: @ 81BD0AF
-	.string "Meine KÄFER-POKéMON sind stark!\n"
+	.string "Meine KÄFER-Pokémon sind stark!\n"
 	.string "Lass uns kämpfen!$"
 
 Route116_Text_1BD0D7:: @ 81BD0D7
@@ -1620,18 +1620,18 @@ Route116_Text_1BD0D7:: @ 81BD0D7
 	.string "ich könnte dich am Kragen packen...$"
 
 Route116_Text_1BD0F4:: @ 81BD0F4
-	.string "KÄFER-POKéMON entwickeln sich schnell.\n"
+	.string "KÄFER-Pokémon entwickeln sich schnell.\n"
 	.string "So werden sie auch schnell stark.$"
 
 Route116_Text_1BD131:: @ 81BD131
 	.string "Ich bringe dir bei, wie stark mein\n"
-	.string "geliebtes POKéMON ist!$"
+	.string "geliebtes Pokémon ist!$"
 
 Route116_Text_1BD165:: @ 81BD165
 	.string "Du bist mir haushoch überlegen...$"
 
 Route116_Text_1BD180:: @ 81BD180
-	.string "POKéMON, die Anmut und Stärke besitzen,\n"
+	.string "Pokémon, die Anmut und Stärke besitzen,\n"
 	.string "sind ideal, finde ich.$"
 
 Route116_Text_1BD1C0:: @ 81BD1C0
@@ -1685,21 +1685,21 @@ Route116_Text_1BD466:: @ 81BD466
 	.string "Dann kann ich dich nicht besiegen. Nee...$"
 
 Route117_Text_1BD49E:: @ 81BD49E
-	.string "Du? Würdest du gegen meine POKéMON\n"
+	.string "Du? Würdest du gegen meine Pokémon\n"
 	.string "kämpfen?$"
 
 Route117_Text_1BD4D9:: @ 81BD4D9
-	.string "Du hast einfach großartige POKéMON...$"
+	.string "Du hast einfach großartige Pokémon...$"
 
 Route117_Text_1BD4F9:: @ 81BD4F9
-	.string "POKéMON sind nicht nur durch Stärke\n"
+	.string "Pokémon sind nicht nur durch Stärke\n"
 	.string "definiert.\p"
-	.string "Jedes POKéMON hat seinen eigenen\n"
+	.string "Jedes Pokémon hat seinen eigenen\n"
 	.string "Charakter. Dadurch wird der Umgang\l"
 	.string "mit ihnen noch viel interessanter.$"
 
 Route117_Text_1BD569:: @ 81BD569
-	.string "Die POKéMON, die ich aufgezogen habe,\n"
+	.string "Die Pokémon, die ich aufgezogen habe,\n"
 	.string "sehen gut aus. Genau wie immer.$"
 
 Route117_Text_1BD5AB:: @ 81BD5AB
@@ -1708,31 +1708,31 @@ Route117_Text_1BD5AB:: @ 81BD5AB
 	.string "PENSION braucht.$"
 
 Route117_Text_1BD5F2:: @ 81BD5F2
-	.string "Deine POKéMON entwickeln sich gut.\n"
+	.string "Deine Pokémon entwickeln sich gut.\n"
 	.string "Du solltest sie zu einem WETTBEWERB\l"
 	.string "anmelden!$"
 
 Route117_Text_1BD634:: @ 81BD634
 	.string "Bitte lass mich überprüfen, ob du deine\n"
-	.string "POKéMON auch richtig aufgezogen hast.$"
+	.string "Pokémon auch richtig aufgezogen hast.$"
 
 Route117_Text_1BD67B:: @ 81BD67B
 	.string "Ja, sie sehen sehr gut aus...$"
 
 Route117_Text_1BD69B:: @ 81BD69B
-	.string "Wenn du deinen POKéMON {POKEBLOCK}\n"
+	.string "Wenn du deinen Pokémon {POKEBLOCK}\n"
 	.string "gibst, entwickeln sich ihre individuellen\l"
 	.string "Charaktereigenschaften.$"
 
 Route117_Text_1BD6F2:: @ 81BD6F2
 	.string "Erlaube mir, noch einmal zu prüfen, ob\n"
-	.string "du deine POKéMON richtig aufziehst.$"
+	.string "du deine Pokémon richtig aufziehst.$"
 
 Route117_Text_1BD733:: @ 81BD733
 	.string "Sie wurden sehr, sehr gut aufgezogen...$"
 
 Route117_Text_1BD74F:: @ 81BD74F
-	.string "POKéMON mögen, abhängig von ihrem\n"
+	.string "Pokémon mögen, abhängig von ihrem\n"
 	.string "Wesen, die unterschiedlichsten {POKEBLOCK}.$"
 
 Route117_Text_1BD79A:: @ 81BD79A
@@ -1759,10 +1759,10 @@ Route117_Text_1BD8A2:: @ 81BD8A2
 Route117_Text_1BD8BD:: @ 81BD8BD
 	.string "Im Schwimmen und im Radfahren bin ich\n"
 	.string "unschlagbar, aber meine Leistungen in\l"
-	.string "POKéMON-Kämpfen sind unbefriedigend.$"
+	.string "Pokémon-Kämpfen sind unbefriedigend.$"
 
 Route117_Text_1BD914:: @ 81BD914
-	.string "Ich trainiere mit meinem POKéMON und\n"
+	.string "Ich trainiere mit meinem Pokémon und\n"
 	.string "bin mit meinen Fähigkeiten echt\l"
 	.string "zufrieden.$"
 
@@ -1791,7 +1791,7 @@ Route117_Text_1BDA6B:: @ 81BDA6B
 Route117_Text_1BDAA7:: @ 81BDAA7
 	.string "Einst war ich KÄFERSAMMLER.\n"
 	.string "Heute bin ich ein KÄFERFREAK!\p"
-	.string "Aber meine Liebe zu POKéMON hat sich\n"
+	.string "Aber meine Liebe zu Pokémon hat sich\n"
 	.string "nicht verändert!$"
 
 Route117_Text_1BDAFC:: @ 81BDAFC
@@ -1803,7 +1803,7 @@ Route117_Text_1BDB24:: @ 81BDB24
 	.string "Herzen zu folgen, und nun nennen sie\l"
 	.string "mich den KÄFERFREAK...\p"
 	.string "Aber ich bin ein Experte für KÄFER-\n"
-	.string "POKéMON, daher ist es nur natürlich,\l"
+	.string "Pokémon, daher ist es nur natürlich,\l"
 	.string "dass sie mich KÄFERFREAK nennen.$"
 
 Route117_Text_1BDBC3:: @ 81BDBC3
@@ -1816,14 +1816,14 @@ Route117_Text_1BDC07:: @ 81BDC07
 	.string "gerne gewinnen!$"
 
 Route117_Text_1BDC44:: @ 81BDC44
-	.string "IRM: Deine POKéMON haben einige gute\n"
+	.string "IRM: Deine Pokémon haben einige gute\n"
 	.string "Kombinationen auf Lager.\p"
 	.string "Trotzdem bist du uns gegenüber nur\n"
 	.string "zweite Klasse.$"
 
 Route117_Text_1BDC96:: @ 81BDC96
 	.string "IRM: Wenn du gegen uns antreten willst,\n"
-	.string "bring zwei POKéMON mit.$"
+	.string "bring zwei Pokémon mit.$"
 
 Route117_Text_1BDCD2:: @ 81BDCD2
 	.string "IDA: Ich werde mich mit meiner Super-\n"
@@ -1838,7 +1838,7 @@ Route117_Text_1BDD4E:: @ 81BDD4E
 	.string "gebracht. Ohne mich hätte sie gewonnen!$"
 
 Route117_Text_1BDD8B:: @ 81BDD8B
-	.string "IDA: Hast du nur ein POKéMON?\n"
+	.string "IDA: Hast du nur ein Pokémon?\n"
 	.string "Dann können wir nicht mit dir kämpfen.\p"
 	.string "Wir wollen einen 2-gegen-2-Kampf.$"
 
@@ -1850,14 +1850,14 @@ Route117_Text_1BDE2F:: @ 81BDE2F
 	.string "IRM: Ich komme einfach nicht in Fahrt.$"
 
 Route117_Text_1BDE55:: @ 81BDE55
-	.string "IRM: Deine POKéMON haben einige gute\n"
+	.string "IRM: Deine Pokémon haben einige gute\n"
 	.string "Kombinationen auf Lager.\p"
 	.string "Trotzdem bist du uns gegenüber nur\n"
 	.string "zweite Klasse.$"
 
 Route117_Text_1BDEA7:: @ 81BDEA7
 	.string "IRM: Wenn du gegen uns antreten willst,\n"
-	.string "brauchst du zwei POKéMON.$"
+	.string "brauchst du zwei Pokémon.$"
 
 Route117_Text_1BDEE3:: @ 81BDEE3
 	.string "IDA: Ich werde mich mit meiner\n"
@@ -1872,7 +1872,7 @@ Route117_Text_1BDF37:: @ 81BDF37
 	.string "Das ist so entmutigend...$"
 
 Route117_Text_1BDF90:: @ 81BDF90
-	.string "IDA: Besitzt du nur ein POKéMON?\n"
+	.string "IDA: Besitzt du nur ein Pokémon?\n"
 	.string "Dann können wir nicht kämpfen.\p"
 	.string "Wir wollen einen 2-gegen-2-Kampf.$"
 
@@ -1885,7 +1885,7 @@ Route118_Text_1BE03C:: @ 81BE03C
 	.string "Scheinbar habe ich verloren.$"
 
 Route118_Text_1BE05E:: @ 81BE05E
-	.string "Blumen, POKéMON...\n"
+	.string "Blumen, Pokémon...\n"
 	.string "Ich liebe alles, was gut riecht.\p"
 	.string "Stinkende Dinge...\n"
 	.string "Bah, da muss ich passen.$"
@@ -1900,23 +1900,23 @@ Route118_Text_1BE0D3:: @ 81BE0D3
 
 Route118_Text_1BE104:: @ 81BE104
 	.string "Wenn du einen süßen Duft richtig ein-\n"
-	.string "setzt, werden POKéMON davon\l"
+	.string "setzt, werden Pokémon davon\l"
 	.string "angezogen.$"
 
 Route118_Text_1BE148:: @ 81BE148
-	.string "VOGEL-POKéMON, die elegant durch die\n"
+	.string "VOGEL-Pokémon, die elegant durch die\n"
 	.string "Lüfte FLIEGEN... Sie sind die Besten!$"
 
 Route118_Text_1BE188:: @ 81BE188
 	.string "Argh... Das war eine Bruchlandung...$"
 
 Route118_Text_1BE19D:: @ 81BE19D
-	.string "Du hast großartige POKéMON.\n"
+	.string "Du hast großartige Pokémon.\n"
 	.string "Ich muss meines besser trainieren.$"
 
 Route118_Text_1BE1D7:: @ 81BE1D7
 	.string "Erhebt euch!\n"
-	.string "Meine VOGEL-POKéMON!$"
+	.string "Meine VOGEL-Pokémon!$"
 
 Route118_Text_1BE1F5:: @ 81BE1F5
 	.string "Sie sind abgehoben...$"
@@ -1927,7 +1927,7 @@ Route118_Text_1BE20D:: @ 81BE20D
 
 Route118_Text_1BE24A:: @ 81BE24A
 	.string "Ich bin ein ANGLER, aber auch ein\n"
-	.string "TRAINER. Ich ziehe die POKéMON auf,\l"
+	.string "TRAINER. Ich ziehe die Pokémon auf,\l"
 	.string "die ich gefangen habe.$"
 
 Route118_Text_1BE291:: @ 81BE291
@@ -1935,14 +1935,14 @@ Route118_Text_1BE291:: @ 81BE291
 
 Route118_Text_1BE2BE:: @ 81BE2BE
 	.string "Ich kann nicht gewinnen, wenn ich\n"
-	.string "POKéMON trainiere, während ich angle.\p"
+	.string "Pokémon trainiere, während ich angle.\p"
 	.string "Habe ich alles nur halb getan?$"
 
 Route118_Text_1BE318:: @ 81BE318
 	.string "Für ANGLER ist die Ausrüstung\n"
 	.string "entscheidend.\p"
 	.string "Aber für TRAINER sind natürlich die\n"
-	.string "POKéMON und das Herz entscheidend!$"
+	.string "Pokémon und das Herz entscheidend!$"
 
 Route118_Text_1BE385:: @ 81BE385
 	.string "Ich wurde im Herzen geschlagen?$"
@@ -1950,7 +1950,7 @@ Route118_Text_1BE385:: @ 81BE385
 Route118_Text_1BE39C:: @ 81BE39C
 	.string "Wenn ich so darüber nachdenke, komme\n"
 	.string "ich zu dem Schluss, dass Angeln ein\l"
-	.string "Kampf zwischen ANGLER und POKéMON ist.$"
+	.string "Kampf zwischen ANGLER und Pokémon ist.$"
 
 Route118_Text_1BE3E8:: @ 81BE3E8
 	.string "Meine Melodie wird deine Seele\n"
@@ -1966,7 +1966,7 @@ Route118_Text_1BE413:: @ 81BE413
 	.string "eine herzergreifende Melodie erklingt...$"
 
 Route118_Text_1BE489:: @ 81BE489
-	.string "Eine Melodie von meinen POKéMON und mir.\n"
+	.string "Eine Melodie von meinen Pokémon und mir.\n"
 	.string "Lass sie uns deiner Seele schenken.$"
 
 Route118_Text_1BE4CC:: @ 81BE4CC
@@ -1990,7 +1990,7 @@ Route119_Text_1BE561:: @ 81BE561
 	.string "Das wirst du nie verstehen...$"
 
 Route119_Text_1BE5A4:: @ 81BE5A4
-	.string "So trifft man sich! Meine KÄFER-POKéMON\n"
+	.string "So trifft man sich! Meine KÄFER-Pokémon\n"
 	.string "leisten dir Gesellschaft!$"
 
 Route119_Text_1BE5DF:: @ 81BE5DF
@@ -2056,11 +2056,11 @@ Route119_Text_1BE89A:: @ 81BE89A
 Route119_Text_1BE8BB:: @ 81BE8BB
 	.string "Wer besitzt das Wissen und die Technik,\n"
 	.string "um zu überleben?\p"
-	.string "Das sind die POKéMON-RANGER!$"
+	.string "Das sind die Pokémon-RANGER!$"
 
 Route119_Text_1BE90E:: @ 81BE90E
 	.string "Ich besitze nicht genügend Wissen über\n"
-	.string "POKéMON...$"
+	.string "Pokémon...$"
 
 Route119_Text_1BE937:: @ 81BE937
 	.string "Aus der Zivilisation ausbrechen und die\n"
@@ -2069,13 +2069,13 @@ Route119_Text_1BE937:: @ 81BE937
 
 Route119_Text_1BE98D:: @ 81BE98D
 	.string "Meine wilde Natur regt sich in mir, wenn\n"
-	.string "ich mit POKéMON zusammen bin.$"
+	.string "ich mit Pokémon zusammen bin.$"
 
 Route119_Text_1BE9D0:: @ 81BE9D0
 	.string "Du bist immer noch sehr stark!$"
 
 Route119_Text_1BE9E8:: @ 81BE9E8
-	.string "Glaube an deine POKéMON.\n"
+	.string "Glaube an deine Pokémon.\n"
 	.string "Glaube an dich.\p"
 	.string "Dein Weg eröffnet sich von selbst.$"
 
@@ -2096,14 +2096,14 @@ Route119_Text_1BEAB3:: @ 81BEAB3
 
 Route119_Text_1BEB22:: @ 81BEB22
 	.string "Wie läuft es auf deiner Reise mit den\n"
-	.string "POKéMON?$"
+	.string "Pokémon?$"
 
 Route119_Text_1BEB49:: @ 81BEB49
 	.string "Bei mir fehlt irgendetwas...$"
 
 Route119_Text_1BEB68:: @ 81BEB68
-	.string "So wie du als TRAINER deinen POKéMON\n"
-	.string "vertraust, vertrauen dir deine POKéMON.$"
+	.string "So wie du als TRAINER deinen Pokémon\n"
+	.string "vertraust, vertrauen dir deine Pokémon.$"
 
 Route119_Text_1BEBC0:: @ 81BEBC0
 	.string "Die Weiten des Himmels strahlen die Aura\n"
@@ -2115,19 +2115,19 @@ Route119_Text_1BEC1C:: @ 81BEC1C
 	.string "Abgewürgt und abgestürzt.$"
 
 Route119_Text_1BEC2A:: @ 81BEC2A
-	.string "Meine VOGEL-POKéMON lassen den Traum\n"
+	.string "Meine VOGEL-Pokémon lassen den Traum\n"
 	.string "vom Fliegen für mich wahr werden!$"
 
 Route119_Text_1BEC5E:: @ 81BEC5E
 	.string "Ich zeige dir meine wahre Stärke und\n"
-	.string "die meiner VOGEL-POKéMON!$"
+	.string "die meiner VOGEL-Pokémon!$"
 
 Route119_Text_1BEC9A:: @ 81BEC9A
 	.string "Uns fehlt es an Potential...$"
 
 Route119_Text_1BECB1:: @ 81BECB1
 	.string "Schon als kleines Kind habe ich VOGEL-\n"
-	.string "POKéMON geliebt...$"
+	.string "Pokémon geliebt...$"
 
 Route119_Text_1BECF1:: @ 81BECF1
 	.string "Ich lauere in den Schatten und lebe in\n"
@@ -2163,15 +2163,15 @@ Route119_Text_1BEE4B:: @ 81BEE4B
 
 Route119_Text_1BEE66:: @ 81BEE66
 	.string "Um einen Baum zu verstecken, nutze den\n"
-	.string "Wald. Um ein POKéMON zu verstecken,\l"
-	.string "nutze ein POKéMON!\p"
+	.string "Wald. Um ein Pokémon zu verstecken,\l"
+	.string "nutze ein Pokémon!\p"
 	.string "Dahinter steckt keine tiefere\n"
 	.string "Bedeutung.$"
 
 Route119_Text_1BEED0:: @ 81BEED0
 	.string "Du hast mich angesprochen...\n"
 	.string "Also willst du mit mir kämpfen!\p"
-	.string "Sicher! Ich will das POKéMON einsetzen,\n"
+	.string "Sicher! Ich will das Pokémon einsetzen,\n"
 	.string "das ich gefangen habe, als ich SURFER\l"
 	.string "einsetzte.$"
 
@@ -2180,13 +2180,13 @@ Route119_Text_1BEF37:: @ 81BEF37
 	.string "wird, um zu gewinnen.$"
 
 Route119_Text_1BEF67:: @ 81BEF67
-	.string "Nutze ein POKéMON als SURFER...\p"
+	.string "Nutze ein Pokémon als SURFER...\p"
 	.string "Dann angle von seinem Rücken aus...\p"
 	.string "Ein äußerst angenehmer Zeitvertreib!$"
 
 Route120_Text_1BEFC8:: @ 81BEFC8
 	.string "Hast du Attacken auf Lager, die ein\n"
-	.string "fliegendes POKéMON schlagen können?$"
+	.string "fliegendes Pokémon schlagen können?$"
 
 Route120_Text_1BF000:: @ 81BF000
 	.string "Du bist mir überlegen!$"
@@ -2194,41 +2194,41 @@ Route120_Text_1BF000:: @ 81BF000
 Route120_Text_1BF015:: @ 81BF015
 	.string "Die Attacke FLIEGEN ist sehr praktisch,\n"
 	.string "meinst du nicht auch?\p"
-	.string "Wenn ein POKéMON fliegt, kann ihm fast\n"
+	.string "Wenn ein Pokémon fliegt, kann ihm fast\n"
 	.string "keine Attacke Schaden zufügen.$"
 
 Route120_Text_1BF07E:: @ 81BF07E
-	.string "Mein POKéMON ist stark!\n"
+	.string "Mein Pokémon ist stark!\n"
 	.string "Wie sieht es mit deinen aus?$"
 
 Route120_Text_1BF0A5:: @ 81BF0A5
-	.string "Deine POKéMON sind stärker...$"
+	.string "Deine Pokémon sind stärker...$"
 
 Route120_Text_1BF0C3:: @ 81BF0C3
-	.string "Ein POKéMON, das beständig wächst, ist\n"
+	.string "Ein Pokémon, das beständig wächst, ist\n"
 	.string "absolut zuverlässig...$"
 
 Route120_Text_1BF0FA:: @ 81BF0FA
-	.string "Ein POKéMON, das beständig wächst, ist\n"
+	.string "Ein Pokémon, das beständig wächst, ist\n"
 	.string "absolut zuverlässig...$"
 
 Route120_Text_1BF131:: @ 81BF131
-	.string "Deine POKéMON sind enorm stark.$"
+	.string "Deine Pokémon sind enorm stark.$"
 
 Route120_Text_1BF154:: @ 81BF154
-	.string "Meine POKéMON werden immer stärker.\n"
+	.string "Meine Pokémon werden immer stärker.\n"
 	.string "Ich muss auch immer stärker werden.$"
 
 Route120_Text_1BF193:: @ 81BF193
-	.string "Ich prüfe deine POKéMON und schaue, ob\n"
+	.string "Ich prüfe deine Pokémon und schaue, ob\n"
 	.string "sie fit für das Leben im Freien sind.$"
 
 Route120_Text_1BF1D4:: @ 81BF1D4
-	.string "Mit solch starken POKéMON brauchst du\n"
+	.string "Mit solch starken Pokémon brauchst du\n"
 	.string "in der Natur keine Angst zu haben.$"
 
 Route120_Text_1BF215:: @ 81BF215
-	.string "Mit POKéMON dorthin zu reisen, wohin\n"
+	.string "Mit Pokémon dorthin zu reisen, wohin\n"
 	.string "man auch immer will... Das ist das\l"
 	.string "Schöne an einem Leben als TRAINER.$"
 
@@ -2242,7 +2242,7 @@ Route120_Text_1BF2D2:: @ 81BF2D2
 
 Route120_Text_1BF2EA:: @ 81BF2EA
 	.string "Fitnesstraining gehört zu meinem\n"
-	.string "Leben. Ich laufe mit meinen POKéMON.$"
+	.string "Leben. Ich laufe mit meinen Pokémon.$"
 
 Route120_Text_1BF32B:: @ 81BF32B
 	.string "... ... ... ... ... ...\n"
@@ -2271,10 +2271,10 @@ Route120_Text_1BF43E:: @ 81BF43E
 	.string "... ... ... ... ... ...\n"
 	.string "... ... ... ... ... ...\l"
 	.string "Ich werde mich mehr anstrengen...\l"
-	.string "Für meine kostbaren KÄFER-POKéMON...$"
+	.string "Für meine kostbaren KÄFER-Pokémon...$"
 
 Route120_Text_1BF4A0:: @ 81BF4A0
-	.string "POKéMON haben viele spezielle Fähig-\n"
+	.string "Pokémon haben viele spezielle Fähig-\n"
 	.string "keiten. Wenn du ein klasse TRAINER\l"
 	.string "werden willst, lerne etwas darüber.$"
 
@@ -2283,7 +2283,7 @@ Route120_Text_1BF504:: @ 81BF504
 
 Route120_Text_1BF51F:: @ 81BF51F
 	.string "Die speziellen Fähigkeiten eines\n"
-	.string "POKéMON bestimmen den Kampfstil.$"
+	.string "Pokémon bestimmen den Kampfstil.$"
 
 Route120_Text_1BF560:: @ 81BF560
 	.string "Wer magst du sein?\p"
@@ -2306,15 +2306,15 @@ Route120_Text_1BF65B:: @ 81BF65B
 
 Route120_Text_1BF6A4:: @ 81BF6A4
 	.string "Ein Schirm kann nicht vor den Attacken\n"
-	.string "der POKéMON schützen...$"
+	.string "der Pokémon schützen...$"
 
 Route120_Text_1BF6D0:: @ 81BF6D0
 	.string "Ich glaube nicht, dass starkes Sonnen-\n"
-	.string "licht gut für meine POKéMON ist.\l"
+	.string "licht gut für meine Pokémon ist.\l"
 	.string "Daher schütze ich sie mit meinem Schirm.$"
 
 Route120_Text_1BF728:: @ 81BF728
-	.string "Mein Schirm, mein POKéMON und ich...\p"
+	.string "Mein Schirm, mein Pokémon und ich...\p"
 	.string "Würde eines dieser Elemente fehlen,\n"
 	.string "wäre dieses Bild der Schönheit ruiniert.$"
 
@@ -2327,7 +2327,7 @@ Route120_Text_1BF7B2:: @ 81BF7B2
 	.string "Er wäre dir sogar hinderlich.$"
 
 Route120_Text_1BF80B:: @ 81BF80B
-	.string "Ich werde die Techniken der POKéMON\n"
+	.string "Ich werde die Techniken der Pokémon\n"
 	.string "übernehmen und neue Ninja-Techniken\l"
 	.string "daraus entwickeln.$"
 
@@ -2354,7 +2354,7 @@ Route120_Text_1BF946:: @ 81BF946
 
 Route121_Text_1BF96E:: @ 81BF96E
 	.string "Möchtest du mit meinem wunderhübschen\n"
-	.string "POKéMON spielen?$"
+	.string "Pokémon spielen?$"
 
 Route121_Text_1BF9A1:: @ 81BF9A1
 	.string "So habe ich das aber nicht gemeint!$"
@@ -2362,11 +2362,11 @@ Route121_Text_1BF9A1:: @ 81BF9A1
 Route121_Text_1BF9BA:: @ 81BF9BA
 	.string "Ich gehe zu einem WETTBEWERB in\n"
 	.string "SEEGRASULB CITY.\p"
-	.string "Mein POKéMON sollte kein Problem haben,\n"
+	.string "Mein Pokémon sollte kein Problem haben,\n"
 	.string "in der MASTER-KLASSE zu glänzen.$"
 
 Route121_Text_1BFA1B:: @ 81BFA1B
-	.string "Mit meinem POKéMON habe ich alle vier\n"
+	.string "Mit meinem Pokémon habe ich alle vier\n"
 	.string "Ecken der Welt bereist.\p"
 	.string "Man könnte sagen, dass ich viel\n"
 	.string "Vertrauen in mein Können habe.$"
@@ -2376,10 +2376,10 @@ Route121_Text_1BFA8C:: @ 81BFA8C
 
 Route121_Text_1BFA9D:: @ 81BFA9D
 	.string "Ich möchte noch einmal die Welt mit\n"
-	.string "meinem POKéMON umrunden.$"
+	.string "meinem Pokémon umrunden.$"
 
 Route121_Text_1BFADA:: @ 81BFADA
-	.string "Mit meinem POKéMON habe ich erneut die\n"
+	.string "Mit meinem Pokémon habe ich erneut die\n"
 	.string "vier Ecken der Welt bereist.\p"
 	.string "Ich habe noch größeres Vertrauen in\n"
 	.string "meine Fähigkeiten.$"
@@ -2388,7 +2388,7 @@ Route121_Text_1BFB4B:: @ 81BFB4B
 	.string "Ah, gut gespielt.$"
 
 Route121_Text_1BFB5C:: @ 81BFB5C
-	.string "Deine POKéMON und du...\p"
+	.string "Deine Pokémon und du...\p"
 	.string "Eure Fähigkeiten werden auch in\n"
 	.string "Übersee als außerordentlich angesehen.$"
 
@@ -2418,7 +2418,7 @@ Route121_Text_1BFCB3:: @ 81BFCB3
 	.string "immer cool aufzutreten...$"
 
 Route121_Text_1BFD08:: @ 81BFD08
-	.string "EVA: Wenn du nur ein POKéMON hast,\n"
+	.string "EVA: Wenn du nur ein Pokémon hast,\n"
 	.string "können wir nicht mit dir kämpfen.\p"
 	.string "Das wäre äußerst unfair.$"
 
@@ -2435,11 +2435,11 @@ Route121_Text_1BFDC1:: @ 81BFDC1
 
 Route121_Text_1BFE0D:: @ 81BFE0D
 	.string "UTE: Du brauchst mindestens zwei\n"
-	.string "POKéMON, um gegen uns zu kämpfen.$"
+	.string "Pokémon, um gegen uns zu kämpfen.$"
 
 Route121_Text_1BFE51:: @ 81BFE51
 	.string "Stopp! Schau dir meine wunderbaren\n"
-	.string "POKéMON gut an!$"
+	.string "Pokémon gut an!$"
 
 Route121_Text_1BFE80:: @ 81BFE80
 	.string "Oh, wie konntest du nur! Nimm die\n"
@@ -2447,10 +2447,10 @@ Route121_Text_1BFE80:: @ 81BFE80
 
 Route121_Text_1BFEAE:: @ 81BFEAE
 	.string "Vielleicht werde ich in die SAFARI-ZONE\n"
-	.string "gehen und mehr POKéMON fangen!$"
+	.string "gehen und mehr Pokémon fangen!$"
 
 Route121_Text_1BFEDE:: @ 81BFEDE
-	.string "Meine wertvollen POKéMON sind ge-\n"
+	.string "Meine wertvollen Pokémon sind ge-\n"
 	.string "wachsen! Schau mal!$"
 
 Route121_Text_1BFF0A:: @ 81BFF0A
@@ -2459,7 +2459,7 @@ Route121_Text_1BFF0A:: @ 81BFF0A
 
 Route121_Text_1BFF3A:: @ 81BFF3A
 	.string "Ich werde wohl wieder in die SAFARI-\n"
-	.string "ZONE gehen und POKéMON fangen.$"
+	.string "ZONE gehen und Pokémon fangen.$"
 
 Route123_Text_1BFF6A:: @ 81BFF6A
 	.string "Möchtest du wissen, wie stark du bist?\n"
@@ -2523,7 +2523,7 @@ Route123_Text_1C024E:: @ 81C024E
 
 Route123_Text_1C028C:: @ 81C028C
 	.string "Sei nicht zu erfreut, wenn deine\n"
-	.string "POKéMON Psychokräfte entwickeln.\p"
+	.string "Pokémon Psychokräfte entwickeln.\p"
 	.string "Du musst diese Kräfte modellieren,\n"
 	.string "um sie sinnvoll einsetzen zu können.$"
 
@@ -2542,28 +2542,28 @@ Route123_Text_1C0380:: @ 81C0380
 	.string "Erstaunlich!$"
 
 Route123_Text_1C038C:: @ 81C038C
-	.string "Dein Einfluss auf deine POKéMON...\n"
+	.string "Dein Einfluss auf deine Pokémon...\n"
 	.string "Auch das sind Psychokräfte.$"
 
 Route123_Text_1C03CB:: @ 81C03CB
 	.string "LEA: Hallo, TRAINER. Ich hoffe, deine\n"
-	.string "POKéMON fangen nicht an zu weinen,\l"
+	.string "Pokémon fangen nicht an zu weinen,\l"
 	.string "wenn sie verlieren.$"
 
 Route123_Text_1C040E:: @ 81C040E
 	.string "LEA: Oh oh, wir haben verloren.$"
 
 Route123_Text_1C0423:: @ 81C0423
-	.string "LEA: TRAINER, deine POKéMON sind stark,\n"
+	.string "LEA: TRAINER, deine Pokémon sind stark,\n"
 	.string "weil ihr eine starke Freundschaft teilt.$"
 
 Route123_Text_1C0462:: @ 81C0462
 	.string "LEA: Es macht keinen Spaß, wenn du\n"
-	.string "weniger als zwei POKéMON hast.$"
+	.string "weniger als zwei Pokémon hast.$"
 
 Route123_Text_1C049C:: @ 81C049C
 	.string "GRIT: Okay!\n"
-	.string "Wir schlagen die POKéMON des TRAINERS.$"
+	.string "Wir schlagen die Pokémon des TRAINERS.$"
 
 Route123_Text_1C04CD:: @ 81C04CD
 	.string "GRIT: Oh oh. Wir haben verloren...$"
@@ -2574,26 +2574,26 @@ Route123_Text_1C04E3:: @ 81C04E3
 
 Route123_Text_1C0519:: @ 81C0519
 	.string "GRIT: Es macht keinen Spaß, wenn du\n"
-	.string "weniger als zwei POKéMON hast.$"
+	.string "weniger als zwei Pokémon hast.$"
 
 Route123_Text_1C0554:: @ 81C0554
 	.string "PYROBERG...\n"
-	.string "Wo die Geister der POKéMON ruhen...\l"
-	.string "Ruhen deine POKéMON auch?$"
+	.string "Wo die Geister der Pokémon ruhen...\l"
+	.string "Ruhen deine Pokémon auch?$"
 
 Route123_Text_1C059F:: @ 81C059F
 	.string "Überschäumend mit Leben...$"
 
 Route123_Text_1C05BC:: @ 81C05BC
 	.string "PYROBERG...\n"
-	.string "Wo die Geister der POKéMON ruhen...\p"
+	.string "Wo die Geister der Pokémon ruhen...\p"
 	.string "Dort muss es eine Kraft geben, die die\n"
 	.string "Geister beruhigt...$"
 
 Route124_Text_1C0624:: @ 81C0624
 	.string "Hey, hast du etwa auf dem Meer die\n"
 	.string "Orientierung verloren?\p"
-	.string "Wenn du meine POKéMON besiegst, zeige\n"
+	.string "Wenn du meine Pokémon besiegst, zeige\n"
 	.string "ich dir den richtigen Weg.$"
 
 Route124_Text_1C0675:: @ 81C0675
@@ -2606,7 +2606,7 @@ Route124_Text_1C0693:: @ 81C0693
 	.string "die KARTE des POKéNAV zu Hilfe nehmen.$"
 
 Route124_Text_1C06F7:: @ 81C06F7
-	.string "Hm! Du sitzt auf einem POKéMON anstatt\n"
+	.string "Hm! Du sitzt auf einem Pokémon anstatt\n"
 	.string "selbst zu schwimmen...\p"
 	.string "Ich bin richtig neidisch!$"
 
@@ -2618,11 +2618,11 @@ Route124_Text_1C0750:: @ 81C0750
 	.string "Langsam bekomme ich eine Gänsehaut.\n"
 	.string "Ich bin schon zu lange im Wasser.\p"
 	.string "Ich wollte, ich könnte auf einem\n"
-	.string "POKéMON reiten. So wie du!$"
+	.string "Pokémon reiten. So wie du!$"
 
 Route124_Text_1C07B4:: @ 81C07B4
 	.string "Wenn du dich einfach nur im Meer treiben\n"
-	.string "lässt, kommen POKéMON, um zu spielen.$"
+	.string "lässt, kommen Pokémon, um zu spielen.$"
 
 Route124_Text_1C07F9:: @ 81C07F9
 	.string "Oh.\n"
@@ -2630,9 +2630,9 @@ Route124_Text_1C07F9:: @ 81C07F9
 
 Route124_Text_1C080E:: @ 81C080E
 	.string "Ich habe beim Schwimmen festgestellt,\n"
-	.string "dass einige POKéMON angreifen und\l"
+	.string "dass einige Pokémon angreifen und\l"
 	.string "manche einen nur beobachten.\p"
-	.string "Ich glaube, POKéMON haben unter-\n"
+	.string "Ich glaube, Pokémon haben unter-\n"
 	.string "schiedliche Persönlichkeiten.$"
 
 Route124_Text_1C0888:: @ 81C0888
@@ -2693,7 +2693,7 @@ Route124_Text_1C0B72:: @ 81C0B72
 
 Route124_Text_1C0BC8:: @ 81C0BC8
 	.string "UTA: Du willst gegen uns antreten?\n"
-	.string "Dann brauchst du aber mehr POKéMON.$"
+	.string "Dann brauchst du aber mehr Pokémon.$"
 
 Route124_Text_1C0C0E:: @ 81C0C0E
 	.string "TOM: Meine Schwester ist stark!\p"
@@ -2710,7 +2710,7 @@ Route124_Text_1C0C7F:: @ 81C0C7F
 
 Route124_Text_1C0CE0:: @ 81C0CE0
 	.string "TOM: Willst du gegen uns antreten?\n"
-	.string "Dann bring mehr POKéMON mit.$"
+	.string "Dann bring mehr Pokémon mit.$"
 
 Route124_Text_1C0D1F:: @ 81C0D1F
 	.string "UTA: Megaseufz... Ich bin hier mitten\n"
@@ -2733,7 +2733,7 @@ Route124_Text_1C0E06:: @ 81C0E06
 
 Route124_Text_1C0E5C:: @ 81C0E5C
 	.string "UTA: Du willst gegen uns antreten?\n"
-	.string "Dann bring mehr POKéMON mit.$"
+	.string "Dann bring mehr Pokémon mit.$"
 
 Route124_Text_1C0EA2:: @ 81C0EA2
 	.string "TOM: Wenn wir verlieren, stecke ich tief\n"
@@ -2747,11 +2747,11 @@ Route124_Text_1C0F19:: @ 81C0F19
 	.string "TOM: Meine Schwester ist bizarr und\n"
 	.string "Furcht erregend, wenn sie wütend ist.\p"
 	.string "Sie wird mich später hart mit den\n"
-	.string "POKéMON trainieren lassen...$"
+	.string "Pokémon trainieren lassen...$"
 
 Route124_Text_1C0F90:: @ 81C0F90
 	.string "TOM: Willst du gegen uns antreten?\n"
-	.string "Dann bring mehr POKéMON mit.$"
+	.string "Dann bring mehr Pokémon mit.$"
 
 Route125_Text_1C0FCF:: @ 81C0FCF
 	.string "Ich habe dich kommen hören und\n"
@@ -2766,7 +2766,7 @@ Route125_Text_1C1013:: @ 81C1013
 
 Route125_Text_1C104B:: @ 81C104B
 	.string "Hey, du!\n"
-	.string "Schau dir mein süßes POKéMON an!$"
+	.string "Schau dir mein süßes Pokémon an!$"
 
 Route125_Text_1C1073:: @ 81C1073
 	.string "Da habe ich aber rumgewurstelt...$"
@@ -2788,7 +2788,7 @@ Route125_Text_1C110C:: @ 81C110C
 
 Route125_Text_1C1136:: @ 81C1136
 	.string "Wie willst du gegen meine WASSER-\n"
-	.string "POKéMON ankommen?$"
+	.string "Pokémon ankommen?$"
 
 Route125_Text_1C1175:: @ 81C1175
 	.string "Ich habe verloren...$"
@@ -2842,7 +2842,7 @@ Route125_Text_1C141C:: @ 81C141C
 
 Route125_Text_1C146E:: @ 81C146E
 	.string "ZOE: Nein, nein, nein! Du brauchst zwei\n"
-	.string "POKéMON oder es funktioniert nicht!$"
+	.string "Pokémon oder es funktioniert nicht!$"
 
 Route125_Text_1C14AB:: @ 81C14AB
 	.string "IRIS: ZOE, kannst du mir verraten, was\n"
@@ -2903,7 +2903,7 @@ Route126_Text_1C1766:: @ 81C1766
 
 Route126_Text_1C1773:: @ 81C1773
 	.string "Ich liebe es, einfach so mit meinen \n"
-	.string "POKéMON im Meer abzuhängen!$"
+	.string "Pokémon im Meer abzuhängen!$"
 
 Route127_Text_1C17A8:: @ 81C17A8
 	.string "Ich sehe es dir an. Du willst mich\n"
@@ -2942,19 +2942,19 @@ Route127_Text_1C195D:: @ 81C195D
 
 Route127_Text_1C19A3:: @ 81C19A3
 	.string "Hups! Jetzt sag nicht, dass ich ein\n"
-	.string "SURFENDES POKéMON am Haken habe?$"
+	.string "SURFENDES Pokémon am Haken habe?$"
 
 Route127_Text_1C19D6:: @ 81C19D6
 	.string "Ich kann so nicht weitermachen!$"
 
 Route127_Text_1C19E7:: @ 81C19E7
-	.string "Deine POKéMON sehen stark aus! Und\n"
+	.string "Deine Pokémon sehen stark aus! Und\n"
 	.string "doch wären sie nur ein Häppchen, wenn\l"
 	.string "ich sie als Köder am Haken hätte.$"
 
 Route127_Text_1C1A2E:: @ 81C1A2E
 	.string "Nun! Das ist ein Kampf zwischen einem\n"
-	.string "POKéMON-Fan und einem Angel-Fan.$"
+	.string "Pokémon-Fan und einem Angel-Fan.$"
 
 Route127_Text_1C1A73:: @ 81C1A73
 	.string "Nein! Meine Schnur hat sich verheddert.\n"
@@ -2978,7 +2978,7 @@ Route127_Text_1C1B39:: @ 81C1B39
 	.string "namens BRUNO in KANTO trainiert haben.$"
 
 Route127_Text_1C1B92:: @ 81C1B92
-	.string "VOGEL-POKéMON haben exzellente Augen.\n"
+	.string "VOGEL-Pokémon haben exzellente Augen.\n"
 	.string "Sie erspähen Beute aus großer Höhe.$"
 
 Route127_Text_1C1BD9:: @ 81C1BD9
@@ -3020,7 +3020,7 @@ Route128_Text_1C1DB0:: @ 81C1DB0
 	.string "drei Disziplinen besteht.$"
 
 Route128_Text_1C1E25:: @ 81C1E25
-	.string "Ein POKéMON-Kampf ist auch mörderisch.$"
+	.string "Ein Pokémon-Kampf ist auch mörderisch.$"
 
 Route128_Text_1C1E4A:: @ 81C1E4A
 	.string "Ich muss als Nächstes mit dem RAD\n"
@@ -3029,11 +3029,11 @@ Route128_Text_1C1E4A:: @ 81C1E4A
 
 Route128_Text_1C1E90:: @ 81C1E90
 	.string "Ein Triathlon ist lang. Aber ich glaube,\n"
-	.string "um POKéMON CHAMP zu werden, hat\l"
+	.string "um Pokémon CHAMP zu werden, hat\l"
 	.string "man auch einen langen Weg vor sich.$"
 
 Route128_Text_1C1EFA:: @ 81C1EFA
-	.string "Ein POKéMON-Kampf ist hart und \n"
+	.string "Ein Pokémon-Kampf ist hart und \n"
 	.string "unbarmherzig...$"
 
 Route128_Text_1C1F2E:: @ 81C1F2E
@@ -3042,7 +3042,7 @@ Route128_Text_1C1F2E:: @ 81C1F2E
 
 Route128_Text_1C1F6D:: @ 81C1F6D
 	.string "Wir haben hart dafür gearbeitet, die\n"
-	.string "POKéMON LIGA herauszufordern...\p"
+	.string "Pokémon LIGA herauszufordern...\p"
 	.string "Wir können es uns nicht erlauben,\n"
 	.string "jetzt zu verlieren!$"
 
@@ -3067,7 +3067,7 @@ Route128_Text_1C2060:: @ 81C2060
 
 Route128_Text_1C2090:: @ 81C2090
 	.string "Ich will nach PRACHTPOLIS CITY, daher\n"
-	.string "habe ich ein POKéMON gefangen, das\p"
+	.string "habe ich ein Pokémon gefangen, das\p"
 	.string "weiß, wie man mit KASKADE den Wasserfall\n"
 	.string "erklimmt.$"
 
@@ -3076,7 +3076,7 @@ Route128_Text_1C20FC:: @ 81C20FC
 
 Route128_Text_1C210D:: @ 81C210D
 	.string "Ooh, jeeeeh!\p"
-	.string "Mein POKéMON kennt KASKADE, aber mir\n"
+	.string "Mein Pokémon kennt KASKADE, aber mir\n"
 	.string "fehlt der ORDEN der ARENA von\l"
 	.string "XENEROVILLE!$"
 
@@ -3151,20 +3151,20 @@ Route130_Text_1C24DC:: @ 81C24DC
 
 Route130_Text_1C2525:: @ 81C2525
 	.string "Wie das weite Meer umspannt auch die \n"
-	.string "Welt der POKéMON Weiten jenseits\l"
+	.string "Welt der Pokémon Weiten jenseits\l"
 	.string "unseres Erfahrungshorizontes.$"
 
 Route130_Text_1C256E:: @ 81C256E
 	.string "Die Kinder dieser Welt träumen davon,\n"
-	.string "eines Tages der POKéMON CHAMP zu\l"
+	.string "eines Tages der Pokémon CHAMP zu\l"
 	.string "werden.$"
 
 Route131_Text_1C25B3:: @ 81C25B3
-	.string "Das Meer wimmelt von POKéMON.\n"
+	.string "Das Meer wimmelt von Pokémon.\n"
 	.string "Es ist nicht leicht, hier zu schwimmen.$"
 
 Route131_Text_1C25F8:: @ 81C25F8
-	.string "POKéMON, die von TRAINERN aufgezogen\n"
+	.string "Pokémon, die von TRAINERN aufgezogen\n"
 	.string "wurden, sind sehr stark...$"
 
 Route131_Text_1C262A:: @ 81C262A
@@ -3222,11 +3222,11 @@ Route131_Text_1C2918:: @ 81C2918
 
 Route131_Text_1C2950:: @ 81C2950
 	.string "UNA: Die Menschen in FLOSSBRUNN\n"
-	.string "leben von Geburt an mit POKéMON\l"
+	.string "leben von Geburt an mit Pokémon\l"
 	.string "und dem Meer zusammen.$"
 
 Route131_Text_1C29B2:: @ 81C29B2
-	.string "UNA: Du hast keine zwei POKéMON?\n"
+	.string "UNA: Du hast keine zwei Pokémon?\n"
 	.string "Dann werden wir keinen Spaß haben!$"
 
 Route131_Text_1C29F3:: @ 81C29F3
@@ -3244,7 +3244,7 @@ Route131_Text_1C2A5D:: @ 81C2A5D
 	.string "von FLOSSBRUNN!$"
 
 Route131_Text_1C2ACA:: @ 81C2ACA
-	.string "TOBI: Wenn du zwei POKéMON mitbringst,\n"
+	.string "TOBI: Wenn du zwei Pokémon mitbringst,\n"
 	.string "werden wir es mit dir aufnehmen!$"
 
 Route132_Text_1C2AFB:: @ 81C2AFB
@@ -3285,7 +3285,7 @@ Route132_Text_1C2C78:: @ 81C2C78
 
 Route132_Text_1C2CD9:: @ 81C2CD9
 	.string "Ich widme mich 24 Stunden am Tag den\n"
-	.string "POKéMON. Ob du mich besiegen kannst?$"
+	.string "Pokémon. Ob du mich besiegen kannst?$"
 
 Route132_Text_1C2D1F:: @ 81C2D1F
 	.string "Ich habe verloren.\n"
@@ -3293,8 +3293,8 @@ Route132_Text_1C2D1F:: @ 81C2D1F
 
 Route132_Text_1C2D3E:: @ 81C2D3E
 	.string "Aargh...\n"
-	.string "Du bist ein POKéMON-Fanatiker, oder?\p"
-	.string "Du widmest dich den POKéMON\n"
+	.string "Du bist ein Pokémon-Fanatiker, oder?\p"
+	.string "Du widmest dich den Pokémon\n"
 	.string "24 Stunden am Tag, oder?$"
 
 Route133_Text_1C2DA5:: @ 81C2DA5
@@ -3335,7 +3335,7 @@ Route133_Text_1C2F25:: @ 81C2F25
 
 Route133_Text_1C2F53:: @ 81C2F53
 	.string "Ich möchte, wie jeder andere auch,\n"
-	.string "gewinnen, aber ich ziehe meine POKéMON\l"
+	.string "gewinnen, aber ich ziehe meine Pokémon\l"
 	.string "nicht auf wie jeder andere auch...$"
 
 Route133_Text_1C2FA3:: @ 81C2FA3
@@ -3348,7 +3348,7 @@ Route133_Text_1C2FC7:: @ 81C2FC7
 	.string "anderen. Das ist doch klar!$"
 
 Route133_Text_1C302D:: @ 81C302D
-	.string "Ich bin mit meinen VOGEL-POKéMON\n"
+	.string "Ich bin mit meinen VOGEL-Pokémon\n"
 	.string "hierher gekommen.$"
 
 Route133_Text_1C305F:: @ 81C305F
@@ -3360,14 +3360,14 @@ Route133_Text_1C307E:: @ 81C307E
 	.string "rückkehren, aber ich mag Orte wie diese.$"
 
 Route134_Text_1C30C6:: @ 81C30C6
-	.string "Selbst POKéMON, die schwimmen können,\n"
+	.string "Selbst Pokémon, die schwimmen können,\n"
 	.string "werden oft von der Strömung erfasst.$"
 
 Route134_Text_1C3110:: @ 81C3110
 	.string "Aiyeeeeh!$"
 
 Route134_Text_1C311A:: @ 81C311A
-	.string "Ich glaube, POKéMON mögen diese\n"
+	.string "Ich glaube, Pokémon mögen diese\n"
 	.string "schnellen Strömungen hier sehr.$"
 
 Route134_Text_1C315E:: @ 81C315E
@@ -3389,11 +3389,11 @@ Route134_Text_1C3213:: @ 81C3213
 	.string "Wir wurden wieder fertig gemacht.$"
 
 Route134_Text_1C3229:: @ 81C3229
-	.string "Mein VOGEL-POKéMON wird nach einem\n"
+	.string "Mein VOGEL-Pokémon wird nach einem\n"
 	.string "langen Flug schnell müde...$"
 
 Route134_Text_1C3262:: @ 81C3262
-	.string "Du bist ein POKéMON-TRAINER.\n"
+	.string "Du bist ein Pokémon-TRAINER.\n"
 	.string "Worte sind da überflüssig. Wir kämpfen.$"
 
 Route134_Text_1C329E:: @ 81C329E

@@ -24,7 +24,7 @@ MossdeepCity_SpaceCenter_1F_Text_18E39B:: @ 818E39B
 	.string "its meteor showers for a long time.$"
 
 MossdeepCity_SpaceCenter_1F_Text_18E3E5:: @ 818E3E5
-	.string "Some people claim that POKéMON came\n"
+	.string "Some people claim that Pokémon came\n"
 	.string "from space. Could it be true?$"
 
 MossdeepCity_SpaceCenter_1F_Text_18E427:: @ 818E427

@@ -122,7 +122,7 @@ const u8 gUnknown_Debug_083C4A09[] = DTR("ほうそうの　はっせいりつ�
 
 const u8 gUnknown_Debug_083C4A2E[] = _("SURVEY");
 const u8 gUnknown_Debug_083C4A35[] = _("RECENT HAPPENINGS");
-const u8 gUnknown_Debug_083C4A47[] = _("POKéMON FAN CLUB");
+const u8 gUnknown_Debug_083C4A47[] = _("Pokémon FAN CLUB");
 const u8 gUnknown_Debug_083C4A58[] = DTR("ジム", "GYM");
 const u8 gUnknown_Debug_083C4A5B[] = _("OUTBREAKS");
 const u8 gUnknown_Debug_083C4A65[] = _("NAME RATER");

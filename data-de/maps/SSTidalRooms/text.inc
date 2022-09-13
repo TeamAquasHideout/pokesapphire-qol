@@ -6,7 +6,7 @@ SSTidalRooms_Text_19958A:: @ 819958A
 	.string "Ich pendle ständig zwischen\n"
 	.string "SEEGRASULB CITY und GRAPHITPORT CITY.\p"
 	.string "Das ist mein Hobby - ich gehe von Stadt\n"
-	.string "zu Stadt und nehme an POKéMON\l"
+	.string "zu Stadt und nehme an Pokémon\l"
 	.string "WETTBEWERBEN teil.$"
 
 SSTidalRooms_Text_199613:: @ 8199613
@@ -14,7 +14,7 @@ SSTidalRooms_Text_199613:: @ 8199613
 
 SSTidalRooms_Text_199630:: @ 8199630
 	.string "Ich bin schon ganz aufgeregt, wenn ich\n"
-	.string "mir vorstelle, welche POKéMON ich im\l"
+	.string "mir vorstelle, welche Pokémon ich im\l"
 	.string "nächsten WETTBEWERB sehen werde!$"
 
 SSTidalRooms_Text_1996A6:: @ 81996A6
@@ -26,7 +26,7 @@ SSTidalRooms_Text_1996BF:: @ 81996BF
 SSTidalRooms_Text_1996E1:: @ 81996E1
 	.string "Freunde müssen nicht unbedingt\n"
 	.string "menschlich sein. Für mich sind\l"
-	.string "POKéMON die besten Freunde.$"
+	.string "Pokémon die besten Freunde.$"
 
 SSTidalRooms_Text_199723:: @ 8199723
 	.string "Kind...\n"
@@ -53,7 +53,7 @@ SSTidalRooms_Text_199820:: @ 8199820
 	.string "Du bist ein unglaublicher TRAINER!$"
 
 SSTidalRooms_Text_199887:: @ 8199887
-	.string "UWE: Du hast nur ein POKéMON?\n"
+	.string "UWE: Du hast nur ein Pokémon?\n"
 	.string "Fühlt es sich nicht sehr einsam?$"
 
 SSTidalRooms_Text_1998C5:: @ 81998C5
@@ -70,7 +70,7 @@ SSTidalRooms_Text_19991C:: @ 819991C
 
 SSTidalRooms_Text_199975:: @ 8199975
 	.string "LENA: Ich möchte kämpfen...\n"
-	.string "Aber du hast nur ein POKéMON...$"
+	.string "Aber du hast nur ein Pokémon...$"
 
 SSTidalRooms_Text_1999B7:: @ 81999B7
 	.string "Ah, du kommst gerade rechtzeitig.\p"
@@ -83,7 +83,7 @@ SSTidalRooms_Text_1999FF:: @ 81999FF
 SSTidalRooms_Text_199A10:: @ 8199A10
 	.string "Ich muss meinen Vater unbedingt\n"
 	.string "fragen, ob er mir eine Yacht schenkt.\l"
-	.string "Eine Yacht für mich und meine POKéMON!$"
+	.string "Eine Yacht für mich und meine Pokémon!$"
 
 SSTidalRooms_Text_199A62:: @ 8199A62
 	.string "Oh, du bist so ein wunderbarer TRAINER.\n"
@@ -110,5 +110,5 @@ SSTidalRooms_Text_199B65:: @ 8199B65
 
 SSTidalRooms_Text_199C1A:: @ 8199C1A
 	.string "ÜBERNAHME raubt die nächste Attacke\n"
-	.string "eines POKéMON und setzt sie dann\l"
+	.string "eines Pokémon und setzt sie dann\l"
 	.string "gegen diesen Gegner ein.$"

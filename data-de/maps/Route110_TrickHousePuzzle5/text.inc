@@ -7,17 +7,17 @@ Route110_TrickHousePuzzle5_Text_19D423:: @ 819D423
 
 Route110_TrickHousePuzzle5_Text_19D4AE:: @ 819D4AE
 	.string "ROBOPUPPE 1 QUIZ.\p"
-	.string "Eines dieser POKéMON kann man nicht\n"
+	.string "Eines dieser Pokémon kann man nicht\n"
 	.string "auf der ROUTE 103 finden. Welches?$"
 
 Route110_TrickHousePuzzle5_Text_19D501:: @ 819D501
 	.string "ROBOPUPPE 1 QUIZ.\p"
-	.string "Eines dieser POKéMON ist kein\n"
-	.string "PFLANZEN-POKéMON. Welches?$"
+	.string "Eines dieser Pokémon ist kein\n"
+	.string "PFLANZEN-Pokémon. Welches?$"
 
 Route110_TrickHousePuzzle5_Text_19D553:: @ 819D553
 	.string "ROBOPUPPE 1 QUIZ.\p"
-	.string "Eines dieser POKéMON setzt\n"
+	.string "Eines dieser Pokémon setzt\n"
 	.string "KRATZER ein. Welches?$"
 
 Route110_TrickHousePuzzle5_Text_19D599:: @ 819D599
@@ -45,16 +45,16 @@ Route110_TrickHousePuzzle5_Text_19D636:: @ 819D636
 Route110_TrickHousePuzzle5_Text_19D68E:: @ 819D68E
 	.string "ROBOPUPPE 2 QUIZ.\p"
 	.string "In PROF. BIRKS Beutel befanden sich\n"
-	.string "drei POKéMON. Welches lag ganz rechts?$"
+	.string "drei Pokémon. Welches lag ganz rechts?$"
 
 Route110_TrickHousePuzzle5_Text_19D6EC:: @ 819D6EC
 	.string "ROBOPUPPE 2 QUIZ.\p"
-	.string "Welches POKéMON wurde in der POKéMON\n"
+	.string "Welches Pokémon wurde in der Pokémon\n"
 	.string "TRAINERSCHULE zum Tausch angeboten?$"
 
 Route110_TrickHousePuzzle5_Text_19D745:: @ 819D745
 	.string "ROBOPUPPE 2 QUIZ.\p"
-	.string "Welches POKéMON hat der FORSCHER von\n"
+	.string "Welches Pokémon hat der FORSCHER von\n"
 	.string "DEVON im BLÜTENBURGWALD gesucht?$"
 
 UnknownString_819D79D: @ 819D79D

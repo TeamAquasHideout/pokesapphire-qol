@@ -123,7 +123,7 @@ SecretBase_RedCave1_Text_1A1FBD:: @ 81A1FBD
 	.string "frei wurde. Endlich ist es soweit!$"
 
 SecretBase_RedCave1_Text_1A2026:: @ 81A2026
-	.string "Willkommen in meinem POKéMON-LABOR.\p"
+	.string "Willkommen in meinem Pokémon-LABOR.\p"
 	.string "Ich forsche, indem ich im Geheimen\n"
 	.string "kämpfe.\p"
 	.string "Möchtest du sehen, wie stark ich bin?$"
@@ -144,7 +144,7 @@ SecretBase_RedCave1_Text_1A2109:: @ 81A2109
 	.string "Komm doch bitte morgen wieder.$"
 
 SecretBase_RedCave1_Text_1A2147:: @ 81A2147
-	.string "Willkommen in meinem POKéMON-LABOR.\p"
+	.string "Willkommen in meinem Pokémon-LABOR.\p"
 	.string "Ich forsche, indem ich im Geheimen\n"
 	.string "kämpfe.$"
 
@@ -178,10 +178,10 @@ SecretBase_RedCave1_Text_1A22FA:: @ 81A22FA
 SecretBase_RedCave1_Text_1A236A:: @ 81A236A
 	.string "Ich liebe es, Dekorationen und Möbel\n"
 	.string "zu kaufen!!!\p"
-	.string "Ich liebe es genauso, POKéMON aufzu-\n"
+	.string "Ich liebe es genauso, Pokémon aufzu-\n"
 	.string "ziehen!\p"
 	.string "Wärest du so nett, mit meinen\n"
-	.string "POKéMON zu kämpfen?$"
+	.string "Pokémon zu kämpfen?$"
 
 SecretBase_RedCave1_Text_1A2405:: @ 81A2405
 	.string "Danke schön.\n"
@@ -201,7 +201,7 @@ SecretBase_RedCave1_Text_1A2446:: @ 81A2446
 SecretBase_RedCave1_Text_1A2480:: @ 81A2480
 	.string "Ich liebe es, Dekorationen und Möbel\n"
 	.string "zu kaufen!!!\p"
-	.string "Ich liebe es genauso, POKéMON aufzu-\n"
+	.string "Ich liebe es genauso, Pokémon aufzu-\n"
 	.string "ziehen!$"
 
 SecretBase_RedCave1_Text_1A24E1:: @ 81A24E1
@@ -265,7 +265,7 @@ SecretBase_RedCave1_Text_1A2830:: @ 81A2830
 	.string "Ich habe einen Ort gefunden, der mir\n"
 	.string "gefällt und den ich mit meinen Lieblings-\l"
 	.string "dekorationen ausgestattet habe.\p"
-	.string "Dort ziehe ich meine Lieblings-POKéMON\n"
+	.string "Dort ziehe ich meine Lieblings-Pokémon\n"
 	.string "auf und werde mit ihnen stärker.\p"
 	.string "Genau das mache ich.\n"
 	.string "Möchtest du mit mir kämpfen?$"
@@ -290,7 +290,7 @@ SecretBase_RedCave1_Text_1A297C:: @ 81A297C
 	.string "Ich habe einen Ort gefunden, der mir\n"
 	.string "gefällt und den ich mit meinen Lieblings-\l"
 	.string "dekorationen ausgestattet habe.\p"
-	.string "Dort ziehe ich meine Lieblings-POKéMON\n"
+	.string "Dort ziehe ich meine Lieblings-Pokémon\n"
 	.string "auf und werde mit ihnen stärker.\p"
 	.string "Jeder Tag ist mein Lieblingstag.$"
 

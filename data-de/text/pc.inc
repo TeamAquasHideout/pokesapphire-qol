@@ -8,7 +8,7 @@ Text_AccessedSomeonesPC: @ 81A0A1E
 	.string "Verbindung zu jemandes PC hergestellt.$"
 
 Text_StorageSystemOpened: @ 81A0A35
-	.string "POKéMON-Lagerungs-System geöffnet.$"
+	.string "Pokémon-Lagerungs-System geöffnet.$"
 
 Text_AccessedPlayersPC: @ 81A0A54
 	.string "Verbindung mit PC von {PLAYER}.$"

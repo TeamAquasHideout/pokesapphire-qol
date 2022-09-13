@@ -2,11 +2,11 @@ DewfordTown_Gym_Text_174D98:: @ 8174D98
 	.string "Na, wie sieht es aus, auf dem Weg zum\n"
 	.string "CHAMP, {PLAYER}?\p"
 	.string "FAUSTAUHAVENS ARENALEITER KAMILLO\n"
-	.string "besitzt KAMPF-POKéMON.\p"
-	.string "Wenn du dort NORMAL-POKéMON antreten\n"
+	.string "besitzt KAMPF-Pokémon.\p"
+	.string "Wenn du dort NORMAL-Pokémon antreten\n"
 	.string "lässt, sind Probleme vorprogrammiert!\p"
-	.string "KAMPF-POKéMON schlagen die NORMALEN\n"
-	.string "POKéMON einfach nieder. Pass gut auf!\p"
+	.string "KAMPF-Pokémon schlagen die NORMALEN\n"
+	.string "Pokémon einfach nieder. Pass gut auf!\p"
 	.string "Und das Schlimme ist: Die ARENA ist\n"
 	.string "dunkel wie die Tiefsee!\p"
 	.string "Aber mit jedem TRAINER, den du auf dem\n"
@@ -45,7 +45,7 @@ DewfordTown_Gym_Text_175031:: @ 8175031
 	.string "Eines Tages werde ich auch ein\n"
 	.string "ARENALEITER sein!\p"
 	.string "Nein! Ich werde der CHAMP der\n"
-	.string "POKéMON LIGA!$"
+	.string "Pokémon LIGA!$"
 
 DewfordTown_Gym_Text_1750C9:: @ 81750C9
 	.string "Du forderst mich heraus? Dann wundere\n"
@@ -83,7 +83,7 @@ DewfordTown_Gym_Text_1752BB:: @ 81752BB
 
 DewfordTown_Gym_Text_1752E6:: @ 81752E6
 	.string "Dank des KNÖCHELORDENS werden dir alle\n"
-	.string "POKéMON bis Level 30 gehorchen, auch\l"
+	.string "Pokémon bis Level 30 gehorchen, auch\l"
 	.string "die, die du durch Tausch erhalten hast.\p"
 	.string "Und du kannst die VM BLITZ auch\n"
 	.string "außerhalb eines Kampfes anwenden.\p"
@@ -102,9 +102,9 @@ DewfordTown_Gym_Text_175412:: @ 8175412
 	.string "TRAINERN entfachen wird!$"
 
 DewfordTown_Gym_Text_175477:: @ 8175477
-	.string "POKéMON ARENA von FAUSTAUHAVEN$"
+	.string "Pokémon ARENA von FAUSTAUHAVEN$"
 
 DewfordTown_Gym_Text_175490:: @ 8175490
-	.string "POKéMON ARENA von FAUSTAUHAVEN\p"
+	.string "Pokémon ARENA von FAUSTAUHAVEN\p"
 	.string "KAMILLOS ANERKANNTE TRAINER:\n"
 	.string "{PLAYER}$"

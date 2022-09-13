@@ -11,7 +11,7 @@ LilycoveCity_CoveLilyMotel_2F_Text_18708F:: @ 818708F
 	.string "Wow! That's awesome!\n"
 	.string "Yep, it's totally awesome!\p"
 	.string "This POKéDEX is completely filled!\n"
-	.string "You really must love POKéMON!\p"
+	.string "You really must love Pokémon!\p"
 	.string "I'm so impressed!\p"
 	.string "Let me give you something in\n"
 	.string "recognition of your feat!$"
@@ -24,7 +24,7 @@ LilycoveCity_CoveLilyMotel_2F_Text_187149:: @ 8187149
 
 LilycoveCity_CoveLilyMotel_2F_Text_18719E:: @ 818719E
 	.string "I'm the GRAPHIC ARTIST! Aren't the\n"
-	.string "POKéMON of HOENN interesting?$"
+	.string "Pokémon of HOENN interesting?$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_1871DF:: @ 81871DF
 	.string "The girl TUBERS, they're cute, hey?\n"

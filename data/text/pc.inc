@@ -8,7 +8,7 @@ Text_AccessedSomeonesPC: @ 81A0A1E
 	.string "Accessed someone's PC.$"
 
 Text_StorageSystemOpened: @ 81A0A35
-	.string "POKéMON Storage System opened.$"
+	.string "Pokémon Storage System opened.$"
 
 Text_AccessedPlayersPC: @ 81A0A54
 	.string "Accessed {PLAYER}'s PC.$"

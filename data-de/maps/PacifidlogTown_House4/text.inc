@@ -1,12 +1,12 @@
 PacifidlogTown_House4_Text_17959B:: @ 817959B
 	.string "Die Menschen sagen, sie hätten ein \n"
-	.string "POKéMON über HOENN FLIEGEN sehen.\p"
+	.string "Pokémon über HOENN FLIEGEN sehen.\p"
 	.string "FLIEGT es die ganze Zeit über herum?\n"
 	.string "Muss es sich nicht ausruhen?$"
 
 PacifidlogTown_House4_Text_17961F:: @ 817961F
-	.string "Ein Himmels-POKéMON!\n"
-	.string "Ein Himmels-POKéMON!$"
+	.string "Ein Himmels-Pokémon!\n"
+	.string "Ein Himmels-Pokémon!$"
 
 PacifidlogTown_House4_Text_17963D:: @ 817963D
 	.string "Woher kommst du?$"

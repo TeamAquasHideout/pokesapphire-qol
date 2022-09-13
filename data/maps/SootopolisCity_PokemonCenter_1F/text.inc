@@ -16,8 +16,8 @@ SootopolisCity_PokemonCenter_1F_Text_18F770:: @ 818F770
 SootopolisCity_PokemonCenter_1F_Text_18F7EA:: @ 818F7EA
 	.string "Whenever, wherever, and whatever\n"
 	.string "happens, I will always be friends with\l"
-	.string "POKéMON.\p"
-	.string "Because it's fun to be with POKéMON!$"
+	.string "Pokémon.\p"
+	.string "Because it's fun to be with Pokémon!$"
 
 SootopolisCity_PokemonCenter_1F_Text_18F860:: @ 818F860
 	.string "I don't know why...\n"

@@ -32,6 +32,8 @@
 #include "trainer_card.h"
 #include "scanline_effect.h"
 
+extern u8 DebugMenu[];
+
 //Menu actions
 enum {
     MENU_ACTION_POKEDEX,
@@ -43,7 +45,8 @@ enum {
     MENU_ACTION_OPTION,
     MENU_ACTION_EXIT,
     MENU_ACTION_RETIRE,
-    MENU_ACTION_PLAYER_LINK
+    MENU_ACTION_PLAYER_LINK,
+    MENU_ACTION_DEBUG
 };
 
 #if DEBUG
@@ -84,6 +87,7 @@ static u8 StartMenu_OptionCallback(void);
 static u8 StartMenu_ExitCallback(void);
 static u8 StartMenu_RetireCallback(void);
 static u8 StartMenu_PlayerLinkCallback(void);
+static bool8 StartMenu_DebugCallback(void);
 
 static const struct MenuAction sStartMenuItems[] =
 {
@@ -97,6 +101,7 @@ static const struct MenuAction sStartMenuItems[] =
     { SystemText_Exit, StartMenu_ExitCallback },
     { SystemText_Retire, StartMenu_RetireCallback },
     { SystemText_Player, StartMenu_PlayerLinkCallback },
+    { SystemText_Debug, StartMenu_DebugCallback },
 };
 
 //Private functions
@@ -271,6 +276,7 @@ static void BuildStartMenuActions_Normal(void)
         AddStartMenuAction(MENU_ACTION_POKENAV);
     AddStartMenuAction(MENU_ACTION_PLAYER);
     AddStartMenuAction(MENU_ACTION_SAVE);
+    AddStartMenuAction(MENU_ACTION_DEBUG);
     AddStartMenuAction(MENU_ACTION_OPTION);
     AddStartMenuAction(MENU_ACTION_EXIT);
 }
@@ -436,7 +442,8 @@ static u8 StartMenu_InputProcessCallback(void)
         gMenuCallback = sStartMenuItems[sCurrentStartMenuActions[sStartMenuCursorPos]].func;
         if (gMenuCallback != StartMenu_SaveCallback &&
            gMenuCallback != StartMenu_ExitCallback &&
-           gMenuCallback != StartMenu_RetireCallback)
+           gMenuCallback != StartMenu_RetireCallback &&
+           gMenuCallback != StartMenu_DebugCallback)
             FadeScreen(1, 0);
         return 0;
     }
@@ -542,6 +549,14 @@ static u8 StartMenu_RetireCallback(void)
 {
     CloseMenu();
     SafariZoneRetirePrompt();
+    return 1;
+}
+
+//Debug
+static u8 StartMenu_DebugCallback(void)
+{
+    CloseMenu();
+    ScriptContext1_SetupScript(DebugMenu);
     return 1;
 }
 

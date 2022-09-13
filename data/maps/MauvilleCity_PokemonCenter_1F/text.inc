@@ -13,6 +13,6 @@ MauvilleCity_PokemonCenter_1F_Text_182622:: @ 8182622
 
 MauvilleCity_PokemonCenter_1F_Text_1826A6:: @ 81826A6
 	.string "A RECORD CORNER opened upstairs in\n"
-	.string "the POKéMON CENTER.\p"
+	.string "the Pokémon CENTER.\p"
 	.string "I don't know what it's about, but it\n"
 	.string "sounds fun. I'll go check it out!$"

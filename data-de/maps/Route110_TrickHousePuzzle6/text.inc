@@ -13,7 +13,7 @@ Route110_TrickHousePuzzle6_Text_19DCE7:: @ 819DCE7
 	.string "wiederholen möchte!$"
 
 Route110_TrickHousePuzzle6_Text_19DD49:: @ 819DD49
-	.string "Vielleicht kann mein VOGEL-POKéMON\n"
+	.string "Vielleicht kann mein VOGEL-Pokémon\n"
 	.string "über die Mauer fliegen...$"
 
 Route110_TrickHousePuzzle6_Text_19DD83:: @ 819DD83

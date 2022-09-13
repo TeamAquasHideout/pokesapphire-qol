@@ -7,7 +7,7 @@ RusturfTunnel_Text_194188:: @ 8194188
 
 RusturfTunnel_Text_19419B:: @ 819419B
 	.string "Grah, keelhaul it all!\p"
-	.string "That hostage POKéMON turned out to\n"
+	.string "That hostage Pokémon turned out to\n"
 	.string "be worthless!\p"
 	.string "And to think I made a getaway...\n"
 	.string "In this tunnel to nowhere!\p"
@@ -71,7 +71,7 @@ RusturfTunnel_Text_19461D:: @ 819461D
 
 RusturfTunnel_Text_194693:: @ 8194693
 	.string "That HM contains STRENGTH.\p"
-	.string "If a muscular POKéMON were to learn\n"
+	.string "If a muscular Pokémon were to learn\n"
 	.string "that, it would be able to move even\l"
 	.string "large boulders.$"
 
@@ -92,14 +92,14 @@ RusturfTunnel_Text_194766:: @ 8194766
 RusturfTunnel_Text_194814:: @ 8194814
 	.string "What do you call a wild man up in the\n"
 	.string "mountains? A mountain man, right?\p"
-	.string "So why don't they call a POKéMON in the\n"
-	.string "mountains a mountain POKéMON?$"
+	.string "So why don't they call a Pokémon in the\n"
+	.string "mountains a mountain Pokémon?$"
 
 RusturfTunnel_Text_1948A2:: @ 81948A2
-	.string "My POKéMON...\n"
+	.string "My Pokémon...\n"
 	.string "Ran out of power...$"
 
 RusturfTunnel_Text_1948C4:: @ 81948C4
 	.string "They halted development here to\n"
-	.string "protect POKéMON, right?\l"
+	.string "protect Pokémon, right?\l"
 	.string "There's a feel-good story!$"

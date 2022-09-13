@@ -2,7 +2,7 @@ SootopolisCity_Gym_1F_Text_18E8A5:: @ 818E8A5
 	.string "Na, wie sieht es aus, auf dem Weg zum\n"
 	.string "CHAMP, {PLAYER}?\p"
 	.string "ARENALEITER WASSILI in XENEROVILLE\n"
-	.string "ist der Meister der WASSER-POKéMON.\p"
+	.string "ist der Meister der WASSER-Pokémon.\p"
 	.string "Und auf dem Weg zu ihm wirst du auf\n"
 	.string "gefrorenem Boden ins Rutschen kommen.\p"
 	.string "Tut mir Leid, aber mehr kann ich dir dazu\n"
@@ -17,7 +17,7 @@ SootopolisCity_Gym_1F_Text_18E9C9:: @ 818E9C9
 	.string "Okay! Schau auf deinem\n"
 	.string "TRAINERPASS nach.\p"
 	.string "Wenn du alle ORDEN erhalten hast,\n"
-	.string "kannst du die POKéMON LIGA\l"
+	.string "kannst du die Pokémon LIGA\l"
 	.string "herausfordern!$"
 
 SootopolisCity_Gym_B1F_Text_18EA87:: @ 818EA87
@@ -58,7 +58,7 @@ SootopolisCity_Gym_B1F_Text_18EC92:: @ 818EC92
 	.string "Die Ästhetik, die du in den Kampf ein-\n"
 	.string "bringst, ist unbeschreiblich.\p"
 	.string "Oh... Ich bin so glücklich, dass ich mich\n"
-	.string "für POKéMON entschieden habe.$"
+	.string "für Pokémon entschieden habe.$"
 
 SootopolisCity_Gym_B1F_Text_18ECEB:: @ 818ECEB
 	.string "Ich werde dir beibringen, dass Kämpfe\n"
@@ -74,7 +74,7 @@ SootopolisCity_Gym_B1F_Text_18ED2B:: @ 818ED2B
 	.string "du auf jede Fliese nur ein Mal treten.$"
 
 SootopolisCity_Gym_B1F_Text_18ED91:: @ 818ED91
-	.string "Die POKéMON ARENA mit den höchsten\n"
+	.string "Die Pokémon ARENA mit den höchsten\n"
 	.string "Anforderungen in der HOENN-Region...\p"
 	.string "Das ist die ARENA von XENEROVILLE.$"
 
@@ -88,7 +88,7 @@ SootopolisCity_Gym_B1F_Text_18EE03:: @ 818EE03
 	.string "Aber hier ist es so lustig!$"
 
 SootopolisCity_Gym_B1F_Text_18EE96:: @ 818EE96
-	.string "Ich trainiere meine POKéMON zusammen\n"
+	.string "Ich trainiere meine Pokémon zusammen\n"
 	.string "mit WASSILI.\p"
 	.string "Ich bin nicht leicht zu nehmen!$"
 
@@ -114,7 +114,7 @@ SootopolisCity_Gym_B1F_Text_18EFCA:: @ 818EFCA
 	.string "zu tun!$"
 
 SootopolisCity_Gym_B1F_Text_18F037:: @ 818F037
-	.string "Wenn ich mit meinen POKéMON zusammen\n"
+	.string "Wenn ich mit meinen Pokémon zusammen\n"
 	.string "bin, vergeht die Zeit so schnell, dass\l"
 	.string "ich noch nicht mal “Uuups” sagen kann.$"
 
@@ -137,17 +137,17 @@ SootopolisCity_Gym_1F_Text_18F0CA:: @ 818F0CA
 	.string "passierte und was du getan hast, all das\l"
 	.string "werde ich im Kampf mit dir lesen können.\p"
 	.string "Gib mir die Gelegenheit dazu. Zeig mir,\n"
-	.string "wie du deine POKéMON im Kampf führst.\p"
+	.string "wie du deine Pokémon im Kampf führst.\p"
 	.string "Und als Gegenleistung zeige ich dir eine\n"
 	.string "Illusion im Wasser. Dargeboten von mir\l"
-	.string "und meinen POKéMON.$"
+	.string "und meinen Pokémon.$"
 
 SootopolisCity_Gym_1F_Text_18F282:: @ 818F282
 	.string "Bravo.\p"
 	.string "Jetzt erkenne ich, welch ein groß-\n"
-	.string "artiger POKéMON-TRAINER vor mir steht.\p"
+	.string "artiger Pokémon-TRAINER vor mir steht.\p"
 	.string "Es hat mir viel Freude gemacht, dich und\n"
-	.string "deine POKéMON kennen gelernt zu haben.\p"
+	.string "deine Pokémon kennen gelernt zu haben.\p"
 	.string "Du verdienst zu Recht den\n"
 	.string "SCHAUERORDEN. Bitte nimm ihn an.$"
 
@@ -157,7 +157,7 @@ SootopolisCity_Gym_1F_Text_18F342:: @ 818F342
 
 SootopolisCity_Gym_1F_Text_18F36B:: @ 818F36B
 	.string "Dieser ORDEN sorgt dafür, dass dir alle\n"
-	.string "deine POKéMON gehorchen.\p"
+	.string "deine Pokémon gehorchen.\p"
 	.string "Der ORDEN befähigt dich außerdem dazu,\n"
 	.string "mit der VM KASKADE Wasserfälle in jede\l"
 	.string "Richtung zu passieren.\p"
@@ -166,29 +166,29 @@ SootopolisCity_Gym_1F_Text_18F36B:: @ 818F36B
 
 SootopolisCity_Gym_1F_Text_18F466:: @ 818F466
 	.string "Diese TM enthält AQUAWELLE.\p"
-	.string "Damit kann das gegnerische POKéMON\n"
+	.string "Damit kann das gegnerische Pokémon\n"
 	.string "mit Ultraschallwellen verwirrt werden.$"
 
 SootopolisCity_Gym_1F_Text_18F4D7:: @ 818F4D7
 	.string "TRAINER, die alle ORDEN der ARENEN in\n"
 	.string "HOENN erhalten haben, sollten sich...\p"
 	.string "Auf den Weg zur ultimativen Heraus-\n"
-	.string "forderung machen. Der POKéMON LIGA!\p"
+	.string "forderung machen. Der Pokémon LIGA!\p"
 	.string "Reise zu den östlichsten Gebieten von\n"
 	.string "HOENN, zur Insel PRACHTPOLIS CITY. Dort\l"
-	.string "findest du die POKéMON LIGA.$"
+	.string "findest du die Pokémon LIGA.$"
 
 SootopolisCity_Gym_1F_Text_18F5B4:: @ 818F5B4
 	.string "In HOENN gibt es nur noch einen ORDEN\n"
 	.string "zu verdienen.\p"
-	.string "Wenn du die POKéMON LIGA herausfordern\n"
+	.string "Wenn du die Pokémon LIGA herausfordern\n"
 	.string "willst, musst du zuerst den ORDEN der\l"
 	.string "ARENA in BAUMHAUSEN CITY bekommen.$"
 
 SootopolisCity_Gym_1F_Text_18F649:: @ 818F649
-	.string "POKéMON ARENA von XENEROVILLE$"
+	.string "Pokémon ARENA von XENEROVILLE$"
 
 SootopolisCity_Gym_1F_Text_18F665:: @ 818F665
-	.string "POKéMON ARENA von XENEROVILLE\p"
+	.string "Pokémon ARENA von XENEROVILLE\p"
 	.string "WASSILIS ANERKANNTE TRAINER:\n"
 	.string "{PLAYER}$"

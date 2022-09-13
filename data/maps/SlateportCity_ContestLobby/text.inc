@@ -1,5 +1,5 @@
 SlateportCity_ContestLobby_Text_17C937:: @ 817C937
-	.string "I want to raise a POKéMON that's\n"
+	.string "I want to raise a Pokémon that's\n"
 	.string "the ultimate in “great” for both\l"
 	.string "battles and CONTESTS.\p"
 	.string "It's vexing, trying to figure out\n"
@@ -22,6 +22,6 @@ SlateportCity_ContestLobby_Text_17CA88:: @ 817CA88
 
 SlateportCity_ContestLobby_Text_17CAEC:: @ 817CAEC
 	.string "If you win a CONTEST, they put up a\n"
-	.string "poster of your POKéMON on the wall.\p"
+	.string "poster of your Pokémon on the wall.\p"
 	.string "It will have a portrait of your\n"
-	.string "POKéMON and both your names.$"
+	.string "Pokémon and both your names.$"

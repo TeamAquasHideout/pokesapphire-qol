@@ -1,7 +1,7 @@
 DewfordTown_House1_Text_174BA5:: @ 8174BA5
 	.string "There's a lot to be said for living on\n"
 	.string "a small island like this in harmony with\l"
-	.string "POKéMON and the family.$"
+	.string "Pokémon and the family.$"
 
 DewfordTown_House1_Text_174C0D:: @ 8174C0D
 	.string "I came from the large port of SLATEPORT\n"

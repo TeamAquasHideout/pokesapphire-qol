@@ -4,26 +4,26 @@ LilycoveCity_Text_1679BF:: @ 81679BF
 	.string "I bought a whole bunch of DOLLS and\n"
 	.string "POSTERS.\p"
 	.string "Of course, I've also caught a lot of\n"
-	.string "POKéMON, and I'm raising them\l"
+	.string "Pokémon, and I'm raising them\l"
 	.string "properly, too.\p"
 	.string "Actually, I'm more worried if you're\n"
-	.string "raising POKéMON properly, {PLAYER}{KUN}.\p"
+	.string "raising Pokémon properly, {PLAYER}{KUN}.\p"
 	.string "I'll battle with you, so you can show\n"
-	.string "me your POKéMON, {PLAYER}{KUN}.$"
+	.string "me your Pokémon, {PLAYER}{KUN}.$"
 
 LilycoveCity_Text_167AEB:: @ 8167AEB
 	.string "MAY: Oh, why? {PLAYER}{KUN}, haven't you\n"
-	.string "been raising your POKéMON?\p"
+	.string "been raising your Pokémon?\p"
 	.string "That's not a very good showing as a\n"
 	.string "TRAINER...$"
 
 LilycoveCity_Text_167B55:: @ 8167B55
 	.string "MAY: Come on, battle with me, so I can\n"
-	.string "check out your POKéMON!$"
+	.string "check out your Pokémon!$"
 
 LilycoveCity_Text_167B94:: @ 8167B94
-	.string "MAY: The POKéMON I raised won't be\n"
-	.string "beaten by your POKéMON, {PLAYER}{KUN}!$"
+	.string "MAY: The Pokémon I raised won't be\n"
+	.string "beaten by your Pokémon, {PLAYER}{KUN}!$"
 
 LilycoveCity_Text_167BD5:: @ 8167BD5
 	.string "... ... ... ... ... ... ... ...\p"
@@ -35,14 +35,14 @@ LilycoveCity_Text_167BD5:: @ 8167BD5
 LilycoveCity_Text_167C6B:: @ 8167C6B
 	.string "MAY: I'm thinking of going back to\n"
 	.string "LITTLEROOT soon.\p"
-	.string "I've caught a decent group of POKéMON,\n"
+	.string "I've caught a decent group of Pokémon,\n"
 	.string "and my POKéDEX is coming along, so\l"
 	.string "I'm going home to show my dad.$"
 
 LilycoveCity_Text_167D08:: @ 8167D08
 	.string "{PLAYER}{KUN}, what are you going to do?\p"
 	.string "Collect all the GYM BADGES and take\n"
-	.string "the POKéMON LEAGUE challenge?\p"
+	.string "the Pokémon LEAGUE challenge?\p"
 	.string "Well, while you're collecting BADGES,\n"
 	.string "{PLAYER}{KUN}, I'm going to work on my\l"
 	.string "POKéDEX. I'll complete it before you!\p"
@@ -50,7 +50,7 @@ LilycoveCity_Text_167D08:: @ 8167D08
 
 LilycoveCity_Text_167DDD:: @ 8167DDD
 	.string "{PLAYER}{KUN}, what are you going to do?\p"
-	.string "Are you taking the POKéMON LEAGUE\n"
+	.string "Are you taking the Pokémon LEAGUE\n"
 	.string "challenge?\p"
 	.string "Or, are you going to complete your\n"
 	.string "POKéDEX?\p"
@@ -74,7 +74,7 @@ LilycoveCity_Text_167F75:: @ 8167F75
 	.string "No, I'm not buying any DOLLS.\p"
 	.string "Anyways, it's been a while.\p"
 	.string "Want to have a battle to see who's been\n"
-	.string "raising POKéMON better?$"
+	.string "raising Pokémon better?$"
 
 LilycoveCity_Text_16802C:: @ 816802C
 	.string "BRENDAN: Oh, what's the matter?\n"
@@ -82,7 +82,7 @@ LilycoveCity_Text_16802C:: @ 816802C
 
 LilycoveCity_Text_168067:: @ 8168067
 	.string "BRENDAN: Want to battle to see who's\n"
-	.string "been raising POKéMON better?$"
+	.string "been raising Pokémon better?$"
 
 LilycoveCity_Text_1680A9:: @ 81680A9
 	.string "BRENDAN: Aww, but you know I'm not\n"
@@ -104,15 +104,15 @@ LilycoveCity_Text_168149:: @ 8168149
 LilycoveCity_Text_1681EA:: @ 81681EA
 	.string "{PLAYER}, what are you going to do?\p"
 	.string "Collect all the GYM BADGES and take\n"
-	.string "the POKéMON LEAGUE challenge?\p"
+	.string "the Pokémon LEAGUE challenge?\p"
 	.string "Maybe I'll do that, too...\p"
 	.string "Well, anyway, hang in there!$"
 
 LilycoveCity_Text_168282:: @ 8168282
 	.string "{PLAYER}, what are you going to do?\p"
 	.string "Since you're that strong, are you\n"
-	.string "taking the POKéMON LEAGUE challenge?\p"
-	.string "Heh, even me - if I trained my POKéMON\n"
+	.string "taking the Pokémon LEAGUE challenge?\p"
+	.string "Heh, even me - if I trained my Pokémon\n"
 	.string "a bit more, I should be stronger than\l"
 	.string "you, {PLAYER}.\p"
 	.string "Well, anyway, hang in there!$"
@@ -121,7 +121,7 @@ LilycoveCity_Text_16835A:: @ 816835A
 	.string "{PLAYER}, what are you going to do?\p"
 	.string "Since you're that strong, are you\n"
 	.string "taking the BATTLE TOWER challenge?\p"
-	.string "Heh, even me - if I trained my POKéMON\n"
+	.string "Heh, even me - if I trained my Pokémon\n"
 	.string "a bit more, I should be stronger than\l"
 	.string "you, {PLAYER}.\l"
 	.string "Maybe I will go to the BATTLE TOWER.\p"
@@ -151,7 +151,7 @@ LilycoveCity_Text_168573:: @ 8168573
 LilycoveCity_Text_1685EB:: @ 81685EB
 	.string "If this whole wide world becomes ours,\n"
 	.string "TEAM {EVIL_TEAM}'s, it will be a happier\l"
-	.string "place for POKéMON, too.$"
+	.string "place for Pokémon, too.$"
 
 LilycoveCity_Text_16864A:: @ 816864A
 	.string "There! WAILMER!\n"
@@ -163,7 +163,7 @@ LilycoveCity_Text_168675:: @ 8168675
 	.string "you, like, get lost?$"
 
 LilycoveCity_Text_1686C9:: @ 81686C9
-	.string "The POKéMON that come to this CONTEST\n"
+	.string "The Pokémon that come to this CONTEST\n"
 	.string "HALL are all prizewinners.\l"
 	.string "They come from all over the country.\p"
 	.string "My heart swells with excitement!$"
@@ -173,7 +173,7 @@ LilycoveCity_Text_168750:: @ 8168750
 	.string "the cove at the edge of town?$"
 
 LilycoveCity_Text_168791:: @ 8168791
-	.string "I'm going to teach my POKéMON some new\n"
+	.string "I'm going to teach my Pokémon some new\n"
 	.string "moves for entering a CONTEST.\p"
 	.string "So, I'm going to see the MOVE DELETER\n"
 	.string "and make it forget HM moves.$"
@@ -183,7 +183,7 @@ LilycoveCity_Text_168819:: @ 8168819
 	.string "The HOENN region is beautiful with\n"
 	.string "all its water and verdant nature.\p"
 	.string "Hunh? Wait a second...\p"
-	.string "Could there be rare POKéMON that live\n"
+	.string "Could there be rare Pokémon that live\n"
 	.string "only in this area?$"
 
 LilycoveCity_Text_1688C1:: @ 81688C1
@@ -202,12 +202,12 @@ LilycoveCity_Text_168934:: @ 8168934
 LilycoveCity_Text_1689BF:: @ 81689BF
 	.string "I was taking a relaxing snooze at the\n"
 	.string "seaside inn to the sound of waves...\p"
-	.string "When someone stole my POKéMON!\p"
+	.string "When someone stole my Pokémon!\p"
 	.string "Who's the abductor?\n"
 	.string "TEAM {EVIL_TEAM}? Is it TEAM {EVIL_TEAM}?$"
 
 LilycoveCity_Text_168A55:: @ 8168A55
-	.string "My missing POKéMON...\n"
+	.string "My missing Pokémon...\n"
 	.string "It came back without me noticing!$"
 
 LilycoveCity_Text_168A8D:: @ 8168A8D
@@ -253,7 +253,7 @@ LilycoveCity_Text_168DA9:: @ 8168DA9
 	.string "sea begins.”$"
 
 LilycoveCity_Text_168DE1:: @ 8168DE1
-	.string "POKéMON CONTESTS\n"
+	.string "Pokémon CONTESTS\n"
 	.string "MASTER RANK REGISTRATION\p"
 	.string "“Enter CONTESTS with your friends!”$"
 
@@ -264,12 +264,12 @@ LilycoveCity_Text_168E2F:: @ 8168E2F
 
 LilycoveCity_Text_168E67:: @ 8168E67
 	.string "LILYCOVE MUSEUM\p"
-	.string "“POKéMON Masterpiece Collection\n"
+	.string "“Pokémon Masterpiece Collection\n"
 	.string "on exhibit!”$"
 
 LilycoveCity_Text_168EA4:: @ 8168EA4
 	.string "LILYCOVE MUSEUM\p"
-	.string "“{PLAYER}'s POKéMON Collection\n"
+	.string "“{PLAYER}'s Pokémon Collection\n"
 	.string "on exhibit!”$"
 
 LilycoveCity_Text_168EDA:: @ 8168EDA
@@ -285,7 +285,7 @@ LilycoveCity_Text_168F57:: @ 8168F57
 	.string "ferry S.S. TIDAL.”$"
 
 LilycoveCity_Text_168FA1:: @ 8168FA1
-	.string "POKéMON TRAINER FAN CLUB\p"
+	.string "Pokémon TRAINER FAN CLUB\p"
 	.string "The names of TRAINERS are scribbled\n"
 	.string "all over the sign...$"
 
@@ -298,4 +298,4 @@ LilycoveCity_Text_168FF3:: @ 8168FF3
 
 LilycoveCity_Text_169072:: @ 8169072
 	.string "MOVE DELETER'S HOUSE\p"
-	.string "“Unwanted POKéMON moves deleted.”$"
+	.string "“Unwanted Pokémon moves deleted.”$"

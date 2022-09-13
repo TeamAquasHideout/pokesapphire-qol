@@ -2,15 +2,15 @@ MossdeepCity_Gym_Text_18C7E3:: @ 818C7E3
 	.string "Na, wie sieht es aus, auf dem Weg zum\n"
 	.string "CHAMP, {PLAYER}?\p"
 	.string "Die ARENALEITER hier setzen PSYCHO-\n"
-	.string "POKéMON ein.\p"
-	.string "Setzt du KAMPF- oder GIFT-POKéMON ein,\n"
+	.string "Pokémon ein.\p"
+	.string "Setzt du KAMPF- oder GIFT-Pokémon ein,\n"
 	.string "werden diese großen Schaden nehmen!\p"
 	.string "Und außerdem wirst du dich gegen eine\n"
 	.string "außergewöhnliche Kombination von\l"
 	.string "Attacken behaupten müssen.\p"
 	.string "Wenn du gewinnen willst, musst du ihnen\n"
 	.string "beweisen, wie sehr du mit deinen\l"
-	.string "POKéMON verbunden bist! Und nun los!$"
+	.string "Pokémon verbunden bist! Und nun los!$"
 
 MossdeepCity_Gym_Text_18C938:: @ 818C938
 	.string "Wow, du bist erstaunlich!\n"
@@ -50,7 +50,7 @@ MossdeepCity_Gym_Text_18CAC0:: @ 818CAC0
 	.string "Balance...$"
 
 MossdeepCity_Gym_Text_18CB46:: @ 818CB46
-	.string "Meine POKéMON kämpften nicht synchron!$"
+	.string "Meine Pokémon kämpften nicht synchron!$"
 
 MossdeepCity_Gym_Text_18CB77:: @ 818CB77
 	.string "Ein POKéBALL ist doch etwas zu schwer,\n"
@@ -135,7 +135,7 @@ MossdeepCity_Gym_Text_18D0F9:: @ 818D0F9
 
 MossdeepCity_Gym_Text_18D128:: @ 818D128
 	.string "BEN: Der MENTALORDEN erhöht den SP.\n"
-	.string "ANG. und die SP. VER. von POKéMON.\p"
+	.string "ANG. und die SP. VER. von Pokémon.\p"
 	.string "SVENJA: Und du kannst damit die VM\n"
 	.string "TAUCHER außerhalb eines Kampfes\l"
 	.string "einsetzen.\p"
@@ -147,11 +147,11 @@ MossdeepCity_Gym_Text_18D1CF:: @ 818D1CF
 	.string "BEN: Dies erhöht den SP. ANG. und...\n"
 	.string "SVENJA: Erhöht die SP. VER.!\p"
 	.string "BEN: Eine Attacke, die perfekt...\n"
-	.string "SVENJA: Für PSYCHO-POKéMON ist!$"
+	.string "SVENJA: Für PSYCHO-Pokémon ist!$"
 
 MossdeepCity_Gym_Text_18D273:: @ 818D273
 	.string "BEN: Es scheint, als sei das Band\n"
-	.string "zwischen dir und deinen POKéMON viel\l"
+	.string "zwischen dir und deinen Pokémon viel\l"
 	.string "stärker als zwischen uns Zwillingen.\p"
 	.string "SVENJA: Und du wirst noch stärker\n"
 	.string "werden! Wir haben gegen dich gekämpft,\l"
@@ -162,16 +162,16 @@ MossdeepCity_Gym_Text_18D324:: @ 818D324
 	.string "SVENJA: Dass es hier 2 ARENALEITER\n"
 	.string "gibt?\p"
 	.string "BEN: Hups, du hast nur ein...\n"
-	.string "SVENJA: POKéMON für den Kampf.\p"
+	.string "SVENJA: Pokémon für den Kampf.\p"
 	.string "BEN: So können wir nicht kämpfen!\p"
 	.string "SVENJA: Wenn du uns herausfordern\n"
-	.string "willst, dann musst du mehr POKéMON\l"
+	.string "willst, dann musst du mehr Pokémon\l"
 	.string "haben.$"
 
 MossdeepCity_Gym_Text_18D40A:: @ 818D40A
-	.string "POKéMON ARENA von MOOSBACH CITY$"
+	.string "Pokémon ARENA von MOOSBACH CITY$"
 
 MossdeepCity_Gym_Text_18D424:: @ 818D424
-	.string "POKéMON ARENA von MOOSBACH CITY\p"
+	.string "Pokémon ARENA von MOOSBACH CITY\p"
 	.string "SVENJA UND BENS ANERKANNTE TRAINER:\n"
 	.string "{PLAYER}$"

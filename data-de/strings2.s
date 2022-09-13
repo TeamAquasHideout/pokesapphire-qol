@@ -94,7 +94,7 @@ gSystemText_LA:: @ 842C46B
 SystemText_Pokedex::
 	.string "POKéDEX$"
 SystemText_Pokemon::
-	.string "POKéMON$"
+	.string "Pokémon$"
 SystemText_BAG::
 	.string "BEUTEL$"
 SystemText_Pokenav::
@@ -143,7 +143,7 @@ gOtherText_OhABite:: @ 842C5BB
 	.string "Oh! Da hat etwas angebissen!$"
 
 gOtherText_PokeOnHook:: @ 842C5C7
-	.string "Du hast ein POKéMON am Haken!{PAUSE_UNTIL_PRESS}$"
+	.string "Du hast ein Pokémon am Haken!{PAUSE_UNTIL_PRESS}$"
 
 gOtherText_NotEvenANibble:: @ 842C5E2
 	.string "Nicht mal ein klitzekleines Knabbern...{PAUSE_UNTIL_PRESS}$"
@@ -166,7 +166,7 @@ gTradeText_TakeGoodCare:: @ 842C640
 TradeText_Cancel::
 	.string "ZUR.$"
 TradeText_ChoosePoke::
-	.string "Wähle ein POKéMON.$"
+	.string "Wähle ein Pokémon.$"
 TradeText_Summary1::
 	.string "BERICHT$"
 TradeText_Trade1::
@@ -187,7 +187,7 @@ TradeText_TradeCancelled::
 	.string "wurde abgebrochen.$"
 TradeText_OnlyPoke::
 	.string "{COLOR DARK_GREY}{HIGHLIGHT WHITE2}{SHADOW LIGHT_GREY}Das ist das einzige\n"
-	.string "POKéMON zum Kampf.$"
+	.string "Pokémon zum Kampf.$"
 TradeText_NonTradablePoke::
 	.string "{COLOR DARK_GREY}{HIGHLIGHT WHITE2}{SHADOW LIGHT_GREY}Dein Freund kann\n"
 	.string "das nicht senden.$"
@@ -196,7 +196,7 @@ TradeText_WaitingForFriend::
 	.string "noch nicht fertig...$"
 TradeText_WantToTrade::
 	.string "{COLOR DARK_GREY}{HIGHLIGHT WHITE2}{SHADOW LIGHT_GREY}Dein Freund möchte\n"
-	.string "POKéMON tauschen.$"
+	.string "Pokémon tauschen.$"
 	.string "$"
 
 gTradeText_TradeOkayPrompt:: @ 842C7B6
@@ -249,7 +249,7 @@ gOtherText_MixingRecord:: @ 842C959
 	.string "{POKEBLOCK} MIT FREUND/EN:$"
 
 gOtherText_TradeRecord:: @ 842C96A
-	.string "POKéMON-TAUSCH:$"
+	.string "Pokémon-TAUSCH:$"
 
 gOtherText_Boy:: @ 842C979
 	.string "JUNGE$"
@@ -353,7 +353,7 @@ DaycareText_DontLikeOther::
 	.string "Die beiden mögen sich nicht sehr.$"
 DaycareText_PlayOther::
 	.string "Die beiden spielen lieber mit anderen\n"
-	.string "POKéMON als miteinander.$"
+	.string "Pokémon als miteinander.$"
 
 gOtherText_NewLine2:: @ 842CC28
 	.string "\n$"
@@ -480,19 +480,19 @@ gOtherText_Met2:: @ 842D12B
 	.string " (gef.)$"
 
 gOtherText_EggDayCare:: @ 842D133
-	.string "Seltsames POKéMON-EI, das\n"
+	.string "Seltsames Pokémon-EI, das\n"
 	.string "die PENSIONSLEITUNG fand.$"
 
 gOtherText_EggNicePlace:: @ 842D164
-	.string "Kurioses POKéMON-EI an\n"
+	.string "Kurioses Pokémon-EI an\n"
 	.string "hübschem Ort erhalten.$"
 
 gOtherText_EggObtainedInTrade:: @ 842D197
-	.string "Kurioses POKéMON-EI im\n"
+	.string "Kurioses Pokémon-EI im\n"
 	.string "Tausch erhalten.$"
 
 gOtherText_EggHotSprings:: @ 842D1C3
-	.string "Ein POKéMON-EI an den\n"
+	.string "Ein Pokémon-EI an den\n"
 	.string "Heißen Quellen erhalten.$"
 
 gOtherText_LinkStandby2:: @ 842D1EE

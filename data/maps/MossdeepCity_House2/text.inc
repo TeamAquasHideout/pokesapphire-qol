@@ -5,7 +5,7 @@ MossdeepCity_House2_Text_18D536:: @ 818D536
 
 MossdeepCity_House2_Text_18D596:: @ 818D596
 	.string "Even though I can't see my friend in\n"
-	.string "FORTREE, my POKéMON carries MAIL back\l"
+	.string "FORTREE, my Pokémon carries MAIL back\l"
 	.string "and forth for us.\p"
 	.string "I'm not lonesome, even though we're\n"
 	.string "apart.$"

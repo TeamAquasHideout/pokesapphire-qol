@@ -12,10 +12,10 @@ LavaridgeTown_HerbShop_Text_176209:: @ 8176209
 	.string "Mit dieser HOLZKOHLE wird die Kräuter-\n"
 	.string "medizin hergestellt.\p"
 	.string "Sie wirkt auch Wunder, wenn sie von\n"
-	.string "einem POKéMON getragen wird.\p"
+	.string "einem Pokémon getragen wird.\p"
 	.string "Sie verstärkt FEUER-Attacken.$"
 
 LavaridgeTown_HerbShop_Text_1762A3:: @ 81762A3
 	.string "Kräutermedizin ist erstaunlich\n"
-	.string "wirkungsvoll. Aber deine POKéMON mögen\l"
+	.string "wirkungsvoll. Aber deine Pokémon mögen\l"
 	.string "sie nicht. Sie schmeckt bitter...$"

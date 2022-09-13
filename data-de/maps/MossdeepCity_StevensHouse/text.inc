@@ -4,7 +4,7 @@ MossdeepCity_StevensHouse_Text_18DA77:: @ 818DA77
 	.string "kahl die Räume hier sind.\p"
 	.string "Oh, hier, nimm diese VM.\p"
 	.string "Sie enthält TAUCHER. Ich habe das\n"
-	.string "meinen POKéMON schon beigebracht.$"
+	.string "meinen Pokémon schon beigebracht.$"
 
 MossdeepCity_StevensHouse_Text_18DB22:: @ 818DB22
 	.string "TROY: Wenn du SURFER einsetzt und\n"
@@ -30,7 +30,7 @@ MossdeepCity_StevensHouse_Text_18DC25:: @ 818DC25
 
 MossdeepCity_StevensHouse_Text_18DD12:: @ 818DD12
 	.string "{PLAYER} überprüft den POKéBALL.\p"
-	.string "Er enthält das POKéMON\n"
+	.string "Er enthält das Pokémon\n"
 	.string "TANHEL.\p"
 	.string "Den POKéBALL nehmen?$"
 
@@ -39,7 +39,7 @@ MossdeepCity_StevensHouse_Text_18DD61:: @ 818DD61
 
 MossdeepCity_StevensHouse_Text_18DD77:: @ 818DD77
 	.string "Es ist nicht genug Platz vorhanden für\n"
-	.string "ein weiteres POKéMON.$"
+	.string "ein weiteres Pokémon.$"
 
 MossdeepCity_StevensHouse_Text_18DD9E:: @ 818DD9E
 	.string "{PLAYER} legt den POKéBALL zurück.$"
@@ -58,7 +58,7 @@ MossdeepCity_StevensHouse_Text_18DDC2:: @ 818DDC2
 	.string "bitten.\p"
 	.string "Ich möchte, dass du den POKéBALL\n"
 	.string "nimmst, der auf dem Tisch liegt.\p"
-	.string "Er enthält mein Lieblings-POKéMON\n"
+	.string "Er enthält mein Lieblings-Pokémon\n"
 	.string "TANHEL.\p"
 	.string "Ich verlasse mich auf dich.\p"
 	.string "Mögen wir uns eines Tages wieder sehen.\p"
@@ -78,7 +78,7 @@ MossdeepCity_StevensHouse_Text_18DF1A:: @ 818DF1A
 	.string "bitten.\p"
 	.string "Ich möchte, dass du den POKéBALL\n"
 	.string "nimmst, der auf dem Tisch liegt.\p"
-	.string "Er enthält mein Lieblings-POKéMON\n"
+	.string "Er enthält mein Lieblings-Pokémon\n"
 	.string "TANHEL.\p"
 	.string "Ich verlasse mich auf dich.\p"
 	.string "Wenn du magst, nimm dir auch die VM\n"

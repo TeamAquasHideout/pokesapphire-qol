@@ -2,7 +2,7 @@ SootopolisCity_Gym_1F_Text_18E8A5:: @ 818E8A5
 	.string "Yo! How's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
 	.string "SOOTOPOLIS's GYM LEADER WALLACE is\n"
-	.string "a master of WATER-type POKéMON.\p"
+	.string "a master of WATER-type Pokémon.\p"
 	.string "And, to get to WALLACE, an icy floor\n"
 	.string "will hamper your progress...\p"
 	.string "Listen, I'm sorry, but that's all the\n"
@@ -15,7 +15,7 @@ SootopolisCity_Gym_1F_Text_18E9C9:: @ 818E9C9
 	.string "was supposedly the best in all HOENN!\p"
 	.string "Okay! Check out your TRAINER's CARD.\p"
 	.string "If you've gotten all the BADGES, you're\n"
-	.string "set for the POKéMON LEAGUE challenge!$"
+	.string "set for the Pokémon LEAGUE challenge!$"
 
 SootopolisCity_Gym_B1F_Text_18EA87:: @ 818EA87
 	.string "I'll show you the sublime techniques\n"
@@ -55,7 +55,7 @@ SootopolisCity_Gym_B1F_Text_18EC92:: @ 818EC92
 	.string "The grace you bring to battle is\n"
 	.string "fabulous.\p"
 	.string "Oh... I'm so fortunate to have found\n"
-	.string "POKéMON.$"
+	.string "Pokémon.$"
 
 SootopolisCity_Gym_B1F_Text_18ECEB:: @ 818ECEB
 	.string "I should teach you how harsh battles\n"
@@ -71,7 +71,7 @@ SootopolisCity_Gym_B1F_Text_18ED2B:: @ 818ED2B
 	.string "need to walk on each floor tile once.$"
 
 SootopolisCity_Gym_B1F_Text_18ED91:: @ 818ED91
-	.string "The POKéMON GYM of the highest level\n"
+	.string "The Pokémon GYM of the highest level\n"
 	.string "in the HOENN region...\p"
 	.string "That's the SOOTOPOLIS GYM.$"
 
@@ -85,7 +85,7 @@ SootopolisCity_Gym_B1F_Text_18EE03:: @ 818EE03
 	.string "But above all, it looks more fun.$"
 
 SootopolisCity_Gym_B1F_Text_18EE96:: @ 818EE96
-	.string "I train my POKéMON together with\n"
+	.string "I train my Pokémon together with\n"
 	.string "WALLACE.\p"
 	.string "Don't think I'm a pushover.$"
 
@@ -111,7 +111,7 @@ SootopolisCity_Gym_B1F_Text_18EFCA:: @ 818EFCA
 	.string "with how young or old you are.$"
 
 SootopolisCity_Gym_B1F_Text_18F037:: @ 818F037
-	.string "When I'm with my POKéMON, the time\n"
+	.string "When I'm with my Pokémon, the time\n"
 	.string "flies by before you can say, “Oops!”$"
 
 SootopolisCity_Gym_B1F_Text_18F07F:: @ 818F07F
@@ -133,17 +133,17 @@ SootopolisCity_Gym_1F_Text_18F0CA:: @ 818F0CA
 	.string "ORIGIN, and what you did, I will likely\l"
 	.string "learn through our upcoming battle.\p"
 	.string "Now, show me. Show me the power you\n"
-	.string "wield with your POKéMON.\p"
+	.string "wield with your Pokémon.\p"
 	.string "And I, in turn, shall present you with\n"
 	.string "a performance of illusions in water\l"
-	.string "by me and my POKéMON!$"
+	.string "by me and my Pokémon!$"
 
 SootopolisCity_Gym_1F_Text_18F282:: @ 818F282
 	.string "Bravo.\p"
 	.string "I realize now your authenticity and\n"
-	.string "magnificence as a POKéMON TRAINER.\p"
+	.string "magnificence as a Pokémon TRAINER.\p"
 	.string "I find much joy in having met you and\n"
-	.string "your POKéMON.\p"
+	.string "your Pokémon.\p"
 	.string "You have proven yourself worthy of\n"
 	.string "the RAIN BADGE. Accept it.$"
 
@@ -153,7 +153,7 @@ SootopolisCity_Gym_1F_Text_18F342:: @ 818F342
 
 SootopolisCity_Gym_1F_Text_18F36B:: @ 818F36B
 	.string "Having that BADGE assures you the\n"
-	.string "full obedience of all your POKéMON to\l"
+	.string "full obedience of all your Pokémon to\l"
 	.string "every command you make.\p"
 	.string "The BADGE also allows the use of the\n"
 	.string "HM move WATERFALL to scale walls\l"
@@ -171,22 +171,22 @@ SootopolisCity_Gym_1F_Text_18F4D7:: @ 818F4D7
 	.string "TRAINERS who have gathered all the\n"
 	.string "GYM BADGES of HOENN should make way\l"
 	.string "for the ultimate destination.\p"
-	.string "The POKéMON LEAGUE.\p"
+	.string "The Pokémon LEAGUE.\p"
 	.string "Travel to the easternmost reaches\n"
 	.string "of HOENN, to the island EVER GRANDE.\l"
-	.string "The POKéMON LEAGUE is there.$"
+	.string "The Pokémon LEAGUE is there.$"
 
 SootopolisCity_Gym_1F_Text_18F5B4:: @ 818F5B4
 	.string "There remains but one BADGE to\n"
 	.string "obtain in HOENN.\p"
-	.string "If you wish to challenge the POKéMON\n"
+	.string "If you wish to challenge the Pokémon\n"
 	.string "LEAGUE, you must obtain the last\l"
 	.string "BADGE from the GYM in FORTREE.$"
 
 SootopolisCity_Gym_1F_Text_18F649:: @ 818F649
-	.string "SOOTOPOLIS CITY POKéMON GYM$"
+	.string "SOOTOPOLIS CITY Pokémon GYM$"
 
 SootopolisCity_Gym_1F_Text_18F665:: @ 818F665
-	.string "SOOTOPOLIS CITY POKéMON GYM\p"
+	.string "SOOTOPOLIS CITY Pokémon GYM\p"
 	.string "WALLACE'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"

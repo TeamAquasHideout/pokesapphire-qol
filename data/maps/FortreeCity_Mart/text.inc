@@ -11,5 +11,5 @@ FortreeCity_Mart_Text_186251:: @ 8186251
 	.string "Better to be safe than sorry!$"
 
 FortreeCity_Mart_Text_1862CA:: @ 81862CA
-	.string "A RARE CANDY makes a POKéMON grow\n"
+	.string "A RARE CANDY makes a Pokémon grow\n"
 	.string "immediately by one level.$"

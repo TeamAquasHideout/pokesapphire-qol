@@ -15,7 +15,7 @@ MtPyre_2F_Text_196368:: @ 8196368
 
 MtPyre_2F_Text_1963CB:: @ 81963CB
 	.string "LEIF: Wenn du es mit mir aufnehmen\n"
-	.string "willst, brauchst du mehr POKéMON.\p"
+	.string "willst, brauchst du mehr Pokémon.\p"
 	.string "Hast du die nicht, kann ich meiner An-\n"
 	.string "gebeteten nicht beweisen, wie cool ich\l"
 	.string "bin!$"
@@ -37,10 +37,10 @@ MtPyre_2F_Text_196504:: @ 8196504
 
 MtPyre_2F_Text_196539:: @ 8196539
 	.string "INA: Wenn du gegen uns antreten willst,\n"
-	.string "solltest du mindestens zwei POKéMON\l"
+	.string "solltest du mindestens zwei Pokémon\l"
 	.string "besitzen.\p"
 	.string "Mein Freund ist stark. Daher wirst du\n"
-	.string "mit einem POKéMON nichts ausrichten.$"
+	.string "mit einem Pokémon nichts ausrichten.$"
 
 MtPyre_2F_Text_1965BB:: @ 81965BB
 	.string "Die Erinnerungen an meinen Liebling\n"
@@ -53,7 +53,7 @@ MtPyre_2F_Text_196600:: @ 8196600
 	.string "untere Stockwerk gefallen. Autsch, aua.$"
 
 MtPyre_2F_Text_196674:: @ 8196674
-	.string "Hey! Suchst du nach POKéMON? Du bist\n"
+	.string "Hey! Suchst du nach Pokémon? Du bist\n"
 	.string "mir hinterhergeschlichen! Fiesling!$"
 
 MtPyre_2F_Text_1966BE:: @ 81966BE
@@ -62,4 +62,4 @@ MtPyre_2F_Text_1966BE:: @ 81966BE
 
 MtPyre_2F_Text_1966E7:: @ 81966E7
 	.string "Hier sind nie viele Leute. Daher soll es\n"
-	.string "hier seltene POKéMON geben.$"
+	.string "hier seltene Pokémon geben.$"

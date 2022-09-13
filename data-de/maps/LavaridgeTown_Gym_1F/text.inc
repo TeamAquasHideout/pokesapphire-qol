@@ -2,9 +2,9 @@ LavaridgeTown_Gym_1F_Text_176312:: @ 8176312
 	.string "Na, wie sieht es aus, auf dem Weg zum\n"
 	.string "CHAMP, {PLAYER}?\p"
 	.string "Die ARENALEITERIN von BAD LAVA-\n"
-	.string "STADT, FLAVIA, setzt FEUER-POKéMON\l"
+	.string "STADT, FLAVIA, setzt FEUER-Pokémon\l"
 	.string "ein.\p"
-	.string "Ihre Leidenschaft für POKéMON brennt\n"
+	.string "Ihre Leidenschaft für Pokémon brennt\n"
 	.string "heißer und stärker als ein Vulkan.\p"
 	.string "Komm ihr nicht zu nahe - du verbrennst\n"
 	.string "dich! Lösche die Glut mit Wasser und\l"
@@ -56,7 +56,7 @@ LavaridgeTown_Gym_1F_Text_176660:: @ 8176660
 	.string "du dich ernsthaft.$"
 
 LavaridgeTown_Gym_1F_Text_1766D2:: @ 81766D2
-	.string "Kann dein POKéMON 200 Grad aushalten?$"
+	.string "Kann dein Pokémon 200 Grad aushalten?$"
 
 LavaridgeTown_Gym_1F_Text_1766FE:: @ 81766FE
 	.string "Die Hitze war nicht stark genug...$"
@@ -64,7 +64,7 @@ LavaridgeTown_Gym_1F_Text_1766FE:: @ 81766FE
 LavaridgeTown_Gym_1F_Text_17671D:: @ 817671D
 	.string "Die Temperatur von Magma beträgt\n"
 	.string "über 200 Grad.\p"
-	.string "Deine POKéMON haben mich besiegt, sie\n"
+	.string "Deine Pokémon haben mich besiegt, sie\n"
 	.string "sollten auch in Magma überleben können.$"
 
 LavaridgeTown_Gym_1F_Text_176784:: @ 8176784
@@ -103,7 +103,7 @@ LavaridgeTown_Gym_1F_Text_176960:: @ 8176960
 	.string "sein, der ich gar nicht bin.\p"
 	.string "Ich muss die Dinge auf meine eigene Art\n"
 	.string "angehen. Sonst verwirre ich nur meine\l"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "Danke, dass du mich das gelehrt hast!\n"
 	.string "Du hast dir das hier wohl verdient!$"
 
@@ -113,7 +113,7 @@ LavaridgeTown_Gym_1F_Text_176A62:: @ 8176A62
 
 LavaridgeTown_Gym_1F_Text_176A8C:: @ 8176A8C
 	.string "Mit dem HITZEORDEN gehorchen dir alle\n"
-	.string "POKéMON bis Level 50, auch die, die du\l"
+	.string "Pokémon bis Level 50, auch die, die du\l"
 	.string "durch Tausch erhalten hast.\p"
 	.string "Und du kannst ab sofort STÄRKE auch\n"
 	.string "außerhalb eines Kampfes einsetzen.\p"
@@ -125,7 +125,7 @@ LavaridgeTown_Gym_1F_Text_176B8F:: @ 8176B8F
 	.string "Diese Attacke richtet beim Gegner\n"
 	.string "großen Schaden an.\p"
 	.string "Aber gleichzeitig wird der SP. ANG.\n"
-	.string "des POKéMON, das die Attacke\p"
+	.string "des Pokémon, das die Attacke\p"
 	.string "anwendet, herabgesetzt. Für längere\n"
 	.string "Kämpfe ist sie daher nicht geeignet.$"
 
@@ -136,9 +136,9 @@ LavaridgeTown_Gym_1F_Text_176C4A:: @ 8176C4A
 	.string "der ARENALEITER von BLÜTENBURG CITY.$"
 
 LavaridgeTown_Gym_1F_Text_176CAF:: @ 8176CAF
-	.string "POKéMON ARENA von BAD LAVASTADT$"
+	.string "Pokémon ARENA von BAD LAVASTADT$"
 
 LavaridgeTown_Gym_1F_Text_176CCA:: @ 8176CCA
-	.string "POKéMON ARENA von BAD LAVASTADT\p"
+	.string "Pokémon ARENA von BAD LAVASTADT\p"
 	.string "FLAVIAS ANERKANNTE TRAINER:\n"
 	.string "{PLAYER}$"

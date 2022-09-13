@@ -14,7 +14,7 @@ SSTidalLowerDeck_Text_19942E:: @ 819942E
 SSTidalLowerDeck_Text_199491:: @ 8199491
 	.string "Dies ist der untere Bereich des Schiffs.\n"
 	.string "Hier gibt es sehr viel Platz.\l"
-	.string "Genau richtig für einen POKéMON-Kampf.$"
+	.string "Genau richtig für einen Pokémon-Kampf.$"
 
 SSTidalLowerDeck_Text_1994F7:: @ 81994F7
 	.string "Oh, großer Bruder. Ich habe verloren.$"

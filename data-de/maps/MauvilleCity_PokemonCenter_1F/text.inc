@@ -12,7 +12,7 @@ MauvilleCity_PokemonCenter_1F_Text_182622:: @ 8182622
 	.string "meines Freundes!$"
 
 MauvilleCity_PokemonCenter_1F_Text_1826A6:: @ 81826A6
-	.string "Im oberen Stockwerk des POKéMON-\n"
+	.string "Im oberen Stockwerk des Pokémon-\n"
 	.string "CENTERS wurde die Möglichkeit des\l"
 	.string "STATISTIKTAUSCHES eingerichtet.\p"
 	.string "Ich weiß nicht genau, was das ist. Aber\n"

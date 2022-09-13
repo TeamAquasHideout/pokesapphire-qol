@@ -6,7 +6,7 @@ RustboroCity_Gym_Text_183A4B:: @ 8183A4B
 	.string "ich kann dir trotzdem einen nützlichen\l"
 	.string "Rat geben.\p"
 	.string "Also, abgemacht! Wir werden zusammen\n"
-	.string "nach der POKéMON MEISTERSCHAFT\l"
+	.string "nach der Pokémon MEISTERSCHAFT\l"
 	.string "streben!\p"
 	.string "Als TRAINER musst du die ORDEN der\n"
 	.string "ARENEN sammeln, habe ich Recht?\p"
@@ -15,8 +15,8 @@ RustboroCity_Gym_Text_183A4B:: @ 8183A4B
 	.string "Und hier komme ich ins Spiel!\n"
 	.string "Ich werde dir einen Expertentipp geben!\p"
 	.string "FELIZIA, die ARENALEITERIN, setzt\n"
-	.string "GESTEINS-POKéMON ein.\p"
-	.string "Ein GESTEINS-POKéMON ist sehr zäh,\n"
+	.string "GESTEINS-Pokémon ein.\p"
+	.string "Ein GESTEINS-Pokémon ist sehr zäh,\n"
 	.string "hat aber gegen WASSER- und PFLANZEN-\l"
 	.string "Attacken keine Chance.\p"
 	.string "Komm wieder vorbei, wenn du die ARENA-\n"
@@ -45,7 +45,7 @@ RustboroCity_Gym_Text_183DDD:: @ 8183DDD
 
 RustboroCity_Gym_Text_183DF9:: @ 8183DF9
 	.string "Du hast noch gar nicht gesehen, was\n"
-	.string "GESTEINS-POKéMON alles können.$"
+	.string "GESTEINS-Pokémon alles können.$"
 
 RustboroCity_Gym_Text_183E38:: @ 8183E38
 	.string "Wenn du mich nicht besiegen kannst,\n"
@@ -63,10 +63,10 @@ RustboroCity_Gym_Text_183EE5:: @ 8183EE5
 	.string "Hallo, ich bin FELIZIA, die LEITERIN der\n"
 	.string "ARENA von METAROST CITY.\p"
 	.string "Ich wurde ARENALEITERIN, um mein\n"
-	.string "Wissen, das ich in der POKéMON TRAINER-\l"
+	.string "Wissen, das ich in der Pokémon TRAINER-\l"
 	.string "SCHULE erworben habe, umzusetzen.\p"
 	.string "Würdest du mir bitte zeigen, wie du\n"
-	.string "kämpfst und mit welchen POKéMON?$"
+	.string "kämpfst und mit welchen Pokémon?$"
 
 RustboroCity_Gym_Text_183FC4:: @ 8183FC4
 	.string "So...\n"
@@ -74,10 +74,10 @@ RustboroCity_Gym_Text_183FC4:: @ 8183FC4
 	.string "Es scheint, ich muss noch eine ganze\n"
 	.string "Menge lernen...\p"
 	.string "Ich verstehe schon.\p"
-	.string "Die Regeln der POKéMON LIGA schreiben\n"
+	.string "Die Regeln der Pokémon LIGA schreiben\n"
 	.string "vor, dass TRAINER, die einen ARENA-\l"
 	.string "LEITER besiegt haben, dieses erhalten.\p"
-	.string "Bitte nimm den offiziellen POKéMON LIGA\n"
+	.string "Bitte nimm den offiziellen Pokémon LIGA\n"
 	.string "STEINORDEN an!$"
 
 RustboroCity_Gym_Text_1840AB:: @ 81840AB
@@ -86,7 +86,7 @@ RustboroCity_Gym_Text_1840AB:: @ 81840AB
 
 RustboroCity_Gym_Text_1840D5:: @ 81840D5
 	.string "Der STEINORDEN erhöht die Kraft der\n"
-	.string "ATTACKEN deiner POKéMON.\p"
+	.string "ATTACKEN deiner Pokémon.\p"
 	.string "Außerdem sind sie nun in der Lage, die\n"
 	.string "VM ZERSCHNEIDER auch außerhalb eines\l"
 	.string "Kampfes einzusetzen.\p"
@@ -98,7 +98,7 @@ RustboroCity_Gym_Text_184170:: @ 8184170
 	.string "von Steinen Schaden an, sondern\l"
 	.string "reduziert auch die INITIATIVE.\p"
 	.string "Sobald du eine TM aktivierst, wird die\n"
-	.string "Attacke einem POKéMON beigebracht.\p"
+	.string "Attacke einem Pokémon beigebracht.\p"
 	.string "Aber vergiss nicht, dass eine TM nur\n"
 	.string "einmal beigebracht werden kann. Ihr\l"
 	.string "Einsatz will also überlegt sein.$"
@@ -110,9 +110,9 @@ RustboroCity_Gym_Text_184252:: @ 8184252
 	.string "gegen viele TRAINER antrittst.$"
 
 RustboroCity_Gym_Text_1842CC:: @ 81842CC
-	.string "POKéMON ARENA von METAROST CITY$"
+	.string "Pokémon ARENA von METAROST CITY$"
 
 RustboroCity_Gym_Text_1842E6:: @ 81842E6
-	.string "POKéMON ARENA von METAROST CITY\p"
+	.string "Pokémon ARENA von METAROST CITY\p"
 	.string "FELIZIAS ANERKANNTE TRAINER:\n"
 	.string "{PLAYER}$"

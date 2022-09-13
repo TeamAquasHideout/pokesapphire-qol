@@ -6,7 +6,7 @@ MtChimney_Text_1B2DEE:: @ 81B2DEE
 	.string "will stop.\p"
 	.string "Fufufu... Eventually, the cooled-down\n"
 	.string "crater will fill with rainwater, giving\l"
-	.string "WATER POKéMON a place to live.$"
+	.string "WATER Pokémon a place to live.$"
 
 MtChimney_Text_1B2ED9:: @ 81B2ED9
 	.string "ARCHIE: You again...\p"
@@ -17,9 +17,9 @@ MtChimney_Text_1B2ED9:: @ 81B2ED9
 	.string "That is why we of TEAM AQUA are\n"
 	.string "committed to expanding the sea.\p"
 	.string "Doing so will result in the emergence\n"
-	.string "of new POKéMON species.\p"
+	.string "of new Pokémon species.\p"
 	.string "We will return the world back to\n"
-	.string "nature for the good of POKéMON.\p"
+	.string "nature for the good of Pokémon.\p"
 	.string "That is TEAM AQUA's vision!\p"
 	.string "I can't allow an ignorant child like\n"
 	.string "you to get in our way.\p"
@@ -62,7 +62,7 @@ MtChimney_Text_1B32C8:: @ 81B32C8
 	.string "We of TEAM AQUA are working hard for\n"
 	.string "everyone's sake.\p"
 	.string "Like, if there's more water around,\n"
-	.string "WATER POKéMON will be happy, and it'll\l"
+	.string "WATER Pokémon will be happy, and it'll\l"
 	.string "give people more fun places to swim!$"
 
 MtChimney_Text_1B336E:: @ 81B336E
@@ -132,7 +132,7 @@ MtChimney_Text_1B36F1:: @ 81B36F1
 
 MtChimney_Text_1B372E:: @ 81B372E
 	.string "If they expand the sea, there'll be less\n"
-	.string "habitats for POKéMON and people!$"
+	.string "habitats for Pokémon and people!$"
 
 MtChimney_Text_1B3778:: @ 81B3778
 	.string "TEAM AQUA wants to expand the sea...\n"

@@ -468,7 +468,7 @@ static const u8 MoveDescription_Bide[] = _(
 
 static const u8 MoveDescription_Metronome[] = _(
     "Waggles a finger to use any\n"
-    "POKéMON move at random.");
+    "Pokémon move at random.");
 
 static const u8 MoveDescription_MirrorMove[] = _(
     "Counters the foe's attack\n"
@@ -775,7 +775,7 @@ static const u8 MoveDescription_DestinyBond[] = _(
     "is also made to faint.");
 
 static const u8 MoveDescription_PerishSong[] = _(
-    "Any POKéMON hearing this\n"
+    "Any Pokémon hearing this\n"
     "song faints in 3 turns.");
 
 static const u8 MoveDescription_IcyWind[] = _(
@@ -999,7 +999,7 @@ static const u8 MoveDescription_Whirlpool[] = _(
     "a whirlpool for 2 to 5 turns.");
 
 static const u8 MoveDescription_BeatUp[] = _(
-    "Summons party POKéMON to\n"
+    "Summons party Pokémon to\n"
     "join in the attack.");
 
 static const u8 MoveDescription_FakeOut[] = _(
@@ -1167,7 +1167,7 @@ static const u8 MoveDescription_ArmThrust[] = _(
     "strike the foe 2 to 5 times.");
 
 static const u8 MoveDescription_Camouflage[] = _(
-    "Alters the POKéMON's type\n"
+    "Alters the Pokémon's type\n"
     "depending on the location.");
 
 static const u8 MoveDescription_TailGlow[] = _(
@@ -1187,7 +1187,7 @@ static const u8 MoveDescription_FeatherDance[] = _(
     "to sharply reduce ATTACK.");
 
 static const u8 MoveDescription_TeeterDance[] = _(
-    "Confuses all POKéMON on\n"
+    "Confuses all Pokémon on\n"
     "the scene.");
 
 static const u8 MoveDescription_BlazeKick[] = _(

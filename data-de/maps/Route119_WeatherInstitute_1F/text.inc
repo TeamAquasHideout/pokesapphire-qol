@@ -32,7 +32,7 @@ Route119_WeatherInstitute_1F_Text_19ECF4:: @ 819ECF4
 
 Route119_WeatherInstitute_1F_Text_19ED22:: @ 819ED22
 	.string "Wow! Bist du aber stark!\p"
-	.string "Ich wäre auch gerne ein POKéMON-\n"
+	.string "Ich wäre auch gerne ein Pokémon-\n"
 	.string "TRAINER wie du!$"
 
 Route119_WeatherInstitute_1F_Text_19ED6B:: @ 819ED6B

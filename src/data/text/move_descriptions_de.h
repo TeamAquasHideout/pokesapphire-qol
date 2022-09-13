@@ -998,7 +998,7 @@ static const u8 MoveDescription_Whirlpool[] = _(
     "einem Strudel gefangen.");
 
 static const u8 MoveDescription_BeatUp[] = _(
-    "Ruft POKéMON hinzu, um an\n"
+    "Ruft Pokémon hinzu, um an\n"
     "dem Angriff teilzuhaben.");
 
 static const u8 MoveDescription_FakeOut[] = _(
@@ -1135,7 +1135,7 @@ static const u8 MoveDescription_Eruption[] = _(
 
 static const u8 MoveDescription_SkillSwap[] = _(
     "Anw. tauscht Spezial-\n"
-    "fähigkeit mit POKéMON.");
+    "fähigkeit mit Pokémon.");
 
 static const u8 MoveDescription_Imprison[] = _(
     "Hindert Gegner an Atta-\n"
@@ -1167,7 +1167,7 @@ static const u8 MoveDescription_ArmThrust[] = _(
 
 static const u8 MoveDescription_Camouflage[] = _(
     "Die Elementklasse des\n"
-    "POKéMON hängt vom Ort ab.");
+    "Pokémon hängt vom Ort ab.");
 
 static const u8 MoveDescription_TailGlow[] = _(
     "Ein blinkendes Licht. SPEZ.\n"
@@ -1186,7 +1186,7 @@ static const u8 MoveDescription_FeatherDance[] = _(
     "senkt ANGR.-Wert deutlich.");
 
 static const u8 MoveDescription_TeeterDance[] = _(
-    "Verwirrt alle POKéMON im \n"
+    "Verwirrt alle Pokémon im \n"
     "Kampf.");
 
 static const u8 MoveDescription_BlazeKick[] = _(

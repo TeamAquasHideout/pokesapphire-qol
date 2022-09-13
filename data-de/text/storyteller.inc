@@ -138,30 +138,30 @@ gTextStoryteller_Story6Text:: @ 81AF34D
 	.string "einem Kampf nicht nein sagt!$"
 
 gTextStoryteller_Story7Title:: @ 81AF3D0
-	.string "Der POKéMON fangende TRAINER$"
+	.string "Der Pokémon fangende TRAINER$"
 
 gTextStoryteller_Story7Action:: @ 81AF3ED
-	.string "Hast POKéMON gefangen?$"
+	.string "Hast Pokémon gefangen?$"
 
 gTextStoryteller_Story7Text:: @ 81AF3FC
 	.string "Dies ist die Geschichte eines TRAINERS\n"
 	.string "namens {STR_VAR_3}.\p"
 	.string "Dieser TRAINER hat {STR_VAR_1}\n"
-	.string "POKéMON gefangen!\p"
+	.string "Pokémon gefangen!\p"
 	.string "{STR_VAR_3} ist ein legendärer Fänger\n"
-	.string "von POKéMON!$"
+	.string "von Pokémon!$"
 
 gTextStoryteller_Story8Title:: @ 81AF46D
 	.string "Der angelnde TRAINER$"
 
 gTextStoryteller_Story8Action:: @ 81AF481
-	.string "Hast POKéMON mit einer ANGEL gefangen?$"
+	.string "Hast Pokémon mit einer ANGEL gefangen?$"
 
 gTextStoryteller_Story8Text:: @ 81AF49B
 	.string "Dies ist die Geschichte eines TRAINERS\n"
 	.string "namens {STR_VAR_3}.\p"
 	.string "Dieser TRAINER hat {STR_VAR_1}\n"
-	.string "POKéMON beim Angeln gefangen!\p"
+	.string "Pokémon beim Angeln gefangen!\p"
 	.string "{STR_VAR_3} ist ein legendärer Angel-\n"
 	.string "experte!$"
 
@@ -175,7 +175,7 @@ gTextStoryteller_Story9Text:: @ 81AF536
 	.string "Dies ist die Geschichte eines TRAINERS\n"
 	.string "namens {STR_VAR_3}.\p"
 	.string "Es passierte {STR_VAR_1}-mal, dass der TRAINER\n"
-	.string "ein POKéMON aus einem EI schlüpfen ließ!\p"
+	.string "ein Pokémon aus einem EI schlüpfen ließ!\p"
 	.string "{STR_VAR_3} ist ein legendärer Pfleger\n"
 	.string "von EIERN!$"
 
@@ -183,41 +183,41 @@ gTextStoryteller_Story10Title:: @ 81AF5A9
 	.string "Der TRAINER der Entwicklungen$"
 
 gTextStoryteller_Story10Action:: @ 81AF5BD
-	.string "Hast POKéMON sich entwickeln lassen?$"
+	.string "Hast Pokémon sich entwickeln lassen?$"
 
 gTextStoryteller_Story10Text:: @ 81AF5CD
 	.string "Dies ist die Geschichte eines TRAINERS\n"
 	.string "namens {STR_VAR_3}.\p"
 	.string "Dieser TRAINER hat {STR_VAR_1}\n"
-	.string "POKéMON zur Entwicklung gebracht!\p"
+	.string "Pokémon zur Entwicklung gebracht!\p"
 	.string "{STR_VAR_3} ist der ultimative Ent-\n"
-	.string "wickler von POKéMON!$"
+	.string "wickler von Pokémon!$"
 
 gTextStoryteller_Story11Title:: @ 81AF63F
 	.string "Der PKMN-CENTER liebende TRAINER$"
 
 gTextStoryteller_Story11Action:: @ 81AF661
-	.string "Gingst in ein POKéMON-CENTER?$"
+	.string "Gingst in ein Pokémon-CENTER?$"
 
 gTextStoryteller_Story11Text:: @ 81AF676
 	.string "Dies ist die Geschichte eines TRAINERS\n"
 	.string "namens {STR_VAR_3}.\p"
-	.string "Dieser TRAINER hat POKéMON\n"
-	.string "{STR_VAR_1}-mal in einem POKéMON-CENTER\l"
+	.string "Dieser TRAINER hat Pokémon\n"
+	.string "{STR_VAR_1}-mal in einem Pokémon-CENTER\l"
 	.string "heilen lassen!\p"
 	.string "Es gibt keinen größeren Fan der\n"
-	.string "POKéMON-CENTER als {STR_VAR_3}!$"
+	.string "Pokémon-CENTER als {STR_VAR_3}!$"
 
 gTextStoryteller_Story12Title:: @ 81AF711
 	.string "Der gastfreundliche TRAINER$"
 
 gTextStoryteller_Story12Action:: @ 81AF726
-	.string "POKéMON haben sich bei dir erholt?$"
+	.string "Pokémon haben sich bei dir erholt?$"
 
 gTextStoryteller_Story12Text:: @ 81AF73D
 	.string "Dies ist die Geschichte eines TRAINERS\n"
 	.string "namens {STR_VAR_3}.\p"
-	.string "Dieser TRAINER hat POKéMON\n"
+	.string "Dieser TRAINER hat Pokémon\n"
 	.string "{STR_VAR_1}-mal bei sich zu Hause ausruhen\l"
 	.string "und heilen lassen.\p"
 	.string "Kein TRAINER ist so gastfreundlich\n"
@@ -376,7 +376,7 @@ gTextStoryteller_Story23Text:: @ 81AFEEE
 	.string "Dieser TRAINER hat {STR_VAR_1}-mal\n"
 	.string "an einem WETTBEWERB teilgenommen!\p"
 	.string "{STR_VAR_3} liebt es, anderen seine\n"
-	.string "POKéMON zu zeigen.$"
+	.string "Pokémon zu zeigen.$"
 
 gTextStoryteller_Story24Title:: @ 81AFF68
 	.string "Der Meister der WETTBEWERBE$"
@@ -445,7 +445,7 @@ gTextStoryteller_Story28Text:: @ 81B0213
 	.string "Dieser TRAINER hat {STR_VAR_1}-mal\n"
 	.string "im POKéDEX nachgeschlagen!\p"
 	.string "{STR_VAR_3} liebt es, alles über\n"
-	.string "POKéMON im POKéDEX nachzulesen.$"
+	.string "Pokémon im POKéDEX nachzulesen.$"
 
 gTextStoryteller_Story29Title:: @ 81B0290
 	.string "Der Sammler der BÄNDER$"
@@ -504,7 +504,7 @@ gTextStoryteller_Story32Text:: @ 81B049A
 	.string "TRAINER, der sich der Zeit bewusst ist.$"
 
 gTextStoryteller_Story33Title:: @ 81B0523
-	.string "Der Zauberer der POKéMON-LOTTERIE$"
+	.string "Der Zauberer der Pokémon-LOTTERIE$"
 
 gTextStoryteller_Story33Action:: @ 81B053E
 	.string "Hast in der LOTTERIE gewonnen?$"
@@ -513,24 +513,24 @@ gTextStoryteller_Story33Text:: @ 81B0554
 	.string "Dies ist die Geschichte eines TRAINERS\n"
 	.string "namens {STR_VAR_3}.\p"
 	.string "Dieser TRAINER hat {STR_VAR_1}-mal\n"
-	.string "in der POKéMON-LOTTERIE gewonnen!\p"
+	.string "in der Pokémon-LOTTERIE gewonnen!\p"
 	.string "TRAINER {STR_VAR_3} hat viele Freunde,\n"
-	.string "die mit ihm POKéMON tauschen.$"
+	.string "die mit ihm Pokémon tauschen.$"
 
 gTextStoryteller_Story34Title:: @ 81B05D8
 	.string "Der TRAINER und die PENSION$"
 
 gTextStoryteller_Story34Action:: @ 81B05F3
-	.string "Hast POKéMON in die PENSION gebracht?$"
+	.string "Hast Pokémon in die PENSION gebracht?$"
 
 gTextStoryteller_Story34Text:: @ 81B0610
 	.string "Dies ist die Geschichte eines TRAINERS\n"
 	.string "namens {STR_VAR_3}.\p"
 	.string "Dieser TRAINER hat {STR_VAR_1}-mal\n"
-	.string "seine POKéMON in die PENSION gegeben!\p"
+	.string "seine Pokémon in die PENSION gegeben!\p"
 	.string "{STR_VAR_3} ist ein Ellenbogentyp, der\n"
 	.string "alles für die Entwicklung seiner\l"
-	.string "POKéMON tut.$"
+	.string "Pokémon tut.$"
 
 gTextStoryteller_Story35Title:: @ 81B06A9
 	.string "Der SEILBAHN verrückte TRAINER$"

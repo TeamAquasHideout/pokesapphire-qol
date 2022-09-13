@@ -14,7 +14,7 @@ LilycoveCity_LilycoveMuseum_2F_Text_187C64:: @ 8187C64
 	.string "berühmte Werke begrenzt!\p"
 	.string "In diesem Ausstellungsraum will ich...\p"
 	.string "Moderne und lebendige Kunst über\n"
-	.string "POKéMON sehen, die bereit sind, in\l"
+	.string "Pokémon sehen, die bereit sind, in\l"
 	.string "ein ruhmreiches Leben zu treten!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_187E1D:: @ 8187E1D
@@ -22,7 +22,7 @@ LilycoveCity_LilycoveMuseum_2F_Text_187E1D:: @ 8187E1D
 	.string "mit meinen Monologen langweilen.\p"
 	.string "Nun, du bist jung und offensichtlich\n"
 	.string "weit gereist...\p"
-	.string "Du hast bestimmt schon viele POKéMON\n"
+	.string "Du hast bestimmt schon viele Pokémon\n"
 	.string "gesehen und Bilder, die sie darstellen.\p"
 	.string "Wenn du ein solches Bild siehst, kannst\n"
 	.string "du den Künstler bitte fragen, ob wir\l"
@@ -31,12 +31,12 @@ LilycoveCity_LilycoveMuseum_2F_Text_187E1D:: @ 8187E1D
 LilycoveCity_LilycoveMuseum_2F_Text_187F4E:: @ 8187F4E
 	.string "Ich möchte diesen Ausstellungsraum mit\n"
 	.string "modernen und lebendigen Gemälden von\l"
-	.string "POKéMON füllen.$"
+	.string "Pokémon füllen.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_187F9D:: @ 8187F9D
 	.string "Dank dir konnten wir ein neues Gemälde\n"
 	.string "für unsere Kollektion erwerben!\p"
-	.string "Ich habe gehört, es stellt dein POKéMON\n"
+	.string "Ich habe gehört, es stellt dein Pokémon\n"
 	.string "dar. Wirklich einzigartig!\p"
 	.string "Vielen, vielen Dank!$"
 
@@ -92,23 +92,23 @@ LilycoveCity_LilycoveMuseum_2F_Text_1882E6:: @ 81882E6
 	.string "Verzierungen.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_18831A:: @ 818831A
-	.string "Ein Bild eines POKéMON.$"
+	.string "Ein Bild eines Pokémon.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_188336:: @ 8188336
 	.string "Ich war eine Weile nicht hier, daher\n"
 	.string "haben mich die neuen Gemälde über-\l"
 	.string "rascht.\p"
 	.string "Ich wünschte, jemand würde mein\n"
-	.string "POKéMON so wunderbar porträtieren.$"
+	.string "Pokémon so wunderbar porträtieren.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_1883AB:: @ 81883AB
 	.string "Nun... Hier stellen sie also Werke zum\n"
-	.string "Thema POKéMON aus.\p"
+	.string "Thema Pokémon aus.\p"
 	.string "Ich sehe schon. Die Gemälde sind\n"
 	.string "wirklich amüsant.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_188423:: @ 8188423
 	.string "Wow, ehrlich?\n"
-	.string "Das sind Gemälde deiner POKéMON?\p"
+	.string "Das sind Gemälde deiner Pokémon?\p"
 	.string "Ist das nicht die absolute Freude für\n"
 	.string "einen TRAINER?$"

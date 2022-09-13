@@ -25,12 +25,12 @@ UnknownString_81C35A9: @ 81C35A9
 Route121_SafariZoneEntrance_Text_1C35D0:: @ 81C35D0
 	.string "Welcome to the SAFARI ZONE!\p"
 	.string "Here, you may witness many kinds of\n"
-	.string "POKéMON rarely seen in HOENN.\p"
+	.string "Pokémon rarely seen in HOENN.\p"
 	.string "And, you'll see them in their wild,\n"
 	.string "untamed state in natural habitats.\p"
 	.string "What's more, we've thrown open the\n"
-	.string "gates to POKéMON TRAINERS.\p"
-	.string "You're encouraged to catch POKéMON\n"
+	.string "gates to Pokémon TRAINERS.\p"
+	.string "You're encouraged to catch Pokémon\n"
 	.string "for keeps!\p"
 	.string "Come in and enjoy the SAFARI ZONE!$"
 
@@ -44,7 +44,7 @@ Route121_SafariZoneEntrance_Text_1C373C:: @ 81C373C
 Route121_SafariZoneEntrance_Text_1C375F:: @ 81C375F
 	.string "When you enter the SAFARI ZONE, you\n"
 	.string "start with 30 SAFARI BALLS for\l"
-	.string "catching POKéMON.\p"
+	.string "catching Pokémon.\p"
 	.string "The SAFARI Game is over when you run\n"
 	.string "out of SAFARI BALLS, or when you've\l"
 	.string "walked 500 steps.\p"
@@ -112,44 +112,44 @@ SafariZone_Southeast_Text_1C3B2D:: @ 81C3B2D
 SafariZone_Southeast_Text_1C3B71:: @ 81C3B71
 	.string "Did you know?\p"
 	.string "If you put a {POKEBLOCK} in that square box,\n"
-	.string "POKéMON gather around.$"
+	.string "Pokémon gather around.$"
 
 SafariZone_Southeast_Text_1C3BBD:: @ 81C3BBD
 	.string "I want to keep going deeper, but I\n"
 	.string "forgot to bring a BIKE.\p"
-	.string "Something tells me that rare POKéMON\n"
+	.string "Something tells me that rare Pokémon\n"
 	.string "live in the outlying areas.$"
 
 SafariZone_Southwest_Text_1C3C39:: @ 81C3C39
 	.string "Sometimes, when I toss a {POKEBLOCK} at \n"
-	.string "POKéMON, it gets ignored.\p"
-	.string "Do POKéMON have likes and dislikes\n"
+	.string "Pokémon, it gets ignored.\p"
+	.string "Do Pokémon have likes and dislikes\n"
 	.string "about what they eat?$"
 
 SafariZone_Northwest_Text_1C3CAE:: @ 81C3CAE
 	.string "Gasp... Gasp...\n"
 	.string "I...made it out here...but...\p"
 	.string "I'm exhausted... I don't have the\n"
-	.string "energy to catch POKéMON...$"
+	.string "energy to catch Pokémon...$"
 
 SafariZone_Northeast_Text_1C3D19:: @ 81C3D19
-	.string "I'm on a mission to find WATER POKéMON\n"
+	.string "I'm on a mission to find WATER Pokémon\n"
 	.string "you don't see in HOENN.\p"
 	.string "Do you have any idea where the lake is?$"
 
 SafariZone_Northeast_Text_1C3D80:: @ 81C3D80
-	.string "I'm going to catch a lot of rare POKéMON\n"
+	.string "I'm going to catch a lot of rare Pokémon\n"
 	.string "here and trade them with my friends!$"
 
 SafariZone_Southeast_Text_1C3DCE:: @ 81C3DCE
 	.string "I put a {POKEBLOCK} on the {POKEBLOCK} FEEDER.\n"
 	.string "But it seems to have disappeared.\p"
-	.string "I guess POKéMON must have eaten it\n"
+	.string "I guess Pokémon must have eaten it\n"
 	.string "without me noticing.$"
 
 Route121_SafariZoneEntrance_Text_1C3E4B:: @ 81C3E4B
 	.string "SAFARI ZONE TRAINER TIP!\p"
-	.string "Throw {POKEBLOCK}S at wild POKéMON to make\n"
+	.string "Throw {POKEBLOCK}S at wild Pokémon to make\n"
 	.string "them less likely to flee.$"
 
 SafariZone_Southwest_Text_1C3EA3:: @ 81C3EA3
@@ -158,19 +158,19 @@ SafariZone_Southwest_Text_1C3EA3:: @ 81C3EA3
 
 SafariZone_RestHouse_Text_1C3EC9:: @ 81C3EC9
 	.string "I don't have any {POKEBLOCK}S, but I caught\n"
-	.string "a good number of POKéMON.\p"
+	.string "a good number of Pokémon.\p"
 	.string "You can improve your chances of making\n"
 	.string "a catch by getting closer to them\l"
 	.string "before throwing a SAFARI BALL.$"
 
 SafariZone_RestHouse_Text_1C3F71:: @ 81C3F71
-	.string "If you use {POKEBLOCK}S, wild POKéMON won't\n"
+	.string "If you use {POKEBLOCK}S, wild Pokémon won't\n"
 	.string "be so quick to run away.\p"
 	.string "It's not much use to give {POKEBLOCK}S to\n"
-	.string "POKéMON that don't flee easily.$"
+	.string "Pokémon that don't flee easily.$"
 
 SafariZone_RestHouse_Text_1C3FF4:: @ 81C3FF4
 	.string "If you put a {POKEBLOCK} on the FEEDER,\n"
-	.string "POKéMON are attracted to it.\p"
-	.string "I think POKéMON with the same sort of\n"
+	.string "Pokémon are attracted to it.\p"
+	.string "I think Pokémon with the same sort of\n"
 	.string "nature are drawn by a certain {POKEBLOCK}.$"

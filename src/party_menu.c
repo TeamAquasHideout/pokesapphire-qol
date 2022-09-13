@@ -3267,8 +3267,6 @@ void Task_TeamMonTMMove2(u8 taskId)
     StringExpandPlaceholders(gStringVar4, gOtherText_LearnedMove);
     DisplayPartyMenuMessage(gStringVar4, 1);
     AdjustFriendship(gPartyMenu.pokemon, FRIENDSHIP_EVENT_LEARN_TMHM);
-    if (ePartyMenu2.pmUnk282 == 0 && gPartyMenu.secondarySelectedIndex < ITEM_HM01_CUT)
-        RemoveBagItem(gPartyMenu.secondarySelectedIndex, 1);
     gTasks[taskId].func = Task_TeamMonTMMove3;
 }
 
@@ -4291,7 +4289,8 @@ void DoEvolutionStoneItemEffect(u8 taskId, u16 evolutionStoneItem, TaskFunc c)
     }
     else
     {
-        RemoveBagItem(evolutionStoneItem, 1);
+        return;
+        //RemoveBagItem(evolutionStoneItem, 1);
     }
 }
 

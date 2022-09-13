@@ -1,7 +1,7 @@
 SootopolisCity_Mart_Text_18F890:: @ 818F890
 	.string "AP-PLUS ist sehr nützlich!\p"
 	.string "Es steigert die ANGRIFFSPUNKTE, die AP\n"
-	.string "einer POKéMON-Attacke.$"
+	.string "einer Pokémon-Attacke.$"
 
 SootopolisCity_Mart_Text_18F8D7:: @ 818F8D7
 	.string "Was... Was ist passiert?$"

@@ -16,11 +16,11 @@ LittlerootTown_Text_16A8EE:: @ 816A8EE
 LittlerootTown_Text_16A8FD:: @ 816A8FD
 	.string "MUTTER: {PLAYER}! Hast du dich schon\n"
 	.string "PROF. BIRK vorgestellt?\p"
-	.string "Oh! Was für ein hübsches POKéMON! Du\n"
+	.string "Oh! Was für ein hübsches Pokémon! Du\n"
 	.string "hast es von PROF. BIRK erhalten? Toll!\p"
 	.string "Du bist das Kind deines Vaters! Wunder-\n"
 	.string "bar. Du siehst gut aus mit deinem\l"
-	.string "POKéMON!\p"
+	.string "Pokémon!\p"
 	.string "Hier, Liebling! Für eine Abenteuerreise\n"
 	.string "sind diese TURBOTRETER wie geschaffen.\p"
 	.string "Sie werden deinen Schritt\n"
@@ -42,7 +42,7 @@ LittlerootTown_Text_16AB10:: @ 816AB10
 	.string "... ... ... ... ... ... ... ...\n"
 	.string "... ... ... ... ... ... ... ...\p"
 	.string "Sich vorzustellen, dass du nun dein\n"
-	.string "eigenes POKéMON besitzt...\l"
+	.string "eigenes Pokémon besitzt...\l"
 	.string "Dein Vater wird überglücklich sein.\p"
 	.string "...Aber sei bitte vorsichtig.\n"
 	.string "Sollte etwas passieren, komm wieder\l"
@@ -51,7 +51,7 @@ LittlerootTown_Text_16AB10:: @ 816AB10
 
 LittlerootTown_Text_16AC00:: @ 816AC00
 	.string "Wenn du einen PC benutzt, kannst du\n"
-	.string "dort Items und POKéMON lagern.\p"
+	.string "dort Items und Pokémon lagern.\p"
 	.string "Die Kraft der Wissenschaft ist\n"
 	.string "atemberaubend!$"
 
@@ -66,10 +66,10 @@ LittlerootTown_Text_16AC56:: @ 816AC56
 LittlerootTown_Text_16ACEB:: @ 816ACEB
 	.string "Wenn du in das hohe Gras am Seitenrand\n"
 	.string "der Pfade gehst, triffst du auf\l"
-	.string "wilde POKéMON.$"
+	.string "wilde Pokémon.$"
 
 LittlerootTown_Text_16AD3C:: @ 816AD3C
-	.string "Hast du keine POKéMON dabei, ist es\n"
+	.string "Hast du keine Pokémon dabei, ist es\n"
 	.string "dort sehr gefährlich.$"
 
 LittlerootTown_Text_16AD82:: @ 816AD82
@@ -83,7 +83,7 @@ LittlerootTown_Text_16ADF2:: @ 816ADF2
 	.string "PROFESSOR gerettet hast!$"
 
 LittlerootTown_Text_16AE25:: @ 816AE25
-	.string "Gehst du POKéMON fangen?\n"
+	.string "Gehst du Pokémon fangen?\n"
 	.string "Viel Glück!$"
 
 LittlerootTown_Text_16AE50:: @ 816AE50
@@ -91,7 +91,7 @@ LittlerootTown_Text_16AE50:: @ 816AE50
 	.string "“Ein Ort, wie es ihn nur einmal gibt.”$"
 
 LittlerootTown_Text_16AE87:: @ 816AE87
-	.string "PROF. BIRKS POKéMON-LABOR$"
+	.string "PROF. BIRKS Pokémon-LABOR$"
 
 LittlerootTown_Text_16AEA1:: @ 816AEA1
 	.string "HAUS von {PLAYER}$"

@@ -1,5 +1,5 @@
 BattleTower_BattleRoom_Text_19ACDC:: @ 819ACDC
-	.string "Wir heilen deine POKéMON und machen\n"
+	.string "Wir heilen deine Pokémon und machen\n"
 	.string "sie wieder fit!$"
 
 BattleTower_BattleRoom_Text_19AD09:: @ 819AD09

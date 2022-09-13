@@ -17,7 +17,7 @@ Route110_Text_16E76A:: @ 816E76A
 Route110_Text_16E7A1:: @ 816E7A1
 	.string "MAY: Hi, {PLAYER}{KUN}, long time no see!\p"
 	.string "While I was searching for other\n"
-	.string "POKéMON, my POKéMON grew stronger.\p"
+	.string "Pokémon, my Pokémon grew stronger.\p"
 	.string "So...\n"
 	.string "How about a little battle?$"
 
@@ -44,7 +44,7 @@ Route110_Text_16E99A:: @ 816E99A
 	.string "BRENDAN: Hey, {PLAYER}.\n"
 	.string "So this is where you were.\l"
 	.string "How's it going?\p"
-	.string "Have you been raising your POKéMON?\n"
+	.string "Have you been raising your Pokémon?\n"
 	.string "I'll check for you.$"
 
 Route110_Text_16EA0F:: @ 816EA0F
@@ -64,7 +64,7 @@ Route110_Text_16EA7B:: @ 816EA7B
 	.string "If it senses something, it emits a\n"
 	.string "sound.\p"
 	.string "Anyway, I'm off to look for new\n"
-	.string "POKéMON.$"
+	.string "Pokémon.$"
 
 Route110_Text_16EB22:: @ 816EB22
 	.string "Wouldn't it be great to ride a BIKE\n"
@@ -94,7 +94,7 @@ Route110_Text_16EBC9:: @ 816EBC9
 
 Route110_Text_16EDC5:: @ 816EDC5
 	.string "The two roads, one above, one below...\p"
-	.string "A road each for people and POKéMON.\n"
+	.string "A road each for people and Pokémon.\n"
 	.string "Perhaps that is right and fair.$"
 
 Route110_Text_16EE30:: @ 816EE30
@@ -111,7 +111,7 @@ Route110_Text_16EEF6:: @ 816EEF6
 	.string "Which should I choose?\p"
 	.string "Make a beeline for MAUVILLE on\n"
 	.string "CYCLING ROAD, or take the low road\l"
-	.string "and look for POKéMON?$"
+	.string "and look for Pokémon?$"
 
 Route110_Text_16EF65:: @ 816EF65
 	.string "Number of collisions:\n"
@@ -195,7 +195,7 @@ Route110_Text_16F429:: @ 816F429
 	.string "The foe can be made helpless by\n"
 	.string "paralyzing it or causing it to sleep.\p"
 	.string "It is an important technique for\n"
-	.string "POKéMON battles.$"
+	.string "Pokémon battles.$"
 
 Route110_Text_16F4AE:: @ 816F4AE
 	.string "TRAINER TIPS\p"

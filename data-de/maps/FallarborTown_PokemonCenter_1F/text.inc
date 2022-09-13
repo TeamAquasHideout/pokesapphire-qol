@@ -4,7 +4,7 @@ FallarborTown_PokemonCenter_1F_Text_1774D4:: @ 81774D4
 	.string "Du heißt {PLAYER}{KUN}?\n"
 	.string "Ich sehe schon, du bist ein TRAINER.\p"
 	.string "Und das bedeutet, du nutzt das\n"
-	.string "POKéMON-Lagerungs-System, das ich\l"
+	.string "Pokémon-Lagerungs-System, das ich\l"
 	.string "entwickelt habe.\p"
 	.string "Ich bin durch simple Deduktion zu\n"
 	.string "diesem Schluss gekommen.\p"
@@ -19,7 +19,7 @@ FallarborTown_PokemonCenter_1F_Text_1774D4:: @ 81774D4
 	.string "Ich wohne an der ROUTE 114.$"
 
 FallarborTown_PokemonCenter_1F_Text_17768C:: @ 817768C
-	.string "Ich frage mich, wie die POKéMON wohl\n"
+	.string "Ich frage mich, wie die Pokémon wohl\n"
 	.string "vor langer, langer Zeit aussahen.\p"
 	.string "Vielleicht kann mir der FOSSILMANIAC\n"
 	.string "am Ortsrand etwas dazu sagen.$"

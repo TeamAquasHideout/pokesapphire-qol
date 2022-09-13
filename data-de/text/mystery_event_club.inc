@@ -2,7 +2,7 @@ PetalburgCity_PokemonCenter_1F_Text_1B1C97:: @ 81B1C97
 	.string "Hallo, du! TRAINER!\n"
 	.string "Du hast ein wundervolles Lächeln.\p"
 	.string "Ich habe ein Hobby: Ich sammle die\n"
-	.string "Profile von POKéMON-TRAINERN.$"
+	.string "Profile von Pokémon-TRAINERN.$"
 
 PetalburgCity_PokemonCenter_1F_Text_1B1D10:: @ 81B1D10
 	.string "Nun, wie sieht es aus?\n"
@@ -20,7 +20,7 @@ PetalburgCity_PokemonCenter_1F_Text_1B1D3A:: @ 81B1D3A
 	.string "Dir stehen sehr viele Begriffe\n"
 	.string "zur Verfügung.\p"
 	.string "Sie sind nach Gruppen sortiert, wie\n"
-	.string "POKéMON, Lifestyle und Hobbies. So\l"
+	.string "Pokémon, Lifestyle und Hobbies. So\l"
 	.string "hast du einen besseren Überblick.\p"
 	.string "Wähle zunächst eine Gruppe aus, um\n"
 	.string "eine Liste entsprechender Begriffe\p"

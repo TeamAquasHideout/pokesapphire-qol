@@ -118,7 +118,7 @@ UseRockSmashPromptText: @ 81B0F4B
 	.string "Would you like to use ROCK SMASH?$"
 
 CannotUseRockSmashText: @ 81B0F90
-	.string "It's a rugged rock, but a POKéMON\n"
+	.string "It's a rugged rock, but a Pokémon\n"
 	.string "may be able to smash it.$"
 
 S_PushableBoulder:: @ 81B0FCB
@@ -167,7 +167,7 @@ Strength_ChoseNo: @ 81B103A
 	end
 
 UseStrengthPromptText: @ 81B103D
-	.string "It's a big boulder, but a POKéMON\n"
+	.string "It's a big boulder, but a Pokémon\n"
 	.string "may be able to push it aside.\p"
 	.string "Would you like to use STRENGTH?$"
 
@@ -177,7 +177,7 @@ UsedStrengthText: @ 81B109D
 	.string "to move boulders around.$"
 
 CannotUseStrengthText: @ 81B10E7
-	.string "It's a big boulder, but a POKéMON\n"
+	.string "It's a big boulder, but a Pokémon\n"
 	.string "may be able to push it aside.$"
 
 AlreadyUsedStrengthText: @ 81B1127
@@ -270,7 +270,7 @@ UnderwaterDive_Done: @ 81B12BE
 	end
 
 CannotUseDiveText: @ 81B12C0
-	.string "The sea is deep here. A POKéMON may be\n"
+	.string "The sea is deep here. A Pokémon may be\n"
 	.string "able to go underwater here.$"
 
 UseDivePromptText: @ 81B1303
@@ -282,7 +282,7 @@ UsedDiveText: @ 81B1335
 
 UnderwaterCannotUseDiveText: @ 81B1343
 	.string "Light is filtering down from above.\n"
-	.string "A POKéMON may be able to surface here.$"
+	.string "A Pokémon may be able to surface here.$"
 
 UnderwaterUseDivePromptText: @ 81B138E
 	.string "Light is filtering down from above.\n"

@@ -53,7 +53,7 @@ gLandmarkName_RusturfTunnel::
 	.string "RUSTURF TUNNEL$"
 
 gLandmarkName_PokemonDayCare::
-	.string "POKéMON DAY CARE$"
+	.string "Pokémon DAY CARE$"
 
 gLandmarkName_SafariZoneEntrance::
 	.string "SAFARI ZONE ENTRANCE$"

@@ -1,7 +1,7 @@
 UnknownString_8173A9D: @ 8173A9D
-	.string "POKéMON & IHRE LEBENSRÄUME...\n"
-	.string "DIE KOEXISTENZ VON MENSCH & POKéMON...\l"
-	.string "POKéMONOLOGIE FÜR ANFÄNGER...\p"
+	.string "Pokémon & IHRE LEBENSRÄUME...\n"
+	.string "DIE KOEXISTENZ VON MENSCH & Pokémon...\l"
+	.string "PokémonOLOGIE FÜR ANFÄNGER...\p"
 	.string "Es biegt sich unter der Last der Bücher,\n"
 	.string "die PROF. BIRK geschrieben hat.$"
 
@@ -27,7 +27,7 @@ LittlerootTown_ProfessorBirchsLab_Text_173C88:: @ 8173C88
 
 LittlerootTown_ProfessorBirchsLab_Text_173D15:: @ 8173D15
 	.string "PROF. BIRK studiert den Lebensraum\n"
-	.string "und die Verbreitung von POKéMON.\p"
+	.string "und die Verbreitung von Pokémon.\p"
 	.string "Der PROF freut sich über die Mitarbeit\n"
 	.string "von {RIVAL}. Da spürt man Zuneigung!$"
 
@@ -36,13 +36,13 @@ LittlerootTown_ProfessorBirchsLab_Text_173D94:: @ 8173D94
 	.string "Dein Vater hat mir schon viel von dir\n"
 	.string "erzählt.\p"
 	.string "Ich habe auch erfahren, dass du noch\n"
-	.string "kein eigenes POKéMON besitzt.\p"
+	.string "kein eigenes Pokémon besitzt.\p"
 	.string "Aber wie du eben gekämpft hast...\n"
 	.string "Diese Gelassenheit...\p"
 	.string "In deinen Adern fließt wirklich das Blut\n"
 	.string "deines Vaters!\p"
 	.string "Als Dank dafür, dass du mich gerettet\n"
-	.string "hast, möchte ich dir das POKéMON\l"
+	.string "hast, möchte ich dir das Pokémon\l"
 	.string "schenken, das du dabei benutzt hast.\p"
 	.string "{PLAYER} erhält {STR_VAR_1}!$"
 
@@ -52,11 +52,11 @@ LittlerootTown_ProfessorBirchsLab_Text_173EF8:: @ 8173EF8
 
 LittlerootTown_ProfessorBirchsLab_Text_173F3D:: @ 8173F3D
 	.string "PROF. BIRK: Wenn du dich erst einmal\n"
-	.string "mit POKéMON beschäftigst und Er-\l"
+	.string "mit Pokémon beschäftigst und Er-\l"
 	.string "fahrungen sammelst, wirst du bestimmt\l"
 	.string "ein verdammt guter TRAINER!\p"
 	.string "Mein Nachwuchs, {RIVAL}, studiert an\n"
-	.string "der ROUTE 103 POKéMON.\p"
+	.string "der ROUTE 103 Pokémon.\p"
 	.string "Hast du nicht Lust, {RIVAL} dort\n"
 	.string "zu suchen?$"
 
@@ -75,7 +75,7 @@ LittlerootTown_ProfessorBirchsLab_Text_1740B4:: @ 81740B4
 	.string "PROF. BIRK: {RIVAL} muss irgendwo\n"
 	.string "auf der ROUTE 103 zu finden sein.\p"
 	.string "Falls du müde bist - oder deine\n"
-	.string "POKéMON - ruh dich zu Hause aus.$"
+	.string "Pokémon - ruh dich zu Hause aus.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_17411F:: @ 817411F
 	.string "PROF. BIRK: Oh, hallo, {PLAYER}{KUN}!\p"
@@ -96,16 +96,16 @@ LittlerootTown_ProfessorBirchsLab_Text_17422F:: @ 817422F
 LittlerootTown_ProfessorBirchsLab_Text_174248:: @ 8174248
 	.string "PROF. BIRK: Der POKéDEX ist ein hoch\n"
 	.string "entwickeltes, technisches Gerät, das\l"
-	.string "automatisch jedes POKéMON, das du\l"
+	.string "automatisch jedes Pokémon, das du\l"
 	.string "siehst oder fängst, registriert.\p"
 	.string "{RIVAL} geht nie ohne ihn aus dem Haus.\p"
 	.string "Immer wenn mein Kind ein seltenes\n"
-	.string "POKéMON fängt, kommt es und\l"
+	.string "Pokémon fängt, kommt es und\l"
 	.string "zeigt mir den Eintrag im POKéDEX,\l"
 	.string "während ich draußen forsche.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_17436C:: @ 817436C
-	.string "PROF. BIRK: Unzählige POKéMON erwarten\n"
+	.string "PROF. BIRK: Unzählige Pokémon erwarten\n"
 	.string "dich bereits.\p"
 	.string "Hach, ich muss jetzt auch dringend\n"
 	.string "wieder meinen Forschungen nachgehen.$"
@@ -118,11 +118,11 @@ LittlerootTown_ProfessorBirchsLab_Text_1743D4:: @ 81743D4
 
 LittlerootTown_ProfessorBirchsLab_Text_17443D:: @ 817443D
 	.string "MAIKE: Es macht unheimlich viel Spaß, all\n"
-	.string "die verschiedenen POKéMON zu fangen!\p"
+	.string "die verschiedenen Pokémon zu fangen!\p"
 	.string "Ich schaue mich wirklich überall um, denn\n"
-	.string "ich will die unterschiedlichsten POKéMON\l"
+	.string "ich will die unterschiedlichsten Pokémon\l"
 	.string "fangen.\p"
-	.string "Sobald ich niedliche POKéMON entdecke,\n"
+	.string "Sobald ich niedliche Pokémon entdecke,\n"
 	.string "fange ich sie mit POKéBÄLLEN.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_1744F0:: @ 81744F0
@@ -130,7 +130,7 @@ LittlerootTown_ProfessorBirchsLab_Text_1744F0:: @ 81744F0
 
 LittlerootTown_ProfessorBirchsLab_Text_174505:: @ 8174505
 	.string "MAIKE: Ich frage mich, wo ich jetzt nach\n"
-	.string "weiteren POKéMON suchen soll.$"
+	.string "weiteren Pokémon suchen soll.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_17453C:: @ 817453C
 	.string "BRIX: Ach...\n"
@@ -139,11 +139,11 @@ LittlerootTown_ProfessorBirchsLab_Text_17453C:: @ 817453C
 	.string "Ich gebe dir dies.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_17458C:: @ 817458C
-	.string "BRIX: Weißt du, je mehr POKéMON du\n"
+	.string "BRIX: Weißt du, je mehr Pokémon du\n"
 	.string "besitzt, desto mehr Spaß macht es.\p"
 	.string "Ich reise viel umher, um die unter-\n"
-	.string "schiedlichsten POKéMON zu finden.\p"
-	.string "Und wenn ich ein cooles POKéMON sehe,\n"
+	.string "schiedlichsten Pokémon zu finden.\p"
+	.string "Und wenn ich ein cooles Pokémon sehe,\n"
 	.string "versuche ich natürlich, es zu fangen.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_17465B:: @ 817465B
@@ -151,7 +151,7 @@ LittlerootTown_ProfessorBirchsLab_Text_17465B:: @ 817465B
 
 LittlerootTown_ProfessorBirchsLab_Text_174671:: @ 8174671
 	.string "BRIX: Und wo soll ich jetzt mal nach\n"
-	.string "POKéMON suchen?$"
+	.string "Pokémon suchen?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_1746A2:: @ 81746A2
 	.string "Das ist eine kompliziert aussehende\n"
@@ -163,7 +163,7 @@ LittlerootTown_ProfessorBirchsLab_Text_1746E7:: @ 81746E7
 	.string "wird. Besser nicht damit spielen!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_174724:: @ 8174724
-	.string "Es ist voll mit Büchern über POKéMON.$"
+	.string "Es ist voll mit Büchern über Pokémon.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_174748:: @ 8174748
 	.string "Dieses Buch ist viel zu kompliziert...$"

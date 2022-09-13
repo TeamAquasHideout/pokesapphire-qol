@@ -95,7 +95,7 @@ Route111_Text_1AC5CA:: @ 81AC5CA
 Route118_Text_1AC5CA:: @ 81AC5CA
 Route120_Text_1AC5CA:: @ 81AC5CA
 	.string "GABBY: Is there a strong TRAINER\n"
-	.string "anywhere with a lot of POKéMON?$"
+	.string "anywhere with a lot of Pokémon?$"
 
 Route111_Text_1AC60B:: @ 81AC60B
 	.string "GABBY: Wow, you are something!\p"
@@ -135,9 +135,9 @@ Route120_Text_1AC7E4:: @ 81AC7E4
 Route111_Text_1AC820:: @ 81AC820
 Route118_Text_1AC820:: @ 81AC820
 Route120_Text_1AC820:: @ 81AC820
-	.string "TY: Do you only have the one POKéMON\n"
+	.string "TY: Do you only have the one Pokémon\n"
 	.string "and that's it?\p"
-	.string "If you had more POKéMON, it'd make for\n"
+	.string "If you had more Pokémon, it'd make for\n"
 	.string "better footage, but...$"
 
 Route111_Text_1AC892:: @ 81AC892
@@ -233,7 +233,7 @@ gTVGabbyAndTyText9:: @ 81AD00A
 	.string "After our battle, we asked {PLAYER} for\n"
 	.string "a succinct summary.\p"
 	.string "The TRAINER replied, “{STR_VAR_1}.”\p"
-	.string "{PLAYER}'s POKéMON {STR_VAR_2} and\n"
+	.string "{PLAYER}'s Pokémon {STR_VAR_2} and\n"
 	.string "{STR_VAR_3}...\l"
 	.string "And “{STR_VAR_1}”...\p"
 	.string "Mmm! That's deep! There's deep\n"

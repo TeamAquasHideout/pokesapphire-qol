@@ -16,7 +16,7 @@ Route114_FossilManiacsTunnel_Text_1928DE:: @ 81928DE
 	.string "What are you going to do with that\n"
 	.string "FOSSIL?\p"
 	.string "From what I've heard, DEVON is doing\n"
-	.string "research on reviving POKéMON from\l"
+	.string "research on reviving Pokémon from\l"
 	.string "FOSSILS...\p"
 	.string "I love my FOSSILS, so I would never\n"
 	.string "do anything like that...$"

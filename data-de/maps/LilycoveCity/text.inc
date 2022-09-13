@@ -3,26 +3,26 @@ LilycoveCity_Text_1679BF:: @ 81679BF
 	.string "{PLAYER}{KUN}, bist du auch am Einkaufen?\p"
 	.string "Ich habe eine Menge PUPPEN und POSTER\n"
 	.string "gekauft.\p"
-	.string "Natürlich habe ich auch POKéMON\n"
+	.string "Natürlich habe ich auch Pokémon\n"
 	.string "gefangen und die ziehe ich geradezu\l"
 	.string "vorbildlich auf.\p"
 	.string "Ich habe eher Bedenken, dass du dich um\n"
-	.string "deine POKéMON nicht richtig kümmerst.\p"
+	.string "deine Pokémon nicht richtig kümmerst.\p"
 	.string "Ich werde gegen dich kämpfen, dann\n"
 	.string "sehe ich, ob du sie gut behandelst.$"
 
 LilycoveCity_Text_167AEB:: @ 8167AEB
 	.string "MAIKE: Oh, hui. Hast du dich denn nicht\n"
-	.string "um deine POKéMON gekümmert, {PLAYER}{KUN}?\p"
+	.string "um deine Pokémon gekümmert, {PLAYER}{KUN}?\p"
 	.string "Als Trainer machst du wirklich keinen\n"
 	.string "guten Eindruck!$"
 
 LilycoveCity_Text_167B55:: @ 8167B55
 	.string "MAIKE: Komm, kämpfe mit mir, dann kann\n"
-	.string "ich deine POKéMON beurteilen.$"
+	.string "ich deine Pokémon beurteilen.$"
 
 LilycoveCity_Text_167B94:: @ 8167B94
-	.string "MAIKE: Die POKéMON, die ich aufgezogen\n"
+	.string "MAIKE: Die Pokémon, die ich aufgezogen\n"
 	.string "habe, sind mit Sicherheit unbesiegbar.$"
 
 LilycoveCity_Text_167BD5:: @ 8167BD5
@@ -37,14 +37,14 @@ LilycoveCity_Text_167C6B:: @ 8167C6B
 	.string "MAIKE: Ich überlege, ob ich bald nach\n"
 	.string "WURZELHEIM zurückgehe.\p"
 	.string "Ich habe eine anständige Gruppe von\n"
-	.string "POKéMON gefangen und mein POKéDEX\p"
+	.string "Pokémon gefangen und mein POKéDEX\p"
 	.string "sieht immer besser aus. Ich gehe nach\n"
 	.string "Hause und zeige das meinem Papa.$"
 
 LilycoveCity_Text_167D08:: @ 8167D08
 	.string "{PLAYER}{KUN}, was wirst du machen?\p"
 	.string "Alle ORDEN der ARENEN sammeln und die\n"
-	.string "POKéMON LIGA herausfordern?\p"
+	.string "Pokémon LIGA herausfordern?\p"
 	.string "Nun, während du deine ORDEN sammelst,\n"
 	.string "werde ich weiter an meinem POKéDEX\l"
 	.string "arbeiten. Ich werde ihn eher vollständig\l"
@@ -53,7 +53,7 @@ LilycoveCity_Text_167D08:: @ 8167D08
 
 LilycoveCity_Text_167DDD:: @ 8167DDD
 	.string "Und, {PLAYER}{KUN}, was wirst du machen?\p"
-	.string "Wirst du die POKéMON LIGA heraus-\n"
+	.string "Wirst du die Pokémon LIGA heraus-\n"
 	.string "fordern?\p"
 	.string "Oder wirst du deinen POKéDEX vervoll-\n"
 	.string "ständigen?\p"
@@ -78,7 +78,7 @@ LilycoveCity_Text_167F75:: @ 8167F75
 	.string "Vater. Nein, ich kaufe keine PUPPEN!\p"
 	.string "Wir haben uns lange nicht mehr gesehen.\p"
 	.string "Sollen wir kämpfen, um zu sehen, wer\n"
-	.string "seine POKéMON besser trainiert?$"
+	.string "seine Pokémon besser trainiert?$"
 
 LilycoveCity_Text_16802C:: @ 816802C
 	.string "BRIX: Oh, hast du ein Problem? Nicht\n"
@@ -86,7 +86,7 @@ LilycoveCity_Text_16802C:: @ 816802C
 
 LilycoveCity_Text_168067:: @ 8168067
 	.string "BRIX: Sollen wir kämpfen, um zu\n"
-	.string "sehen, wer seine POKéMON besser\l"
+	.string "sehen, wer seine Pokémon besser\l"
 	.string "trainiert?$"
 
 LilycoveCity_Text_1680A9:: @ 81680A9
@@ -109,15 +109,15 @@ LilycoveCity_Text_168149:: @ 8168149
 LilycoveCity_Text_1681EA:: @ 81681EA
 	.string "Und, {PLAYER}, was wirst du tun?\p"
 	.string "Wirst du alle ORDEN der ARENEN sammeln\n"
-	.string "und die POKéMON LIGA herausfordern?\p"
+	.string "und die Pokémon LIGA herausfordern?\p"
 	.string "Vielleicht werde ich das auch machen...\p"
 	.string "Gut, bleib am Ball!$"
 
 LilycoveCity_Text_168282:: @ 8168282
 	.string "Und, {PLAYER}, was wirst du tun?\p"
 	.string "Da du so stark geworden bist, wirst du\n"
-	.string "die POKéMON LIGA herausfordern?\p"
-	.string "Hey, ich habe meine POKéMON bestimmt\n"
+	.string "die Pokémon LIGA herausfordern?\p"
+	.string "Hey, ich habe meine Pokémon bestimmt\n"
 	.string "viel besser trainiert und sollte\l"
 	.string "eigentlich stärker sein als du...\p"
 	.string "Nun ja, bleib am Ball!$"
@@ -126,7 +126,7 @@ LilycoveCity_Text_16835A:: @ 816835A
 	.string "Und, {PLAYER}, was machst du nun?\p"
 	.string "Da du so stark geworden bist, wirst du\n"
 	.string "zum DUELLTURM gehen?\p"
-	.string "Ich habe meine POKéMON viel besser\n"
+	.string "Ich habe meine Pokémon viel besser\n"
 	.string "trainiert und sollte eigentlich stärker\l"
 	.string "sein als du...\l"
 	.string "Vielleicht gehe ich zum DUELLTURM...\p"
@@ -157,7 +157,7 @@ LilycoveCity_Text_168573:: @ 8168573
 LilycoveCity_Text_1685EB:: @ 81685EB
 	.string "Wenn die ganze Welt erst einmal uns\n"
 	.string "gehört, dem TEAM {EVIL_TEAM}, dann wird sie\l"
-	.string "ein besserer Ort für POKéMON sein.$"
+	.string "ein besserer Ort für Pokémon sein.$"
 
 LilycoveCity_Text_16864A:: @ 816864A
 	.string "Hier, WAILMER!!!\n"
@@ -169,7 +169,7 @@ LilycoveCity_Text_168675:: @ 8168675
 	.string "ich vorschlagen, du verschwindest!$"
 
 LilycoveCity_Text_1686C9:: @ 81686C9
-	.string "Die POKéMON, die in diese WETTBEWERBS-\n"
+	.string "Die Pokémon, die in diese WETTBEWERBS-\n"
 	.string "HALLE kommen, sind alle preisgekrönt.\l"
 	.string "Sie kommen aus dem ganzen Land.\p"
 	.string "Mein Herz strömt über vor Begeisterung!$"
@@ -179,7 +179,7 @@ LilycoveCity_Text_168750:: @ 8168750
 	.string "am Ende des Ortes gesehen?$"
 
 LilycoveCity_Text_168791:: @ 8168791
-	.string "Ich werde meinem POKéMON einige neue\n"
+	.string "Ich werde meinem Pokémon einige neue\n"
 	.string "Attacken für den WETTBEWERB\l"
 	.string "beibringen.\p"
 	.string "Daher werde ich den ATTACKEN-\n"
@@ -191,7 +191,7 @@ LilycoveCity_Text_168819:: @ 8168819
 	.string "Die HOENN-Region ist wunderschön mit\n"
 	.string "all dem Wasser und dem Grün.\p"
 	.string "Hey, warte mal!\p"
-	.string "Ob es seltene POKéMON gibt, die nur in\n"
+	.string "Ob es seltene Pokémon gibt, die nur in\n"
 	.string "dieser Region leben???$"
 
 LilycoveCity_Text_1688C1:: @ 81688C1
@@ -211,13 +211,13 @@ LilycoveCity_Text_1689BF:: @ 81689BF
 	.string "Ich habe ein entspannendes Nickerchen\n"
 	.string "im Gasthof am Meer gehalten. Das\l"
 	.string "Rauschen der Wellen war so angenehm.\p"
-	.string "Und da hat mir jemand mein POKéMON\n"
+	.string "Und da hat mir jemand mein Pokémon\n"
 	.string "gestohlen!\p"
 	.string "Wer ist der schändliche Dieb?\n"
 	.string "TEAM {EVIL_TEAM}? Es war TEAM {EVIL_TEAM}?!?$"
 
 LilycoveCity_Text_168A55:: @ 8168A55
-	.string "Mein gestohlenes POKéMON...\n"
+	.string "Mein gestohlenes Pokémon...\n"
 	.string "Es kam zurück, ohne dass ich es merkte.$"
 
 LilycoveCity_Text_168A8D:: @ 8168A8D
@@ -263,7 +263,7 @@ LilycoveCity_Text_168DA9:: @ 8168DA9
 	.string "Meer beginnt.”$"
 
 LilycoveCity_Text_168DE1:: @ 8168DE1
-	.string "POKéMON WETTBEWERB\n"
+	.string "Pokémon WETTBEWERB\n"
 	.string "MASTER-KLASSE REGISTRIERUNGEN\p"
 	.string "“Nimm mit deinen FREUNDEN am\n"
 	.string "WETTBEWERB teil!”$"
@@ -276,12 +276,12 @@ LilycoveCity_Text_168E2F:: @ 8168E2F
 LilycoveCity_Text_168E67:: @ 8168E67
 	.string "SEEGRASULB CITY MUSEUM\p"
 	.string "“Ausstellung von\n"
-	.string "POKéMON-Meisterwerken!”$"
+	.string "Pokémon-Meisterwerken!”$"
 
 LilycoveCity_Text_168EA4:: @ 8168EA4
 	.string "SEEGRASULB CITY MUSEUM\p"
 	.string "“Aktuelle Ausstellung:\n"
-	.string "Die POKéMON-Sammlung von {PLAYER}!”$"
+	.string "Die Pokémon-Sammlung von {PLAYER}!”$"
 
 LilycoveCity_Text_168EDA:: @ 8168EDA
 	.string "HAFEN SEEGRASULB CITY\p"
@@ -296,7 +296,7 @@ LilycoveCity_Text_168F57:: @ 8168F57
 	.string "mit der Fähre MS TIDE.”$"
 
 LilycoveCity_Text_168FA1:: @ 8168FA1
-	.string "POKéMON TRAINER-FANCLUB\p"
+	.string "Pokémon TRAINER-FANCLUB\p"
 	.string "Die Namen von TRAINERN sind auf dem\n"
 	.string "Schild eingeritzt...$"
 
@@ -309,5 +309,5 @@ LilycoveCity_Text_168FF3:: @ 8168FF3
 
 LilycoveCity_Text_169072:: @ 8169072
 	.string "HAUS des ATTACKEN-VERLERNERS\p"
-	.string "“Hier werden POKéMON-Attacken\n"
+	.string "“Hier werden Pokémon-Attacken\n"
 	.string "verlernt.”$"

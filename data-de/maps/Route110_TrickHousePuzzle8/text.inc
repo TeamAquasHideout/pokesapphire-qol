@@ -6,7 +6,7 @@ Route110_TrickHousePuzzle8_Text_19E1A1:: @ 819E1A1
 	.string "Das bedeutet, dass du sehr stark bist...$"
 
 Route110_TrickHousePuzzle8_Text_19E1C5:: @ 819E1C5
-	.string "Du hast den CHAMP der POKéMON LIGA\n"
+	.string "Du hast den CHAMP der Pokémon LIGA\n"
 	.string "besiegt? Das ist zu viel für mich!$"
 
 Route110_TrickHousePuzzle8_Text_19E201:: @ 819E201

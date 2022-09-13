@@ -1,5 +1,5 @@
 static const u8 DexDescription_Dummy_1[] = _(
-  "This is a newly discovered POKéMON.\n"
+  "This is a newly discovered Pokémon.\n"
   "It is currently under investigation.");
 static const u8 DexDescription_Dummy_2[] = _(
   "No detailed information is available\n"
@@ -14,7 +14,7 @@ static const u8 DexDescription_Bulbasaur_2[] = _(
   "grows progressively larger.");
 
 static const u8 DexDescription_Ivysaur_1[] = _(
-  "There is a bud on this POKéMON's back.\n"
+  "There is a bud on this Pokémon's back.\n"
   "To support its weight, IVYSAUR's legs\n"
   "and trunk grow thick and strong.");
 static const u8 DexDescription_Ivysaur_2[] = _(
@@ -35,7 +35,7 @@ static const u8 DexDescription_Charmander_1[] = _(
   "tail is an indication of its emotions.\n"
   "The flame wavers when CHARMANDER is");
 static const u8 DexDescription_Charmander_2[] = _(
-  "enjoying itself. If the POKéMON becomes\n"
+  "enjoying itself. If the Pokémon becomes\n"
   "enraged, the flame burns fiercely.");
 
 static const u8 DexDescription_Charmeleon_1[] = _(
@@ -63,7 +63,7 @@ static const u8 DexDescription_Squirtle_1[] = _(
 static const u8 DexDescription_Squirtle_2[] = _(
   "grooves on its surface help minimize\n"
   "resistance in water, enabling this\n"
-  "POKéMON to swim at high speeds.");
+  "Pokémon to swim at high speeds.");
 
 static const u8 DexDescription_Wartortle_1[] = _(
   "Its tail is large and covered with a rich,\n"
@@ -71,7 +71,7 @@ static const u8 DexDescription_Wartortle_1[] = _(
   "deeper in color as WARTORTLE ages.");
 static const u8 DexDescription_Wartortle_2[] = _(
   "The scratches on its shell are evidence\n"
-  "of this POKéMON's toughness as a\n"
+  "of this Pokémon's toughness as a\n"
   "battler.");
 
 static const u8 DexDescription_Blastoise_1[] = _(
@@ -88,11 +88,11 @@ static const u8 DexDescription_Caterpie_1[] = _(
   "It can devour leaves bigger than its\n"
   "body right before your eyes.");
 static const u8 DexDescription_Caterpie_2[] = _(
-  "From its antenna, this POKéMON releases\n"
+  "From its antenna, this Pokémon releases\n"
   "a terrifically strong odor.");
 
 static const u8 DexDescription_Metapod_1[] = _(
-  "The shell covering this POKéMON's body\n"
+  "The shell covering this Pokémon's body\n"
   "is as hard as an iron slab.\n"
   "METAPOD does not move very much.");
 static const u8 DexDescription_Metapod_2[] = _(
@@ -145,7 +145,7 @@ static const u8 DexDescription_Pidgey_2[] = _(
 
 static const u8 DexDescription_Pidgeotto_1[] = _(
   "PIDGEOTTO claims a large area as its\n"
-  "own territory. This POKéMON flies\n"
+  "own territory. This Pokémon flies\n"
   "around, patrolling its living space.");
 static const u8 DexDescription_Pidgeotto_2[] = _(
   "If its territory is violated, it shows\n"
@@ -153,13 +153,13 @@ static const u8 DexDescription_Pidgeotto_2[] = _(
   "foe with its sharp claws.");
 
 static const u8 DexDescription_Pidgeot_1[] = _(
-  "This POKéMON has a dazzling plumage of\n"
+  "This Pokémon has a dazzling plumage of\n"
   "beautifully glossy feathers.\n"
   "Many TRAINERS are captivated by the");
 static const u8 DexDescription_Pidgeot_2[] = _(
   "striking beauty of the feathers on its\n"
   "head, compelling them to choose PIDGEOT\n"
-  "as their POKéMON.");
+  "as their Pokémon.");
 
 static const u8 DexDescription_Rattata_1[] = _(
   "RATTATA is cautious in the extreme.\n"
@@ -204,7 +204,7 @@ static const u8 DexDescription_Ekans_2[] = _(
   "head.");
 
 static const u8 DexDescription_Arbok_1[] = _(
-  "This POKéMON is terrifically strong in\n"
+  "This Pokémon is terrifically strong in\n"
   "order to constrict things with its body.\n"
   "It can even flatten steel oil drums.");
 static const u8 DexDescription_Arbok_2[] = _(
@@ -214,7 +214,7 @@ static const u8 DexDescription_Arbok_2[] = _(
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Pikachu_1[] = _(
-  "This POKéMON has electricity-storing\n"
+  "This Pokémon has electricity-storing\n"
   "pouches on its cheeks. These appear to\n"
   "become electrically charged during the");
 static const u8 DexDescription_Pikachu_2[] = _(
@@ -228,13 +228,13 @@ static const u8 DexDescription_Pikachu_1[] = _(
   "of electricity.");
 static const u8 DexDescription_Pikachu_2[] = _(
   "If you come across a blackened berry,\n"
-  "it's evidence that this POKéMON\n"
+  "it's evidence that this Pokémon\n"
   "mistook the intensity of its charge.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Raichu_1[] = _(
-  "This POKéMON exudes a weak electrical\n"
+  "This Pokémon exudes a weak electrical\n"
   "charge from all over its body that makes\n"
   "it take on a slight glow in darkness.");
 static const u8 DexDescription_Raichu_2[] = _(
@@ -247,13 +247,13 @@ static const u8 DexDescription_Raichu_1[] = _(
   "tail in the ground and discharges.");
 static const u8 DexDescription_Raichu_2[] = _(
   "Scorched patches of ground will be\n"
-  "found near this POKéMON's nest.");
+  "found near this Pokémon's nest.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Sandshrew_1[] = _(
   "SANDSHREW has a very dry hide that is\n"
-  "extremely tough. The POKéMON can roll\n"
+  "extremely tough. The Pokémon can roll\n"
   "into a ball that repels any attack.");
 static const u8 DexDescription_Sandshrew_2[] = _(
   "At night, it burrows into the desert\n"
@@ -264,7 +264,7 @@ static const u8 DexDescription_Sandshrew_1[] = _(
   "absorb water without waste, enabling it\n"
   "to survive in an arid desert.");
 static const u8 DexDescription_Sandshrew_2[] = _(
-  "This POKéMON curls up to protect itself\n"
+  "This Pokémon curls up to protect itself\n"
   "from its enemies.");
 #endif
 
@@ -272,7 +272,7 @@ static const u8 DexDescription_Sandshrew_2[] = _(
 static const u8 DexDescription_Sandslash_1[] = _(
   "SANDSLASH can roll up its body as if it\n"
   "were a ball covered with large spikes.\n"
-  "In battle, this POKéMON will try to make");
+  "In battle, this Pokémon will try to make");
 static const u8 DexDescription_Sandslash_2[] = _(
   "the foe flinch by jabbing it with its\n"
   "spines. It then leaps at the stunned\n"
@@ -292,7 +292,7 @@ static const u8 DexDescription_NidoranF_1[] = _(
   "powerful poison. They are thought to\n"
   "have developed as protection for this");
 static const u8 DexDescription_NidoranF_2[] = _(
-  "small-bodied POKéMON.\n"
+  "small-bodied Pokémon.\n"
   "When enraged, it releases a horrible\n"
   "toxin from its horn.");
 
@@ -301,7 +301,7 @@ static const u8 DexDescription_Nidorina_1[] = _(
   "family, they keep their barbs tucked\n"
   "away to prevent hurting each other.");
 static const u8 DexDescription_Nidorina_2[] = _(
-  "This POKéMON appears to become\n"
+  "This Pokémon appears to become\n"
   "nervous if separated from the others.");
 
 static const u8 DexDescription_Nidoqueen_1[] = _(
@@ -309,7 +309,7 @@ static const u8 DexDescription_Nidoqueen_1[] = _(
   "extremely hard scales. It is adept at\n"
   "sending foes flying with harsh tackles.");
 static const u8 DexDescription_Nidoqueen_2[] = _(
-  "This POKéMON is at its strongest when\n"
+  "This Pokémon is at its strongest when\n"
   "it is defending its young.");
 
 static const u8 DexDescription_NidoranM_1[] = _(
@@ -318,7 +318,7 @@ static const u8 DexDescription_NidoranM_1[] = _(
   "them, the ears can be freely moved in");
 static const u8 DexDescription_NidoranM_2[] = _(
   "any direction. Even the slightest sound\n"
-  "does not escape this POKéMON's notice.");
+  "does not escape this Pokémon's notice.");
 
 static const u8 DexDescription_Nidorino_1[] = _(
   "NIDORINO has a horn that is harder than\n"
@@ -333,12 +333,12 @@ static const u8 DexDescription_Nidoking_1[] = _(
   "destructive power. With one swing, it\n"
   "can topple a metal transmission tower.");
 static const u8 DexDescription_Nidoking_2[] = _(
-  "Once this POKéMON goes on a rampage,\n"
+  "Once this Pokémon goes on a rampage,\n"
   "there is no stopping it.");
 
 static const u8 DexDescription_Clefairy_1[] = _(
   "On every night of a full moon, groups of\n"
-  "this POKéMON come out to play.\n"
+  "this Pokémon come out to play.\n"
   "When dawn arrives, the tired CLEFAIRY");
 static const u8 DexDescription_Clefairy_2[] = _(
   "return to their quiet mountain retreats\n"
@@ -359,14 +359,14 @@ static const u8 DexDescription_Vulpix_1[] = _(
   "never goes out. During the daytime,\n"
   "when the temperatures rise, this");
 static const u8 DexDescription_Vulpix_2[] = _(
-  "POKéMON releases flames from its mouth\n"
+  "Pokémon releases flames from its mouth\n"
   "to prevent its body from growing too\n"
   "hot.");
 #else
 static const u8 DexDescription_Vulpix_1[] = _(
   "At the time of its birth, VULPIX has one\n"
   "white tail. The tail separates into six\n"
-  "if this POKéMON receives plenty of love");
+  "if this Pokémon receives plenty of love");
 static const u8 DexDescription_Vulpix_2[] = _(
   "from its TRAINER.\n"
   "The six tails become magnificently\n"
@@ -379,7 +379,7 @@ static const u8 DexDescription_Ninetales_1[] = _(
   "being when nine wizards possessing\n"
   "sacred powers merged into one.");
 static const u8 DexDescription_Ninetales_2[] = _(
-  "This POKéMON is highly intelligent - it\n"
+  "This Pokémon is highly intelligent - it\n"
   "can understand human speech.");
 #else
 static const u8 DexDescription_Ninetales_1[] = _(
@@ -387,13 +387,13 @@ static const u8 DexDescription_Ninetales_1[] = _(
   "its bright red eyes to gain total\n"
   "control over its foe's mind.");
 static const u8 DexDescription_Ninetales_2[] = _(
-  "This POKéMON is said to live for a\n"
+  "This Pokémon is said to live for a\n"
   "thousand years.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Jigglypuff_1[] = _(
-  "When this POKéMON sings, it never\n"
+  "When this Pokémon sings, it never\n"
   "pauses to breathe. If it is in a battle\n"
   "against an opponent that does not");
 static const u8 DexDescription_Jigglypuff_2[] = _(
@@ -403,7 +403,7 @@ static const u8 DexDescription_Jigglypuff_2[] = _(
 static const u8 DexDescription_Jigglypuff_1[] = _(
   "JIGGLYPUFF's vocal chords can freely\n"
   "adjust the wavelength of its voice.\n"
-  "This POKéMON uses this ability to sing");
+  "This Pokémon uses this ability to sing");
 static const u8 DexDescription_Jigglypuff_2[] = _(
   "at precisely the right wavelength to\n"
   "make its foes most drowsy.");
@@ -412,7 +412,7 @@ static const u8 DexDescription_Jigglypuff_2[] = _(
 #ifdef SAPPHIRE
 static const u8 DexDescription_Wigglytuff_1[] = _(
   "WIGGLYTUFF's body is very flexible.\n"
-  "By inhaling deeply, this POKéMON can\n"
+  "By inhaling deeply, this Pokémon can\n"
   "inflate itself seemingly without end.");
 static const u8 DexDescription_Wigglytuff_2[] = _(
   "Once inflated, WIGGLYTUFF bounces\n"
@@ -423,7 +423,7 @@ static const u8 DexDescription_Wigglytuff_1[] = _(
   "The surfaces of its eyes are always\n"
   "covered with a thin layer of tears.");
 static const u8 DexDescription_Wigglytuff_2[] = _(
-  "If any dust gets in this POKéMON's\n"
+  "If any dust gets in this Pokémon's\n"
   "eyes, it is quickly washed away.");
 #endif
 
@@ -452,14 +452,14 @@ static const u8 DexDescription_Golbat_1[] = _(
   "It becomes active on inky dark");
 static const u8 DexDescription_Golbat_2[] = _(
   "moonless nights, flying around to\n"
-  "attack people and POKéMON.");
+  "attack people and Pokémon.");
 #else
 static const u8 DexDescription_Golbat_1[] = _(
   "GOLBAT loves to drink the blood of\n"
   "living things. It is particularly active\n"
   "in the pitch black of night.");
 static const u8 DexDescription_Golbat_2[] = _(
-  "This POKéMON flits around in the night\n"
+  "This Pokémon flits around in the night\n"
   "skies, seeking fresh blood.");
 #endif
 
@@ -469,7 +469,7 @@ static const u8 DexDescription_Oddish_1[] = _(
   "rich soil, then plants itself.\n"
   "During the daytime, while it is planted,");
 static const u8 DexDescription_Oddish_2[] = _(
-  "this POKéMON's feet are thought to\n"
+  "this Pokémon's feet are thought to\n"
   "change shape and become similar to\n"
   "the roots of trees.");
 #else
@@ -496,7 +496,7 @@ static const u8 DexDescription_Gloom_1[] = _(
   "the pistil of its flower. When faced\n"
   "with danger, the stench worsens.");
 static const u8 DexDescription_Gloom_2[] = _(
-  "If this POKéMON is feeling calm and\n"
+  "If this Pokémon is feeling calm and\n"
   "secure, it does not release its usual\n"
   "stinky aroma.");
 #endif
@@ -508,7 +508,7 @@ static const u8 DexDescription_Vileplume_1[] = _(
   "that are then doused with toxic spores.");
 static const u8 DexDescription_Vileplume_2[] = _(
   "Once the prey are immobilized, this\n"
-  "POKéMON catches and devours them.");
+  "Pokémon catches and devours them.");
 #else
 static const u8 DexDescription_Vileplume_1[] = _(
   "VILEPLUME's toxic pollen triggers\n"
@@ -526,7 +526,7 @@ static const u8 DexDescription_Paras_1[] = _(
   "on its back called tochukaso. They grow\n"
   "large by drawing nutrients from this");
 static const u8 DexDescription_Paras_2[] = _(
-  "BUG/GRASS POKéMON host. They are\n"  // Identify Paras as BUG/GRASS type rather than just BUG
+  "BUG/GRASS Pokémon host. They are\n"  // Identify Paras as BUG/GRASS type rather than just BUG
   "highly valued as a medicine for\n"
   "extending life.");
 #else
@@ -535,7 +535,7 @@ static const u8 DexDescription_Paras_1[] = _(
   "on its back called tochukaso. They grow\n"
   "large by drawing nutrients from this");
 static const u8 DexDescription_Paras_2[] = _(
-  "BUG POKéMON host. They are highly\n"
+  "BUG Pokémon host. They are highly\n"
   "valued as a medicine for extending life.");
 #endif
 #else
@@ -545,7 +545,7 @@ static const u8 DexDescription_Paras_1[] = _(
   "on its back called tochukaso. They grow\n"
   "large by drawing nutrients from this");
 static const u8 DexDescription_Paras_2[] = _(
-  "BUG/GRASS POKéMON host. They are\n"
+  "BUG/GRASS Pokémon host. They are\n"
   "highly valued as a medicine for\n"
   "extending life.");
 #else
@@ -554,7 +554,7 @@ static const u8 DexDescription_Paras_1[] = _(
   "on its back called tochukaso. They grow\n"
   "large by drawing nutrients from the BUG");
 static const u8 DexDescription_Paras_2[] = _(
-  "POKéMON host. They are highly valued as\n"
+  "Pokémon host. They are highly valued as\n"
   "a medicine for extending life.");
 #endif
 #endif
@@ -576,7 +576,7 @@ static const u8 DexDescription_Venonat_2[] = _(
   "to spot even miniscule prey.");
 
 static const u8 DexDescription_Venomoth_1[] = _(
-  "VENOMOTH is nocturnal - it is a POKéMON\n"
+  "VENOMOTH is nocturnal - it is a Pokémon\n"
   "that only becomes active at night.\n"
   "Its favorite prey are small insects");
 static const u8 DexDescription_Venomoth_2[] = _(
@@ -586,7 +586,7 @@ static const u8 DexDescription_Venomoth_2[] = _(
 static const u8 DexDescription_Diglett_1[] = _(
   "DIGLETT are raised in most farms.\n"
   "The reason is simple - wherever this\n"
-  "POKéMON burrows, the soil is left");
+  "Pokémon burrows, the soil is left");
 static const u8 DexDescription_Diglett_2[] = _(
   "perfectly tilled for planting crops.\n"
   "This soil is made ideal for growing\n"
@@ -606,7 +606,7 @@ static const u8 DexDescription_Meowth_1[] = _(
   "its paws to slinkily sneak about without\n"
   "making any incriminating footsteps.");
 static const u8 DexDescription_Meowth_2[] = _(
-  "For some reason, this POKéMON loves\n"
+  "For some reason, this Pokémon loves\n"
   "shiny coins that glitter with light.");
 
 static const u8 DexDescription_Persian_1[] = _(
@@ -614,7 +614,7 @@ static const u8 DexDescription_Persian_1[] = _(
   "it a look of toughness. The whiskers  \n"
   "sense air movements to determine what");
 static const u8 DexDescription_Persian_2[] = _(
-  "is in the POKéMON's surrounding\n"
+  "is in the Pokémon's surrounding\n"
   "vicinity. It becomes docile if grabbed\n"
   "by the whiskers.");
 
@@ -630,7 +630,7 @@ static const u8 DexDescription_Psyduck_2[] = _(
 #else
 static const u8 DexDescription_Psyduck_1[] = _(
   "PSYDUCK uses a mysterious power.\n"
-  "When it does so, this POKéMON \n"
+  "When it does so, this Pokémon \n"
   "generates brain waves that are");
 static const u8 DexDescription_Psyduck_2[] = _(
   "supposedly only seen in sleepers.\n"
@@ -641,7 +641,7 @@ static const u8 DexDescription_Psyduck_2[] = _(
 #ifdef SAPPHIRE
 static const u8 DexDescription_Golduck_1[] = _(
   "GOLDUCK is the fastest swimmer among\n"
-  "all POKéMON. It swims effortlessly, even\n"
+  "all Pokémon. It swims effortlessly, even\n"
   "in a rough, stormy sea.");
 static const u8 DexDescription_Golduck_2[] = _(
   "It sometimes rescues people from\n"
@@ -652,7 +652,7 @@ static const u8 DexDescription_Golduck_1[] = _(
   "hind legs and the streamlined body of\n"
   "GOLDUCK give it frightening speed.");
 static const u8 DexDescription_Golduck_2[] = _(
-  "This POKéMON is definitely much faster\n"
+  "This Pokémon is definitely much faster\n"
   "than even the most athletic swimmer.");
 #endif
 
@@ -675,7 +675,7 @@ static const u8 DexDescription_Primeape_2[] = _(
 
 static const u8 DexDescription_Growlithe_1[] = _(
   "GROWLITHE has a superb sense of smell.\n"
-  "Once it smells anything, this POKéMON\n"
+  "Once it smells anything, this Pokémon\n"
   "won't forget the scent, no matter what.");
 static const u8 DexDescription_Growlithe_2[] = _(
   "It uses its advanced olfactory sense\n"
@@ -688,11 +688,11 @@ static const u8 DexDescription_Arcanine_1[] = _(
   "6,200 miles in a single day and night.");
 static const u8 DexDescription_Arcanine_2[] = _(
   "The fire that blazes wildly within this\n"
-  "POKéMON's body is its source of power.");
+  "Pokémon's body is its source of power.");
 
 static const u8 DexDescription_Poliwag_1[] = _(
   "POLIWAG has a very thin skin. It is\n"
-  "possible to see the POKéMON's spiral\n"
+  "possible to see the Pokémon's spiral\n"
   "innards right through the skin.");
 static const u8 DexDescription_Poliwag_2[] = _(
   "Despite its thinness, however, the skin\n"
@@ -712,14 +712,14 @@ static const u8 DexDescription_Poliwrath_1[] = _(
   "muscles never grow fatigued, however\n"
   "much it exercises.");
 static const u8 DexDescription_Poliwrath_2[] = _(
-  "It is so tirelessly strong, this POKéMON\n"
+  "It is so tirelessly strong, this Pokémon\n"
   "can swim back and forth across the\n"
   "Pacific Ocean without effort.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Abra_1[] = _(
   "ABRA needs to sleep for eighteen hours\n"
-  "a day. If it doesn't, this POKéMON loses\n"
+  "a day. If it doesn't, this Pokémon loses\n"
   "its ability to use telekinetic powers.");
 static const u8 DexDescription_Abra_2[] = _(
   "If it is attacked, ABRA escapes using\n"
@@ -730,7 +730,7 @@ static const u8 DexDescription_Abra_1[] = _(
   "However, it can sense the presence of\n"
   "foes even while it is sleeping.");
 static const u8 DexDescription_Abra_2[] = _(
-  "In such a situation, this POKéMON\n"
+  "In such a situation, this Pokémon\n"
   "immediately teleports to safety.");
 #endif
 
@@ -740,7 +740,7 @@ static const u8 DexDescription_Kadabra_1[] = _(
   "hand. The spoon is used to amplify the\n"
   "alpha waves in its brain.");
 static const u8 DexDescription_Kadabra_2[] = _(
-  "Without the spoon, the POKéMON is said\n"
+  "Without the spoon, the Pokémon is said\n"
   "to be limited to half the usual amount\n"
   "of its telekinetic powers.");
 #else
@@ -750,14 +750,14 @@ static const u8 DexDescription_Kadabra_1[] = _(
   "people with a particularly strong");
 static const u8 DexDescription_Kadabra_2[] = _(
   "psyche can hope to become a TRAINER\n"
-  "of this POKéMON.");
+  "of this Pokémon.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Alakazam_1[] = _(
   "ALAKAZAM's brain continually grows,\n"
   "infinitely multiplying brain cells.\n"
-  "This amazing brain gives this POKéMON");
+  "This amazing brain gives this Pokémon");
 static const u8 DexDescription_Alakazam_2[] = _(
   "an astoundingly high IQ of 5,000.\n"
   "It has a thorough memory of everything\n"
@@ -768,7 +768,7 @@ static const u8 DexDescription_Alakazam_1[] = _(
   "making its head far too heavy to\n"
   "support with its neck.");
 static const u8 DexDescription_Alakazam_2[] = _(
-  "This POKéMON holds its head up using\n"
+  "This Pokémon holds its head up using\n"
   "its psychokinetic power instead.");
 #endif
 
@@ -786,7 +786,7 @@ static const u8 DexDescription_Machop_1[] = _(
   "never get sore no matter how much they\n"
   "are used in exercise.");
 static const u8 DexDescription_Machop_2[] = _(
-  "This POKéMON has sufficient power to\n"
+  "This Pokémon has sufficient power to\n"
   "hurl a hundred adult humans.");
 #endif
 
@@ -796,14 +796,14 @@ static const u8 DexDescription_Machoke_1[] = _(
   "day even as it helps people with tough,\n"
   "physically demanding labor.");
 static const u8 DexDescription_Machoke_2[] = _(
-  "On its days off, this POKéMON heads to\n"
+  "On its days off, this Pokémon heads to\n"
   "the fields and mountains to exercise\n"
   "and train.");
 #else
 static const u8 DexDescription_Machoke_1[] = _(
   "MACHOKE's thoroughly toned muscles\n"
   "possess the hardness of steel.\n"
-  "This POKéMON has so much strength,");
+  "This Pokémon has so much strength,");
 static const u8 DexDescription_Machoke_2[] = _(
   "it can easily hold aloft a sumo wrestler\n"
   "on just one finger.");
@@ -811,7 +811,7 @@ static const u8 DexDescription_Machoke_2[] = _(
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Machamp_1[] = _(
-  "MACHAMP is known as the POKéMON that\n"
+  "MACHAMP is known as the Pokémon that\n"
   "has mastered every kind of martial arts.\n"
   "If it grabs hold of the foe with its four");
 static const u8 DexDescription_Machamp_2[] = _(
@@ -825,7 +825,7 @@ static const u8 DexDescription_Machamp_1[] = _(
   "requiring care and dexterity causes");
 static const u8 DexDescription_Machamp_2[] = _(
   "its arms to get tangled.\n"
-  "This POKéMON tends to leap into action\n"
+  "This Pokémon tends to leap into action\n"
   "before it thinks.");
 #endif
 
@@ -834,12 +834,12 @@ static const u8 DexDescription_Bellsprout_1[] = _(
   "lets it bend and sway to avoid any\n"
   "attack, however strong it may be.");
 static const u8 DexDescription_Bellsprout_2[] = _(
-  "From its mouth, this POKéMON spits a\n"
+  "From its mouth, this Pokémon spits a\n"
   "corrosive fluid that melts even iron.");
 
 static const u8 DexDescription_Weepinbell_1[] = _(
   "WEEPINBELL has a large hook on its rear\n"
-  "end. At night, the POKéMON hooks on to\n"
+  "end. At night, the Pokémon hooks on to\n"
   "a tree branch and goes to sleep.");
 static const u8 DexDescription_Weepinbell_2[] = _(
   "If it moves around in its sleep, it may\n"
@@ -852,7 +852,7 @@ static const u8 DexDescription_Victreebel_1[] = _(
 static const u8 DexDescription_Victreebel_2[] = _(
   "an animal to attract prey. When an\n"
   "unsuspecting prey draws near, this\n"
-  "POKéMON swallows it whole.");
+  "Pokémon swallows it whole.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Tentacool_1[] = _(
@@ -860,7 +860,7 @@ static const u8 DexDescription_Tentacool_1[] = _(
   "refracts it using water inside its body\n"
   "to convert it into beam energy.");
 static const u8 DexDescription_Tentacool_2[] = _(
-  "This POKéMON shoots beams from its\n"
+  "This Pokémon shoots beams from its\n"
   "crystal-like eyes.");
 #else
 static const u8 DexDescription_Tentacool_1[] = _(
@@ -868,7 +868,7 @@ static const u8 DexDescription_Tentacool_1[] = _(
   "of water. If it is removed from the\n"
   "sea, it dries up like parchment.");
 static const u8 DexDescription_Tentacool_2[] = _(
-  "If this POKéMON happens to become\n"
+  "If this Pokémon happens to become\n"
   "dehydrated, put it back into the sea.");
 #endif
 
@@ -887,7 +887,7 @@ static const u8 DexDescription_Tentacruel_1[] = _(
   "head. The orbs glow before lashing the\n"
   "vicinity with a harsh ultrasonic blast.");
 static const u8 DexDescription_Tentacruel_2[] = _(
-  "This POKéMON's outburst creates rough\n"
+  "This Pokémon's outburst creates rough\n"
   "waves around it.");
 #endif
 
@@ -898,7 +898,7 @@ static const u8 DexDescription_Geodude_1[] = _(
   "It will not awaken even if hikers step");
 static const u8 DexDescription_Geodude_2[] = _(
   "on it unwittingly.\n"
-  "In the morning, this POKéMON rolls\n"
+  "In the morning, this Pokémon rolls\n"
   "downhill in search of food.");
 #else
 static const u8 DexDescription_Geodude_1[] = _(
@@ -906,14 +906,14 @@ static const u8 DexDescription_Geodude_1[] = _(
   "its edges are chipped and worn away,\n"
   "making it more rounded in appearance.");
 static const u8 DexDescription_Geodude_2[] = _(
-  "However, this POKéMON's heart will\n"
+  "However, this Pokémon's heart will\n"
   "remain hard, craggy, and rough always.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Graveler_1[] = _(
   "Rocks are GRAVELER's favorite food.\n"
-  "This POKéMON will climb a mountain from\n"
+  "This Pokémon will climb a mountain from\n"
   "the base to the summit, crunchingly");
 static const u8 DexDescription_Graveler_2[] = _(
   "feasting on rocks all the while.\n"
@@ -925,7 +925,7 @@ static const u8 DexDescription_Graveler_1[] = _(
   "Apparently, it prefers to eat rocks\n"
   "that are covered in moss.");
 static const u8 DexDescription_Graveler_2[] = _(
-  "This POKéMON eats its way through\n"
+  "This Pokémon eats its way through\n"
   "a ton of rocks on a daily basis.");
 #endif
 
@@ -937,12 +937,12 @@ static const u8 DexDescription_Golem_1[] = _(
 static const u8 DexDescription_Golem_2[] = _(
   "grooves have been dug into the sides of\n"
   "mountains to serve as guideways for\n"
-  "diverting this POKéMON's course.");
+  "diverting this Pokémon's course.");
 #else
 static const u8 DexDescription_Golem_1[] = _(
   "GOLEM live up on mountains.\n"
   "If there is a large earthquake, these\n"
-  "POKéMON will come rolling down off");
+  "Pokémon will come rolling down off");
 static const u8 DexDescription_Golem_2[] = _(
   "the mountains en masse to the\n"
   "foothills below.");
@@ -951,7 +951,7 @@ static const u8 DexDescription_Golem_2[] = _(
 static const u8 DexDescription_Ponyta_1[] = _(
   "PONYTA is very weak at birth.\n"
   "It can barely stand up.\n"
-  "This POKéMON becomes stronger by");
+  "This Pokémon becomes stronger by");
 static const u8 DexDescription_Ponyta_2[] = _(
   "stumbling and falling to keep up with\n"
   "its parent.");
@@ -959,7 +959,7 @@ static const u8 DexDescription_Ponyta_2[] = _(
 static const u8 DexDescription_Rapidash_1[] = _(
   "RAPIDASH usually can be seen casually\n"
   "cantering in the fields and plains.\n"
-  "However, when this POKéMON turns");
+  "However, when this Pokémon turns");
 static const u8 DexDescription_Rapidash_2[] = _(
   "serious, its fiery manes flare and blaze\n"
   "as it gallops its way up to 150 mph.");
@@ -969,7 +969,7 @@ static const u8 DexDescription_Slowpoke_1[] = _(
   "dipping it in water at the side of a\n"
   "river.");
 static const u8 DexDescription_Slowpoke_2[] = _(
-  "However, this POKéMON often forgets\n"
+  "However, this Pokémon often forgets\n"
   "what it's doing and often spends entire\n"
   "days just loafing at water's edge.");
 
@@ -987,7 +987,7 @@ static const u8 DexDescription_Magnemite_1[] = _(
   "electromagnetic waves from the units\n"
   "at its sides. These waves block gravity.");
 static const u8 DexDescription_Magnemite_2[] = _(
-  "This POKéMON becomes incapable of\n"
+  "This Pokémon becomes incapable of\n"
   "flight if its internal electrical supply\n"
   "is depleted.");
 #else
@@ -997,7 +997,7 @@ static const u8 DexDescription_Magnemite_1[] = _(
   "If your house has a power outage,");
 static const u8 DexDescription_Magnemite_2[] = _(
   "check your circuit breakers. You may\n"
-  "find a large number of this POKéMON\n"
+  "find a large number of this Pokémon\n"
   "clinging to the breaker box.");
 #endif
 
@@ -1008,7 +1008,7 @@ static const u8 DexDescription_Magneton_1[] = _(
   "precision instruments. Because of");
 static const u8 DexDescription_Magneton_2[] = _(
   "this, it is said that some towns warn\n"
-  "people to keep this POKéMON inside\n"
+  "people to keep this Pokémon inside\n"
   "a POKé BALL.");
 #else
 static const u8 DexDescription_Magneton_1[] = _(
@@ -1017,7 +1017,7 @@ static const u8 DexDescription_Magneton_1[] = _(
   "devices. As a result, large cities sound");
 static const u8 DexDescription_Magneton_2[] = _(
   "sirens to warn citizens of large-scale\n"
-  "outbreaks of this POKéMON.");
+  "outbreaks of this Pokémon.");
 #endif
 
 static const u8 DexDescription_Farfetchd_1[] = _(
@@ -1025,7 +1025,7 @@ static const u8 DexDescription_Farfetchd_1[] = _(
   "from a plant of some sort. Apparently,\n"
   "there are good sticks and bad sticks.");
 static const u8 DexDescription_Farfetchd_2[] = _(
-  "This POKéMON has been known to fight\n"
+  "This Pokémon has been known to fight\n"
   "with others over sticks.");
 
 #ifdef SAPPHIRE
@@ -1035,7 +1035,7 @@ static const u8 DexDescription_Doduo_1[] = _(
   "A scientific study reported that on");
 static const u8 DexDescription_Doduo_2[] = _(
   "rare occasions, there will be examples\n"
-  "of this POKéMON possessing different\n"
+  "of this Pokémon possessing different\n"
   "sets of brains.");
 #else
 static const u8 DexDescription_Doduo_1[] = _(
@@ -1062,7 +1062,7 @@ static const u8 DexDescription_Dodrio_1[] = _(
   "looking in three separate directions.\n"
   "It's a sure sign that it is on its guard.");
 static const u8 DexDescription_Dodrio_2[] = _(
-  "Don't go near this POKéMON if it's being\n"
+  "Don't go near this Pokémon if it's being\n"
   "wary - it may decide to peck you.");
 #endif
 
@@ -1077,7 +1077,7 @@ static const u8 DexDescription_Seel_2[] = _(
 static const u8 DexDescription_Dewgong_1[] = _(
   "DEWGONG loves to snooze on bitterly\n"
   "cold ice.\n"
-  "The sight of this POKéMON sleeping on");
+  "The sight of this Pokémon sleeping on");
 static const u8 DexDescription_Dewgong_2[] = _(
   "a glacier was mistakenly thought to be\n"
   "a mermaid by a mariner long ago.");
@@ -1086,7 +1086,7 @@ static const u8 DexDescription_Dewgong_2[] = _(
 static const u8 DexDescription_Grimer_1[] = _(
   "GRIMER emerged from the sludge that\n"
   "settled on a polluted seabed.\n"
-  "This POKéMON loves anything filthy.");
+  "This Pokémon loves anything filthy.");
 static const u8 DexDescription_Grimer_2[] = _(
   "It constantly leaks a horribly germ-\n"
   "infested fluid from all over its body.");
@@ -1096,13 +1096,13 @@ static const u8 DexDescription_Grimer_1[] = _(
   "be forced through any opening, however\n"
   "small it may be.");
 static const u8 DexDescription_Grimer_2[] = _(
-  "This POKéMON enters sewer pipes to\n"
+  "This Pokémon enters sewer pipes to\n"
   "drink filthy wastewater.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Muk_1[] = _(
-  "This POKéMON's favorite food is\n"
+  "This Pokémon's favorite food is\n"
   "anything that is repugnantly filthy.\n"
   "In dirty towns where people think");
 static const u8 DexDescription_Muk_2[] = _(
@@ -1114,13 +1114,13 @@ static const u8 DexDescription_Muk_1[] = _(
   "gives off a nose-bendingly horrible\n"
   "stench.");
 static const u8 DexDescription_Muk_2[] = _(
-  "Just one drop of this POKéMON's body\n"
+  "Just one drop of this Pokémon's body\n"
   "fluid can turn a pool stagnant and\n"
   "rancid.");
 #endif
 
 static const u8 DexDescription_Shellder_1[] = _(
-  "At night, this POKéMON uses its broad\n"
+  "At night, this Pokémon uses its broad\n"
   "tongue to burrow a hole in the seafloor\n"
   "sand and then sleep in it.");
 static const u8 DexDescription_Shellder_2[] = _(
@@ -1133,7 +1133,7 @@ static const u8 DexDescription_Cloyster_1[] = _(
   "sea. It does so by swallowing water,\n"
   "then jetting it out toward the rear.");
 static const u8 DexDescription_Cloyster_2[] = _(
-  "This POKéMON shoots spikes from its\n"
+  "This Pokémon shoots spikes from its\n"
   "shell using the same system.");
 
 static const u8 DexDescription_Gastly_1[] = _(
@@ -1141,16 +1141,16 @@ static const u8 DexDescription_Gastly_1[] = _(
   "matter. When exposed to a strong wind,\n"
   "the gaseous body quickly dwindles away.");
 static const u8 DexDescription_Gastly_2[] = _(
-  "Groups of this POKéMON cluster under\n"
+  "Groups of this Pokémon cluster under\n"
   "the eaves of houses to escape the\n"
   "ravages of wind.");
 
 static const u8 DexDescription_Haunter_1[] = _(
-  "HAUNTER is a dangerous POKéMON.\n"
+  "HAUNTER is a dangerous Pokémon.\n"
   "If one beckons you while floating in\n"
   "darkness, you must never approach it.");
 static const u8 DexDescription_Haunter_2[] = _(
-  "This POKéMON will try to lick you with its\n"
+  "This Pokémon will try to lick you with its\n"
   "tongue and steal your life away.");
 
 static const u8 DexDescription_Gengar_1[] = _(
@@ -1163,7 +1163,7 @@ static const u8 DexDescription_Gengar_2[] = _(
 
 static const u8 DexDescription_Onix_1[] = _(
   "ONIX has a magnet in its brain. It acts\n"
-  "as a compass so that this POKéMON does\n"
+  "as a compass so that this Pokémon does\n"
   "not lose direction while it is tunneling.");
 static const u8 DexDescription_Onix_2[] = _(
   "As it grows older, its body becomes\n"
@@ -1172,7 +1172,7 @@ static const u8 DexDescription_Onix_2[] = _(
 static const u8 DexDescription_Drowzee_1[] = _(
   "If your nose becomes itchy while you\n"
   "are sleeping, it's a sure sign that one\n"
-  "of these POKéMON is standing above");
+  "of these Pokémon is standing above");
 static const u8 DexDescription_Drowzee_2[] = _(
   "your pillow and trying to eat your dream\n"
   "through your nostrils.");
@@ -1183,7 +1183,7 @@ static const u8 DexDescription_Hypno_1[] = _(
   "pendulum lull the foe into a deep state");
 static const u8 DexDescription_Hypno_2[] = _(
   "of hypnosis.\n"
-  "While this POKéMON searches for prey,\n"
+  "While this Pokémon searches for prey,\n"
   "it polishes the pendulum.");
 
 static const u8 DexDescription_Krabby_1[] = _(
@@ -1191,7 +1191,7 @@ static const u8 DexDescription_Krabby_1[] = _(
   "holes dug into the sand.\n"
   "On sandy beaches with little in the way");
 static const u8 DexDescription_Krabby_2[] = _(
-  "of food, these POKéMON can be seen\n"
+  "of food, these Pokémon can be seen\n"
   "squabbling with each other over\n"
   "territory.");
 
@@ -1201,7 +1201,7 @@ static const u8 DexDescription_Kingler_1[] = _(
   "air to communicate with others.");
 static const u8 DexDescription_Kingler_2[] = _(
   "However, because the claw is so heavy,\n"
-  "the POKéMON quickly tires.");
+  "the Pokémon quickly tires.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Voltorb_1[] = _(
@@ -1217,7 +1217,7 @@ static const u8 DexDescription_Voltorb_1[] = _(
   "that manufactures POKé BALLS.\n"
   "The link between that sighting and");
 static const u8 DexDescription_Voltorb_2[] = _(
-  "the fact that this POKéMON looks very\n"
+  "the fact that this Pokémon looks very\n"
   "similar to a POKé BALL remains a\n"
   "mystery.");
 #endif
@@ -1226,7 +1226,7 @@ static const u8 DexDescription_Voltorb_2[] = _(
 static const u8 DexDescription_Electrode_1[] = _(
   "One of ELECTRODE's characteristics is\n"
   "its attraction to electricity.\n"
-  "It is a problematical POKéMON that");
+  "It is a problematical Pokémon that");
 static const u8 DexDescription_Electrode_2[] = _(
   "congregates mostly at electrical\n"
   "power plants to feed on electricity\n"
@@ -1235,14 +1235,14 @@ static const u8 DexDescription_Electrode_2[] = _(
 static const u8 DexDescription_Electrode_1[] = _(
   "ELECTRODE eats electricity in the\n"
   "atmosphere. On days when lightning\n"
-  "strikes, you can see this POKéMON");
+  "strikes, you can see this Pokémon");
 static const u8 DexDescription_Electrode_2[] = _(
   "exploding all over the place from\n"
   "eating too much electricity.");
 #endif
 
 static const u8 DexDescription_Exeggcute_1[] = _(
-  "This POKéMON consists of six eggs that\n"
+  "This Pokémon consists of six eggs that\n"
   "form a closely knit cluster. The six eggs\n"
   "attract each other and spin around.");
 static const u8 DexDescription_Exeggcute_2[] = _(
@@ -1262,7 +1262,7 @@ static const u8 DexDescription_Cubone_1[] = _(
   "never see again. Seeing a likeness of\n"
   "its mother in the full moon, it cries.");
 static const u8 DexDescription_Cubone_2[] = _(
-  "The stains on the skull the POKéMON\n"
+  "The stains on the skull the Pokémon\n"
   "wears are made by the tears it sheds.");
 
 static const u8 DexDescription_Marowak_1[] = _(
@@ -1270,7 +1270,7 @@ static const u8 DexDescription_Marowak_1[] = _(
   "that has overcome its sadness at the\n"
   "loss of its mother and grown tough.");
 static const u8 DexDescription_Marowak_2[] = _(
-  "This POKéMON's tempered and hardened\n"
+  "This Pokémon's tempered and hardened\n"
   "spirit is not easily broken.");
 
 static const u8 DexDescription_Hitmonlee_1[] = _(
@@ -1287,7 +1287,7 @@ static const u8 DexDescription_Hitmonchan_1[] = _(
   "spirit of a boxer who had been working\n"
   "towards a world championship.");
 static const u8 DexDescription_Hitmonchan_2[] = _(
-  "This POKéMON has an indomitable spirit\n"
+  "This Pokémon has an indomitable spirit\n"
   "and will never give up in the face of\n"
   "adversity.");
 
@@ -1307,14 +1307,14 @@ static const u8 DexDescription_Koffing_1[] = _(
 static const u8 DexDescription_Koffing_2[] = _(
   "results in a terribly powerful poison\n"
   "gas. The higher the temperature, the\n"
-  "more gas is concocted by this POKéMON.");
+  "more gas is concocted by this Pokémon.");
 #else
 static const u8 DexDescription_Koffing_1[] = _(
   "If KOFFING becomes agitated, it raises\n"
   "the toxicity of its internal gases and\n"
   "jets them out from all over its body.");
 static const u8 DexDescription_Koffing_2[] = _(
-  "This POKéMON may also overinflate its\n"
+  "This Pokémon may also overinflate its\n"
   "round body, then explode.");
 #endif
 
@@ -1326,11 +1326,11 @@ static const u8 DexDescription_Weezing_1[] = _(
 static const u8 DexDescription_Weezing_2[] = _(
   "The more the gases are mixed, the more\n"
   "powerful the toxins become. The\n"
-  "POKéMON also becomes more putrid.");
+  "Pokémon also becomes more putrid.");
 #else
 static const u8 DexDescription_Weezing_1[] = _(
   "WEEZING loves the gases given off by\n"
-  "rotted kitchen garbage. This POKéMON\n"
+  "rotted kitchen garbage. This Pokémon\n"
   "will find a dirty, unkempt house and");
 static const u8 DexDescription_Weezing_2[] = _(
   "make it its home. At night, when the\n"
@@ -1353,7 +1353,7 @@ static const u8 DexDescription_Rhyhorn_1[] = _(
   "It is not bothered even if it rushes");
 static const u8 DexDescription_Rhyhorn_2[] = _(
   "headlong into a block of steel.\n"
-  "This POKéMON may feel some pain from\n"
+  "This Pokémon may feel some pain from\n"
   "the collision the next day, however.");
 #endif
 
@@ -1363,7 +1363,7 @@ static const u8 DexDescription_Rhydon_1[] = _(
   "drill. It is used for destroying rocks\n"
   "and boulders.");
 static const u8 DexDescription_Rhydon_2[] = _(
-  "This POKéMON occasionally rams into\n"
+  "This Pokémon occasionally rams into\n"
   "streams of magma, but the armor-like\n"
   "hide prevents it from feeling the heat.");
 #else
@@ -1372,7 +1372,7 @@ static const u8 DexDescription_Rhydon_1[] = _(
   "diamonds. One sweeping blow of its tail\n"
   "can topple a building.");
 static const u8 DexDescription_Rhydon_2[] = _(
-  "This POKéMON's hide is extremely tough.\n"
+  "This Pokémon's hide is extremely tough.\n"
   "Even direct cannon hits don't leave\n"
   "a scratch.");
 #endif
@@ -1399,7 +1399,7 @@ static const u8 DexDescription_Kangaskhan_1[] = _(
   "playing by itself, you must never\n"
   "disturb it or attempt to catch it.");
 static const u8 DexDescription_Kangaskhan_2[] = _(
-  "The baby POKéMON's parent is sure to\n"
+  "The baby Pokémon's parent is sure to\n"
   "be in the area, and it will become\n"
   "violently enraged at you.");
 
@@ -1409,13 +1409,13 @@ static const u8 DexDescription_Horsea_1[] = _(
   "reflexively spray a dense black ink\n"
   "from its mouth and try to escape.");
 static const u8 DexDescription_Horsea_2[] = _(
-  "This POKéMON swims by cleverly flapping\n"
+  "This Pokémon swims by cleverly flapping\n"
   "the fins on its back.");
 #else
 static const u8 DexDescription_Horsea_1[] = _(
   "HORSEA eats small insects and moss off\n"
   "of rocks. If the ocean current turns\n"
-  "fast, this POKéMON anchors itself by");
+  "fast, this Pokémon anchors itself by");
 static const u8 DexDescription_Horsea_2[] = _(
   "wrapping its tail around rocks or coral\n"
   "to prevent being washed away.");
@@ -1427,7 +1427,7 @@ static const u8 DexDescription_Seadra_1[] = _(
   "its body. The whirlpools are strong\n"
   "enough to swallow even fishing boats.");
 static const u8 DexDescription_Seadra_2[] = _(
-  "This POKéMON weakens prey with these\n"
+  "This Pokémon weakens prey with these\n"
   "currents, then swallows it whole.");
 #else
 static const u8 DexDescription_Seadra_1[] = _(
@@ -1435,7 +1435,7 @@ static const u8 DexDescription_Seadra_1[] = _(
   "between the branches of coral.\n"
   "Those trying to harvest coral are");
 static const u8 DexDescription_Seadra_2[] = _(
-  "occasionally stung by this POKéMON's\n"
+  "occasionally stung by this Pokémon's\n"
   "poison barbs if they fail to notice it.");
 #endif
 
@@ -1443,18 +1443,18 @@ static const u8 DexDescription_Seadra_2[] = _(
 static const u8 DexDescription_Goldeen_1[] = _(
   "GOLDEEN loves swimming wild and free\n"
   "in rivers and ponds.\n"
-  "If one of these POKéMON is placed in an");
+  "If one of these Pokémon is placed in an");
 static const u8 DexDescription_Goldeen_2[] = _(
   "aquarium, it will shatter even the\n"
   "thickest glass with one ram of its horn\n"
   "and make its escape.");
 #else
 static const u8 DexDescription_Goldeen_1[] = _(
-  "GOLDEEN is a very beautiful POKéMON\n"
+  "GOLDEEN is a very beautiful Pokémon\n"
   "with fins that billow elegantly in water.\n"
   "However, don't let your guard down");
 static const u8 DexDescription_Goldeen_2[] = _(
-  "around this POKéMON - it could ram you\n"
+  "around this Pokémon - it could ram you\n"
   "powerfully with its horn.");
 #endif
 
@@ -1464,7 +1464,7 @@ static const u8 DexDescription_Seaking_1[] = _(
   "The male and female will take turns\n"
   "patrolling around their nest and eggs.");
 static const u8 DexDescription_Seaking_2[] = _(
-  "The guarding of eggs by these POKéMON\n"
+  "The guarding of eggs by these Pokémon\n"
   "goes on for over a month.");
 #else
 static const u8 DexDescription_Seaking_1[] = _(
@@ -1472,7 +1472,7 @@ static const u8 DexDescription_Seaking_1[] = _(
   "seen performing courtship dances in\n"
   "riverbeds to woo females.");
 static const u8 DexDescription_Seaking_2[] = _(
-  "During this season, this POKéMON's body\n"
+  "During this season, this Pokémon's body\n"
   "coloration is at its most beautiful.");
 #endif
 
@@ -1483,7 +1483,7 @@ static const u8 DexDescription_Staryu_1[] = _(
   "the red core at the center of its body.");
 static const u8 DexDescription_Staryu_2[] = _(
   "If parts of its body are torn, this\n"
-  "POKéMON simply regenerates the\n"
+  "Pokémon simply regenerates the\n"
   "missing pieces and limbs.");
 #else
 static const u8 DexDescription_Staryu_1[] = _(
@@ -1492,7 +1492,7 @@ static const u8 DexDescription_Staryu_1[] = _(
   "If you go to a beach toward the");
 static const u8 DexDescription_Staryu_2[] = _(
   "end of summer, the glowing cores of\n"
-  "these POKéMON look like the stars\n"
+  "these Pokémon look like the stars\n"
   "in the sky.");
 #endif
 
@@ -1503,14 +1503,14 @@ static const u8 DexDescription_Starmie_1[] = _(
   "were a propeller on a ship.");
 static const u8 DexDescription_Starmie_2[] = _(
   "The core at the center of this\n"
-  "POKéMON's body glows in seven colors.");
+  "Pokémon's body glows in seven colors.");
 #else
 static const u8 DexDescription_Starmie_1[] = _(
   "STARMIE's center section - the core -\n"
   "glows brightly in seven colors.\n"
   "Because of its luminous nature, this");
 static const u8 DexDescription_Starmie_2[] = _(
-  "POKéMON has been given the nickname\n"
+  "Pokémon has been given the nickname\n"
   "“the gem of the sea.”");
 #endif
 
@@ -1527,7 +1527,7 @@ static const u8 DexDescription_Scyther_1[] = _(
   "speed enhances the effectiveness of\n"
   "the twin scythes on its forearms.");
 static const u8 DexDescription_Scyther_2[] = _(
-  "This POKéMON's scythes are so\n"
+  "This Pokémon's scythes are so\n"
   "effective, they can slice through thick\n"
   "logs in one wicked stroke.");
 
@@ -1542,7 +1542,7 @@ static const u8 DexDescription_Jynx_2[] = _(
 
 static const u8 DexDescription_Electabuzz_1[] = _(
   "When a storm arrives, gangs of this\n"
-  "POKéMON compete with each other to\n"
+  "Pokémon compete with each other to\n"
   "scale heights that are likely to be");
 static const u8 DexDescription_Electabuzz_2[] = _(
   "stricken by lightning bolts.\n"
@@ -1554,7 +1554,7 @@ static const u8 DexDescription_Magmar_1[] = _(
   "hot flames from all over its body to\n"
   "intimidate its opponent.");
 static const u8 DexDescription_Magmar_2[] = _(
-  "This POKéMON's fiery bursts create\n"
+  "This Pokémon's fiery bursts create\n"
   "heat waves that ignite grass and trees\n"
   "in its surroundings.");
 
@@ -1573,12 +1573,12 @@ static const u8 DexDescription_Pinsir_1[] = _(
   "grip a foe weighing twice its weight\n"
   "in its horns and easily lift it.");
 static const u8 DexDescription_Pinsir_2[] = _(
-  "This POKéMON's movements turn sluggish\n"
+  "This Pokémon's movements turn sluggish\n"
   "in cold places.");
 #endif
 
 static const u8 DexDescription_Tauros_1[] = _(
-  "This POKéMON is not satisfied unless\n"
+  "This Pokémon is not satisfied unless\n"
   "it is rampaging at all times.\n"
   "If there is no opponent for TAUROS to");
 static const u8 DexDescription_Tauros_2[] = _(
@@ -1592,12 +1592,12 @@ static const u8 DexDescription_Magikarp_1[] = _(
   "As a result, it is considered to be weak.");
 static const u8 DexDescription_Magikarp_2[] = _(
   "However, it is actually a very hardy\n"
-  "POKéMON that can survive in any body of\n"
+  "Pokémon that can survive in any body of\n"
   "water no matter how polluted it is.");
 #else
 static const u8 DexDescription_Magikarp_1[] = _(
   "MAGIKARP is a pathetic excuse for a\n"
-  "POKéMON that is only capable of\n"
+  "Pokémon that is only capable of\n"
   "flopping and splashing.");
 static const u8 DexDescription_Magikarp_2[] = _(
   "This behavior prompted scientists to\n"
@@ -1610,7 +1610,7 @@ static const u8 DexDescription_Gyarados_1[] = _(
   "ferociously violent blood doesn't calm\n"
   "until it has burned everything down.");
 static const u8 DexDescription_Gyarados_2[] = _(
-  "There are records of this POKéMON's\n"
+  "There are records of this Pokémon's\n"
   "rampages lasting a whole month.");
 #else
 static const u8 DexDescription_Gyarados_1[] = _(
@@ -1619,13 +1619,13 @@ static const u8 DexDescription_Gyarados_1[] = _(
   "transformation. It is said that this");
 static const u8 DexDescription_Gyarados_2[] = _(
   "transformation is to blame for this\n"
-  "POKéMON's wildly violent nature.");
+  "Pokémon's wildly violent nature.");
 #endif
 
 static const u8 DexDescription_Lapras_1[] = _(
   "People have driven LAPRAS almost to the\n"
   "point of extinction. In the evenings,\n"
-  "this POKéMON is said to sing plaintively");
+  "this Pokémon is said to sing plaintively");
 static const u8 DexDescription_Lapras_2[] = _(
   "as it seeks what few others of its kind\n"
   "still remain.");
@@ -1636,7 +1636,7 @@ static const u8 DexDescription_Ditto_1[] = _(
   "However, if it tries to transform itself");
 static const u8 DexDescription_Ditto_2[] = _(
   "into something by relying on its memory,\n"
-  "this POKéMON manages to get details\n"
+  "this Pokémon manages to get details\n"
   "wrong.");
 
 static const u8 DexDescription_Eevee_1[] = _(
@@ -1645,14 +1645,14 @@ static const u8 DexDescription_Eevee_1[] = _(
   "environment in which it lives.");
 static const u8 DexDescription_Eevee_2[] = _(
   "Radiation from various STONES causes\n"
-  "this POKéMON to evolve.");
+  "this Pokémon to evolve.");
 
 static const u8 DexDescription_Vaporeon_1[] = _(
   "VAPOREON underwent a spontaneous\n"
   "mutation and grew fins and gills that\n"
   "allow it to live underwater.");
 static const u8 DexDescription_Vaporeon_2[] = _(
-  "This POKéMON has the ability to freely\n"
+  "This Pokémon has the ability to freely\n"
   "control water.");
 
 static const u8 DexDescription_Jolteon_1[] = _(
@@ -1660,7 +1660,7 @@ static const u8 DexDescription_Jolteon_1[] = _(
   "electricity. This power is amplified by\n"
   "the static electricity of its fur,");
 static const u8 DexDescription_Jolteon_2[] = _(
-  "enabling the POKéMON to drop\n"
+  "enabling the Pokémon to drop\n"
   "thunderbolts. The bristling fur is made\n"
   "of electrically charged needles.");
 
@@ -1670,7 +1670,7 @@ static const u8 DexDescription_Flareon_1[] = _(
   "so that its body does not get");
 static const u8 DexDescription_Flareon_2[] = _(
   "excessively hot.\n"
-  "This POKéMON's body temperature can\n"
+  "This Pokémon's body temperature can\n"
   "rise to a maximum of 1,650 degrees F.");
 
 static const u8 DexDescription_Porygon_1[] = _(
@@ -1678,12 +1678,12 @@ static const u8 DexDescription_Porygon_1[] = _(
   "entirely back to program data and\n"
   "entering cyberspace.");
 static const u8 DexDescription_Porygon_2[] = _(
-  "This POKéMON is copy-protected so it\n"
+  "This Pokémon is copy-protected so it\n"
   "cannot be duplicated by copying.");
 
 static const u8 DexDescription_Omanyte_1[] = _(
   "OMANYTE is one of the ancient and long-\n"
-  "since-extinct POKéMON that have been\n"
+  "since-extinct Pokémon that have been\n"
   "regenerated from fossils by people.");
 static const u8 DexDescription_Omanyte_2[] = _(
   "If attacked by an enemy, it withdraws\n"
@@ -1698,25 +1698,25 @@ static const u8 DexDescription_Omastar_2[] = _(
   "become too slow and ponderous.");
 
 static const u8 DexDescription_Kabuto_1[] = _(
-  "KABUTO is a POKéMON that has been\n"
+  "KABUTO is a Pokémon that has been\n"
   "regenerated from a fossil. However, in\n"
   "extremely rare cases, living examples");
 static const u8 DexDescription_Kabuto_2[] = _(
   "have been discovered.\n"
-  "The POKéMON has not changed at all for\n"
+  "The Pokémon has not changed at all for\n"
   "300 million years.");
 
 static const u8 DexDescription_Kabutops_1[] = _(
   "KABUTOPS swam underwater to hunt for\n"
   "its prey in ancient times.\n"
-  "The POKéMON was apparently evolving");
+  "The Pokémon was apparently evolving");
 static const u8 DexDescription_Kabutops_2[] = _(
   "from being a water-dweller to living on\n"
   "land as evident from the beginnings of\n"
   "change in its gills and legs.");
 
 static const u8 DexDescription_Aerodactyl_1[] = _(
-  "AERODACTYL is a POKéMON from the age\n"
+  "AERODACTYL is a Pokémon from the age\n"
   "of dinosaurs. It was regenerated from\n"
   "genetic material extracted from amber.");
 static const u8 DexDescription_Aerodactyl_2[] = _(
@@ -1726,31 +1726,31 @@ static const u8 DexDescription_Aerodactyl_2[] = _(
 static const u8 DexDescription_Snorlax_1[] = _(
   "SNORLAX's typical day consists of\n"
   "nothing more than eating and sleeping.\n"
-  "It is such a docile POKéMON that there");
+  "It is such a docile Pokémon that there");
 static const u8 DexDescription_Snorlax_2[] = _(
   "are children who use its expansive belly\n"
   "as a place to play.");
 
 static const u8 DexDescription_Articuno_1[] = _(
-  "ARTICUNO is a legendary bird POKéMON\n"
+  "ARTICUNO is a legendary bird Pokémon\n"
   "that can control ice.\n"
   "The flapping of its wings chills the air.");
 static const u8 DexDescription_Articuno_2[] = _(
   "As a result, it is said that when this\n"
-  "POKéMON flies, snow will fall.");
+  "Pokémon flies, snow will fall.");
 
 static const u8 DexDescription_Zapdos_1[] = _(
-  "ZAPDOS is a legendary bird POKéMON that\n"
+  "ZAPDOS is a legendary bird Pokémon that\n"
   "has the ability to control electricity.\n"
   "It usually lives in thunderclouds.");
 static const u8 DexDescription_Zapdos_2[] = _(
-  "The POKéMON gains power if it is\n"
+  "The Pokémon gains power if it is\n"
   "stricken by lightning bolts.");
 
 static const u8 DexDescription_Moltres_1[] = _(
-  "MOLTRES is a legendary bird POKéMON\n"
+  "MOLTRES is a legendary bird Pokémon\n"
   "that has the ability to control fire.\n"
-  "If this POKéMON is injured, it is said to");
+  "If this Pokémon is injured, it is said to");
 static const u8 DexDescription_Moltres_2[] = _(
   "dip its body in the molten magma of a\n"
   "volcano to burn and heal itself.");
@@ -1774,23 +1774,23 @@ static const u8 DexDescription_Dragonair_2[] = _(
 static const u8 DexDescription_Dragonite_1[] = _(
   "DRAGONITE is capable of circling the\n"
   "globe in just sixteen hours.\n"
-  "It is a kindhearted POKéMON that leads");
+  "It is a kindhearted Pokémon that leads");
 static const u8 DexDescription_Dragonite_2[] = _(
   "lost and foundering ships in a storm to\n"
   "the safety of land.");
 
 static const u8 DexDescription_Mewtwo_1[] = _(
-  "MEWTWO is a POKéMON that was created\n"
+  "MEWTWO is a Pokémon that was created\n"
   "by genetic manipulation.\n"
   "However, even though the scientific");
 static const u8 DexDescription_Mewtwo_2[] = _(
-  "power of humans created this POKéMON's\n"
+  "power of humans created this Pokémon's\n"
   "body, they failed to endow MEWTWO with\n"
   "a compassionate heart.");
 
 static const u8 DexDescription_Mew_1[] = _(
   "MEW is said to possess the genetic\n"
-  "composition of all POKéMON.\n"
+  "composition of all Pokémon.\n"
   "It is capable of making itself invisible");
 static const u8 DexDescription_Mew_2[] = _(
   "at will, so it entirely avoids notice even\n"
@@ -1802,7 +1802,7 @@ static const u8 DexDescription_Chikorita_1[] = _(
   "However, a sweet fragrance also wafts");
 static const u8 DexDescription_Chikorita_2[] = _(
   "from the leaf, becalming the battling\n"
-  "POKéMON and creating a cozy, friendly\n"
+  "Pokémon and creating a cozy, friendly\n"
   "atmosphere all around.");
 
 static const u8 DexDescription_Bayleef_1[] = _(
@@ -1816,7 +1816,7 @@ static const u8 DexDescription_Bayleef_2[] = _(
 static const u8 DexDescription_Meganium_1[] = _(
   "The fragrance of MEGANIUM's flower\n"
   "soothes and calms emotions.\n"
-  "In battle, this POKéMON gives off more");
+  "In battle, this Pokémon gives off more");
 static const u8 DexDescription_Meganium_2[] = _(
   "of its becalming scent to blunt the\n"
   "foe's fighting spirit.");
@@ -1824,7 +1824,7 @@ static const u8 DexDescription_Meganium_2[] = _(
 static const u8 DexDescription_Cyndaquil_1[] = _(
   "CYNDAQUIL protects itself by flaring up\n"
   "the flames on its back.\n"
-  "The flames are vigorous if the POKéMON");
+  "The flames are vigorous if the Pokémon");
 static const u8 DexDescription_Cyndaquil_2[] = _(
   "is angry. However, if it is tired, the\n"
   "flames splutter fitfully with incomplete\n"
@@ -1835,7 +1835,7 @@ static const u8 DexDescription_Quilava_1[] = _(
   "intensity of its flames and gusts of\n"
   "superheated air.");
 static const u8 DexDescription_Quilava_2[] = _(
-  "This POKéMON applies its outstanding\n"
+  "This Pokémon applies its outstanding\n"
   "nimbleness to dodge attacks even while\n"
   "scorching the foe with flames.");
 
@@ -1844,13 +1844,13 @@ static const u8 DexDescription_Typhlosion_1[] = _(
   "shimmering heat haze that it creates\n"
   "using its intensely hot flames.");
 static const u8 DexDescription_Typhlosion_2[] = _(
-  "This POKéMON creates blazing explosive\n"
+  "This Pokémon creates blazing explosive\n"
   "blasts that burn everything to cinders.");
 
 static const u8 DexDescription_Totodile_1[] = _(
   "Despite the smallness of its body,\n"
   "TOTODILE's jaws are very powerful.\n"
-  "While the POKéMON may think it is just");
+  "While the Pokémon may think it is just");
 static const u8 DexDescription_Totodile_2[] = _(
   "playfully nipping, its bite has enough\n"
   "power to cause serious injury.");
@@ -1878,7 +1878,7 @@ static const u8 DexDescription_Sentret_1[] = _(
   "another stands guard. The sentry wakes\n"
   "the others at the first sign of danger.");
 static const u8 DexDescription_Sentret_2[] = _(
-  "When this POKéMON becomes separated\n"
+  "When this Pokémon becomes separated\n"
   "from its pack, it becomes incapable of\n"
   "sleep due to fear.");
 
@@ -1888,19 +1888,19 @@ static const u8 DexDescription_Furret_1[] = _(
   "through narrow spaces and get away.");
 static const u8 DexDescription_Furret_2[] = _(
   "In spite of its short limbs, this\n"
-  "POKéMON is very nimble and fleet.");
+  "Pokémon is very nimble and fleet.");
 
 static const u8 DexDescription_Hoothoot_1[] = _(
   "HOOTHOOT has an internal organ that\n"
   "senses and tracks the earth's rotation.\n"
-  "Using this special organ, this POKéMON");
+  "Using this special organ, this Pokémon");
 static const u8 DexDescription_Hoothoot_2[] = _(
   "begins hooting at precisely the same\n"
   "time every day.");
 
 static const u8 DexDescription_Noctowl_1[] = _(
   "NOCTOWL never fails at catching prey in\n"
-  "darkness. This POKéMON owes its\n"
+  "darkness. This Pokémon owes its\n"
   "success to its superior vision that");
 static const u8 DexDescription_Noctowl_2[] = _(
   "allows it to see in minimal light, and to\n"
@@ -1912,7 +1912,7 @@ static const u8 DexDescription_Ledyba_1[] = _(
   "where its legs join its body. This fluid\n"
   "is used for communicating with others.");
 static const u8 DexDescription_Ledyba_2[] = _(
-  "This POKéMON conveys its feelings to\n"
+  "This Pokémon conveys its feelings to\n"
   "others by altering the fluid's scent.");
 
 static const u8 DexDescription_Ledian_1[] = _(
@@ -1921,13 +1921,13 @@ static const u8 DexDescription_Ledian_1[] = _(
   "LEDIAN in countless numbers.");
 static const u8 DexDescription_Ledian_2[] = _(
   "There is a good reason for this - the\n"
-  "POKéMON uses the light of the stars\n"
+  "Pokémon uses the light of the stars\n"
   "as its energy.");
 
 static const u8 DexDescription_Spinarak_1[] = _(
   "The web spun by SPINARAK can be\n"
   "considered its second nervous system.\n"
-  "It is said that this POKéMON can");
+  "It is said that this Pokémon can");
 static const u8 DexDescription_Spinarak_2[] = _(
   "determine what kind of prey is touching\n"
   "its web just by the tiny vibrations it\n"
@@ -1938,20 +1938,20 @@ static const u8 DexDescription_Ariados_1[] = _(
   "hooked claws that enable it to scuttle\n"
   "on ceilings and vertical walls.");
 static const u8 DexDescription_Ariados_2[] = _(
-  "This POKéMON constricts the foe with\n"
+  "This Pokémon constricts the foe with\n"
   "thin and strong silk webbing.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Crobat_1[] = _(
   "CROBAT sneaks up on its intended prey\n"
   "using wings that barely make a sound.\n"
-  "This POKéMON rests by hanging on a");
+  "This Pokémon rests by hanging on a");
 static const u8 DexDescription_Crobat_2[] = _(
   "tree branch with its rear legs that\n"
   "serve as wings.");
 #else
 static const u8 DexDescription_Crobat_1[] = _(
-  "If this POKéMON is flying by fluttering\n"
+  "If this Pokémon is flying by fluttering\n"
   "only a pair of wings on either the\n"
   "forelegs or hind legs, it's proof that");
 static const u8 DexDescription_Crobat_2[] = _(
@@ -1964,7 +1964,7 @@ static const u8 DexDescription_Crobat_2[] = _(
 static const u8 DexDescription_Chinchou_1[] = _(
   "CHINCHOU's two antennas are filled with\n"
   "cells that generate strong electricity.\n"
-  "This POKéMON's cells create so much");
+  "This Pokémon's cells create so much");
 static const u8 DexDescription_Chinchou_2[] = _(
   "electrical power, it even makes itself\n"
   "tingle slightly.");
@@ -1974,7 +1974,7 @@ static const u8 DexDescription_Chinchou_1[] = _(
   "negative electrical charges from its\n"
   "two antennas to make its prey faint.");
 static const u8 DexDescription_Chinchou_2[] = _(
-  "This POKéMON flashes its electric\n"
+  "This Pokémon flashes its electric\n"
   "lights to exchange signals with others.");
 #endif
 
@@ -1984,14 +1984,14 @@ static const u8 DexDescription_Lanturn_1[] = _(
   "If you peer down into the dark sea from\n"
   "a ship at night, you can sometimes see");
 static const u8 DexDescription_Lanturn_2[] = _(
-  "this POKéMON's light rising from the\n"
+  "this Pokémon's light rising from the\n"
   "depths where it swims. It gives the sea\n"
   "an appearance of a starlit night.");
 #else
 static const u8 DexDescription_Lanturn_1[] = _(
   "LANTURN is nicknamed “the deep-sea\n"
   "star” for its illuminated antenna.\n"
-  "This POKéMON produces light by");
+  "This Pokémon produces light by");
 static const u8 DexDescription_Lanturn_2[] = _(
   "causing a chemical reaction between\n"
   "bacteria and its bodily fluids inside\n"
@@ -2004,7 +2004,7 @@ static const u8 DexDescription_Pichu_1[] = _(
   "short out electricity with another\n"
   "PICHU, creating a shower of sparks.");
 static const u8 DexDescription_Pichu_2[] = _(
-  "In that event, this POKéMON will begin\n"
+  "In that event, this Pokémon will begin\n"
   "crying, startled by the flash of sparks.");
 #else
 static const u8 DexDescription_Pichu_1[] = _(
@@ -2013,7 +2013,7 @@ static const u8 DexDescription_Pichu_1[] = _(
   "or when the air is very dry.");
 static const u8 DexDescription_Pichu_2[] = _(
   "You can hear the crackling of static\n"
-  "electricity coming off this POKéMON.");
+  "electricity coming off this Pokémon.");
 #endif
 
 static const u8 DexDescription_Cleffa_1[] = _(
@@ -2022,7 +2022,7 @@ static const u8 DexDescription_Cleffa_1[] = _(
   "They dance through the night and stop");
 static const u8 DexDescription_Cleffa_2[] = _(
   "only at the break of day, when these\n"
-  "POKéMON quench their thirst with the\n"
+  "Pokémon quench their thirst with the\n"
   "morning dew.");
 
 #ifdef SAPPHIRE
@@ -2039,22 +2039,22 @@ static const u8 DexDescription_Igglybuff_1[] = _(
   "sufficiently developed. It would hurt\n"
   "its throat if it were to sing too much.");
 static const u8 DexDescription_Igglybuff_2[] = _(
-  "This POKéMON gargles with freshwater\n"
+  "This Pokémon gargles with freshwater\n"
   "from a clean stream.");
 #endif
 
 static const u8 DexDescription_Togepi_1[] = _(
   "As its energy, TOGEPI uses the positive\n"
   "emotions of compassion and pleasure\n"
-  "exuded by people and POKéMON.");
+  "exuded by people and Pokémon.");
 static const u8 DexDescription_Togepi_2[] = _(
-  "This POKéMON stores up feelings of\n"
+  "This Pokémon stores up feelings of\n"
   "happiness inside its shell, then shares\n"
   "them with others.");
 
 static const u8 DexDescription_Togetic_1[] = _(
-  "TOGETIC is said to be a POKéMON that\n"
-  "brings good fortune. When the POKéMON\n"
+  "TOGETIC is said to be a Pokémon that\n"
+  "brings good fortune. When the Pokémon\n"
   "spots someone who is pure of heart,");
 static const u8 DexDescription_Togetic_2[] = _(
   "it is said to appear and share its\n"
@@ -2063,7 +2063,7 @@ static const u8 DexDescription_Togetic_2[] = _(
 #ifdef SAPPHIRE
 static const u8 DexDescription_Natu_1[] = _(
   "NATU has a highly developed jumping\n"
-  "ability. The POKéMON flaps and leaps\n"
+  "ability. The Pokémon flaps and leaps\n"
   "onto tree branches that are taller than");
 static const u8 DexDescription_Natu_2[] = _(
   "grown-up people to pick at the tree's\n"
@@ -2072,7 +2072,7 @@ static const u8 DexDescription_Natu_2[] = _(
 static const u8 DexDescription_Natu_1[] = _(
   "NATU cannot fly because its wings are\n"
   "not yet fully grown. If your eyes meet\n"
-  "with this POKéMON's eyes, it will stare");
+  "with this Pokémon's eyes, it will stare");
 static const u8 DexDescription_Natu_2[] = _(
   "back intently at you. But if you move\n"
   "even slightly, it will hop away to safety.");
@@ -2084,14 +2084,14 @@ static const u8 DexDescription_Xatu_1[] = _(
   "staring at the sun all day long.\n"
   "Some people revere it as a mystical");
 static const u8 DexDescription_Xatu_2[] = _(
-  "POKéMON out of their belief that XATU\n"
+  "Pokémon out of their belief that XATU\n"
   "is in possession of the power to see\n"
   "into the future.");
 #else
 static const u8 DexDescription_Xatu_1[] = _(
   "XATU stands rooted and still in one\n"
   "spot all day long. People believe that\n"
-  "this POKéMON does so out of fear of");
+  "this Pokémon does so out of fear of");
 static const u8 DexDescription_Xatu_2[] = _(
   "the terrible things it has foreseen in\n"
   "the future.");
@@ -2118,7 +2118,7 @@ static const u8 DexDescription_Ampharos_1[] = _(
   "it can be seen even from space.\n"
   "People in the old days used the light of");
 static const u8 DexDescription_Ampharos_2[] = _(
-  "this POKéMON to send signals back and\n"
+  "this Pokémon to send signals back and\n"
   "forth with others far away.");
 
 #ifdef SAPPHIRE
@@ -2127,7 +2127,7 @@ static const u8 DexDescription_Bellossom_1[] = _(
   "beautifully if it has evolved from a\n"
   "smelly GLOOM - the stinkier the better.");
 static const u8 DexDescription_Bellossom_2[] = _(
-  "At night, this POKéMON closes its\n"
+  "At night, this Pokémon closes its\n"
   "petals and goes to sleep.");
 #else
 static const u8 DexDescription_Bellossom_1[] = _(
@@ -2135,7 +2135,7 @@ static const u8 DexDescription_Bellossom_1[] = _(
   "of sunlight, the leaves ringing its body\n"
   "begin to spin around.");
 static const u8 DexDescription_Bellossom_2[] = _(
-  "This POKéMON's dancing is renowned in\n"
+  "This Pokémon's dancing is renowned in\n"
   "the southern lands.");
 #endif
 
@@ -2145,7 +2145,7 @@ static const u8 DexDescription_Marill_1[] = _(
   "fast-running stream, MARILL wraps its\n"
   "tail around the trunk of a tree.");
 static const u8 DexDescription_Marill_2[] = _(
-  "This POKéMON's tail is flexible and\n"
+  "This Pokémon's tail is flexible and\n"
   "configured to stretch.");
 #else
 static const u8 DexDescription_Marill_1[] = _(
@@ -2153,7 +2153,7 @@ static const u8 DexDescription_Marill_1[] = _(
   "a life preserver. If you see just its\n"
   "tail bobbing on the water's surface,");
 static const u8 DexDescription_Marill_2[] = _(
-  "it's a sure indication that this POKéMON\n"
+  "it's a sure indication that this Pokémon\n"
   "is diving beneath the water to feed on\n"
   "aquatic plants.");
 #endif
@@ -2162,15 +2162,15 @@ static const u8 DexDescription_Marill_2[] = _(
 static const u8 DexDescription_Azumarill_1[] = _(
   "AZUMARILL can make balloons out of\n"
   "air. It makes these air balloons if it\n"
-  "spots a drowning POKéMON.");
+  "spots a drowning Pokémon.");
 static const u8 DexDescription_Azumarill_2[] = _(
-  "The air balloons enable the POKéMON in\n"
+  "The air balloons enable the Pokémon in\n"
   "trouble to breathe.");
 #else
 static const u8 DexDescription_Azumarill_1[] = _(
   "AZUMARILL's long ears are indispensable\n"
   "sensors. By focusing its hearing, this\n"
-  "POKéMON can identify what kinds of");
+  "Pokémon can identify what kinds of");
 static const u8 DexDescription_Azumarill_2[] = _(
   "prey are around, even in rough and\n"
   "fast-running rivers.");
@@ -2181,7 +2181,7 @@ static const u8 DexDescription_Sudowoodo_1[] = _(
   "to avoid being attacked by enemies.\n"
   "However, because the forelegs remain");
 static const u8 DexDescription_Sudowoodo_2[] = _(
-  "green throughout the year, the POKéMON\n"
+  "green throughout the year, the Pokémon\n"
   "is easily identified as a fake during\n"
   "the winter.");
 
@@ -2190,11 +2190,11 @@ static const u8 DexDescription_Politoed_1[] = _(
   "proof of its status as a king. It is said\n"
   "that the longer and more curled the");
 static const u8 DexDescription_Politoed_2[] = _(
-  "hair, the more respect this POKéMON\n"
+  "hair, the more respect this Pokémon\n"
   "earns from its peers.");
 
 static const u8 DexDescription_Hoppip_1[] = _(
-  "This POKéMON drifts and floats with the\n"
+  "This Pokémon drifts and floats with the\n"
   "wind. If it senses the approach of\n"
   "strong winds, HOPPIP links its leaves");
 static const u8 DexDescription_Hoppip_2[] = _(
@@ -2207,13 +2207,13 @@ static const u8 DexDescription_Skiploom_1[] = _(
   "How much the flower opens depends on");
 static const u8 DexDescription_Skiploom_2[] = _(
   "the temperature. For that reason, this\n"
-  "POKéMON is sometimes used as a\n"
+  "Pokémon is sometimes used as a\n"
   "thermometer.");
 
 static const u8 DexDescription_Jumpluff_1[] = _(
   "JUMPLUFF rides warm southern winds to\n"
   "cross the sea and fly to foreign lands.\n"
-  "The POKéMON descends to the ground");
+  "The Pokémon descends to the ground");
 static const u8 DexDescription_Jumpluff_2[] = _(
   "when it encounters cold air while it is\n"
   "floating.");
@@ -2223,7 +2223,7 @@ static const u8 DexDescription_Aipom_1[] = _(
   "appendage that can be cleverly\n"
   "manipulated.");
 static const u8 DexDescription_Aipom_2[] = _(
-  "However, because the POKéMON uses its\n"
+  "However, because the Pokémon uses its\n"
   "tail so much, its real hands have become\n"
   "rather clumsy.");
 
@@ -2250,7 +2250,7 @@ static const u8 DexDescription_Yanma_1[] = _(
   "It is a great flier that is adept at");
 static const u8 DexDescription_Yanma_2[] = _(
   "making sudden stops and turning midair.\n"
-  "This POKéMON uses its flying ability to\n"
+  "This Pokémon uses its flying ability to\n"
   "quickly chase down targeted prey.");
 
 static const u8 DexDescription_Wooper_1[] = _(
@@ -2266,13 +2266,13 @@ static const u8 DexDescription_Quagsire_1[] = _(
   "its mouth wide open in water and waiting\n"
   "for its prey to blunder in unaware.");
 static const u8 DexDescription_Quagsire_2[] = _(
-  "Because the POKéMON does not move,\n"
+  "Because the Pokémon does not move,\n"
   "it does not get very hungry.");
 
 static const u8 DexDescription_Espeon_1[] = _(
   "ESPEON is extremely loyal to any\n"
   "TRAINER it considers to be worthy.\n"
-  "It is said that this POKéMON developed");
+  "It is said that this Pokémon developed");
 static const u8 DexDescription_Espeon_2[] = _(
   "its precognitive powers to protect its\n"
   "TRAINER from harm.");
@@ -2289,7 +2289,7 @@ static const u8 DexDescription_Umbreon_2[] = _(
 static const u8 DexDescription_Murkrow_1[] = _(
   "MURKROW was feared and loathed as the\n"
   "alleged bearer of ill fortune.\n"
-  "This POKéMON shows strong interest in");
+  "This Pokémon shows strong interest in");
 static const u8 DexDescription_Murkrow_2[] = _(
   "anything that sparkles or glitters.\n"
   "It will even try to steal rings from\n"
@@ -2300,20 +2300,20 @@ static const u8 DexDescription_Slowking_1[] = _(
   "day in an effort to solve the mysteries\n"
   "of the world.");
 static const u8 DexDescription_Slowking_2[] = _(
-  "However, this POKéMON apparently\n"
+  "However, this Pokémon apparently\n"
   "forgets everything it has learned if\n"
   "the SHELLDER on its head comes off.");
 
 static const u8 DexDescription_Misdreavus_1[] = _(
   "MISDREAVUS frightens people with a\n"
-  "creepy, sobbing cry. The POKéMON\n"
+  "creepy, sobbing cry. The Pokémon\n"
   "apparently uses its red spheres to");
 static const u8 DexDescription_Misdreavus_2[] = _(
   "absorb the fearful feelings of foes and\n"
   "turn them into nutrition.");
 
 static const u8 DexDescription_Unown_1[] = _(
-  "This POKéMON is shaped like ancient\n"
+  "This Pokémon is shaped like ancient\n"
   "writing. It is a mystery as to which\n"
   "came first, the ancient writings or the");
 static const u8 DexDescription_Unown_2[] = _(
@@ -2327,7 +2327,7 @@ static const u8 DexDescription_Wobbuffet_1[] = _(
   "However, it won't endure an attack on");
 static const u8 DexDescription_Wobbuffet_2[] = _(
   "its tail. When that happens, the\n"
-  "POKéMON will try to take the foe with it\n"
+  "Pokémon will try to take the foe with it\n"
   "using DESTINY BOND.");
 #else
 static const u8 DexDescription_Wobbuffet_1[] = _(
@@ -2354,7 +2354,7 @@ static const u8 DexDescription_Girafarig_1[] = _(
   "but it is small. The rear head attacks in\n"
   "response to smells and sounds.");
 static const u8 DexDescription_Girafarig_2[] = _(
-  "Approaching this POKéMON from behind\n"
+  "Approaching this Pokémon from behind\n"
   "can cause the rear head to suddenly\n"
   "lash out and bite.");
 #endif
@@ -2362,7 +2362,7 @@ static const u8 DexDescription_Girafarig_2[] = _(
 static const u8 DexDescription_Pineco_1[] = _(
   "PINECO hangs from a tree branch and\n"
   "patiently waits for prey to come along.\n"
-  "If the POKéMON is disturbed while");
+  "If the Pokémon is disturbed while");
 static const u8 DexDescription_Pineco_2[] = _(
   "eating by someone shaking its tree, it\n"
   "drops down to the ground and explodes\n"
@@ -2371,7 +2371,7 @@ static const u8 DexDescription_Pineco_2[] = _(
 static const u8 DexDescription_Forretress_1[] = _(
   "FORRETRESS conceals itself inside its\n"
   "hardened steel shell. The shell is opened\n"
-  "when the POKéMON is catching prey,");
+  "when the Pokémon is catching prey,");
 static const u8 DexDescription_Forretress_2[] = _(
   "but it does so at such a quick pace\n"
   "that the shell's inside cannot be seen.");
@@ -2381,14 +2381,14 @@ static const u8 DexDescription_Dunsparce_1[] = _(
   "It uses this tail to burrow into the\n"
   "ground backwards.");
 static const u8 DexDescription_Dunsparce_2[] = _(
-  "This POKéMON is known to make its nest\n"
+  "This Pokémon is known to make its nest\n"
   "in complex shapes deep under the\n"
   "ground.");
 
 static const u8 DexDescription_Gligar_1[] = _(
   "GLIGAR glides through the air without\n"
   "a sound as if it were sliding.\n"
-  "This POKéMON hangs on to the face of");
+  "This Pokémon hangs on to the face of");
 static const u8 DexDescription_Gligar_2[] = _(
   "its foe using its clawed hind legs and\n"
   "the large pincers on its forelegs, then\n"
@@ -2396,25 +2396,25 @@ static const u8 DexDescription_Gligar_2[] = _(
 
 static const u8 DexDescription_Steelix_1[] = _(
   "STEELIX lives even further underground\n"
-  "than ONIX. This POKéMON is known to dig\n"
+  "than ONIX. This Pokémon is known to dig\n"
   "towards the earth's core.");
 static const u8 DexDescription_Steelix_2[] = _(
-  "There are records of this POKéMON\n"
+  "There are records of this Pokémon\n"
   "reaching a depth of over six-tenths\n"
   "of a mile underground.");
 
 static const u8 DexDescription_Snubbull_1[] = _(
   "By baring its fangs and making a scary\n"
-  "face, SNUBBULL sends smaller POKéMON\n"
+  "face, SNUBBULL sends smaller Pokémon\n"
   "scurrying away in terror.");
 static const u8 DexDescription_Snubbull_2[] = _(
-  "However, this POKéMON seems a little\n"
+  "However, this Pokémon seems a little\n"
   "sad at making its foes flee.");
 
 static const u8 DexDescription_Granbull_1[] = _(
   "GRANBULL has a particularly well-\n"
   "developed lower jaw. The enormous fangs\n"
-  "are heavy, causing the POKéMON to tip");
+  "are heavy, causing the Pokémon to tip");
 static const u8 DexDescription_Granbull_2[] = _(
   "its head back for balance.\n"
   "Unless it is startled, it will not try to\n"
@@ -2422,7 +2422,7 @@ static const u8 DexDescription_Granbull_2[] = _(
 
 static const u8 DexDescription_Qwilfish_1[] = _(
   "QWILFISH sucks in water, inflating\n"
-  "itself. This POKéMON uses the pressure\n"
+  "itself. This Pokémon uses the pressure\n"
   "of the water it swallowed to shoot");
 static const u8 DexDescription_Qwilfish_2[] = _(
   "toxic quills all at once from all over\n"
@@ -2434,7 +2434,7 @@ static const u8 DexDescription_Scizor_1[] = _(
   "steel. It is not easily fazed by ordinary\n"
   "sorts of attacks.");
 static const u8 DexDescription_Scizor_2[] = _(
-  "This POKéMON flaps its wings to\n"
+  "This Pokémon flaps its wings to\n"
   "regulate its body temperature.");
 
 static const u8 DexDescription_Shuckle_1[] = _(
@@ -2452,7 +2452,7 @@ static const u8 DexDescription_Heracross_1[] = _(
   "These are planted firmly into the\n"
   "ground or the bark of a tree, giving the");
 static const u8 DexDescription_Heracross_2[] = _(
-  "POKéMON a secure and solid footing\n"
+  "Pokémon a secure and solid footing\n"
   "to forcefully fling away foes with\n"
   "its proud horn.");
 #else
@@ -2462,20 +2462,20 @@ static const u8 DexDescription_Heracross_1[] = _(
   "and then scoops up and hurls the");
 static const u8 DexDescription_Heracross_2[] = _(
   "opponent with its mighty horn.\n"
-  "This POKéMON even has enough power\n"
+  "This Pokémon even has enough power\n"
   "to topple a massive tree.");
 #endif
 
 static const u8 DexDescription_Sneasel_1[] = _(
   "SNEASEL scales trees by punching its\n"
   "hooked claws into the bark.\n"
-  "This POKéMON seeks out unguarded");
+  "This Pokémon seeks out unguarded");
 static const u8 DexDescription_Sneasel_2[] = _(
   "nests and steals eggs for food while\n"
   "the parents are away.");
 
 static const u8 DexDescription_Teddiursa_1[] = _(
-  "This POKéMON likes to lick its palms that\n"
+  "This Pokémon likes to lick its palms that\n"
   "are sweetened by being soaked in honey.\n"
   "TEDDIURSA concocts its own honey by");
 static const u8 DexDescription_Teddiursa_2[] = _(
@@ -2487,7 +2487,7 @@ static const u8 DexDescription_Ursaring_1[] = _(
   "it is said that there are many streams\n"
   "and towering trees where they");
 static const u8 DexDescription_Ursaring_2[] = _(
-  "gather food. This POKéMON walks\n"
+  "gather food. This Pokémon walks\n"
   "through its forest gathering food\n"
   "every day.");
 
@@ -2495,7 +2495,7 @@ static const u8 DexDescription_Ursaring_2[] = _(
 static const u8 DexDescription_Slugma_1[] = _(
   "SLUGMA does not have any blood in its\n"
   "body. Instead, intensely hot magma\n"
-  "circulates throughout this POKéMON's");
+  "circulates throughout this Pokémon's");
 static const u8 DexDescription_Slugma_2[] = _(
   "body, carrying essential nutrients and\n"
   "oxygen to its organs.");
@@ -2503,7 +2503,7 @@ static const u8 DexDescription_Slugma_2[] = _(
 static const u8 DexDescription_Slugma_1[] = _(
   "Molten magma courses throughout\n"
   "SLUGMA's circulatory system.\n"
-  "If this POKéMON is chilled, the magma");
+  "If this Pokémon is chilled, the magma");
 static const u8 DexDescription_Slugma_2[] = _(
   "cools and hardens. Its body turns\n"
   "brittle and chunks fall off, reducing\n"
@@ -2516,7 +2516,7 @@ static const u8 DexDescription_Magcargo_1[] = _(
   "approximately 18,000 degrees F.\n"
   "Water is vaporized on contact.");
 static const u8 DexDescription_Magcargo_2[] = _(
-  "If this POKéMON is caught in the rain,\n"
+  "If this Pokémon is caught in the rain,\n"
   "the raindrops instantly turn into\n"
   "steam, cloaking the area in a thick fog.");
 #else
@@ -2526,7 +2526,7 @@ static const u8 DexDescription_Magcargo_1[] = _(
   "Its shell is very brittle and fragile -");
 static const u8 DexDescription_Magcargo_2[] = _(
   "just touching it causes it to crumble\n"
-  "apart. This POKéMON returns to its\n"
+  "apart. This Pokémon returns to its\n"
   "original size by dipping itself in magma.");
 #endif
 
@@ -2536,7 +2536,7 @@ static const u8 DexDescription_Swinub_1[] = _(
   "food is a mushroom that grows under");
 static const u8 DexDescription_Swinub_2[] = _(
   "the cover of dead grass.\n"
-  "This POKéMON occasionally roots out\n"
+  "This Pokémon occasionally roots out\n"
   "hot springs.");
 
 static const u8 DexDescription_Piloswine_1[] = _(
@@ -2544,24 +2544,24 @@ static const u8 DexDescription_Piloswine_1[] = _(
   "of long hair that enables it to endure\n"
   "the freezing cold.");
 static const u8 DexDescription_Piloswine_2[] = _(
-  "This POKéMON uses its tusks to dig up\n"
+  "This Pokémon uses its tusks to dig up\n"
   "food that has been buried under ice.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Corsola_1[] = _(
   "Clusters of CORSOLA congregate in warm\n"
   "seas where they serve as ideal hiding\n"
-  "places for smaller POKéMON.");
+  "places for smaller Pokémon.");
 static const u8 DexDescription_Corsola_2[] = _(
   "When the water temperature falls, this\n"
-  "POKéMON migrates to the southern seas.");
+  "Pokémon migrates to the southern seas.");
 #else
 static const u8 DexDescription_Corsola_1[] = _(
   "CORSOLA's branches glitter very\n"
   "beautifully in seven colors when they\n"
   "catch sunlight.");
 static const u8 DexDescription_Corsola_2[] = _(
-  "If any branch breaks off, this POKéMON\n"
+  "If any branch breaks off, this Pokémon\n"
   "grows it back in just one night.");
 #endif
 
@@ -2570,12 +2570,12 @@ static const u8 DexDescription_Remoraid_1[] = _(
   "at high velocity using its abdominal\n"
   "muscles to shoot down flying prey.");
 static const u8 DexDescription_Remoraid_2[] = _(
-  "When evolution draws near, this POKéMON\n"
+  "When evolution draws near, this Pokémon\n"
   "travels downstream from rivers.");
 
 static const u8 DexDescription_Octillery_1[] = _(
   "OCTILLERY grabs onto its foe using\n"
-  "its tentacles. This POKéMON tries to\n"
+  "its tentacles. This Pokémon tries to\n"
   "immobilize it before delivering the");
 static const u8 DexDescription_Octillery_2[] = _(
   "finishing blow.\n"
@@ -2588,14 +2588,14 @@ static const u8 DexDescription_Delibird_1[] = _(
   "explorer who managed to reach the peak");
 static const u8 DexDescription_Delibird_2[] = _(
   "of Mt. Everest thanks to one of these\n"
-  "POKéMON sharing its food.");
+  "Pokémon sharing its food.");
 
 static const u8 DexDescription_Mantine_1[] = _(
   "On sunny days, schools of MANTINE can\n"
   "be seen elegantly leaping over the\n"
   "sea's waves.");
 static const u8 DexDescription_Mantine_2[] = _(
-  "This POKéMON is not bothered by the\n"
+  "This Pokémon is not bothered by the\n"
   "REMORAID that hitches rides.");
 
 #ifdef SAPPHIRE
@@ -2609,7 +2609,7 @@ static const u8 DexDescription_Skarmory_2[] = _(
 #else
 static const u8 DexDescription_Skarmory_1[] = _(
   "SKARMORY is entirely encased in hard,\n"
-  "protective armor. This POKéMON flies at\n"
+  "protective armor. This Pokémon flies at\n"
   "close to 190 mph.");
 static const u8 DexDescription_Skarmory_2[] = _(
   "It slashes foes with its wings that\n"
@@ -2621,7 +2621,7 @@ static const u8 DexDescription_Houndour_1[] = _(
   "They communicate with each other using\n"
   "a variety of cries to corner their prey.");
 static const u8 DexDescription_Houndour_2[] = _(
-  "This POKéMON's remarkable teamwork is\n"
+  "This Pokémon's remarkable teamwork is\n"
   "unparalleled.");
 
 static const u8 DexDescription_Houndoom_1[] = _(
@@ -2629,14 +2629,14 @@ static const u8 DexDescription_Houndoom_1[] = _(
   "horns raked sharply towards the back\n"
   "serves a leadership role.");
 static const u8 DexDescription_Houndoom_2[] = _(
-  "These POKéMON choose their leader by\n"
+  "These Pokémon choose their leader by\n"
   "fighting amongst themselves.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Kingdra_1[] = _(
   "KINGDRA sleeps on the seafloor where\n"
   "it is otherwise devoid of life.\n"
-  "When a storm arrives, the POKéMON is");
+  "When a storm arrives, the Pokémon is");
 static const u8 DexDescription_Kingdra_2[] = _(
   "said to awaken and wander about in\n"
   "search of prey.");
@@ -2646,7 +2646,7 @@ static const u8 DexDescription_Kingdra_1[] = _(
   "that are otherwise uninhabited.\n"
   "It has long been believed that the");
 static const u8 DexDescription_Kingdra_2[] = _(
-  "yawning of this POKéMON creates\n"
+  "yawning of this Pokémon creates\n"
   "spiraling ocean currents.");
 #endif
 
@@ -2656,7 +2656,7 @@ static const u8 DexDescription_Phanpy_1[] = _(
   "itself. When others gather around, they\n"
   "thoroughly douse each other with water.");
 static const u8 DexDescription_Phanpy_2[] = _(
-  "These POKéMON can be seen drying their\n"
+  "These Pokémon can be seen drying their\n"
   "soaking-wet bodies at the edge of\n"
   "water.");
 #else
@@ -2675,7 +2675,7 @@ static const u8 DexDescription_Donphan_1[] = _(
   "body, even a house could be destroyed.\n"
   "Using its massive strength, the");
 static const u8 DexDescription_Donphan_2[] = _(
-  "POKéMON helps clear rock and mud slides\n"
+  "Pokémon helps clear rock and mud slides\n"
   "that block mountain trails.");
 #else
 static const u8 DexDescription_Donphan_1[] = _(
@@ -2683,14 +2683,14 @@ static const u8 DexDescription_Donphan_1[] = _(
   "its body into a ball, then charging at\n"
   "its foe while rolling at high speed.");
 static const u8 DexDescription_Donphan_2[] = _(
-  "Once it starts rolling, this POKéMON\n"
+  "Once it starts rolling, this Pokémon\n"
   "can't stop very easily.");
 #endif
 
 static const u8 DexDescription_Porygon2_1[] = _(
   "PORYGON2 was created by humans using\n"
   "the power of science. The man-made\n"
-  "POKéMON has been endowed with");
+  "Pokémon has been endowed with");
 static const u8 DexDescription_Porygon2_2[] = _(
   "artificial intelligence that enables it\n"
   "to learn new gestures and emotions\n"
@@ -2699,7 +2699,7 @@ static const u8 DexDescription_Porygon2_2[] = _(
 static const u8 DexDescription_Stantler_1[] = _(
   "STANTLER's magnificent antlers were\n"
   "traded at high prices as works of art.\n"
-  "As a result, this POKéMON was hunted");
+  "As a result, this Pokémon was hunted");
 static const u8 DexDescription_Stantler_2[] = _(
   "close to extinction by those who were\n"
   "after the priceless antlers.");
@@ -2710,12 +2710,12 @@ static const u8 DexDescription_Smeargle_1[] = _(
   "out from the tip of its tail.");
 static const u8 DexDescription_Smeargle_2[] = _(
   "Over 5,000 different marks left by this\n"
-  "POKéMON have been found.");
+  "Pokémon have been found.");
 
 static const u8 DexDescription_Tyrogue_1[] = _(
   "TYROGUE becomes stressed out if it\n"
   "does not get to train every day.\n"
-  "When raising this POKéMON, the TRAINER");
+  "When raising this Pokémon, the TRAINER");
 static const u8 DexDescription_Tyrogue_2[] = _(
   "must establish and uphold various\n"
   "training methods.");
@@ -2726,7 +2726,7 @@ static const u8 DexDescription_Hitmontop_1[] = _(
   "This technique is a remarkable mix of");
 static const u8 DexDescription_Hitmontop_2[] = _(
   "both offense and defense at the same\n"
-  "time. The POKéMON travels faster\n"
+  "time. The Pokémon travels faster\n"
   "spinning than it does walking.");
 
 static const u8 DexDescription_Smoochum_1[] = _(
@@ -2742,13 +2742,13 @@ static const u8 DexDescription_Elekid_1[] = _(
   "If it touches metal and accidentally\n"
   "discharges all its built-up electricity,");
 static const u8 DexDescription_Elekid_2[] = _(
-  "this POKéMON begins swinging its arms\n"
+  "this Pokémon begins swinging its arms\n"
   "in circles to recharge itself.");
 
 static const u8 DexDescription_Magby_1[] = _(
   "MAGBY's state of health is determined\n"
   "by observing the fire it breathes.\n"
-  "If the POKéMON is spouting yellow");
+  "If the Pokémon is spouting yellow");
 static const u8 DexDescription_Magby_2[] = _(
   "flames from its mouth, it is in good\n"
   "health. When it is fatigued, black smoke\n"
@@ -2764,7 +2764,7 @@ static const u8 DexDescription_Miltank_2[] = _(
 
 static const u8 DexDescription_Blissey_1[] = _(
   "BLISSEY senses sadness with its fluffy\n"
-  "coat of fur. If it does so, this POKéMON\n"
+  "coat of fur. If it does so, this Pokémon\n"
   "will rush over to the sad person,");
 static const u8 DexDescription_Blissey_2[] = _(
   "however far they may be, to share an\n"
@@ -2773,7 +2773,7 @@ static const u8 DexDescription_Blissey_2[] = _(
 
 static const u8 DexDescription_Raikou_1[] = _(
   "RAIKOU embodies the speed of lightning.\n"
-  "The roars of this POKéMON send shock\n"
+  "The roars of this Pokémon send shock\n"
   "waves shuddering through the air and");
 static const u8 DexDescription_Raikou_2[] = _(
   "shake the ground as if lightning bolts\n"
@@ -2781,7 +2781,7 @@ static const u8 DexDescription_Raikou_2[] = _(
 
 static const u8 DexDescription_Entei_1[] = _(
   "ENTEI embodies the passion of magma.\n"
-  "This POKéMON is thought to have been\n"
+  "This Pokémon is thought to have been\n"
   "born in the eruption of a volcano.");
 static const u8 DexDescription_Entei_2[] = _(
   "It sends up massive bursts of fire that\n"
@@ -2792,12 +2792,12 @@ static const u8 DexDescription_Suicune_1[] = _(
   "a pure spring of water. It runs across\n"
   "the land with gracefulness.");
 static const u8 DexDescription_Suicune_2[] = _(
-  "This POKéMON has the power to purify\n"
+  "This Pokémon has the power to purify\n"
   "dirty water.");
 
 static const u8 DexDescription_Larvitar_1[] = _(
   "LARVITAR is born deep under the ground.\n"
-  "To come up to the surface, this POKéMON\n"
+  "To come up to the surface, this Pokémon\n"
   "must eat its way through the soil above.");
 static const u8 DexDescription_Larvitar_2[] = _(
   "Until it does so, LARVITAR cannot see\n"
@@ -2816,7 +2816,7 @@ static const u8 DexDescription_Tyranitar_1[] = _(
   "powerful, it can bring down a whole\n"
   "mountain to make its nest.");
 static const u8 DexDescription_Tyranitar_2[] = _(
-  "This POKéMON wanders about in\n"
+  "This Pokémon wanders about in\n"
   "mountains seeking new opponents to\n"
   "fight.");
 
@@ -2825,7 +2825,7 @@ static const u8 DexDescription_Lugia_1[] = _(
   "a light fluttering of its wings can blow\n"
   "apart regular houses.");
 static const u8 DexDescription_Lugia_2[] = _(
-  "As a result, this POKéMON chooses to\n"
+  "As a result, this Pokémon chooses to\n"
   "live out of sight deep under the sea.");
 
 static const u8 DexDescription_HoOh_1[] = _(
@@ -2834,11 +2834,11 @@ static const u8 DexDescription_HoOh_1[] = _(
   "are struck by light.");
 static const u8 DexDescription_HoOh_2[] = _(
   "These feathers are said to bring\n"
-  "happiness to the bearers. This POKéMON\n"
+  "happiness to the bearers. This Pokémon\n"
   "is said to live at the foot of a rainbow.");
 
 static const u8 DexDescription_Celebi_1[] = _(
-  "This POKéMON came from the future by\n"
+  "This Pokémon came from the future by\n"
   "crossing over time.\n"
   "It is thought that so long as CELEBI");
 static const u8 DexDescription_Celebi_2[] = _(
@@ -2851,7 +2851,7 @@ static const u8 DexDescription_Treecko_1[] = _(
   "it never panics under any situation.\n"
   "If a bigger foe were to glare at this");
 static const u8 DexDescription_Treecko_2[] = _(
-  "POKéMON, it would glare right back\n"
+  "Pokémon, it would glare right back\n"
   "without conceding an inch of ground.");
 #else
 static const u8 DexDescription_Treecko_1[] = _(
@@ -2859,15 +2859,15 @@ static const u8 DexDescription_Treecko_1[] = _(
   "of its feet that enable it to scale\n"
   "vertical walls.");
 static const u8 DexDescription_Treecko_2[] = _(
-  "This POKéMON attacks by slamming foes\n"
+  "This Pokémon attacks by slamming foes\n"
   "with its thick tail.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Grovyle_1[] = _(
-  "This POKéMON adeptly flies from branch\n"
+  "This Pokémon adeptly flies from branch\n"
   "to branch in trees.\n"
-  "In a forest, no POKéMON can ever hope");
+  "In a forest, no Pokémon can ever hope");
 static const u8 DexDescription_Grovyle_2[] = _(
   "to catch a fleeing GROVYLE however\n"
   "fast they may be.");
@@ -2877,7 +2877,7 @@ static const u8 DexDescription_Grovyle_1[] = _(
   "body are convenient for camouflaging\n"
   "it from enemies in the forest.");
 static const u8 DexDescription_Grovyle_2[] = _(
-  "This POKéMON is a master at climbing\n"
+  "This Pokémon is a master at climbing\n"
   "trees in jungles.");
 #endif
 
@@ -2887,12 +2887,12 @@ static const u8 DexDescription_Sceptile_1[] = _(
   "They are said to be bursting with\n"
   "nutrients that revitalize trees.");
 static const u8 DexDescription_Sceptile_2[] = _(
-  "This POKéMON raises the trees in a\n"
+  "This Pokémon raises the trees in a\n"
   "forest with loving care.");
 #else
 static const u8 DexDescription_Sceptile_1[] = _(
   "The leaves growing on SCEPTILE's body\n"
-  "are very sharp edged. This POKéMON is\n"
+  "are very sharp edged. This Pokémon is\n"
   "very agile - it leaps all over the");
 static const u8 DexDescription_Sceptile_2[] = _(
   "branches of trees and jumps on its foe\n"
@@ -2905,7 +2905,7 @@ static const u8 DexDescription_Torchic_1[] = _(
   "where it keeps its flame. Give it a hug -\n"
   "it will be glowing with warmth.");
 static const u8 DexDescription_Torchic_2[] = _(
-  "This POKéMON is covered all over by a\n"
+  "This Pokémon is covered all over by a\n"
   "fluffy coat of down.");
 #else
 static const u8 DexDescription_Torchic_1[] = _(
@@ -2913,7 +2913,7 @@ static const u8 DexDescription_Torchic_1[] = _(
   "following behind with unsteady\n"
   "steps.");
 static const u8 DexDescription_Torchic_2[] = _(
-  "This POKéMON breathes fire of over\n"
+  "This Pokémon breathes fire of over\n"
   "1,800 degrees F, including fireballs\n"
   "that leave the foe scorched black.");
 #endif
@@ -2924,7 +2924,7 @@ static const u8 DexDescription_Combusken_1[] = _(
   "hot flames it spews from its beak and\n"
   "with outstandingly destructive kicks.");
 static const u8 DexDescription_Combusken_2[] = _(
-  "This POKéMON's cry is very loud and\n"
+  "This Pokémon's cry is very loud and\n"
   "distracting.");
 #else
 static const u8 DexDescription_Combusken_1[] = _(
@@ -2932,7 +2932,7 @@ static const u8 DexDescription_Combusken_1[] = _(
   "thighs by running through fields and\n"
   "mountains.");
 static const u8 DexDescription_Combusken_2[] = _(
-  "This POKéMON's legs possess both speed\n"
+  "This Pokémon's legs possess both speed\n"
   "and power, enabling it to dole out ten\n"
   "kicks in one second.");
 #endif
@@ -2943,7 +2943,7 @@ static const u8 DexDescription_Blaziken_1[] = _(
   "it can easily clear a 30-story building\n"
   "in one leap.");
 static const u8 DexDescription_Blaziken_2[] = _(
-  "This POKéMON's blazing punches leave\n"
+  "This Pokémon's blazing punches leave\n"
   "its foes scorched and blackened.");
 #else
 static const u8 DexDescription_Blaziken_1[] = _(
@@ -2952,7 +2952,7 @@ static const u8 DexDescription_Blaziken_1[] = _(
   "courageously.");
 static const u8 DexDescription_Blaziken_2[] = _(
   "The stronger the foe, the more\n"
-  "intensely this POKéMON's wrists burn.");
+  "intensely this Pokémon's wrists burn.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2961,7 +2961,7 @@ static const u8 DexDescription_Mudkip_1[] = _(
   "gills on its cheeks.\n"
   "If it is faced with a tight situation in");
 static const u8 DexDescription_Mudkip_2[] = _(
-  "battle, this POKéMON will unleash its\n"
+  "battle, this Pokémon will unleash its\n"
   "amazing power - it can crush rocks\n"
   "bigger than itself.");
 #else
@@ -2970,7 +2970,7 @@ static const u8 DexDescription_Mudkip_1[] = _(
   "sensitive radar. Using this fin to sense\n"
   "movements of water and air, this");
 static const u8 DexDescription_Mudkip_2[] = _(
-  "POKéMON can determine what is taking\n"
+  "Pokémon can determine what is taking\n"
   "place around it without using its eyes.");
 #endif
 
@@ -2978,7 +2978,7 @@ static const u8 DexDescription_Mudkip_2[] = _(
 static const u8 DexDescription_Marshtomp_1[] = _(
   "MARSHTOMP is much faster at traveling\n"
   "through mud than it is at swimming.\n"
-  "This POKéMON's hindquarters exhibit");
+  "This Pokémon's hindquarters exhibit");
 static const u8 DexDescription_Marshtomp_2[] = _(
   "obvious development, giving it the\n"
   "ability to walk on just its hind legs.");
@@ -2988,7 +2988,7 @@ static const u8 DexDescription_Marshtomp_1[] = _(
   "enveloped by a thin, sticky film that\n"
   "enables it to live on land.");
 static const u8 DexDescription_Marshtomp_2[] = _(
-  "This POKéMON plays in mud on beaches\n"
+  "This Pokémon plays in mud on beaches\n"
   "when the ocean tide is low.");
 #endif
 
@@ -3006,7 +3006,7 @@ static const u8 DexDescription_Swampert_1[] = _(
   "power to easily drag a boulder weighing\n"
   "more than a ton.");
 static const u8 DexDescription_Swampert_2[] = _(
-  "This POKéMON also has powerful vision\n"
+  "This Pokémon also has powerful vision\n"
   "that lets it see even in murky water.");
 #endif
 
@@ -3016,14 +3016,14 @@ static const u8 DexDescription_Poochyena_1[] = _(
   "anything. A distinguishing feature is\n"
   "how large its fangs are compared to");
 static const u8 DexDescription_Poochyena_2[] = _(
-  "its body. This POKéMON tries to\n"
+  "its body. This Pokémon tries to\n"
   "intimidate its foes by making the hair\n"
   "on its tail bristle out.");
 #else
 static const u8 DexDescription_Poochyena_1[] = _(
   "At first sight, POOCHYENA takes a bite\n"
   "at anything that moves.\n"
-  "This POKéMON chases after prey until");
+  "This Pokémon chases after prey until");
 static const u8 DexDescription_Poochyena_2[] = _(
   "the victim becomes exhausted.\n"
   "However, it may turn tail if the prey\n"
@@ -3034,7 +3034,7 @@ static const u8 DexDescription_Poochyena_2[] = _(
 static const u8 DexDescription_Mightyena_1[] = _(
   "MIGHTYENA travel and act as a pack\n"
   "in the wild. The memory of its life in the\n"
-  "wild compels the POKéMON to obey only");
+  "wild compels the Pokémon to obey only");
 static const u8 DexDescription_Mightyena_2[] = _(
   "those TRAINERS that it recognizes to\n"
   "possess superior skill.");
@@ -3044,7 +3044,7 @@ static const u8 DexDescription_Mightyena_1[] = _(
   "it is preparing to attack. It starts to\n"
   "growl deeply and then flattens its body.");
 static const u8 DexDescription_Mightyena_2[] = _(
-  "This POKéMON will bite savagely with its\n"
+  "This Pokémon will bite savagely with its\n"
   "sharply pointed fangs.");
 #endif
 
@@ -3055,12 +3055,12 @@ static const u8 DexDescription_Zigzagoon_1[] = _(
   "against trees to leave its territorial");
 static const u8 DexDescription_Zigzagoon_2[] = _(
   "markings.\n"
-  "This POKéMON may play dead to fool foes\n"
+  "This Pokémon may play dead to fool foes\n"
   "in battle.");
 #else
 static const u8 DexDescription_Zigzagoon_1[] = _(
   "ZIGZAGOON restlessly wanders\n"
-  "everywhere at all times. This POKéMON\n"
+  "everywhere at all times. This Pokémon\n"
   "does so because it is very curious.");
 static const u8 DexDescription_Zigzagoon_2[] = _(
   "It becomes interested in anything\n"
@@ -3071,7 +3071,7 @@ static const u8 DexDescription_Zigzagoon_2[] = _(
 static const u8 DexDescription_Linoone_1[] = _(
   "When hunting, LINOONE will make a\n"
   "beeline straight for the prey at a full\n"
-  "run. While this POKéMON is capable of");
+  "run. While this Pokémon is capable of");
 static const u8 DexDescription_Linoone_2[] = _(
   "topping 60 mph, it has to come to a\n"
   "screeching halt before it can turn.");
@@ -3081,14 +3081,14 @@ static const u8 DexDescription_Linoone_1[] = _(
   "in straight lines. If facing an obstacle,\n"
   "it makes a right-angle turn to evade it.");
 static const u8 DexDescription_Linoone_2[] = _(
-  "This POKéMON is very challenged by\n"
+  "This Pokémon is very challenged by\n"
   "gently curving roads.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Wurmple_1[] = _(
   "WURMPLE is targeted by SWELLOW as\n"
-  "prey. This POKéMON will try to resist by\n"
+  "prey. This Pokémon will try to resist by\n"
   "pointing the spikes on its rear at the");
 static const u8 DexDescription_Wurmple_2[] = _(
   "attacking predator.\n"
@@ -3100,7 +3100,7 @@ static const u8 DexDescription_Wurmple_1[] = _(
   "WURMPLE peels the bark off trees and\n"
   "feeds on the sap that oozes out.");
 static const u8 DexDescription_Wurmple_2[] = _(
-  "This POKéMON's feet are tipped with\n"
+  "This Pokémon's feet are tipped with\n"
   "suction pads that allow it to cling to\n"
   "glass without slipping.");
 #endif
@@ -3111,14 +3111,14 @@ static const u8 DexDescription_Silcoon_1[] = _(
   "and not consume anything before its\n"
   "evolution. However, it is now thought");
 static const u8 DexDescription_Silcoon_2[] = _(
-  "that this POKéMON slakes its thirst by\n"
+  "that this Pokémon slakes its thirst by\n"
   "drinking rainwater that collects on its\n"
   "silk.");
 #else
 static const u8 DexDescription_Silcoon_1[] = _(
   "SILCOON tethers itself to a tree branch\n"
   "using silk to keep from falling. There, \n"
-  "this POKéMON hangs quietly while it");
+  "this Pokémon hangs quietly while it");
 static const u8 DexDescription_Silcoon_2[] = _(
   "awaits evolution.\n"
   "It peers out of the silk cocoon through\n"
@@ -3131,13 +3131,13 @@ static const u8 DexDescription_Beautifly_1[] = _(
   "needle, which is very convenient for\n"
   "collecting pollen from flowers.");
 static const u8 DexDescription_Beautifly_2[] = _(
-  "This POKéMON rides the spring winds as\n"
+  "This Pokémon rides the spring winds as\n"
   "it flits around gathering pollen.");
 #else
 static const u8 DexDescription_Beautifly_1[] = _(
   "BEAUTIFLY's favorite food is the sweet\n"
   "pollen of flowers. If you want to see\n"
-  "this POKéMON, just leave a potted");
+  "this Pokémon, just leave a potted");
 static const u8 DexDescription_Beautifly_2[] = _(
   "flower by an open window. BEAUTIFLY\n"
   "is sure to come looking for pollen.");
@@ -3150,7 +3150,7 @@ static const u8 DexDescription_Cascoon_1[] = _(
   "hurt. It does so because if it were to");
 static const u8 DexDescription_Cascoon_2[] = _(
   "move, its body would be weak upon\n"
-  "evolution. This POKéMON will also not\n"
+  "evolution. This Pokémon will also not\n"
   "forget the pain it endured.");
 #else
 static const u8 DexDescription_Cascoon_1[] = _(
@@ -3159,7 +3159,7 @@ static const u8 DexDescription_Cascoon_1[] = _(
   "fine silk from its mouth. Once the silk");
 static const u8 DexDescription_Cascoon_2[] = _(
   "goes around its body, it hardens.\n"
-  "This POKéMON prepares for its evolution\n"
+  "This Pokémon prepares for its evolution\n"
   "inside the cocoon.");
 #endif
 
@@ -3170,12 +3170,12 @@ static const u8 DexDescription_Dustox_1[] = _(
   "actually a powerful poison that will");
 static const u8 DexDescription_Dustox_2[] = _(
   "even make a pro wrestler sick.\n"
-  "This POKéMON searches for food using\n"
+  "This Pokémon searches for food using\n"
   "its antennae like radar.");
 #else
 static const u8 DexDescription_Dustox_1[] = _(
   "DUSTOX is instinctively drawn to light.\n"
-  "Swarms of this POKéMON are attracted\n"
+  "Swarms of this Pokémon are attracted\n"
   "by the bright lights of cities, where");
 static const u8 DexDescription_Dustox_2[] = _(
   "they wreak havoc by stripping the\n"
@@ -3185,7 +3185,7 @@ static const u8 DexDescription_Dustox_2[] = _(
 #ifdef SAPPHIRE
 static const u8 DexDescription_Lotad_1[] = _(
   "LOTAD is said to have dwelled on land\n"
-  "before. However, this POKéMON is\n"
+  "before. However, this Pokémon is\n"
   "thought to have returned to water");
 static const u8 DexDescription_Lotad_2[] = _(
   "because the leaf on its head grew large\n"
@@ -3197,7 +3197,7 @@ static const u8 DexDescription_Lotad_1[] = _(
   "they float on the surface.\n"
   "It grows weak if its broad leaf dies.");
 static const u8 DexDescription_Lotad_2[] = _(
-  "On rare occasions, this POKéMON travels\n"
+  "On rare occasions, this Pokémon travels\n"
   "on land in search of clean water.");
 #endif
 
@@ -3207,14 +3207,14 @@ static const u8 DexDescription_Lombre_1[] = _(
   "slippery, slimy film. It feels horribly\n"
   "unpleasant to be touched by this");
 static const u8 DexDescription_Lombre_2[] = _(
-  "POKéMON's hands.\n"
+  "Pokémon's hands.\n"
   "LOMBRE is often mistaken for a human\n"
   "child.");
 #else
 static const u8 DexDescription_Lombre_1[] = _(
   "LOMBRE is nocturnal - it will get active\n"
   "after dusk. It is also a mischief-maker.\n"
-  "When this POKéMON spots anglers,");
+  "When this Pokémon spots anglers,");
 static const u8 DexDescription_Lombre_2[] = _(
   "it tugs on their fishing lines from\n"
   "beneath the surface and enjoys their\n"
@@ -3227,13 +3227,13 @@ static const u8 DexDescription_Ludicolo_1[] = _(
   "rhythm, the cells in LUDICOLO's body\n"
   "become very energetic and active.");
 static const u8 DexDescription_Ludicolo_2[] = _(
-  "Even in battle, this POKéMON will\n"
+  "Even in battle, this Pokémon will\n"
   "exhibit an amazing amount of power.");
 #else
 static const u8 DexDescription_Ludicolo_1[] = _(
   "LUDICOLO begins dancing as soon as\n"
   "it hears cheerful, festive music.\n"
-  "This POKéMON is said to appear when it");
+  "This Pokémon is said to appear when it");
 static const u8 DexDescription_Ludicolo_2[] = _(
   "hears the singing of children on hiking\n"
   "outings.");
@@ -3243,10 +3243,10 @@ static const u8 DexDescription_Ludicolo_2[] = _(
 static const u8 DexDescription_Seedot_1[] = _(
   "SEEDOT looks exactly like an acorn\n"
   "when it is dangling from a tree branch.\n"
-  "It startles other POKéMON by suddenly");
+  "It startles other Pokémon by suddenly");
 static const u8 DexDescription_Seedot_2[] = _(
   "moving.\n"
-  "This POKéMON polishes its body once a\n"
+  "This Pokémon polishes its body once a\n"
   "day using leaves.");
 #else
 static const u8 DexDescription_Seedot_1[] = _(
@@ -3256,12 +3256,12 @@ static const u8 DexDescription_Seedot_1[] = _(
 static const u8 DexDescription_Seedot_2[] = _(
   "hanging off the branch.\n"
   "The more water it drinks, the glossier\n"
-  "this POKéMON's body becomes.");
+  "this Pokémon's body becomes.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Nuzleaf_1[] = _(
-  "This POKéMON pulls out the leaf on its\n"
+  "This Pokémon pulls out the leaf on its\n"
   "head and makes a flute with it.\n"
   "The sound of NUZLEAF's flute strikes");
 static const u8 DexDescription_Nuzleaf_2[] = _(
@@ -3273,7 +3273,7 @@ static const u8 DexDescription_Nuzleaf_1[] = _(
   "forests. They occasionally venture out\n"
   "of the forest to startle people.");
 static const u8 DexDescription_Nuzleaf_2[] = _(
-  "This POKéMON dislikes having its long\n"
+  "This Pokémon dislikes having its long\n"
   "nose pinched.");
 #endif
 
@@ -3284,11 +3284,11 @@ static const u8 DexDescription_Shiftry_1[] = _(
   "feet per second. The whipped-up wind");
 static const u8 DexDescription_Shiftry_2[] = _(
   "blows anything away.\n"
-  "This POKéMON chooses to live quietly\n"
+  "This Pokémon chooses to live quietly\n"
   "deep in forests.");
 #else
 static const u8 DexDescription_Shiftry_1[] = _(
-  "SHIFTRY is a mysterious POKéMON that\n"
+  "SHIFTRY is a mysterious Pokémon that\n"
   "is said to live atop towering trees \n"
   "dating back over a thousand years.");
 static const u8 DexDescription_Shiftry_2[] = _(
@@ -3302,7 +3302,7 @@ static const u8 DexDescription_Taillow_1[] = _(
   "left its nest. As a result, it sometimes\n"
   "becomes lonesome and cries at night.");
 static const u8 DexDescription_Taillow_2[] = _(
-  "This POKéMON feeds on WURMPLE that\n"
+  "This Pokémon feeds on WURMPLE that\n"
   "live in forests.");
 #else
 static const u8 DexDescription_Taillow_1[] = _(
@@ -3310,7 +3310,7 @@ static const u8 DexDescription_Taillow_1[] = _(
   "ground against foes, however strong\n"
   "they may be.");
 static const u8 DexDescription_Taillow_2[] = _(
-  "This gutsy POKéMON will remain defiant\n"
+  "This gutsy Pokémon will remain defiant\n"
   "even after a loss. On the other hand,\n"
   "it cries loudly if it becomes hungry.");
 #endif
@@ -3327,7 +3327,7 @@ static const u8 DexDescription_Swellow_2[] = _(
 static const u8 DexDescription_Swellow_1[] = _(
   "SWELLOW flies high above our heads,\n"
   "making graceful arcs in the sky.\n"
-  "This POKéMON dives at a steep angle as");
+  "This Pokémon dives at a steep angle as");
 static const u8 DexDescription_Swellow_2[] = _(
   "soon as it spots its prey. The hapless\n"
   "prey is tightly grasped by SWELLOW's\n"
@@ -3340,7 +3340,7 @@ static const u8 DexDescription_Wingull_1[] = _(
   "sea by extending its long and narrow\n"
   "wings to glide.");
 static const u8 DexDescription_Wingull_2[] = _(
-  "This POKéMON's long beak is useful for\n"
+  "This Pokémon's long beak is useful for\n"
   "catching prey.");
 #else
 static const u8 DexDescription_Wingull_1[] = _(
@@ -3348,7 +3348,7 @@ static const u8 DexDescription_Wingull_1[] = _(
   "and valuables in its beak and hiding\n"
   "them in all sorts of locations.");
 static const u8 DexDescription_Wingull_2[] = _(
-  "This POKéMON rides the winds and flies\n"
+  "This Pokémon rides the winds and flies\n"
   "as if it were skating across the sky.");
 #endif
 
@@ -3356,17 +3356,17 @@ static const u8 DexDescription_Wingull_2[] = _(
 static const u8 DexDescription_Pelipper_1[] = _(
   "PELIPPER searches for food while in\n"
   "flight by skimming the wave tops.\n"
-  "This POKéMON dips its large bill in the");
+  "This Pokémon dips its large bill in the");
 static const u8 DexDescription_Pelipper_2[] = _(
   "sea to scoop up food, then swallows\n"
   "everything in one big gulp.");
 #else
 static const u8 DexDescription_Pelipper_1[] = _(
   "PELIPPER is a flying transporter that\n"
-  "carries small POKéMON and eggs inside\n"
+  "carries small Pokémon and eggs inside\n"
   "its massive bill.");
 static const u8 DexDescription_Pelipper_2[] = _(
-  "This POKéMON builds its nest on steep\n"
+  "This Pokémon builds its nest on steep\n"
   "cliffs facing the sea.");
 #endif
 
@@ -3376,13 +3376,13 @@ static const u8 DexDescription_Ralts_1[] = _(
   "emotions of people.\n"
   "If its TRAINER is in a cheerful mood,");
 static const u8 DexDescription_Ralts_2[] = _(
-  "this POKéMON grows cheerful and joyous\n"
+  "this Pokémon grows cheerful and joyous\n"
   "in the same way.");
 #else
 static const u8 DexDescription_Ralts_1[] = _(
   "RALTS senses the emotions of\n"
   "people using the horns on its head.\n"
-  "This POKéMON rarely appears before");
+  "This Pokémon rarely appears before");
 static const u8 DexDescription_Ralts_2[] = _(
   "people. But when it does, it draws\n"
   "closer if it senses that the person has\n"
@@ -3393,7 +3393,7 @@ static const u8 DexDescription_Ralts_2[] = _(
 static const u8 DexDescription_Kirlia_1[] = _(
   "KIRLIA uses the horns on its head\n"
   "to amplify its psychokinetic power.\n"
-  "When the POKéMON uses its power,");
+  "When the Pokémon uses its power,");
 static const u8 DexDescription_Kirlia_2[] = _(
   "the air around it becomes distorted,\n"
   "creating mirages of nonexistent\n"
@@ -3404,7 +3404,7 @@ static const u8 DexDescription_Kirlia_1[] = _(
   "exposed to the positive emotions of\n"
   "its TRAINER grows beautiful.");
 static const u8 DexDescription_Kirlia_2[] = _(
-  "This POKéMON controls psychokinetic\n"
+  "This Pokémon controls psychokinetic\n"
   "powers with its highly developed brain.");
 #endif
 
@@ -3414,14 +3414,14 @@ static const u8 DexDescription_Gardevoir_1[] = _(
   "power to distort the dimensions and\n"
   "create a small black hole.");
 static const u8 DexDescription_Gardevoir_2[] = _(
-  "This POKéMON will try to protect its\n"
+  "This Pokémon will try to protect its\n"
   "TRAINER even at the risk of its own\n"
   "life.");
 #else
 static const u8 DexDescription_Gardevoir_1[] = _(
   "GARDEVOIR has the ability to read the\n"
   "future. If it senses impending danger\n"
-  "to its TRAINER, this POKéMON is said to");
+  "to its TRAINER, this Pokémon is said to");
 static const u8 DexDescription_Gardevoir_2[] = _(
   "unleash its psychokinetic energy at\n"
   "full power.");
@@ -3433,7 +3433,7 @@ static const u8 DexDescription_Surskit_1[] = _(
   "a thick, sugary syrup from the tip of\n"
   "its head.");
 static const u8 DexDescription_Surskit_2[] = _(
-  "There are some POKéMON that love\n"
+  "There are some Pokémon that love\n"
   "eating this syrup.");
 #else
 static const u8 DexDescription_Surskit_1[] = _(
@@ -3441,7 +3441,7 @@ static const u8 DexDescription_Surskit_1[] = _(
   "secretes an oil that enables it to walk\n"
   "on water as if it were skating.");
 static const u8 DexDescription_Surskit_2[] = _(
-  "This POKéMON feeds on microscopic\n"
+  "This Pokémon feeds on microscopic\n"
   "organisms in ponds and lakes.");
 #endif
 
@@ -3457,7 +3457,7 @@ static const u8 DexDescription_Masquerain_2[] = _(
 static const u8 DexDescription_Masquerain_1[] = _(
   "MASQUERAIN intimidates enemies with\n"
   "the eyelike patterns on its antennas.\n"
-  "This POKéMON flaps its four wings to");
+  "This Pokémon flaps its four wings to");
 static const u8 DexDescription_Masquerain_2[] = _(
   "freely fly in any direction - even\n"
   "sideways and backwards - as if it were\n"
@@ -3470,7 +3470,7 @@ static const u8 DexDescription_Shroomish_1[] = _(
   "its body and scatters spores from the\n"
   "top of its head.");
 static const u8 DexDescription_Shroomish_2[] = _(
-  "This POKéMON's spores are so toxic,\n"
+  "This Pokémon's spores are so toxic,\n"
   "they make trees and weeds wilt.");
 #else
 static const u8 DexDescription_Shroomish_1[] = _(
@@ -3478,7 +3478,7 @@ static const u8 DexDescription_Shroomish_1[] = _(
   "depths of forests. They are often\n"
   "found keeping still under fallen leaves.");
 static const u8 DexDescription_Shroomish_2[] = _(
-  "This POKéMON feeds on compost that\n"
+  "This Pokémon feeds on compost that\n"
   "is made up of fallen, rotted leaves.");
 #endif
 
@@ -3488,7 +3488,7 @@ static const u8 DexDescription_Breloom_1[] = _(
   "made of hardened toxic spores. It is\n"
   "horrible to eat the seeds.");
 static const u8 DexDescription_Breloom_2[] = _(
-  "Just taking a bite of this POKéMON's\n"
+  "Just taking a bite of this Pokémon's\n"
   "seed will cause your stomach to rumble.");
 #else
 static const u8 DexDescription_Breloom_1[] = _(
@@ -3496,7 +3496,7 @@ static const u8 DexDescription_Breloom_1[] = _(
   "and sprightly footwork, then throws\n"
   "punches with its stretchy arms.");
 static const u8 DexDescription_Breloom_2[] = _(
-  "This POKéMON's fighting technique puts\n"
+  "This Pokémon's fighting technique puts\n"
   "boxers to shame.");
 #endif
 
@@ -3506,7 +3506,7 @@ static const u8 DexDescription_Slakoth_1[] = _(
   "minute. Whatever happens, it is\n"
   "content to loaf around motionless.");
 static const u8 DexDescription_Slakoth_2[] = _(
-  "It is rare to see this POKéMON in\n"
+  "It is rare to see this Pokémon in\n"
   "motion.");
 #else
 static const u8 DexDescription_Slakoth_1[] = _(
@@ -3514,7 +3514,7 @@ static const u8 DexDescription_Slakoth_1[] = _(
   "hours every day. Because it moves so\n"
   "little, it does not need much food.");
 static const u8 DexDescription_Slakoth_2[] = _(
-  "This POKéMON's sole daily meal consists\n"
+  "This Pokémon's sole daily meal consists\n"
   "of just three leaves.");
 #endif
 
@@ -3524,7 +3524,7 @@ static const u8 DexDescription_Vigoroth_1[] = _(
   "remaining still. Even when it tries to\n"
   "sleep, the blood in its veins grows");
 static const u8 DexDescription_Vigoroth_2[] = _(
-  "agitated, compelling this POKéMON to\n"
+  "agitated, compelling this Pokémon to\n"
   "run wild throughout the jungle before\n"
   "it can settle down.");
 #else
@@ -3533,7 +3533,7 @@ static const u8 DexDescription_Vigoroth_1[] = _(
   "to go on a wild rampage. It simply can't\n"
   "tolerate sitting still for even a minute.");
 static const u8 DexDescription_Vigoroth_2[] = _(
-  "This POKéMON's stress level rises if it\n"
+  "This Pokémon's stress level rises if it\n"
   "can't be moving constantly.");
 #endif
 
@@ -3541,7 +3541,7 @@ static const u8 DexDescription_Vigoroth_2[] = _(
 static const u8 DexDescription_Slaking_1[] = _(
   "Wherever SLAKING live, rings of over\n"
   "a yard in diameter appear in grassy\n"
-  "fields. They are made by the POKéMON");
+  "fields. They are made by the Pokémon");
 static const u8 DexDescription_Slaking_2[] = _(
   "as it eats all the grass within reach\n"
   "while lying prone on the ground.");
@@ -3552,7 +3552,7 @@ static const u8 DexDescription_Slaking_1[] = _(
   "It eats grass growing within its reach.");
 static const u8 DexDescription_Slaking_2[] = _(
   "If it eats all the grass it can reach,\n"
-  "this POKéMON reluctantly moves to\n"
+  "this Pokémon reluctantly moves to\n"
   "another spot.");
 #endif
 
@@ -3562,13 +3562,13 @@ static const u8 DexDescription_Nincada_1[] = _(
   "sharp claws to carve the roots of trees\n"
   "and absorb moisture and nutrients.");
 static const u8 DexDescription_Nincada_2[] = _(
-  "This POKéMON can't withstand bright\n"
+  "This Pokémon can't withstand bright\n"
   "sunlight so avoids it.");
 #else
 static const u8 DexDescription_Nincada_1[] = _(
   "NINCADA lives underground for many\n"
   "years in complete darkness.\n"
-  "This POKéMON absorbs nutrients from");
+  "This Pokémon absorbs nutrients from");
 static const u8 DexDescription_Nincada_2[] = _(
   "the roots of trees. It stays motionless\n"
   "as it waits for evolution.");
@@ -3580,7 +3580,7 @@ static const u8 DexDescription_Ninjask_1[] = _(
   "it will refuse to obey the TRAINER and\n"
   "cry loudly continuously.");
 static const u8 DexDescription_Ninjask_2[] = _(
-  "Because of this quality, this POKéMON\n"
+  "Because of this quality, this Pokémon\n"
   "is said to be one that puts the\n"
   "TRAINER's abilities to the test.");
 #else
@@ -3589,17 +3589,17 @@ static const u8 DexDescription_Ninjask_1[] = _(
   "speed that it cannot be seen, even\n"
   "while its crying can be clearly heard.");
 static const u8 DexDescription_Ninjask_2[] = _(
-  "For that reason, this POKéMON was long\n"
+  "For that reason, this Pokémon was long\n"
   "believed to be invisible.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Shedinja_1[] = _(
-  "SHEDINJA is a peculiar POKéMON.\n"
+  "SHEDINJA is a peculiar Pokémon.\n"
   "It seems to appear unsought in a POKé\n"
   "BALL after a NINCADA evolves.");
 static const u8 DexDescription_Shedinja_2[] = _(
-  "This bizarre POKéMON is entirely\n"
+  "This bizarre Pokémon is entirely\n"
   "immobile - it doesn't even breathe.");
 #else
 static const u8 DexDescription_Shedinja_1[] = _(
@@ -3607,7 +3607,7 @@ static const u8 DexDescription_Shedinja_1[] = _(
   "not even a twitch. In fact, its body\n"
   "appears to be merely a hollow shell.");
 static const u8 DexDescription_Shedinja_2[] = _(
-  "It is believed that this POKéMON will\n"
+  "It is believed that this Pokémon will\n"
   "steal the spirit of anyone peering into\n"
   "its hollow body from its back.");
 #endif
@@ -3619,14 +3619,14 @@ static const u8 DexDescription_Whismur_1[] = _(
   "own crying and cries even harder.");
 static const u8 DexDescription_Whismur_2[] = _(
   "When it finally stops crying, the\n"
-  "POKéMON goes to sleep, all tired out.");
+  "Pokémon goes to sleep, all tired out.");
 #else
 static const u8 DexDescription_Whismur_1[] = _(
   "Normally, WHISMUR's voice is very quiet -\n"
   "it is barely audible even if one is\n"
   "paying close attention.");
 static const u8 DexDescription_Whismur_2[] = _(
-  "However, if this POKéMON senses danger,\n"
+  "However, if this Pokémon senses danger,\n"
   "it starts crying at an earsplitting\n"
   "volume.");
 #endif
@@ -3635,7 +3635,7 @@ static const u8 DexDescription_Whismur_2[] = _(
 static const u8 DexDescription_Loudred_1[] = _(
   "LOUDRED shouts while stamping its feet.\n"
   "After it finishes shouting, this\n"
-  "POKéMON becomes incapable of hearing");
+  "Pokémon becomes incapable of hearing");
 static const u8 DexDescription_Loudred_2[] = _(
   "anything for a while. This is considered\n"
   "to be a weak point.");
@@ -3645,7 +3645,7 @@ static const u8 DexDescription_Loudred_1[] = _(
   "decimate a wood-frame house. It uses\n"
   "its voice to punish its foes.");
 static const u8 DexDescription_Loudred_2[] = _(
-  "This POKéMON's round ears serve as\n"
+  "This Pokémon's round ears serve as\n"
   "loudspeakers.");
 #endif
 
@@ -3655,13 +3655,13 @@ static const u8 DexDescription_Exploud_1[] = _(
   "the others by emitting whistle-like\n"
   "sounds from the tubes on its body.");
 static const u8 DexDescription_Exploud_2[] = _(
-  "This POKéMON only raises its voice when\n"
+  "This Pokémon only raises its voice when\n"
   "it is in battle.");
 #else
 static const u8 DexDescription_Exploud_1[] = _(
   "EXPLOUD triggers earthquakes with the\n"
   "tremors it creates by bellowing. If this\n"
-  "POKéMON violently inhales from the");
+  "Pokémon violently inhales from the");
 static const u8 DexDescription_Exploud_2[] = _(
   "ports on its body, it's a sign that it is\n"
   "preparing to let loose a huge bellow.");
@@ -3674,7 +3674,7 @@ static const u8 DexDescription_Makuhita_1[] = _(
   "of food, gets plenty of sleep, and it");
 static const u8 DexDescription_Makuhita_2[] = _(
   "trains very rigorously. By living that\n"
-  "way, this POKéMON packs its body with\n"
+  "way, this Pokémon packs its body with\n"
   "energy.");
 #else
 static const u8 DexDescription_Makuhita_1[] = _(
@@ -3683,7 +3683,7 @@ static const u8 DexDescription_Makuhita_1[] = _(
   "however many times it is knocked down.");
 static const u8 DexDescription_Makuhita_2[] = _(
   "Every time it gets back up, this\n"
-  "POKéMON stores more energy in its body\n"
+  "Pokémon stores more energy in its body\n"
   "for evolving.");
 #endif
 
@@ -3691,7 +3691,7 @@ static const u8 DexDescription_Makuhita_2[] = _(
 static const u8 DexDescription_Hariyama_1[] = _(
   "HARIYAMA's thick body may appear fat,\n"
   "but it is actually a hunk of solid muscle.\n"
-  "If this POKéMON bears down and");
+  "If this Pokémon bears down and");
 static const u8 DexDescription_Hariyama_2[] = _(
   "tightens all its muscles, its body\n"
   "becomes as hard as a rock.");
@@ -3699,7 +3699,7 @@ static const u8 DexDescription_Hariyama_2[] = _(
 static const u8 DexDescription_Hariyama_1[] = _(
   "HARIYAMA practices its straight-arm\n"
   "slaps in any number of locations.\n"
-  "One hit of this POKéMON's powerful,");
+  "One hit of this Pokémon's powerful,");
 static const u8 DexDescription_Hariyama_2[] = _(
   "openhanded, straight-arm punches\n"
   "could snap a telephone pole in two.");
@@ -3709,7 +3709,7 @@ static const u8 DexDescription_Hariyama_2[] = _(
 static const u8 DexDescription_Azurill_1[] = _(
   "AZURILL's tail is large and bouncy.\n"
   "It is packed full of the nutrients this\n"
-  "POKéMON needs to grow.");
+  "Pokémon needs to grow.");
 static const u8 DexDescription_Azurill_2[] = _(
   "AZURILL can be seen bouncing and\n"
   "playing on its big, rubbery tail.");
@@ -3720,7 +3720,7 @@ static const u8 DexDescription_Azurill_1[] = _(
   "of the throw sends its body flying, too.");
 static const u8 DexDescription_Azurill_2[] = _(
   "Using this unique action, one of these\n"
-  "POKéMON managed to hurl itself a record\n"
+  "Pokémon managed to hurl itself a record\n"
   "33 feet.");
 #endif
 
@@ -3731,13 +3731,13 @@ static const u8 DexDescription_Nosepass_1[] = _(
   "pointed due north.");
 static const u8 DexDescription_Nosepass_2[] = _(
   "However, close observation has revealed\n"
-  "that the POKéMON actually moves by a\n"
+  "that the Pokémon actually moves by a\n"
   "little over 3/8 of an inch every year.");
 #else
 static const u8 DexDescription_Nosepass_1[] = _(
   "NOSEPASS's magnetic nose is always\n"
   "pointed to the north. If two of these\n"
-  "POKéMON meet, they cannot turn");
+  "Pokémon meet, they cannot turn");
 static const u8 DexDescription_Nosepass_2[] = _(
   "their faces to each other when they\n"
   "are close because their magnetic noses\n"
@@ -3748,7 +3748,7 @@ static const u8 DexDescription_Nosepass_2[] = _(
 static const u8 DexDescription_Skitty_1[] = _(
   "SKITTY is known to chase around\n"
   "playfully after its own tail. In the wild,\n"
-  "this POKéMON lives in holes in the trees");
+  "this Pokémon lives in holes in the trees");
 static const u8 DexDescription_Skitty_2[] = _(
   "of forests. It is very popular as a pet\n"
   "because of its adorable looks.");
@@ -3758,7 +3758,7 @@ static const u8 DexDescription_Skitty_1[] = _(
   "fascinated by moving objects and\n"
   "chasing them around.");
 static const u8 DexDescription_Skitty_2[] = _(
-  "This POKéMON is known to chase after\n"
+  "This Pokémon is known to chase after\n"
   "its own tail and become dizzy.");
 #endif
 
@@ -3766,9 +3766,9 @@ static const u8 DexDescription_Skitty_2[] = _(
 static const u8 DexDescription_Delcatty_1[] = _(
   "DELCATTY sleeps anywhere it wants\n"
   "without keeping a permanent nest.\n"
-  "If other POKéMON approach it as it");
+  "If other Pokémon approach it as it");
 static const u8 DexDescription_Delcatty_2[] = _(
-  "sleeps, this POKéMON will never fight -\n"
+  "sleeps, this Pokémon will never fight -\n"
   "it will just move away somewhere else.");
 #else
 static const u8 DexDescription_Delcatty_1[] = _(
@@ -3776,7 +3776,7 @@ static const u8 DexDescription_Delcatty_1[] = _(
   "existence in which it can do as it\n"
   "pleases at its own pace.");
 static const u8 DexDescription_Delcatty_2[] = _(
-  "Because this POKéMON eats and sleeps\n"
+  "Because this Pokémon eats and sleeps\n"
   "whenever it decides, its daily routines\n"
   "are completely random.");
 #endif
@@ -3787,13 +3787,13 @@ static const u8 DexDescription_Sableye_1[] = _(
   "claws to find rocks that it eats.\n"
   "Substances in the eaten rocks");
 static const u8 DexDescription_Sableye_2[] = _(
-  "crystallize and rise up to the POKéMON's\n"
+  "crystallize and rise up to the Pokémon's\n"
   "body surface.");
 #else
 static const u8 DexDescription_Sableye_1[] = _(
   "SABLEYE lead quiet lives deep inside\n"
   "caverns. They are feared, however,\n"
-  "because these POKéMON are thought to");
+  "because these Pokémon are thought to");
 static const u8 DexDescription_Sableye_2[] = _(
   "steal the spirits of people when their\n"
   "eyes burn with a sinister glow in the\n"
@@ -3802,7 +3802,7 @@ static const u8 DexDescription_Sableye_2[] = _(
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Mawile_1[] = _(
-  "Don't be taken in by this POKéMON's\n"
+  "Don't be taken in by this Pokémon's\n"
   "cute face - it's very dangerous. MAWILE\n"
   "fools the foe into letting down its");
 static const u8 DexDescription_Mawile_2[] = _(
@@ -3834,14 +3834,14 @@ static const u8 DexDescription_Mawile_2[] = _(
 #ifdef SAPPHIRE
 static const u8 DexDescription_Aron_1[] = _(
   "ARON has a body of steel.\n"
-  "With one all-out charge, this POKéMON\n"
+  "With one all-out charge, this Pokémon\n"
   "can demolish even a heavy dump truck.");
 static const u8 DexDescription_Aron_2[] = _(
   "The destroyed dump truck then becomes\n"
-  "a handy meal for the POKéMON.");
+  "a handy meal for the Pokémon.");
 #else
 static const u8 DexDescription_Aron_1[] = _(
-  "This POKéMON has a body of steel.\n"
+  "This Pokémon has a body of steel.\n"
   "To make its body, ARON feeds on\n"
   "iron ore that it digs from mountains.");
 static const u8 DexDescription_Aron_2[] = _(
@@ -3855,7 +3855,7 @@ static const u8 DexDescription_Lairon_1[] = _(
   "rocks and water. It makes its nest on\n"
   "mountains where iron ore is buried.");
 static const u8 DexDescription_Lairon_2[] = _(
-  "As a result, the POKéMON often clashes\n"
+  "As a result, the Pokémon often clashes\n"
   "with humans mining the iron ore.");
 #else
 static const u8 DexDescription_Lairon_1[] = _(
@@ -3863,7 +3863,7 @@ static const u8 DexDescription_Lairon_1[] = _(
   "drinking highly nutritious mineral\n"
   "springwater until it is bloated.");
 static const u8 DexDescription_Lairon_2[] = _(
-  "This POKéMON makes its nest close to\n"
+  "This Pokémon makes its nest close to\n"
   "springs of delicious water.");
 #endif
 
@@ -3873,7 +3873,7 @@ static const u8 DexDescription_Aggron_1[] = _(
   "of its environment. If its mountain\n"
   "is ravaged by a landslide or a fire, this");
 static const u8 DexDescription_Aggron_2[] = _(
-  "POKéMON will haul topsoil to the area,\n"
+  "Pokémon will haul topsoil to the area,\n"
   "plant trees, and beautifully restore its\n"
   "own territory.");
 #else
@@ -3882,7 +3882,7 @@ static const u8 DexDescription_Aggron_1[] = _(
   "own territory. It mercilessly beats up\n"
   "anything that violates its environment.");
 static const u8 DexDescription_Aggron_2[] = _(
-  "This POKéMON vigilantly patrols its\n"
+  "This Pokémon vigilantly patrols its\n"
   "territory at all times.");
 #endif
 
@@ -3893,14 +3893,14 @@ static const u8 DexDescription_Meditite_1[] = _(
   "just one berry a day.");
 static const u8 DexDescription_Meditite_2[] = _(
   "Minimal eating is another aspect of\n"
-  "this POKéMON's training.");
+  "this Pokémon's training.");
 #else
 static const u8 DexDescription_Meditite_1[] = _(
   "MEDITITE undertakes rigorous mental\n"
   "training deep in the mountains.\n"
   "However, whenever it meditates, this");
 static const u8 DexDescription_Meditite_2[] = _(
-  "POKéMON always loses its concentration\n"
+  "Pokémon always loses its concentration\n"
   "and focus. As a result, its training\n"
   "never ends.");
 #endif
@@ -3911,7 +3911,7 @@ static const u8 DexDescription_Medicham_1[] = _(
   "MEDICHAM developed its sixth sense.\n"
   "It gained the ability to use");
 static const u8 DexDescription_Medicham_2[] = _(
-  "psychokinetic powers. This POKéMON is\n"
+  "psychokinetic powers. This Pokémon is\n"
   "known to meditate for a whole month\n"
   "without eating.");
 #else
@@ -3920,7 +3920,7 @@ static const u8 DexDescription_Medicham_1[] = _(
   "MEDICHAM heightens energy inside\n"
   "its body and sharpens its sixth sense.");
 static const u8 DexDescription_Medicham_2[] = _(
-  "This POKéMON hides its presence by\n"
+  "This Pokémon hides its presence by\n"
   "merging itself with fields and\n"
   "mountains.");
 #endif
@@ -3931,12 +3931,12 @@ static const u8 DexDescription_Electrike_1[] = _(
   "eye can follow. The friction from\n"
   "running is converted into electricity,");
 static const u8 DexDescription_Electrike_2[] = _(
-  "which is then stored in this POKéMON's\n"
+  "which is then stored in this Pokémon's\n"
   "fur.");
 #else
 static const u8 DexDescription_Electrike_1[] = _(
   "ELECTRIKE stores electricity in its\n"
-  "long body hair. This POKéMON stimulates\n"
+  "long body hair. This Pokémon stimulates\n"
   "its leg muscles with electric charges.");
 static const u8 DexDescription_Electrike_2[] = _(
   "These jolts of power give its legs\n"
@@ -3949,7 +3949,7 @@ static const u8 DexDescription_Manectric_1[] = _(
   "electricity from its mane. The mane is\n"
   "used for collecting electricity in the");
 static const u8 DexDescription_Manectric_2[] = _(
-  "atmosphere. This POKéMON creates\n"
+  "atmosphere. This Pokémon creates\n"
   "thunderclouds above its head.");
 #else
 static const u8 DexDescription_Manectric_1[] = _(
@@ -3957,7 +3957,7 @@ static const u8 DexDescription_Manectric_1[] = _(
   "electricity from its mane. The sparks\n"
   "sometimes ignite forest fires.");
 static const u8 DexDescription_Manectric_2[] = _(
-  "When it enters a battle, this POKéMON\n"
+  "When it enters a battle, this Pokémon\n"
   "creates thunderclouds.");
 #endif
 
@@ -3967,7 +3967,7 @@ static const u8 DexDescription_Plusle_1[] = _(
   "it flashes with electric sparks from all\n"
   "over its body.");
 static const u8 DexDescription_Plusle_2[] = _(
-  "If its partner loses, this POKéMON cries\n"
+  "If its partner loses, this Pokémon cries\n"
   "loudly.");
 #else
 static const u8 DexDescription_Plusle_1[] = _(
@@ -3975,7 +3975,7 @@ static const u8 DexDescription_Plusle_1[] = _(
   "for its partners. Whenever a teammate\n"
   "puts out a good effort in battle, this");
 static const u8 DexDescription_Plusle_2[] = _(
-  "POKéMON shorts out its body to create\n"
+  "Pokémon shorts out its body to create\n"
   "the crackling noises of sparks to show\n"
   "its joy.");
 #endif
@@ -3987,7 +3987,7 @@ static const u8 DexDescription_Minun_1[] = _(
   "body while it is doing so.");
 static const u8 DexDescription_Minun_2[] = _(
   "If its partner is in trouble, this\n"
-  "POKéMON gives off increasing amounts\n"
+  "Pokémon gives off increasing amounts\n"
   "of sparks.");
 #else
 static const u8 DexDescription_Minun_1[] = _(
@@ -4005,7 +4005,7 @@ static const u8 DexDescription_Volbeat_1[] = _(
   "With other VOLBEAT, it uses its tail to\n"
   "draw geometric shapes in the night sky.");
 static const u8 DexDescription_Volbeat_2[] = _(
-  "This POKéMON loves the sweet aroma\n"
+  "This Pokémon loves the sweet aroma\n"
   "given off by ILLUMISE.");
 #else
 static const u8 DexDescription_Volbeat_1[] = _(
@@ -4014,7 +4014,7 @@ static const u8 DexDescription_Volbeat_1[] = _(
   "others by adjusting the intensity and");
 static const u8 DexDescription_Volbeat_2[] = _(
   "flashing of its light.\n"
-  "This POKéMON is attracted by the sweet\n"
+  "This Pokémon is attracted by the sweet\n"
   "aroma of ILLUMISE.");
 #endif
 
@@ -4022,7 +4022,7 @@ static const u8 DexDescription_Volbeat_2[] = _(
 static const u8 DexDescription_Illumise_1[] = _(
   "ILLUMISE leads a flight of illuminated\n"
   "VOLBEAT to draw signs in the night sky.\n"
-  "This POKéMON is said to earn greater");
+  "This Pokémon is said to earn greater");
 static const u8 DexDescription_Illumise_2[] = _(
   "respect from its peers by composing\n"
   "more complex designs in the sky.");
@@ -4030,7 +4030,7 @@ static const u8 DexDescription_Illumise_2[] = _(
 static const u8 DexDescription_Illumise_1[] = _(
   "ILLUMISE attracts a swarm of VOLBEAT\n"
   "using a sweet fragrance. Once the\n"
-  "VOLBEAT have gathered, this POKéMON");
+  "VOLBEAT have gathered, this Pokémon");
 static const u8 DexDescription_Illumise_2[] = _(
   "leads the lit-up swarm in drawing\n"
   "geometric designs on the canvas of\n"
@@ -4043,7 +4043,7 @@ static const u8 DexDescription_Roselia_1[] = _(
   "is said to appear with its flowers in\n"
   "unusual colors.");
 static const u8 DexDescription_Roselia_2[] = _(
-  "The thorns on this POKéMON's head\n"
+  "The thorns on this Pokémon's head\n"
   "contain a vicious poison.");
 #else
 static const u8 DexDescription_Roselia_1[] = _(
@@ -4051,7 +4051,7 @@ static const u8 DexDescription_Roselia_1[] = _(
   "projectiles at any opponent that tries\n"
   "to steal the flowers on its arms.");
 static const u8 DexDescription_Roselia_2[] = _(
-  "The aroma of this POKéMON brings\n"
+  "The aroma of this Pokémon brings\n"
   "serenity to living things.");
 #endif
 
@@ -4061,7 +4061,7 @@ static const u8 DexDescription_Gulpin_1[] = _(
   "stomach - its heart and brain are very\n"
   "small in comparison.");
 static const u8 DexDescription_Gulpin_2[] = _(
-  "This POKéMON's stomach contains\n"
+  "This Pokémon's stomach contains\n"
   "special enzymes that dissolve anything.");
 #else
 static const u8 DexDescription_Gulpin_1[] = _(
@@ -4069,7 +4069,7 @@ static const u8 DexDescription_Gulpin_1[] = _(
   "stomach. As a result, it can swallow\n"
   "something its own size.");
 static const u8 DexDescription_Gulpin_2[] = _(
-  "This POKéMON's stomach contains a\n"
+  "This Pokémon's stomach contains a\n"
   "special fluid that digests anything.");
 #endif
 
@@ -4080,7 +4080,7 @@ static const u8 DexDescription_Swalot_1[] = _(
   "Its cavernous mouth yawns widely.");
 static const u8 DexDescription_Swalot_2[] = _(
   "An automobile tire could easily fit\n"
-  "inside this POKéMON's mouth.");
+  "inside this Pokémon's mouth.");
 #else
 static const u8 DexDescription_Swalot_1[] = _(
   "When SWALOT spots prey, it spurts out\n"
@@ -4088,7 +4088,7 @@ static const u8 DexDescription_Swalot_1[] = _(
   "and sprays the target.");
 static const u8 DexDescription_Swalot_2[] = _(
   "Once the prey has weakened, this\n"
-  "POKéMON gulps it down whole with its\n"
+  "Pokémon gulps it down whole with its\n"
   "cavernous mouth.");
 #endif
 
@@ -4098,7 +4098,7 @@ static const u8 DexDescription_Carvanha_1[] = _(
   "territory, it will swarm and tear at the\n"
   "intruder with its pointed fangs.");
 static const u8 DexDescription_Carvanha_2[] = _(
-  "On its own, however, this POKéMON turns\n"
+  "On its own, however, this Pokémon turns\n"
   "suddenly timid.");
 #else
 static const u8 DexDescription_Carvanha_1[] = _(
@@ -4107,7 +4107,7 @@ static const u8 DexDescription_Carvanha_1[] = _(
   "destructive power to rip out boat hulls.");
 static const u8 DexDescription_Carvanha_2[] = _(
   "Many boats have been attacked and\n"
-  "sunk by this POKéMON.");
+  "sunk by this Pokémon.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4116,7 +4116,7 @@ static const u8 DexDescription_Sharpedo_1[] = _(
   "75 mph by jetting seawater out of its\n"
   "backside.");
 static const u8 DexDescription_Sharpedo_2[] = _(
-  "This POKéMON's drawback is its inability\n"
+  "This Pokémon's drawback is its inability\n"
   "to swim long distances.");
 #else
 static const u8 DexDescription_Sharpedo_1[] = _(
@@ -4125,7 +4125,7 @@ static const u8 DexDescription_Sharpedo_1[] = _(
   "Its cruel fangs grow back immediately");
 static const u8 DexDescription_Sharpedo_2[] = _(
   "if they snap off.\n"
-  "Just one of these POKéMON can\n"
+  "Just one of these Pokémon can\n"
   "thoroughly tear apart a supertanker.");
 #endif
 
@@ -4136,12 +4136,12 @@ static const u8 DexDescription_Wailmer_1[] = _(
   "bouncing around on the ground.");
 static const u8 DexDescription_Wailmer_2[] = _(
   "By filling itself up with more water, this\n"
-  "POKéMON can elevate the height of its\n"
+  "Pokémon can elevate the height of its\n"
   "bounces.");
 #else
 static const u8 DexDescription_Wailmer_1[] = _(
   "WAILMER's nostrils are located above\n"
-  "its eyes. This playful POKéMON loves\n"
+  "its eyes. This playful Pokémon loves\n"
   "to startle people by forcefully snorting");
 static const u8 DexDescription_Wailmer_2[] = _(
   "out seawater it stores inside its body\n"
@@ -4154,14 +4154,14 @@ static const u8 DexDescription_Wailord_1[] = _(
   "by leaping out of the water and making\n"
   "a humongous splash.");
 static const u8 DexDescription_Wailord_2[] = _(
-  "It is breathtaking to see this POKéMON\n"
+  "It is breathtaking to see this Pokémon\n"
   "leaping out of the sea with others in\n"
   "its pod.");
 #else
 static const u8 DexDescription_Wailord_1[] = _(
   "WAILORD is the largest of all identified\n"
-  "POKéMON up to now.\n"
-  "This giant POKéMON swims languorously");
+  "Pokémon up to now.\n"
+  "This giant Pokémon swims languorously");
 static const u8 DexDescription_Wailord_2[] = _(
   "in the vast open sea, eating massive\n"
   "amounts of food at once with its\n"
@@ -4174,7 +4174,7 @@ static const u8 DexDescription_Numel_1[] = _(
   "degrees F within its body. If it gets\n"
   "wet, the magma cools and hardens.");
 static const u8 DexDescription_Numel_2[] = _(
-  "In that event, the POKéMON's body\n"
+  "In that event, the Pokémon's body\n"
   "grows heavy and its movements become\n"
   "sluggish.");
 #else
@@ -4183,7 +4183,7 @@ static const u8 DexDescription_Numel_1[] = _(
   "doesn't notice being hit. However, it\n"
   "can't stand hunger for even a second.");
 static const u8 DexDescription_Numel_2[] = _(
-  "This POKéMON's body is a seething\n"
+  "This Pokémon's body is a seething\n"
   "cauldron of boiling magma.");
 #endif
 
@@ -4193,7 +4193,7 @@ static const u8 DexDescription_Camerupt_1[] = _(
   "formed by a transformation of its\n"
   "bones. They sometimes blast out molten");
 static const u8 DexDescription_Camerupt_2[] = _(
-  "magma. This POKéMON apparently erupts\n"
+  "magma. This Pokémon apparently erupts\n"
   "often when it is enraged.");
 #else
 static const u8 DexDescription_Camerupt_1[] = _(
@@ -4202,7 +4202,7 @@ static const u8 DexDescription_Camerupt_1[] = _(
   "through its body.");
 static const u8 DexDescription_Camerupt_2[] = _(
   "Occasionally, the humps on this\n"
-  "POKéMON's back erupt, spewing the\n"
+  "Pokémon's back erupt, spewing the\n"
   "superheated magma.");
 #endif
 
@@ -4213,7 +4213,7 @@ static const u8 DexDescription_Torkoal_1[] = _(
   "dies down.");
 static const u8 DexDescription_Torkoal_2[] = _(
   "When it is preparing for battle, this\n"
-  "POKéMON burns more coal.");
+  "Pokémon burns more coal.");
 #else
 static const u8 DexDescription_Torkoal_1[] = _(
   "TORKOAL digs through mountains in\n"
@@ -4221,7 +4221,7 @@ static const u8 DexDescription_Torkoal_1[] = _(
   "hollow spaces on its shell with the coal");
 static const u8 DexDescription_Torkoal_2[] = _(
   "and burns it.\n"
-  "If it is attacked, this POKéMON spouts\n"
+  "If it is attacked, this Pokémon spouts\n"
   "thick black smoke to beat a retreat.");
 #endif
 
@@ -4229,7 +4229,7 @@ static const u8 DexDescription_Torkoal_2[] = _(
 static const u8 DexDescription_Spoink_1[] = _(
   "SPOINK keeps a pearl on top of its head.\n"
   "The pearl functions to amplify this\n"
-  "POKéMON's psychokinetic powers.");
+  "Pokémon's psychokinetic powers.");
 static const u8 DexDescription_Spoink_2[] = _(
   "It is therefore on a constant search\n"
   "for a bigger pearl.");
@@ -4237,7 +4237,7 @@ static const u8 DexDescription_Spoink_2[] = _(
 static const u8 DexDescription_Spoink_1[] = _(
   "SPOINK bounces around on its tail.\n"
   "The shock of its bouncing makes its\n"
-  "heart pump. As a result, this POKéMON");
+  "heart pump. As a result, this Pokémon");
 static const u8 DexDescription_Spoink_2[] = _(
   "cannot afford to stop bouncing - if it\n"
   "stops, its heart will stop.");
@@ -4249,7 +4249,7 @@ static const u8 DexDescription_Grumpig_1[] = _(
   "body to wield its fantastic powers.\n"
   "When it is doing so, it dances bizarrely.");
 static const u8 DexDescription_Grumpig_2[] = _(
-  "This POKéMON's black pearls are valuable\n"
+  "This Pokémon's black pearls are valuable\n"
   "as works of art.");
 #else
 static const u8 DexDescription_Grumpig_1[] = _(
@@ -4257,7 +4257,7 @@ static const u8 DexDescription_Grumpig_1[] = _(
   "body to amplify its psychic power waves\n"
   "for gaining total control over its foe.");
 static const u8 DexDescription_Grumpig_2[] = _(
-  "When this POKéMON uses its special\n"
+  "When this Pokémon uses its special\n"
   "power, its snorting breath grows\n"
   "labored.");
 #endif
@@ -4266,7 +4266,7 @@ static const u8 DexDescription_Grumpig_2[] = _(
 static const u8 DexDescription_Spinda_1[] = _(
   "No two SPINDA are said to have\n"
   "identical spot patterns on their hides.\n"
-  "This POKéMON moves in a curious manner");
+  "This Pokémon moves in a curious manner");
 static const u8 DexDescription_Spinda_2[] = _(
   "as if it is stumbling in dizziness.\n"
   "Its lurching movements can cause the\n"
@@ -4278,7 +4278,7 @@ static const u8 DexDescription_Spinda_1[] = _(
   "spot patterns.");
 static const u8 DexDescription_Spinda_2[] = _(
   "The shaky, tottering steps of this\n"
-  "POKéMON give it the appearance of\n"
+  "Pokémon give it the appearance of\n"
   "dancing.");
 #endif
 
@@ -4288,12 +4288,12 @@ static const u8 DexDescription_Trapinch_1[] = _(
   "an inescapable pit in a desert and waits\n"
   "for its prey to come tumbling down.");
 static const u8 DexDescription_Trapinch_2[] = _(
-  "This POKéMON can go a whole week\n"
+  "This Pokémon can go a whole week\n"
   "without access to any water.");
 #else
 static const u8 DexDescription_Trapinch_1[] = _(
   "TRAPINCH's nest is a sloped, bowl-like\n"
-  "pit dug in sand. This POKéMON patiently\n"
+  "pit dug in sand. This Pokémon patiently\n"
   "waits for prey to tumble down the pit.");
 static const u8 DexDescription_Trapinch_2[] = _(
   "Its giant jaws have enough strength\n"
@@ -4314,7 +4314,7 @@ static const u8 DexDescription_Vibrava_1[] = _(
   "ultrasonic waves by vigorously making\n"
   "its two wings vibrate.");
 static const u8 DexDescription_Vibrava_2[] = _(
-  "This POKéMON's ultrasonic waves are so\n"
+  "This Pokémon's ultrasonic waves are so\n"
   "powerful, they can bring on headaches\n"
   "in people.");
 #endif
@@ -4327,14 +4327,14 @@ static const u8 DexDescription_Flygon_1[] = _(
 static const u8 DexDescription_Flygon_2[] = _(
   "Because the “singing” is the only thing\n"
   "that can be heard in a sandstorm, this\n"
-  "POKéMON is said to be the desert spirit.");
+  "Pokémon is said to be the desert spirit.");
 #else
 static const u8 DexDescription_Flygon_1[] = _(
   "FLYGON is nicknamed “the elemental \n"
   "spirit of the desert.” Because its\n"
   "flapping wings whip up a cloud of sand,");
 static const u8 DexDescription_Flygon_2[] = _(
-  "this POKéMON is always enveloped in a\n"
+  "this Pokémon is always enveloped in a\n"
   "sandstorm while flying.");
 #endif
 
@@ -4344,7 +4344,7 @@ static const u8 DexDescription_Cacnea_1[] = _(
   "environment, the more pretty and\n"
   "fragrant a flower CACNEA grows.");
 static const u8 DexDescription_Cacnea_2[] = _(
-  "This POKéMON battles by wildly swinging\n"
+  "This Pokémon battles by wildly swinging\n"
   "its thorny arms.");
 #else
 static const u8 DexDescription_Cacnea_1[] = _(
@@ -4352,7 +4352,7 @@ static const u8 DexDescription_Cacnea_1[] = _(
   "as deserts. It releases a strong aroma\n"
   "from its flower to attract prey.");
 static const u8 DexDescription_Cacnea_2[] = _(
-  "When prey comes near, this POKéMON\n"
+  "When prey comes near, this Pokémon\n"
   "shoots sharp thorns from its body to\n"
   "bring the victim down.");
 #endif
@@ -4363,7 +4363,7 @@ static const u8 DexDescription_Cacturne_1[] = _(
   "in the thick of night, CACTURNE\n"
   "will follow in a ragtag group.");
 static const u8 DexDescription_Cacturne_2[] = _(
-  "The POKéMON are biding their time,\n"
+  "The Pokémon are biding their time,\n"
   "waiting for the traveler to tire and\n"
   "become incapable of moving.");
 #else
@@ -4372,7 +4372,7 @@ static const u8 DexDescription_Cacturne_1[] = _(
   "unmoving so that it does not lose any\n"
   "moisture to the harsh desert sun.");
 static const u8 DexDescription_Cacturne_2[] = _(
-  "This POKéMON becomes active at night\n"
+  "This Pokémon becomes active at night\n"
   "when the temperature drops.");
 #endif
 
@@ -4382,12 +4382,12 @@ static const u8 DexDescription_Swablu_1[] = _(
   "If it spots something dirty, it will wipe\n"
   "and polish it with its cottony wings.");
 static const u8 DexDescription_Swablu_2[] = _(
-  "If its wings become dirty, this POKéMON\n"
+  "If its wings become dirty, this Pokémon\n"
   "finds a stream and showers itself.");
 #else
 static const u8 DexDescription_Swablu_1[] = _(
   "SWABLU has light and fluffy wings that\n"
-  "are like cottony clouds. This POKéMON\n"
+  "are like cottony clouds. This Pokémon\n"
   "is not frightened of people.");
 static const u8 DexDescription_Swablu_2[] = _(
   "It lands on the heads of people and\n"
@@ -4398,7 +4398,7 @@ static const u8 DexDescription_Swablu_2[] = _(
 static const u8 DexDescription_Altaria_1[] = _(
   "ALTARIA sings in a gorgeous soprano.\n"
   "Its wings are like cotton clouds.\n"
-  "This POKéMON catches updrafts with its");
+  "This Pokémon catches updrafts with its");
 static const u8 DexDescription_Altaria_2[] = _(
   "buoyant wings and soars way up into\n"
   "the wild blue yonder.");
@@ -4408,7 +4408,7 @@ static const u8 DexDescription_Altaria_1[] = _(
   "sky among billowing, cotton-like clouds.\n"
   "By singing melodies in its crystal-clear");
 static const u8 DexDescription_Altaria_2[] = _(
-  "voice, this POKéMON makes its listeners\n"
+  "voice, this Pokémon makes its listeners\n"
   "experience dreamy wonderment.");
 #endif
 
@@ -4418,7 +4418,7 @@ static const u8 DexDescription_Zangoose_1[] = _(
   "but when angered, it gets up on its\n"
   "hind legs and extends its claws.");
 static const u8 DexDescription_Zangoose_2[] = _(
-  "This POKéMON shares a bitter rivalry\n"
+  "This Pokémon shares a bitter rivalry\n"
   "with SEVIPER that dates back over\n"
   "generations.");
 #else
@@ -4427,7 +4427,7 @@ static const u8 DexDescription_Zangoose_1[] = _(
   "SEVIPER are etched into every cell of\n"
   "ZANGOOSE's body.");
 static const u8 DexDescription_Zangoose_2[] = _(
-  "This POKéMON adroitly dodges attacks\n"
+  "This Pokémon adroitly dodges attacks\n"
   "with incredible agility.");
 #endif
 
@@ -4437,7 +4437,7 @@ static const u8 DexDescription_Seviper_1[] = _(
   "purposes - it slashes foes and douses\n"
   "them with secreted poison.");
 static const u8 DexDescription_Seviper_2[] = _(
-  "This POKéMON will not give up its long-\n"
+  "This Pokémon will not give up its long-\n"
   "running blood feud with ZANGOOSE.");
 #else
 static const u8 DexDescription_Seviper_1[] = _(
@@ -4445,7 +4445,7 @@ static const u8 DexDescription_Seviper_1[] = _(
   "feud with ZANGOOSE. The scars on its\n"
   "body are evidence of vicious battles.");
 static const u8 DexDescription_Seviper_2[] = _(
-  "This POKéMON attacks using its sword-\n"
+  "This Pokémon attacks using its sword-\n"
   "edged tail.");
 #endif
 
@@ -4455,14 +4455,14 @@ static const u8 DexDescription_Lunatone_1[] = _(
   "time of the full moon. Instead of\n"
   "walking, it moves by floating in midair.");
 static const u8 DexDescription_Lunatone_2[] = _(
-  "The POKéMON's intimidating red eyes\n"
+  "The Pokémon's intimidating red eyes\n"
   "cause all those who see it to become\n"
   "transfixed with fear.");
 #else
 static const u8 DexDescription_Lunatone_1[] = _(
   "LUNATONE was discovered at a location\n"
   "where a meteorite fell. As a result, some\n"
-  "people theorize that this POKéMON");
+  "people theorize that this Pokémon");
 static const u8 DexDescription_Lunatone_2[] = _(
   "came from space. However, no one has\n"
   "been able to prove this theory so far.");
@@ -4474,15 +4474,15 @@ static const u8 DexDescription_Solrock_1[] = _(
   "power. It is said to possess the ability\n"
   "to read the emotions of others.");
 static const u8 DexDescription_Solrock_2[] = _(
-  "This POKéMON gives off intense heat\n"
+  "This Pokémon gives off intense heat\n"
   "while rotating its body.");
 #else
 static const u8 DexDescription_Solrock_1[] = _(
-  "SOLROCK is a new species of POKéMON\n"
+  "SOLROCK is a new species of Pokémon\n"
   "that is said to have fallen from space.\n"
   "It floats in air and moves silently.");
 static const u8 DexDescription_Solrock_2[] = _(
-  "In battle, this POKéMON releases\n"
+  "In battle, this Pokémon releases\n"
   "intensely bright light.");
 #endif
 
@@ -4490,16 +4490,16 @@ static const u8 DexDescription_Solrock_2[] = _(
 static const u8 DexDescription_Barboach_1[] = _(
   "BARBOACH's body is covered with a\n"
   "slimy film. If a foe grabs it, this\n"
-  "POKéMON just slips out of the enemy's");
+  "Pokémon just slips out of the enemy's");
 static const u8 DexDescription_Barboach_2[] = _(
   "grip.\n"
-  "This POKéMON grows weak if the slimy\n"
+  "This Pokémon grows weak if the slimy\n"
   "coating dries up.");
 #else
 static const u8 DexDescription_Barboach_1[] = _(
   "BARBOACH's sensitive whiskers serve\n"
   "as a superb radar system.\n"
-  "This POKéMON hides in mud, leaving only");
+  "This Pokémon hides in mud, leaving only");
 static const u8 DexDescription_Barboach_2[] = _(
   "its two whiskers exposed while it waits\n"
   "for prey to come along.");
@@ -4511,12 +4511,12 @@ static const u8 DexDescription_Whiscash_1[] = _(
   "it sets off a quake-like tremor with a\n"
   "radius of over three miles.");
 static const u8 DexDescription_Whiscash_2[] = _(
-  "This POKéMON has the ability to predict\n"
+  "This Pokémon has the ability to predict\n"
   "real earthquakes.");
 #else
 static const u8 DexDescription_Whiscash_1[] = _(
   "WHISCASH is extremely territorial.\n"
-  "Just one of these POKéMON will claim a\n"
+  "Just one of these Pokémon will claim a\n"
   "large pond as its exclusive territory.");
 static const u8 DexDescription_Whiscash_2[] = _(
   "If a foe approaches it, it thrashes\n"
@@ -4530,15 +4530,15 @@ static const u8 DexDescription_Corphish_1[] = _(
   "claws. It has no likes or dislikes when it\n"
   "comes to food - it will eat anything.");
 static const u8 DexDescription_Corphish_2[] = _(
-  "This POKéMON has no trouble living in\n"
+  "This Pokémon has no trouble living in\n"
   "filthy water.");
 #else
 static const u8 DexDescription_Corphish_1[] = _(
   "CORPHISH were originally foreign\n"
-  "POKéMON that were imported as pets.\n"
+  "Pokémon that were imported as pets.\n"
   "They eventually turned up in the wild.");
 static const u8 DexDescription_Corphish_2[] = _(
-  "This POKéMON is very hardy and has\n"
+  "This Pokémon is very hardy and has\n"
   "greatly increased its population.");
 #endif
 
@@ -4548,7 +4548,7 @@ static const u8 DexDescription_Crawdaunt_1[] = _(
   "regularly. Immediately after molting,\n"
   "its shell is soft and tender.");
 static const u8 DexDescription_Crawdaunt_2[] = _(
-  "Until the shell hardens, this POKéMON\n"
+  "Until the shell hardens, this Pokémon\n"
   "hides in its streambed burrow to avoid\n"
   "attack from its foes.");
 #else
@@ -4558,7 +4558,7 @@ static const u8 DexDescription_Crawdaunt_1[] = _(
   "other living things to battle.");
 static const u8 DexDescription_Crawdaunt_2[] = _(
   "Other life-forms refuse to live in\n"
-  "ponds inhabited by this POKéMON,\n"
+  "ponds inhabited by this Pokémon,\n"
   "making them desolate places.");
 #endif
 
@@ -4568,13 +4568,13 @@ static const u8 DexDescription_Baltoy_1[] = _(
   "BALTOY congregates with them and\n"
   "then begins crying noisily in unison.");
 static const u8 DexDescription_Baltoy_2[] = _(
-  "This POKéMON sleeps while cleverly\n"
+  "This Pokémon sleeps while cleverly\n"
   "balancing itself on its one foot.");
 #else
 static const u8 DexDescription_Baltoy_1[] = _(
   "BALTOY moves while spinning around on\n"
   "its one foot. Primitive wall paintings\n"
-  "depicting this POKéMON living among");
+  "depicting this Pokémon living among");
 static const u8 DexDescription_Baltoy_2[] = _(
   "people were discovered in some ancient\n"
   "ruins.");
@@ -4586,7 +4586,7 @@ static const u8 DexDescription_Claydol_1[] = _(
   "from a clay statue made by an ancient\n"
   "civilization dating back 20,000 years.");
 static const u8 DexDescription_Claydol_2[] = _(
-  "This POKéMON shoots beams from both\n"
+  "This Pokémon shoots beams from both\n"
   "its hands.");
 #else
 static const u8 DexDescription_Claydol_1[] = _(
@@ -4594,24 +4594,24 @@ static const u8 DexDescription_Claydol_1[] = _(
   "by primitive humans and brought to life\n"
   "by exposure to a mysterious ray.");
 static const u8 DexDescription_Claydol_2[] = _(
-  "This POKéMON moves about while\n"
+  "This Pokémon moves about while\n"
   "levitating.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Lileep_1[] = _(
-  "LILEEP is an ancient POKéMON that was\n"
+  "LILEEP is an ancient Pokémon that was\n"
   "regenerated from a fossil. It remains\n"
   "permanently anchored to a rock.");
 static const u8 DexDescription_Lileep_2[] = _(
-  "From its immobile perch, this POKéMON\n"
+  "From its immobile perch, this Pokémon\n"
   "intently scans for prey with its two\n"
   "eyes.");
 #else
 static const u8 DexDescription_Lileep_1[] = _(
   "LILEEP became extinct approximately\n"
   "a hundred million years ago.\n"
-  "This ancient POKéMON attaches itself");
+  "This ancient Pokémon attaches itself");
 static const u8 DexDescription_Lileep_2[] = _(
   "to a rock on the seafloor and catches\n"
   "approaching prey using tentacles \n"
@@ -4624,12 +4624,12 @@ static const u8 DexDescription_Cradily_1[] = _(
   "preventing it from being washed away in\n"
   "rough seas.");
 static const u8 DexDescription_Cradily_2[] = _(
-  "This POKéMON secretes a strong\n"
+  "This Pokémon secretes a strong\n"
   "digestive fluid from its tentacles.");
 #else
 static const u8 DexDescription_Cradily_1[] = _(
   "CRADILY roams around the ocean floor\n"
-  "in search of food. This POKéMON freely\n"
+  "in search of food. This Pokémon freely\n"
   "extends its tree trunk-like neck and");
 static const u8 DexDescription_Cradily_2[] = _(
   "captures unwary prey using its eight\n"
@@ -4639,16 +4639,16 @@ static const u8 DexDescription_Cradily_2[] = _(
 #ifdef SAPPHIRE
 static const u8 DexDescription_Anorith_1[] = _(
   "ANORITH is said to be a type of \n"
-  "POKéMON predecessor, with eight wings\n"
+  "Pokémon predecessor, with eight wings\n"
   "at the sides of its body.");
 static const u8 DexDescription_Anorith_2[] = _(
-  "This POKéMON swam in the primordial sea\n"
+  "This Pokémon swam in the primordial sea\n"
   "by undulating these eight wings.");
 #else
 static const u8 DexDescription_Anorith_1[] = _(
   "ANORITH was regenerated from a\n"
   "prehistoric fossil. This primitive\n"
-  "POKéMON once lived in warm seas.");
+  "Pokémon once lived in warm seas.");
 static const u8 DexDescription_Anorith_2[] = _(
   "It grips its prey firmly between its\n"
   "two large claws.");
@@ -4656,16 +4656,16 @@ static const u8 DexDescription_Anorith_2[] = _(
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Armaldo_1[] = _(
-  "ARMALDO is a POKéMON species that\n"
+  "ARMALDO is a Pokémon species that\n"
   "became extinct in prehistoric times.\n"
-  "This POKéMON is said to have walked on");
+  "This Pokémon is said to have walked on");
 static const u8 DexDescription_Armaldo_2[] = _(
   "its hind legs, which would have been\n"
   "more convenient for life on land.");
 #else
 static const u8 DexDescription_Armaldo_1[] = _(
   "ARMALDO's tough armor makes all attacks\n"
-  "bounce off. This POKéMON's two\n"
+  "bounce off. This Pokémon's two\n"
   "enormous claws can be freely extended");
 static const u8 DexDescription_Armaldo_2[] = _(
   "or contracted. They have the power to\n"
@@ -4678,7 +4678,7 @@ static const u8 DexDescription_Feebas_1[] = _(
   "it has a hardy and tenacious life force\n"
   "that enables it to live anywhere.");
 static const u8 DexDescription_Feebas_2[] = _(
-  "However, this POKéMON is also slow and\n"
+  "However, this Pokémon is also slow and\n"
   "dimwitted, making it an easy catch.");
 #else
 static const u8 DexDescription_Feebas_1[] = _(
@@ -4686,7 +4686,7 @@ static const u8 DexDescription_Feebas_1[] = _(
   "tattered from the start of its life.\n"
   "Because of its shoddy appearance, this");
 static const u8 DexDescription_Feebas_2[] = _(
-  "POKéMON is largely ignored.\n"
+  "Pokémon is largely ignored.\n"
   "It is capable of living in both the sea\n"
   "and in rivers.");
 #endif
@@ -4694,7 +4694,7 @@ static const u8 DexDescription_Feebas_2[] = _(
 #ifdef SAPPHIRE
 static const u8 DexDescription_Milotic_1[] = _(
   "MILOTIC live at the bottom of large\n"
-  "lakes. When this POKéMON's body glows a\n"
+  "lakes. When this Pokémon's body glows a\n"
   "vivid pink, it releases a pulsing wave of");
 static const u8 DexDescription_Milotic_2[] = _(
   "energy that brings soothing calm to\n"
@@ -4702,7 +4702,7 @@ static const u8 DexDescription_Milotic_2[] = _(
 #else
 static const u8 DexDescription_Milotic_1[] = _(
   "MILOTIC is said to be the most\n"
-  "beautiful of all the POKéMON.\n"
+  "beautiful of all the Pokémon.\n"
   "It has the power to becalm such");
 static const u8 DexDescription_Milotic_2[] = _(
   "emotions as anger and hostility to quell\n"
@@ -4715,13 +4715,13 @@ static const u8 DexDescription_Castform_1[] = _(
   "to transform itself into the guises of\n"
   "the sun, rain clouds, and snow clouds.");
 static const u8 DexDescription_Castform_2[] = _(
-  "This POKéMON's feelings change with the\n"
+  "This Pokémon's feelings change with the\n"
   "weather.");
 #else
 static const u8 DexDescription_Castform_1[] = _(
   "CASTFORM's appearance changes with\n"
   "the weather.\n"
-  "This POKéMON gained the ability to use");
+  "This Pokémon gained the ability to use");
 static const u8 DexDescription_Castform_2[] = _(
   "the vast power of nature to protect\n"
   "its tiny body.");
@@ -4742,7 +4742,7 @@ static const u8 DexDescription_Kecleon_1[] = _(
   "colors at will to blend in with its\n"
   "surroundings.");
 static const u8 DexDescription_Kecleon_2[] = _(
-  "There is one exception - this POKéMON\n"
+  "There is one exception - this Pokémon\n"
   "can't change the zigzag pattern on its\n"
   "belly.");
 #endif
@@ -4761,7 +4761,7 @@ static const u8 DexDescription_Shuppet_1[] = _(
   "of jealousy and vindictiveness.\n"
   "If someone develops strong feelings of");
 static const u8 DexDescription_Shuppet_2[] = _(
-  "vengeance, this POKéMON will appear\n"
+  "vengeance, this Pokémon will appear\n"
   "in a swarm and line up beneath the eaves\n"
   "of that person's home.");
 #endif
@@ -4772,7 +4772,7 @@ static const u8 DexDescription_Banette_1[] = _(
   "of a discarded and forgotten plush doll,\n"
   "giving it new life as BANETTE.");
 static const u8 DexDescription_Banette_2[] = _(
-  "The POKéMON's energy would escape if it\n"
+  "The Pokémon's energy would escape if it\n"
   "were to ever open its mouth.");
 #else
 static const u8 DexDescription_Banette_1[] = _(
@@ -4780,7 +4780,7 @@ static const u8 DexDescription_Banette_1[] = _(
   "strong curses by sticking pins into its\n"
   "own body.");
 static const u8 DexDescription_Banette_2[] = _(
-  "This POKéMON was originally a pitiful\n"
+  "This Pokémon was originally a pitiful\n"
   "plush doll that was thrown away.");
 #endif
 
@@ -4790,14 +4790,14 @@ static const u8 DexDescription_Duskull_1[] = _(
   "darkness of midnight. There is an oft-\n"
   "told admonishment given to misbehaving");
 static const u8 DexDescription_Duskull_2[] = _(
-  "children that this POKéMON will spirit\n"
+  "children that this Pokémon will spirit\n"
   "away bad children who earn scoldings\n"
   "from their mothers.");
 #else
 static const u8 DexDescription_Duskull_1[] = _(
   "DUSKULL can pass through any wall no\n"
   "matter how thick it may be.\n"
-  "Once this POKéMON chooses a target,");
+  "Once this Pokémon chooses a target,");
 static const u8 DexDescription_Duskull_2[] = _(
   "it will doggedly pursue the intended\n"
   "victim until the break of dawn.");
@@ -4806,7 +4806,7 @@ static const u8 DexDescription_Duskull_2[] = _(
 #ifdef SAPPHIRE
 static const u8 DexDescription_Dusclops_1[] = _(
   "DUSCLOPS absorbs anything, however\n"
-  "large the object may be. This POKéMON\n"
+  "large the object may be. This Pokémon\n"
   "hypnotizes its foe by waving its hands");
 static const u8 DexDescription_Dusclops_2[] = _(
   "in a macabre manner and by bringing its\n"
@@ -4818,7 +4818,7 @@ static const u8 DexDescription_Dusclops_1[] = _(
   "there is nothing at all inside.\n"
   "It is said that its body is like a black");
 static const u8 DexDescription_Dusclops_2[] = _(
-  "hole. This POKéMON will absorb anything\n"
+  "hole. This Pokémon will absorb anything\n"
   "into its body, but nothing will ever come\n"
   "back out.");
 #endif
@@ -4829,14 +4829,14 @@ static const u8 DexDescription_Tropius_1[] = _(
   "as snacks the fruit that grows in\n"
   "bunches around the neck of TROPIUS.");
 static const u8 DexDescription_Tropius_2[] = _(
-  "This POKéMON flies by flapping the\n"
+  "This Pokémon flies by flapping the\n"
   "leaves on its back as if they were\n"
   "wings.");
 #else
 static const u8 DexDescription_Tropius_1[] = _(
   "The bunches of fruit around TROPIUS's\n"
   "neck are very popular with children.\n"
-  "This POKéMON loves fruit, and eats it");
+  "This Pokémon loves fruit, and eats it");
 static const u8 DexDescription_Tropius_2[] = _(
   "continuously. Apparently, its love for\n"
   "fruit resulted in its own outgrowth\n"
@@ -4850,13 +4850,13 @@ static const u8 DexDescription_Chimecho_1[] = _(
   "of a building using a suction cup on its");
 static const u8 DexDescription_Chimecho_2[] = _(
   "head.\n"
-  "This POKéMON plucks berries with its\n"
+  "This Pokémon plucks berries with its\n"
   "long tail and eats them.");
 #else
 static const u8 DexDescription_Chimecho_1[] = _(
   "CHIMECHO makes its cries echo\n"
   "inside its hollow body. When this\n"
-  "POKéMON becomes enraged, its cries");
+  "Pokémon becomes enraged, its cries");
 static const u8 DexDescription_Chimecho_2[] = _(
   "result in ultrasonic waves that have\n"
   "the power to knock foes flying.");
@@ -4868,7 +4868,7 @@ static const u8 DexDescription_Absol_1[] = _(
   "coming of natural disasters.\n"
   "It lives in a harsh, rugged mountain");
 static const u8 DexDescription_Absol_2[] = _(
-  "environment. This POKéMON very rarely\n"
+  "environment. This Pokémon very rarely\n"
   "ventures down from the mountains.");
 #else
 static const u8 DexDescription_Absol_1[] = _(
@@ -4877,14 +4877,14 @@ static const u8 DexDescription_Absol_1[] = _(
   "earthquake or a tidal wave.");
 static const u8 DexDescription_Absol_2[] = _(
   "As a result, it came to be known as the\n"
-  "disaster POKéMON.");
+  "disaster Pokémon.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Wynaut_1[] = _(
   "WYNAUT gather on moonlit nights to play\n"
   "by squeezing up against each other.\n"
-  "By being squeezed, this POKéMON gains");
+  "By being squeezed, this Pokémon gains");
 static const u8 DexDescription_Wynaut_2[] = _(
   "endurance and is trained to dole out\n"
   "powerful counterattacks.");
@@ -4894,7 +4894,7 @@ static const u8 DexDescription_Wynaut_1[] = _(
   "happy smile on its face. Look at its tail\n"
   "to determine if it is angry.");
 static const u8 DexDescription_Wynaut_2[] = _(
-  "When angered, this POKéMON will be\n"
+  "When angered, this Pokémon will be\n"
   "slapping the ground with its tail.");
 #endif
 
@@ -4904,13 +4904,13 @@ static const u8 DexDescription_Snorunt_1[] = _(
   "and ice.\n"
   "Old folklore claims that a house visited");
 static const u8 DexDescription_Snorunt_2[] = _(
-  "by this POKéMON is sure to prosper for\n"
+  "by this Pokémon is sure to prosper for\n"
   "many generations to come.");
 #else
 static const u8 DexDescription_Snorunt_1[] = _(
   "SNORUNT live in regions with heavy\n"
   "snowfall. In seasons without snow, such\n"
-  "as spring and summer, this POKéMON");
+  "as spring and summer, this Pokémon");
 static const u8 DexDescription_Snorunt_2[] = _(
   "steals away to live quietly among\n"
   "stalactites and stalagmites deep in\n"
@@ -4924,13 +4924,13 @@ static const u8 DexDescription_Glalie_1[] = _(
   "instantly freeze its foe solid.");
 static const u8 DexDescription_Glalie_2[] = _(
   "After immobilizing its foe in ice, this\n"
-  "POKéMON enjoys eating it in leisurely\n"
+  "Pokémon enjoys eating it in leisurely\n"
   "fashion.");
 #else
 static const u8 DexDescription_Glalie_1[] = _(
   "GLALIE has a body made of rock, which it\n"
   "hardens with an armor of ice.\n"
-  "This POKéMON has the ability to freeze");
+  "This Pokémon has the ability to freeze");
 static const u8 DexDescription_Glalie_2[] = _(
   "moisture in the atmosphere into any\n"
   "shape it desires.");
@@ -4942,13 +4942,13 @@ static const u8 DexDescription_Spheal_1[] = _(
   "around on its ball-like body. When the\n"
   "season for ice floes arrives, this");
 static const u8 DexDescription_Spheal_2[] = _(
-  "POKéMON can be seen rolling about on\n"
+  "Pokémon can be seen rolling about on\n"
   "ice and crossing the sea.");
 #else
 static const u8 DexDescription_Spheal_1[] = _(
   "SPHEAL is much faster rolling than \n"
   "walking to get around. When groups of\n"
-  "this POKéMON eat, they all clap at once");
+  "this Pokémon eat, they all clap at once");
 static const u8 DexDescription_Spheal_2[] = _(
   "to show their pleasure. Because of this,\n"
   "their mealtimes are noisy.");
@@ -4958,7 +4958,7 @@ static const u8 DexDescription_Spheal_2[] = _(
 static const u8 DexDescription_Sealeo_1[] = _(
   "SEALEO often balances and rolls\n"
   "things on the tip of its nose. While the\n"
-  "POKéMON is rolling something, it checks");
+  "Pokémon is rolling something, it checks");
 static const u8 DexDescription_Sealeo_2[] = _(
   "the object's aroma and texture to\n"
   "determine whether it likes the object\n"
@@ -4969,7 +4969,7 @@ static const u8 DexDescription_Sealeo_1[] = _(
   "on the tip of its nose anything it sees\n"
   "for the first time.");
 static const u8 DexDescription_Sealeo_2[] = _(
-  "This POKéMON occasionally entertains\n"
+  "This Pokémon occasionally entertains\n"
   "itself by balancing and rolling a SPHEAL\n"
   "on its nose.");
 #endif
@@ -4988,7 +4988,7 @@ static const u8 DexDescription_Walrein_1[] = _(
   "tusks can totally shatter blocks of\n"
   "ice weighing ten tons with one blow.");
 static const u8 DexDescription_Walrein_2[] = _(
-  "This POKéMON's thick coat of blubber\n"
+  "This Pokémon's thick coat of blubber\n"
   "insulates it from subzero temperatures.");
 #endif
 
@@ -4999,7 +4999,7 @@ static const u8 DexDescription_Clamperl_1[] = _(
   "becomes too large to fit inside the");
 static const u8 DexDescription_Clamperl_2[] = _(
   "shell, it is sure evidence that this\n"
-  "POKéMON is getting close to evolution.");
+  "Pokémon is getting close to evolution.");
 #else
 static const u8 DexDescription_Clamperl_1[] = _(
   "CLAMPERL's sturdy shell is not only good\n"
@@ -5018,7 +5018,7 @@ static const u8 DexDescription_Huntail_1[] = _(
   "swallows the prey whole with its large,");
 static const u8 DexDescription_Huntail_2[] = _(
   "gaping mouth.\n"
-  "This POKéMON swims by wiggling its\n"
+  "This Pokémon swims by wiggling its\n"
   "slender body like a snake.");
 #else
 static const u8 DexDescription_Huntail_1[] = _(
@@ -5026,7 +5026,7 @@ static const u8 DexDescription_Huntail_1[] = _(
   "people for a long time because it lives\n"
   "at extreme depths in the sea.");
 static const u8 DexDescription_Huntail_2[] = _(
-  "This POKéMON's eyes can see clearly\n"
+  "This Pokémon's eyes can see clearly\n"
   "even in the murky dark depths of the\n"
   "ocean.");
 #endif
@@ -5037,7 +5037,7 @@ static const u8 DexDescription_Gorebyss_1[] = _(
   "of elegance and beauty while swimming,\n"
   "it is also cruel. When it spots prey, this");
 static const u8 DexDescription_Gorebyss_2[] = _(
-  "POKéMON inserts its thin mouth into the\n"
+  "Pokémon inserts its thin mouth into the\n"
   "prey's body and drains the prey of its\n"
   "body fluids.");
 #else
@@ -5047,7 +5047,7 @@ static const u8 DexDescription_Gorebyss_1[] = _(
   "withstand the enormous pressure of");
 static const u8 DexDescription_Gorebyss_2[] = _(
   "water at incredible depths. Because of\n"
-  "this, this POKéMON's body is unharmed\n"
+  "this, this Pokémon's body is unharmed\n"
   "by ordinary attacks.");
 #endif
 
@@ -5055,18 +5055,18 @@ static const u8 DexDescription_Gorebyss_2[] = _(
 static const u8 DexDescription_Relicanth_1[] = _(
   "RELICANTH is a rare species that was\n"
   "discovered in deep-sea explorations.\n"
-  "This POKéMON's body withstands the");
+  "This Pokémon's body withstands the");
 static const u8 DexDescription_Relicanth_2[] = _(
   "enormous water pressure of the ocean\n"
   "depths. Its body is covered in tough\n"
   "scales that are like craggy rocks.");
 #else
 static const u8 DexDescription_Relicanth_1[] = _(
-  "RELICANTH is a POKéMON species that\n"
+  "RELICANTH is a Pokémon species that\n"
   "existed for a hundred million years\n"
   "without ever changing its form.");
 static const u8 DexDescription_Relicanth_2[] = _(
-  "This ancient POKéMON feeds on\n"
+  "This ancient Pokémon feeds on\n"
   "microscopic organisms with its\n"
   "toothless mouth.");
 #endif
@@ -5077,12 +5077,12 @@ static const u8 DexDescription_Luvdisc_1[] = _(
   "symbol of love and romance.\n"
   "It is said that any couple meeting this");
 static const u8 DexDescription_Luvdisc_2[] = _(
-  "POKéMON is promised a loving\n"
+  "Pokémon is promised a loving\n"
   "relationship that never ends.");
 #else
 static const u8 DexDescription_Luvdisc_1[] = _(
   "LUVDISC live in shallow seas in the\n"
-  "tropics. This heart-shaped POKéMON\n"
+  "tropics. This heart-shaped Pokémon\n"
   "earned its name by swimming after");
 static const u8 DexDescription_Luvdisc_2[] = _(
   "loving couples it spotted in the\n"
@@ -5095,14 +5095,14 @@ static const u8 DexDescription_Bagon_1[] = _(
   "one day soaring high among the clouds.\n"
   "As if trying to dispel its frustration");
 static const u8 DexDescription_Bagon_2[] = _(
-  "over its inability to fly, this POKéMON\n"
+  "over its inability to fly, this Pokémon\n"
   "slams its hard head against huge rocks\n"
   "and shatters them into pebbles.");
 #else
 static const u8 DexDescription_Bagon_1[] = _(
   "BAGON has a dream of one day soaring\n"
   "in the sky. In doomed efforts to fly,\n"
-  "this POKéMON hurls itself off cliffs.");
+  "this Pokémon hurls itself off cliffs.");
 static const u8 DexDescription_Bagon_2[] = _(
   "As a result of its dives, its head has \n"
   "grown tough and as hard as tempered\n"
@@ -5115,7 +5115,7 @@ static const u8 DexDescription_Shelgon_1[] = _(
   "much like bones. The shell is very hard\n"
   "and bounces off enemy attacks.");
 static const u8 DexDescription_Shelgon_2[] = _(
-  "When awaiting evolution, this POKéMON\n"
+  "When awaiting evolution, this Pokémon\n"
   "hides away in a cavern.");
 #else
 static const u8 DexDescription_Shelgon_1[] = _(
@@ -5123,14 +5123,14 @@ static const u8 DexDescription_Shelgon_1[] = _(
   "are in the midst of transformation\n"
   "to create an entirely new body.");
 static const u8 DexDescription_Shelgon_2[] = _(
-  "This POKéMON's shell is extremely heavy,\n"
+  "This Pokémon's shell is extremely heavy,\n"
   "making its movements sluggish.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Salamence_1[] = _(
   "By evolving into SALAMENCE, this\n"
-  "POKéMON finally realizes its long-held\n"
+  "Pokémon finally realizes its long-held\n"
   "dream of growing wings.");
 static const u8 DexDescription_Salamence_2[] = _(
   "To express its joy, it flies and wheels\n"
@@ -5143,7 +5143,7 @@ static const u8 DexDescription_Salamence_1[] = _(
   "wings. It is said that this powerful");
 static const u8 DexDescription_Salamence_2[] = _(
   "desire triggered a sudden mutation in\n"
-  "this POKéMON's cells, causing it to\n"
+  "this Pokémon's cells, causing it to\n"
   "sprout its magnificent wings.");
 #endif
 
@@ -5153,14 +5153,14 @@ static const u8 DexDescription_Beldum_1[] = _(
   "generating a magnetic force that\n"
   "repels earth's natural magnetism.");
 static const u8 DexDescription_Beldum_2[] = _(
-  "When it sleeps, this POKéMON anchors\n"
+  "When it sleeps, this Pokémon anchors\n"
   "itself to a cliff using the hooks on\n"
   "its rear.");
 #else
 static const u8 DexDescription_Beldum_1[] = _(
   "Instead of blood, a powerful magnetic\n"
   "force courses throughout BELDUM's\n"
-  "body. This POKéMON communicates with");
+  "body. This Pokémon communicates with");
 static const u8 DexDescription_Beldum_2[] = _(
   "others by sending controlled pulses of\n"
   "magnetism.");
@@ -5172,7 +5172,7 @@ static const u8 DexDescription_Metang_1[] = _(
   "is formed. The brains of the BELDUM are\n"
   "joined by a magnetic nervous system.");
 static const u8 DexDescription_Metang_2[] = _(
-  "This POKéMON turns its arms to the rear\n"
+  "This Pokémon turns its arms to the rear\n"
   "for traveling at high speed.");
 #else
 static const u8 DexDescription_Metang_1[] = _(
@@ -5181,7 +5181,7 @@ static const u8 DexDescription_Metang_1[] = _(
   "joined by a magnetic nervous system.");
 static const u8 DexDescription_Metang_2[] = _(
   "By linking its brains magnetically,\n"
-  "this POKéMON generates strong\n"
+  "this Pokémon generates strong\n"
   "psychokinetic power.");
 #endif
 
@@ -5189,7 +5189,7 @@ static const u8 DexDescription_Metang_2[] = _(
 static const u8 DexDescription_Metagross_1[] = _(
   "METAGROSS is the result of two METANG\n"
   "achieving fusion. When hunting, this\n"
-  "POKéMON pins the prey to the ground");
+  "Pokémon pins the prey to the ground");
 static const u8 DexDescription_Metagross_2[] = _(
   "under its massive body. It then eats\n"
   "the helpless victim using the large \n"
@@ -5201,7 +5201,7 @@ static const u8 DexDescription_Metagross_1[] = _(
   "through difficult calculations faster");
 static const u8 DexDescription_Metagross_2[] = _(
   "than a supercomputer.\n"
-  "This POKéMON can float in the air by\n"
+  "This Pokémon can float in the air by\n"
   "tucking in its four legs.");
 #endif
 
@@ -5216,7 +5216,7 @@ static const u8 DexDescription_Regirock_2[] = _(
 #else
 static const u8 DexDescription_Regirock_1[] = _(
   "REGIROCK was sealed away by people\n"
-  "long ago. If this POKéMON's body is\n"
+  "long ago. If this Pokémon's body is\n"
   "damaged in battle, it is said to seek");
 static const u8 DexDescription_Regirock_2[] = _(
   "out suitable rocks on its own to repair\n"
@@ -5229,7 +5229,7 @@ static const u8 DexDescription_Regice_1[] = _(
   "negative 328 degrees F.\n"
   "Things will freeze solid just by going");
 static const u8 DexDescription_Regice_2[] = _(
-  "near this POKéMON.\n"
+  "near this Pokémon.\n"
   "Its icy body is so cold, it will not melt\n"
   "even if it is immersed in magma.");
 #else
@@ -5238,7 +5238,7 @@ static const u8 DexDescription_Regice_1[] = _(
   "age. The deep-frozen body can't be\n"
   "melted, even by fire.");
 static const u8 DexDescription_Regice_2[] = _(
-  "This POKéMON controls frigid air of\n"
+  "This Pokémon controls frigid air of\n"
   "minus 328 degrees F.");
 #endif
 
@@ -5256,7 +5256,7 @@ static const u8 DexDescription_Registeel_1[] = _(
   "than any kind of metal.\n"
   "Its body is apparently hollow.");
 static const u8 DexDescription_Registeel_2[] = _(
-  "No one has any idea what this POKéMON\n"
+  "No one has any idea what this Pokémon\n"
   "eats.");
 #endif
 
@@ -5266,14 +5266,14 @@ static const u8 DexDescription_Latias_1[] = _(
   "of understanding human speech.\n"
   "It is covered with a glass-like down.");
 static const u8 DexDescription_Latias_2[] = _(
-  "The POKéMON enfolds its body with its\n"
+  "The Pokémon enfolds its body with its\n"
   "down and refracts light to alter its\n"
   "appearance.");
 #else
 static const u8 DexDescription_Latias_1[] = _(
   "LATIAS is highly sensitive to the\n"
   "emotions of people. If it senses any\n"
-  "hostility, this POKéMON ruffles the");
+  "hostility, this Pokémon ruffles the");
 static const u8 DexDescription_Latias_2[] = _(
   "feathers all over its body and cries\n"
   "shrilly to intimidate the foe.");
@@ -5283,7 +5283,7 @@ static const u8 DexDescription_Latias_2[] = _(
 static const u8 DexDescription_Latios_1[] = _(
   "LATIOS will only open its heart to a\n"
   "TRAINER with a compassionate spirit.\n"
-  "This POKéMON can fly faster than a jet");
+  "This Pokémon can fly faster than a jet");
 static const u8 DexDescription_Latios_2[] = _(
   "plane by folding its forelegs to minimize\n"
   "air resistance.");
@@ -5293,14 +5293,14 @@ static const u8 DexDescription_Latios_1[] = _(
   "see an image of what it has seen or\n"
   "imagines in its head.");
 static const u8 DexDescription_Latios_2[] = _(
-  "This POKéMON is intelligent and\n"
+  "This Pokémon is intelligent and\n"
   "understands human speech.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Kyogre_1[] = _(
   "KYOGRE is named in mythology as the\n"
-  "POKéMON that expanded the sea by\n"
+  "Pokémon that expanded the sea by\n"
   "covering the land with torrential rains");
 static const u8 DexDescription_Kyogre_2[] = _(
   "and towering tidal waves.\n"
@@ -5312,7 +5312,7 @@ static const u8 DexDescription_Kyogre_1[] = _(
   "rain clouds that cover the entire sky\n"
   "and bring about torrential downpours.");
 static const u8 DexDescription_Kyogre_2[] = _(
-  "This POKéMON saved people who were\n"
+  "This Pokémon saved people who were\n"
   "suffering from droughts.");
 #endif
 
@@ -5327,10 +5327,10 @@ static const u8 DexDescription_Groudon_2[] = _(
 #else
 static const u8 DexDescription_Groudon_1[] = _(
   "GROUDON has long been described in \n"
-  "mythology as the POKéMON that raised\n"
+  "mythology as the Pokémon that raised\n"
   "lands and expanded continents.");
 static const u8 DexDescription_Groudon_2[] = _(
-  "This POKéMON took to sleep after a\n"
+  "This Pokémon took to sleep after a\n"
   "cataclysmic battle with KYOGRE.");
 #endif
 
@@ -5349,7 +5349,7 @@ static const u8 DexDescription_Rayquaza_1[] = _(
   "of years in the earth's ozone layer, \n"
   "never descending to the ground.");
 static const u8 DexDescription_Rayquaza_2[] = _(
-  "This POKéMON appears to feed on water\n"
+  "This Pokémon appears to feed on water\n"
   "and particles in the atmosphere.");
 #endif
 
@@ -5367,7 +5367,7 @@ static const u8 DexDescription_Jirachi_1[] = _(
   "true any wish that is written on notes\n"
   "attached to its head when it awakens.");
 static const u8 DexDescription_Jirachi_2[] = _(
-  "If this POKéMON senses danger, it will\n"
+  "If this Pokémon senses danger, it will\n"
   "fight without awakening.");
 #endif
 
@@ -5377,7 +5377,7 @@ static const u8 DexDescription_Deoxys_1[] = _(
   "from space. It is highly intelligent and\n"
   "wields psychokinetic powers.");
 static const u8 DexDescription_Deoxys_2[] = _(
-  "This POKéMON shoots lasers from the\n"
+  "This Pokémon shoots lasers from the\n"
   "crystalline organ on its chest.");
 #else
 static const u8 DexDescription_Deoxys_1[] = _(
@@ -5385,7 +5385,7 @@ static const u8 DexDescription_Deoxys_1[] = _(
   "sudden mutation upon exposure to a\n"
   "laser beam and resulted in DEOXYS.");
 static const u8 DexDescription_Deoxys_2[] = _(
-  "The crystalline organ on this POKéMON's\n"
+  "The crystalline organ on this Pokémon's\n"
   "chest appears to be its brain.");
 #endif
 

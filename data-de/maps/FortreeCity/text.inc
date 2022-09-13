@@ -4,13 +4,13 @@ FortreeCity_Text_167577:: @ 8167577
 	.string "Warst du auf einem Vulkan oder so?$"
 
 FortreeCity_Text_1675C2:: @ 81675C2
-	.string "Ich wollte zur POKéMON ARENA, aber\n"
+	.string "Ich wollte zur Pokémon ARENA, aber\n"
 	.string "irgendetwas blockiert den Weg.\p"
 	.string "Und das, nachdem ich auf der ROUTE 120\n"
 	.string "so fleißig trainiert habe...$"
 
 FortreeCity_Text_167642:: @ 8167642
-	.string "Dieses POKéMON ist mein ganzer Stolz!\n"
+	.string "Dieses Pokémon ist mein ganzer Stolz!\n"
 	.string "Diesmal werde ich WIBKE besiegen!$"
 
 FortreeCity_Text_16768A:: @ 816768A
@@ -29,12 +29,12 @@ FortreeCity_Text_16770E:: @ 816770E
 
 FortreeCity_Text_1677BD:: @ 81677BD
 	.string "Auf Bäumen zu leben ist klasse.\p"
-	.string "Aber manchmal kommen KÄFER-POKéMON\n"
+	.string "Aber manchmal kommen KÄFER-Pokémon\n"
 	.string "durch die Fenster herein.\l"
 	.string "Das kann einen ganz schön erschrecken.$"
 
 FortreeCity_Text_16782C:: @ 816782C
-	.string "Manche POKéMON entwickeln sich, wenn\n"
+	.string "Manche Pokémon entwickeln sich, wenn\n"
 	.string "sie durch ein Verbindungskabel laufen.$"
 
 FortreeCity_Text_167868:: @ 8167868
@@ -46,9 +46,9 @@ FortreeCity_Text_16788B:: @ 816788B
 
 FortreeCity_Text_1678CB:: @ 81678CB
 	.string "{PLAYER} setzt das DEVON-SCOPE ein.\p"
-	.string "Ein unsichtbares POKéMON ist sichtbar\n"
+	.string "Ein unsichtbares Pokémon ist sichtbar\n"
 	.string "geworden!\p"
-	.string "Das erschrockene POKéMON flieht!$"
+	.string "Das erschrockene Pokémon flieht!$"
 
 FortreeCity_Text_16792F:: @ 816792F
 	.string "BAUMHAUSEN CITY\n"
@@ -56,7 +56,7 @@ FortreeCity_Text_16792F:: @ 816792F
 	.string "verbrüdert mit der Natur.”$"
 
 FortreeCity_Text_167969:: @ 8167969
-	.string "POKéMON ARENA von BAUMHAUSEN CITY\n"
+	.string "Pokémon ARENA von BAUMHAUSEN CITY\n"
 	.string "LEITERIN: WIBKE\p"
 	.string "“Die Vogel-Liebhaberin hebt ab zum\n"
 	.string "Flug in die Welt.”$"

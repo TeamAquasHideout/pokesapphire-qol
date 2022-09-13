@@ -1,6 +1,6 @@
 LilycoveCity_ContestLobby_Text_18848C:: @ 818848C
 	.string "Nur vier Spieler können sich für den\n"
-	.string "POKéMON WETTBEWERB registrieren.\p"
+	.string "Pokémon WETTBEWERB registrieren.\p"
 	.string "Wenn die anderen drei Spieler via\n"
 	.string "Link hinzukommen, können alle\l"
 	.string "an dem gleichen WETTBEWERB teilnehmen.\p"
@@ -38,7 +38,7 @@ LilycoveCity_ContestLobby_Text_1886DC:: @ 81886DC
 	.string "teilnehmen?$"
 
 LilycoveCity_ContestLobby_Text_188703:: @ 8188703
-	.string "Welches POKéMON soll teilnehmen?$"
+	.string "Welches Pokémon soll teilnehmen?$"
 
 LilycoveCity_ContestLobby_Text_18872A:: @ 818872A
 	.string "Übertragung... $"
@@ -67,9 +67,9 @@ LilycoveCity_ContestLobby_Text_18881F:: @ 818881F
 	.string "Bitte versuche es erneut.$"
 
 LilycoveCity_ContestLobby_Text_188845:: @ 8188845
-	.string "Dein POKéMON wird an dem WETTBEWERB\n"
+	.string "Dein Pokémon wird an dem WETTBEWERB\n"
 	.string "teilnehmen.\p"
-	.string "Dein POKéMON hat die Nummer {STR_VAR_2}.$"
+	.string "Dein Pokémon hat die Nummer {STR_VAR_2}.$"
 
 UnknownString_8188890: @ 8188890
 	.string "Nummer {STR_VAR_2} hat diese Farbe für\n"
@@ -84,9 +84,9 @@ UnknownString_81888E6: @ 81888E6
 
 LilycoveCity_ContestLobby_Text_18890F:: @ 818890F
 	.string "Herzlichen Glückwunsch!\p"
-	.string "Ich habe dein POKéMON gezeichnet, zum\n"
+	.string "Ich habe dein Pokémon gezeichnet, zum\n"
 	.string "Andenken an seinen Sieg...\p"
-	.string "Nun, der Auftritt deines POKéMON war so\n"
+	.string "Nun, der Auftritt deines Pokémon war so\n"
 	.string "fantastisch, dass er mich zu einer\l"
 	.string "künstlerischen Hochleistung anspornte.\l"
 	.string "Siehst du?$"
@@ -116,7 +116,7 @@ LilycoveCity_ContestLobby_Text_188AE8:: @ 8188AE8
 
 LilycoveCity_ContestLobby_Text_188BB5:: @ 8188BB5
 	.string "Oh, richtig!\p"
-	.string "Da ich dein POKéMON malen durfte,\n"
+	.string "Da ich dein Pokémon malen durfte,\n"
 	.string "möchte ich dir dies gerne geben.$"
 
 LilycoveCity_ContestLobby_Text_188C03:: @ 8188C03
@@ -146,13 +146,13 @@ LilycoveCity_ContestLobby_Text_188D3C:: @ 8188D3C
 	.string "Hoo, Junge. WETTBEWERB der\n"
 	.string "MASTER-KLASSE, jetzt komme ich.\p"
 	.string "Bald wird die Welt wissen, dass mein\n"
-	.string "POKéMON das niedlichste aller POKéMON\l"
+	.string "Pokémon das niedlichste aller Pokémon\l"
 	.string "ist. Die Zeit ist reif!\l"
 	.string "Ahahahaha.$"
 
 LilycoveCity_ContestLobby_Text_188DDA:: @ 8188DDA
 	.string "Hier sieht man eine ganze Reihe der\n"
-	.string "unterschiedlichsten POKéMON.\p"
+	.string "unterschiedlichsten Pokémon.\p"
 	.string "Daher mache ich hier jeden Tag eine\n"
 	.string "kurze Stippvisite.$"
 
@@ -162,13 +162,13 @@ LilycoveCity_ContestLobby_Text_188E47:: @ 8188E47
 	.string "Du solltest sofort nach WIESENFLUR\n"
 	.string "gehen. Dort bekommst du eine.\p"
 	.string "Es ist unwahrscheinlich aufregend,\n"
-	.string "anderen ein POKéMON zu präsentieren,\l"
+	.string "anderen ein Pokémon zu präsentieren,\l"
 	.string "das man mit Liebe aufgezogen hat.$"
 
 LilycoveCity_ContestLobby_Text_188F07:: @ 8188F07
 	.string "Wenn du erstmals am WETTBEWERB\n"
 	.string "der MASTER-KLASSE teilnimmst, wirst du\l"
-	.string "POKéMON sehen, die schreien geradezu\l"
+	.string "Pokémon sehen, die schreien geradezu\l"
 	.string "danach, gemalt zu werden.$"
 
 LilycoveCity_ContestLobby_Text_188F81:: @ 8188F81
@@ -178,7 +178,7 @@ LilycoveCity_ContestLobby_Text_188F81:: @ 8188F81
 	.string "rinnt... Da fall ich glatt in Ohnmacht!$"
 
 LilycoveCity_ContestLobby_Text_188FE3:: @ 8188FE3
-	.string "Tag für Tag habe ich dieses POKéMON mit\n"
+	.string "Tag für Tag habe ich dieses Pokémon mit\n"
 	.string "meiner Liebe und Fürsorge überhäuft.\p"
 	.string "Seine Kondition ist einfach unver-\n"
 	.string "gleichbar. Heute gehört der Sieg uns!$"

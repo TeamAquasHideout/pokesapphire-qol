@@ -6,7 +6,7 @@ MtChimney_Text_1B2DEE:: @ 81B2DEE
 	.string "Aktivität des SCHLOTBERGs stoppen.\p"
 	.string "Hahaha... Und dann füllt sich der ausge-\n"
 	.string "kühlte Krater mit Regenwasser und gibt\l"
-	.string "den WASSER-POKéMON Lebensraum.$"
+	.string "den WASSER-Pokémon Lebensraum.$"
 
 MtChimney_Text_1B2ED9:: @ 81B2ED9
 	.string "ADRIAN: Du schon wieder...\p"
@@ -16,10 +16,10 @@ MtChimney_Text_1B2ED9:: @ 81B2ED9
 	.string "Es besitzt absolute Priorität!\p"
 	.string "Daher widmet sich TEAM AQUA der Auf-\n"
 	.string "gabe, die Meere zu vergrößern.\p"
-	.string "So können sich neue POKéMON-Arten\n"
+	.string "So können sich neue Pokémon-Arten\n"
 	.string "entwickeln.\p"
 	.string "Wir wollen die Welt zum Wohle der\n"
-	.string "POKéMON umgestalten.\p"
+	.string "Pokémon umgestalten.\p"
 	.string "Das ist die große Vision von TEAM AQUA!\p"
 	.string "Ich kann einem sturen Kind wie dir nicht\n"
 	.string "erlauben, sich uns in den Weg zu stellen.\p"
@@ -64,7 +64,7 @@ MtChimney_Text_1B32C8:: @ 81B32C8
 	.string "Wir vom TEAM AQUA setzen unsere\n"
 	.string "Energie zum Wohle aller ein.\p"
 	.string "Wenn es mehr Wasser gibt, sind die\n"
-	.string "WASSER-POKéMON glücklicher und die\l"
+	.string "WASSER-Pokémon glücklicher und die\l"
 	.string "Menschen hätten mehr Platz zum\l"
 	.string "Schwimmen.$"
 
@@ -134,7 +134,7 @@ MtChimney_Text_1B36F1:: @ 81B36F1
 
 MtChimney_Text_1B372E:: @ 81B372E
 	.string "Wenn sie die Meere vergrößern, gibt es\n"
-	.string "weniger Lebensraum für POKéMON und\l"
+	.string "weniger Lebensraum für Pokémon und\l"
 	.string "Menschen!$"
 
 MtChimney_Text_1B3778:: @ 81B3778

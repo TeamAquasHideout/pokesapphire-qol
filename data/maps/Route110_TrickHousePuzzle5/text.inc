@@ -7,17 +7,17 @@ Route110_TrickHousePuzzle5_Text_19D423:: @ 819D423
 
 Route110_TrickHousePuzzle5_Text_19D4AE:: @ 819D4AE
 	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON is not found\n"
+	.string "One of these Pokémon is not found\n"
 	.string "on ROUTE 103. Which one is it?$"
 
 Route110_TrickHousePuzzle5_Text_19D501:: @ 819D501
 	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON is not of the\n"
+	.string "One of these Pokémon is not of the\n"
 	.string "GRASS type. Which one is it?$"
 
 Route110_TrickHousePuzzle5_Text_19D553:: @ 819D553
 	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON uses SCRATCH.\n"
+	.string "One of these Pokémon uses SCRATCH.\n"
 	.string "Which one is it?$"
 
 Route110_TrickHousePuzzle5_Text_19D599:: @ 819D599
@@ -44,17 +44,17 @@ Route110_TrickHousePuzzle5_Text_19D636:: @ 819D636
 Route110_TrickHousePuzzle5_Text_19D68E:: @ 819D68E
 	.string "MECHADOLL 2 QUIZ.\p"
 	.string "In PROF. BIRCH's bag, there were three\n"
-	.string "POKéMON. Which one was at the right?$"
+	.string "Pokémon. Which one was at the right?$"
 
 Route110_TrickHousePuzzle5_Text_19D6EC:: @ 819D6EC
 	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which POKéMON was offered for a trade\n"
-	.string "at the POKéMON TRAINER'S SCHOOL?$"
+	.string "Which Pokémon was offered for a trade\n"
+	.string "at the Pokémon TRAINER'S SCHOOL?$"
 
 Route110_TrickHousePuzzle5_Text_19D745:: @ 819D745
 	.string "MECHADOLL 2 QUIZ.\p"
 	.string "The DEVON RESEARCHER was looking for\n"
-	.string "what POKéMON in PETALBURG WOODS?$"
+	.string "what Pokémon in PETALBURG WOODS?$"
 
 UnknownString_819D79D: @ 819D79D
 	.string "CONGRATULATIONS. CORRECT YOU ARE.\n"

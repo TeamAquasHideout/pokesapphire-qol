@@ -1,17 +1,17 @@
 Route123_Text_171D83:: @ 8171D83
-	.string "I love GRASS-type POKéMON!\p"
-	.string "Do you have any GRASS-type POKéMON?$"
+	.string "I love GRASS-type Pokémon!\p"
+	.string "Do you have any GRASS-type Pokémon?$"
 
 Route123_Text_171DC2:: @ 8171DC2
 	.string "Oh?\p"
-	.string "You like GRASS-type POKéMON, too,\n"
+	.string "You like GRASS-type Pokémon, too,\n"
 	.string "don't you?\p"
 	.string "I'm so happy, you can have this!\n"
 	.string "It's a token of our friendship.$"
 
 Route123_Text_171E34:: @ 8171E34
 	.string "I check trees with my GRASS-type\n"
-	.string "POKéMON. I'm like a tree doctor.$"
+	.string "Pokémon. I'm like a tree doctor.$"
 
 Route123_Text_171E76:: @ 8171E76
 	.string "{0x7C} ROUTE 123\n"

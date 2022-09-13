@@ -10,7 +10,7 @@ MeteorFalls_1F_2R_Text_193A35:: @ 8193A35
 
 MeteorFalls_1F_2R_Text_193A60:: @ 8193A60
 	.string "The road ahead remains long and harsh.\p"
-	.string "When will my POKéMON and I become the\n"
+	.string "When will my Pokémon and I become the\n"
 	.string "best?$"
 
 MeteorFalls_1F_2R_Text_193AB3:: @ 8193AB3
@@ -25,12 +25,12 @@ MeteorFalls_1F_2R_Text_193B21:: @ 8193B21
 
 MeteorFalls_1F_2R_Text_193B4C:: @ 8193B4C
 	.string "You've obviously kept up your\n"
-	.string "POKéMON training.\p"
+	.string "Pokémon training.\p"
 	.string "So long as you remain strong, I, too,\n"
 	.string "can become stronger!$"
 
 MeteorFalls_1F_2R_Text_193BB7:: @ 8193BB7
-	.string "JOHN: We've always battled POKéMON\n"
+	.string "JOHN: We've always battled Pokémon\n"
 	.string "together as a twosome.\l"
 	.string "We've confidence in ourselves.$"
 
@@ -47,7 +47,7 @@ MeteorFalls_1F_2R_Text_193C35:: @ 8193C35
 MeteorFalls_1F_2R_Text_193C9F:: @ 8193C9F
 	.string "JOHN: Well, well, what a young TRAINER!\p"
 	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.string "have to return with more Pokémon.$"
 
 MeteorFalls_1F_2R_Text_193D10:: @ 8193D10
 	.string "JAY: We've been married for\n"
@@ -62,16 +62,16 @@ MeteorFalls_1F_2R_Text_193D6E:: @ 8193D6E
 MeteorFalls_1F_2R_Text_193D9A:: @ 8193D9A
 	.string "JAY: Fifty years of marriage...\p"
 	.string "If we ever argued, we always settled\n"
-	.string "it with a POKéMON battle...$"
+	.string "it with a Pokémon battle...$"
 
 MeteorFalls_1F_2R_Text_193DFB:: @ 8193DFB
 	.string "JAY: Well, well, aren't you a young\n"
 	.string "TRAINER?\p"
 	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+	.string "have to come back with more Pokémon.$"
 
 MeteorFalls_1F_2R_Text_193E75:: @ 8193E75
-	.string "JOHN: We've always battled POKéMON\n"
+	.string "JOHN: We've always battled Pokémon\n"
 	.string "together as a twosome.\l"
 	.string "We've confidence in ourselves.$"
 
@@ -88,7 +88,7 @@ MeteorFalls_1F_2R_Text_193F59:: @ 8193F59
 	.string "JOHN: Well, well, what a young\n"
 	.string "TRAINER!\p"
 	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.string "have to return with more Pokémon.$"
 
 MeteorFalls_1F_2R_Text_193FCA:: @ 8193FCA
 	.string "JAY: We've been married for\n"
@@ -110,4 +110,4 @@ MeteorFalls_1F_2R_Text_1940DF:: @ 81940DF
 	.string "JAY: Well, well, aren't you a young\n"
 	.string "TRAINER?\p"
 	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+	.string "have to come back with more Pokémon.$"

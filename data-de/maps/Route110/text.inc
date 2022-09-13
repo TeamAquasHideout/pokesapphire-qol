@@ -20,8 +20,8 @@ Route110_Text_16E7A1:: @ 816E7A1
 	.string "MAIKE: Hi, {PLAYER}{KUN}, wir haben uns ja\n"
 	.string "lange nicht gesehen!\p"
 	.string "Während ich auf der Suche nach\n"
-	.string "weiteren POKéMON war, sind meine\l"
-	.string "POKéMON stärker geworden.\p"
+	.string "weiteren Pokémon war, sind meine\l"
+	.string "Pokémon stärker geworden.\p"
 	.string "Daher...\n"
 	.string "Wie wäre es mit einem kleinen Kampf?$"
 
@@ -49,7 +49,7 @@ Route110_Text_16E99A:: @ 816E99A
 	.string "BRIX: Hey, {PLAYER}.\n"
 	.string "Hier treibst du dich also herum.\l"
 	.string "Wie geht es?\p"
-	.string "Hast du deine POKéMON gut aufgezogen?\n"
+	.string "Hast du deine Pokémon gut aufgezogen?\n"
 	.string "Ich werde das für dich überprüfen.$"
 
 Route110_Text_16EA0F:: @ 816EA0F
@@ -69,7 +69,7 @@ Route110_Text_16EA7B:: @ 816EA7B
 	.string "Ist irgendwo ein Item versteckt, gibt\n"
 	.string "er ein Geräusch von sich.\p"
 	.string "Wie auch immer, ich suche jetzt weiter\n"
-	.string "nach POKéMON.$"
+	.string "nach Pokémon.$"
 
 Route110_Text_16EB22:: @ 816EB22
 	.string "Wäre das nicht ein Spaß, mit einem FAHR-\n"
@@ -102,7 +102,7 @@ Route110_Text_16EBC9:: @ 816EBC9
 Route110_Text_16EDC5:: @ 816EDC5
 	.string "Zwei Straßen, eine oben, eine unten...\p"
 	.string "Eine Straße für Menschen und eine für\n"
-	.string "POKéMON. Das ist nur recht und billig.$"
+	.string "Pokémon. Das ist nur recht und billig.$"
 
 Route110_Text_16EE30:: @ 816EE30
 	.string "Ich habe kein RAD, ich werde gemüt-\n"
@@ -118,7 +118,7 @@ Route110_Text_16EEF6:: @ 816EEF6
 	.string "Was soll ich tun?\p"
 	.string "Schnurstracks über den RADWEG nach\n"
 	.string "MALVENFROH CITY fahren oder die untere\p"
-	.string "Straße nehmen und nach POKéMON\n"
+	.string "Straße nehmen und nach Pokémon\n"
 	.string "suchen?$"
 
 Route110_Text_16EF65:: @ 816EF65
@@ -209,7 +209,7 @@ Route110_Text_16F429:: @ 816F429
 	.string "in Schlaf versetzt werden und ist damit\l"
 	.string "wehrlos.\p"
 	.string "Das sind wichtige Techniken in einem\n"
-	.string "POKéMON-Kampf.$"
+	.string "Pokémon-Kampf.$"
 
 Route110_Text_16F4AE:: @ 816F4AE
 	.string "TIPPS für TRAINER\p"

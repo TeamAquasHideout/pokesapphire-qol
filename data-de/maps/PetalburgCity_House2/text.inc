@@ -8,4 +8,4 @@ PetalburgCity_House2_Text_17BCB1:: @ 817BCB1
 	.string "angetreten. Wow, war der stark!\p"
 	.string "Wie soll ich es sagen?\p"
 	.string "Ich habe den Eindruck, er lebt für\n"
-	.string "seine POKéMON.$"
+	.string "seine Pokémon.$"

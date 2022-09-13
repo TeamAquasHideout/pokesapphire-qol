@@ -13,7 +13,7 @@ Route104_Text_1C55B9:: @ 81C55B9
 Route104_Text_1C5665:: @ 81C5665
 	.string "Du siehst aus wie ein TRAINER. Du\n"
 	.string "bist auch einer, stimmt's?\p"
-	.string "TRAINER geben ihren POKéMON manchmal\n"
+	.string "TRAINER geben ihren Pokémon manchmal\n"
 	.string "BEEREN zu tragen.\p"
 	.string "Es liegt an dir, ob du BEEREN pflanzt\n"
 	.string "oder verwendest.$"
@@ -37,7 +37,7 @@ Route111_Text_1C57D2:: @ 81C57D2
 
 Route114_Text_1C5803:: @ 81C5803
 	.string "Ich sammle BEEREN, damit ich einen\n"
-	.string "POKéMON WETTBEWERB gewinnen kann.\p"
+	.string "Pokémon WETTBEWERB gewinnen kann.\p"
 	.string "Wenn du magst, gebe ich dir eine ab.$"
 
 Route114_Text_1C5861:: @ 81C5861
@@ -52,7 +52,7 @@ Route120_Text_1C58F1:: @ 81C58F1
 	.string "Gib dieser Box einen Stoß und ein\n"
 	.string "{POKEBLOCK} kommt heraus...\p"
 	.string "Und dieser {POKEBLOCK} wird von einem\n"
-	.string "POKéMON gefressen...\p"
+	.string "Pokémon gefressen...\p"
 	.string "Es ist ein Ausdruck der Liebe, richtig?$"
 
 Route120_Text_1C5979:: @ 81C5979
@@ -88,7 +88,7 @@ LilycoveCity_Text_1C5B1D:: @ 81C5B1D
 LilycoveCity_Text_1C5B5D:: @ 81C5B5D
 	.string "Grundsätzlich verhält es sich so...\p"
 	.string "So wie die würdevolle Einfachheit mich\n"
-	.string "ziert, zieren {POKEBLOCK} POKéMON.$"
+	.string "ziert, zieren {POKEBLOCK} Pokémon.$"
 
 Route123_BerryMastersHouse_Text_1C5BC4:: @ 81C5BC4
 	.string "Du kannst mich BEERENMEISTER\n"
@@ -198,11 +198,11 @@ Route104_PrettyPetalFlowerShop_Text_1C62DA:: @ 81C62DA
 Route104_PrettyPetalFlowerShop_Text_1C6335:: @ 81C6335
 	.string "Du kannst eine BEERE pflanzen und sie\n"
 	.string "wachsen lassen, oder du gibst sie einem\l"
-	.string "POKéMON zum Tragen.\p"
+	.string "Pokémon zum Tragen.\p"
 	.string "Und neuerdings gibt es eine Maschine,\n"
 	.string "mit der kann man die verschiedensten\l"
 	.string "BEEREN mixen und Süßigkeiten für die\l"
-	.string "POKéMON daraus machen.\p"
+	.string "Pokémon daraus machen.\p"
 	.string "Ich möchte auch Süßigkeiten haben.$"
 
 SootopolisCity_Text_1C63F2:: @ 81C63F2

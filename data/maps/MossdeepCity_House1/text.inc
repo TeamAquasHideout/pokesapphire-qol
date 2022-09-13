@@ -14,4 +14,4 @@ MossdeepCity_House1_Text_18D4C0:: @ 818D4C0
 
 MossdeepCity_House1_Text_18D4F1:: @ 818D4F1
 	.string "My husband can tell what kind of\n"
-	.string "{POKEBLOCK}S a POKéMON likes at a glance.$"
+	.string "{POKEBLOCK}S a Pokémon likes at a glance.$"

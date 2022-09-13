@@ -1,5 +1,5 @@
 Route119_WeatherInstitute_2F_Text_19EEAF:: @ 819EEAF
-	.string "Das INSTITUT hat ein POKéMON ent-\n"
+	.string "Das INSTITUT hat ein Pokémon ent-\n"
 	.string "wickelt, das irgendwas mit dem Wetter zu\l"
 	.string "tun hat. Das müssen wir kriegen!$"
 
@@ -7,7 +7,7 @@ Route119_WeatherInstitute_2F_Text_19EF1B:: @ 819EF1B
 	.string "Ein Kind hat unsere Pläne durchkreuzt?$"
 
 Route119_WeatherInstitute_2F_Text_19EF3E:: @ 819EF3E
-	.string "Wenn sie hier tatsächlich ein POKéMON\n"
+	.string "Wenn sie hier tatsächlich ein Pokémon\n"
 	.string "entwickelt haben, das das Wetter kon-\l"
 	.string "trollieren kann, müssen wir vom TEAM\l"
 	.string "{EVIL_TEAM} es in unsere Gewalt bringen!$"
@@ -51,18 +51,18 @@ Route119_WeatherInstitute_2F_Text_19F1CF:: @ 819F1CF
 	.string "Danke!\n"
 	.string "Vielen Dank! Nun sind wir in Sicherheit!\p"
 	.string "Es ist vielleicht eine seltsame Art\n"
-	.string "danke zu sagen, aber dieses POKéMON\l"
+	.string "danke zu sagen, aber dieses Pokémon\l"
 	.string "ist für dich!$"
 
 Route119_WeatherInstitute_2F_Text_19F231:: @ 819F231
 	.string "Oh! Du hast keinen Platz für dieses\n"
-	.string "POKéMON.$"
+	.string "Pokémon.$"
 
 Route119_WeatherInstitute_2F_Text_19F267:: @ 819F267
 	.string "{PLAYER} erhält FORMEO!$"
 
 Route119_WeatherInstitute_2F_Text_19F27D:: @ 819F27D
-	.string "Dieses POKéMON ändert seine Gestalt\n"
+	.string "Dieses Pokémon ändert seine Gestalt\n"
 	.string "abhängig vom jeweiligen Wetter.\p"
 	.string "Hier im INSTITUT gibt es sehr viele\n"
 	.string "davon - du kannst es ruhig annehmen.$"

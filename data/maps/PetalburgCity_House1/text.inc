@@ -6,7 +6,7 @@ PetalburgCity_House1_Text_17BAFB:: @ 817BAFB
 PetalburgCity_House1_Text_17BB4A:: @ 817BB4A
 	.string "Sigh...\p"
 	.string "I wish I could go on an adventure\n"
-	.string "with some POKéMON...\p"
+	.string "with some Pokémon...\p"
 	.string "Crawl through some damp grass...\n"
 	.string "Climb rocky, rugged mountains...\p"
 	.string "Cross the raging seas...\n"

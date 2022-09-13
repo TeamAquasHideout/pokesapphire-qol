@@ -2,7 +2,7 @@ MossdeepCity_House3_Text_18D909:: @ 818D909
 	.string "Hey there, TRAINER!\n"
 	.string "A SUPER ROD really is super!\p"
 	.string "Say all you want, but this baby can\n"
-	.string "catch POKéMON off the seafloor!\p"
+	.string "catch Pokémon off the seafloor!\p"
 	.string "What do you think?\n"
 	.string "You want it, don't you?$"
 
@@ -19,5 +19,5 @@ MossdeepCity_House3_Text_18DA26:: @ 818DA26
 	.string "Don't you like to fish?$"
 
 MossdeepCity_House3_Text_18DA44:: @ 818DA44
-	.string "Go after the seafloor POKéMON with\n"
+	.string "Go after the seafloor Pokémon with\n"
 	.string "your SUPER ROD.$"

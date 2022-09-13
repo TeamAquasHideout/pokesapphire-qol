@@ -4,25 +4,25 @@ gBirchDexRatingText_ComeToShowMePokedex:: @ 81C4449
 	.string "dem POKéDEX zeigen?$"
 
 gBirchDexRatingText_Cancel:: @ 81C449B
-	.string "Ach? Du hast erst so wenige POKéMON\n"
+	.string "Ach? Du hast erst so wenige Pokémon\n"
 	.string "gefangen, dass es sich nicht lohnt,\l"
 	.string "ihn mir zu zeigen?$"
 
 gBirchDexRatingText_SoYouveSeenAndCaught:: @ 81C44DC
 	.string "Hmhm...\p"
-	.string "Oh, du hast {STR_VAR_1} POKéMON gesehen\n"
-	.string "und {STR_VAR_2} POKéMON gefangen...$"
+	.string "Oh, du hast {STR_VAR_1} Pokémon gesehen\n"
+	.string "und {STR_VAR_2} Pokémon gefangen...$"
 
 gBirchDexRatingText_LessThan10:: @ 81C4520
 	.string "Du solltest mehr ins hohe Gras gehen\n"
-	.string "und mehr auf POKéMON achten.$"
+	.string "und mehr auf Pokémon achten.$"
 
 gBirchDexRatingText_LessThan20:: @ 81C456A
 	.string "So langsam bekommst du den Bogen raus.\n"
 	.string "Aber es wird immer schwieriger werden!$"
 
 gBirchDexRatingText_LessThan30:: @ 81C45B0
-	.string "Einige POKéMON tauchen nur in be-\n"
+	.string "Einige Pokémon tauchen nur in be-\n"
 	.string "stimmten Regionen auf. Hab nur Geduld.$"
 
 gBirchDexRatingText_LessThan40:: @ 81C45F9
@@ -36,10 +36,10 @@ gBirchDexRatingText_LessThan50:: @ 81C4648
 
 gBirchDexRatingText_LessThan60:: @ 81C467E
 	.string "Verwendest du irgendwelche ANGELN?\n"
-	.string "Hier gibt es viele POKéMON im Meer.$"
+	.string "Hier gibt es viele Pokémon im Meer.$"
 
 gBirchDexRatingText_LessThan70:: @ 81C46B9
-	.string "Statt die POKéMON nur zu fangen, wie\n"
+	.string "Statt die Pokémon nur zu fangen, wie\n"
 	.string "wäre es, sie sich entwickeln zu lassen?$"
 
 gBirchDexRatingText_LessThan80:: @ 81C46FE
@@ -52,7 +52,7 @@ gBirchDexRatingText_LessThan90:: @ 81C4747
 
 gBirchDexRatingText_LessThan100:: @ 81C4780
 	.string "Warst du schon mal in der SAFARI-ZONE?\p"
-	.string "Ich habe gehört, es gibt POKéMON,\n"
+	.string "Ich habe gehört, es gibt Pokémon,\n"
 	.string "die man nur dort finden kann.$"
 
 gBirchDexRatingText_LessThan110:: @ 81C47DF
@@ -60,36 +60,36 @@ gBirchDexRatingText_LessThan110:: @ 81C47DF
 	.string "Das ist ein beeindruckender POKéDEX!$"
 
 gBirchDexRatingText_LessThan120:: @ 81C4828
-	.string "Es gibt auch POKéMON, die man durch den\n"
+	.string "Es gibt auch Pokémon, die man durch den\n"
 	.string "Einsatz von ZERTRÜMMERER findet.$"
 
 gBirchDexRatingText_LessThan130:: @ 81C4863
-	.string "Du solltest einige POKéMON fangen und\n"
+	.string "Du solltest einige Pokémon fangen und\n"
 	.string "sie mit anderen tauschen.$"
 
 gBirchDexRatingText_LessThan140:: @ 81C489C
-	.string "Ich habe von POKéMON gehört, die sich\n"
+	.string "Ich habe von Pokémon gehört, die sich\n"
 	.string "entwickeln, wenn sie ihren TRAINER sehr\l"
 	.string "lieben.$"
 
 gBirchDexRatingText_LessThan150:: @ 81C48EB
 	.string "Ich hatte keine Ahnung, dass es in der\n"
 	.string "HOENN-Region so viele verschiedene\l"
-	.string "POKéMON-Arten gibt.$"
+	.string "Pokémon-Arten gibt.$"
 
 gBirchDexRatingText_LessThan160:: @ 81C4936
-	.string "Manchmal erscheinen einige POKéMON in\n"
+	.string "Manchmal erscheinen einige Pokémon in\n"
 	.string "großer Anzahl, wie bei einem Ausbruch.\l"
 	.string "Das solltest du nicht verpassen!$"
 
 gBirchDexRatingText_LessThan170:: @ 81C49A2
 	.string "Dein POKéDEX liefert einen erstaunlich\n"
-	.string "guten Einblick in die POKéMON der\l"
+	.string "guten Einblick in die Pokémon der\l"
 	.string "HOENN-Region!$"
 
 gBirchDexRatingText_LessThan180:: @ 81C4A06
 	.string "Ich sage, du hast dich bereits als\n"
-	.string "guter POKéMON-PROFESSOR qualifiziert.$"
+	.string "guter Pokémon-PROFESSOR qualifiziert.$"
 
 gBirchDexRatingText_LessThan190:: @ 81C4A4F
 	.string "Mit diesem POKéDEX, der schon so weit\n"
@@ -106,5 +106,5 @@ gBirchDexRatingText_DexCompleted:: @ 81C4ADA
 gBirchDexRatingText_OnANationwideBasis:: @ 81C4B05
 	.string "Hmhm...\n"
 	.string "Auf nationaler Ebene...\p"
-	.string "Hast du {STR_VAR_1} POKéMON gesehen\n"
-	.string "und {STR_VAR_2} POKéMON gefangen...$"
+	.string "Hast du {STR_VAR_1} Pokémon gesehen\n"
+	.string "und {STR_VAR_2} Pokémon gefangen...$"

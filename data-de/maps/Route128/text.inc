@@ -31,7 +31,7 @@ Route128_Text_172008:: @ 8172008
 
 Route128_Text_17210B:: @ 817210B
 	.string "{GOOD_LEADER}: Das ist ja unglaublich...\p"
-	.string "Ein super-antikes POKéMON...\p"
+	.string "Ein super-antikes Pokémon...\p"
 	.string "Seine Kraft ist unglaublich. Es hat\n"
 	.string "das Gleichgewicht der Natur verändert.$"
 

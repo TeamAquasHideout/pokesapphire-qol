@@ -8,5 +8,5 @@ LavaridgeTown_Mart_Text_176DA6:: @ 8176DA6
 LavaridgeTown_Mart_Text_176E1A:: @ 8176E1A
 	.string "Auf dem Gipfel des SCHLOTBERGS wird\n"
 	.string "eine lokale Spezialität angeboten.\p"
-	.string "Gib sie einem POKéMON und es wird\n"
+	.string "Gib sie einem Pokémon und es wird\n"
 	.string "begeistert sein.$"

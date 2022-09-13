@@ -1,5 +1,5 @@
 MauvilleCity_House1_Text_181B1A:: @ 8181B1A
-	.string "Woohoo, your POKéMON look pretty\n"
+	.string "Woohoo, your Pokémon look pretty\n"
 	.string "strong.\p"
 	.string "I like that!\n"
 	.string "Here, take this HM!$"
@@ -12,5 +12,5 @@ MauvilleCity_House1_Text_181B64:: @ 8181B64
 	.string "it right out of your way!$"
 
 MauvilleCity_House1_Text_181BF6:: @ 8181BF6
-	.string "Oh, yes, if you smash a rock, a POKéMON\n"
+	.string "Oh, yes, if you smash a rock, a Pokémon\n"
 	.string "could come flying out.$"

@@ -3,7 +3,7 @@ VerdanturfTown_WandasHouse_Text_1783F6:: @ 81783F6
 	.string "not feeling down anymore.\p"
 	.string "Because I have a new purpose in life.\n"
 	.string "Together with my RALTS, I'm going\l"
-	.string "to challenge POKéMON GYMS and become\l"
+	.string "to challenge Pokémon GYMS and become\l"
 	.string "a great TRAINER.\p"
 	.string "Please watch me, {PLAYER}.\n"
 	.string "I'm going to be stronger than you.\p"
@@ -24,7 +24,7 @@ VerdanturfTown_WandasHouse_Text_17859A:: @ 817859A
 	.string "This natural environment is doing\n"
 	.string "wonders for WALLY's health.\p"
 	.string "Maybe it's not just the environment.\n"
-	.string "It could be POKéMON that are giving the\l"
+	.string "It could be Pokémon that are giving the\l"
 	.string "boy hope.$"
 
 VerdanturfTown_WandasHouse_Text_178683:: @ 8178683
@@ -52,7 +52,7 @@ VerdanturfTown_WandasHouse_Text_1787FB:: @ 81787FB
 	.string "WANDA: Don't worry about WALLY.\n"
 	.string "He'll be just fine.\p"
 	.string "I know my little cousin, and he has\n"
-	.string "POKéMON with him, too.$"
+	.string "Pokémon with him, too.$"
 
 VerdanturfTown_WandasHouse_Text_17886A:: @ 817886A
 	.string "Thanks to you, I can see my girlfriend\n"

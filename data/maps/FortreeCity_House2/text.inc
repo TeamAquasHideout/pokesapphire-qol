@@ -1,5 +1,5 @@
 FortreeCity_House2_Text_186306:: @ 8186306
-	.string "People... POKéMON...\p"
+	.string "People... Pokémon...\p"
 	.string "Their hidden powers are aroused by\n"
 	.string "living in natural environments...$"
 
@@ -26,11 +26,11 @@ FortreeCity_House2_Text_1864C6:: @ 81864C6
 	.string "Oh! Splendid!\n"
 	.string "Your hidden power has awoken!\p"
 	.string "Here, take this and awaken the hidden\n"
-	.string "power of your POKéMON.$"
+	.string "power of your Pokémon.$"
 
 FortreeCity_House2_Text_18652F:: @ 818652F
 	.string "HIDDEN POWER is a move that changes\n"
-	.string "with the POKéMON.$"
+	.string "with the Pokémon.$"
 
 FortreeCity_House2_Text_186565:: @ 8186565
 	.string "No, too bad.\n"

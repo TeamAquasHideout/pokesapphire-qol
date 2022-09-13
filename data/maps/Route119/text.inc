@@ -3,7 +3,7 @@ Route119_Text_1710BB:: @ 81710BB
 	.string "Where were you? I was looking for you!\p"
 	.string "How much stronger have you gotten?\n"
 	.string "Let me check for you!\p"
-	.string "Ready with your POKéMON?\n"
+	.string "Ready with your Pokémon?\n"
 	.string "Of course you are! Go!$"
 
 Route119_Text_171156:: @ 8171156
@@ -18,7 +18,7 @@ Route119_Text_1711B1:: @ 81711B1
 	.string "And, here! I have a present for you.$"
 
 Route119_Text_171214:: @ 8171214
-	.string "MAY: Use FLY, and your POKéMON will\n"
+	.string "MAY: Use FLY, and your Pokémon will\n"
 	.string "instantly carry you to any town you've\l"
 	.string "already visited.\p"
 	.string "But, to use FLY, you have to get the\n"
@@ -32,7 +32,7 @@ Route119_Text_171214:: @ 8171214
 
 Route119_Text_171358:: @ 8171358
 	.string "BRENDAN: {PLAYER}! So this is where\n"
-	.string "you've been looking for POKéMON?\p"
+	.string "you've been looking for Pokémon?\p"
 	.string "Let me see how good you got.\n"
 	.string "I'll test you!\p"
 	.string "Now!\n"
@@ -44,12 +44,12 @@ Route119_Text_1713E2:: @ 81713E2
 
 Route119_Text_17140B:: @ 817140B
 	.string "BRENDAN: I'd say you're good enough\n"
-	.string "to search for POKéMON anywhere.\p"
+	.string "to search for Pokémon anywhere.\p"
 	.string "Here, I'll give you this.\n"
 	.string "Try it out.$"
 
 Route119_Text_171475:: @ 8171475
-	.string "BRENDAN: Use FLY, and your POKéMON\n"
+	.string "BRENDAN: Use FLY, and your Pokémon\n"
 	.string "instantly carries you to any town\l"
 	.string "you've already visited.\p"
 	.string "But you need the FORTREE GYM BADGE \n"
@@ -68,7 +68,7 @@ Route119_Text_17157C:: @ 817157C
 
 Route119_Text_1715D7:: @ 81715D7
 	.string "I thought you FLY by catching a whole\n"
-	.string "flock of BIRD POKéMON, and then\l"
+	.string "flock of BIRD Pokémon, and then\l"
 	.string "hanging on to them somehow.\p"
 	.string "But it turns out there's an HM move\n"
 	.string "called FLY!\p"
@@ -81,7 +81,7 @@ Route119_Text_171698:: @ 8171698
 	.string "There's no way you can cycle here.$"
 
 Route119_Text_1716F4:: @ 81716F4
-	.string "Can your POKéMON use its SECRET POWER\n"
+	.string "Can your Pokémon use its SECRET POWER\n"
 	.string "on a big pile of grass and make a\l"
 	.string "SECRET BASE?$"
 

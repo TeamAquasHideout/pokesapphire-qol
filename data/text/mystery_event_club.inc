@@ -2,7 +2,7 @@ PetalburgCity_PokemonCenter_1F_Text_1B1C97:: @ 81B1C97
 	.string "Hello there, TRAINER!\n"
 	.string "You've got a wonderful smile, there.\p"
 	.string "I have a hobby - collecting the profiles\n"
-	.string "of POKéMON TRAINERS.$"
+	.string "of Pokémon TRAINERS.$"
 
 PetalburgCity_PokemonCenter_1F_Text_1B1D10:: @ 81B1D10
 	.string "So, how about it?\n"
@@ -19,7 +19,7 @@ PetalburgCity_PokemonCenter_1F_Text_1B1D3A:: @ 81B1D3A
 	.string "There are a lot of text pieces that you\n"
 	.string "can use.\p"
 	.string "They are arranged in groups like\n"
-	.string "POKéMON, lifestyles, and hobbies so\l"
+	.string "Pokémon, lifestyles, and hobbies so\l"
 	.string "it is easier to look them up.\p"
 	.string "So, first, choose the group of text\n"
 	.string "pieces to display a list of choices.\p"

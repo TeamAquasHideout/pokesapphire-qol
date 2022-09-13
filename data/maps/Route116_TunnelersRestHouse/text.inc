@@ -4,7 +4,7 @@ Route116_TunnelersRestHouse_Text_192F33:: @ 8192F33
 	.string "through rock with the latest machinery.\l"
 	.string "But, we had to stop.\p"
 	.string "It turns out that we would have had\n"
-	.string "a negative effect on wild POKéMON in\l"
+	.string "a negative effect on wild Pokémon in\l"
 	.string "the area.\p"
 	.string "So, we've got nothing to do but loll\n"
 	.string "around here doing nothing.$"
@@ -15,7 +15,7 @@ Route116_TunnelersRestHouse_Text_193049:: @ 8193049
 	.string "He's desperate to get through.\p"
 	.string "He says that if he digs little by little\n"
 	.string "without using machines, he won't\l"
-	.string "disturb POKéMON, and he'll avoid harming\l"
+	.string "disturb Pokémon, and he'll avoid harming\l"
 	.string "the natural environment.$"
 
 Route116_TunnelersRestHouse_Text_193135:: @ 8193135

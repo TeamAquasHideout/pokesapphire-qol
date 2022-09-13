@@ -44,7 +44,7 @@ Route109_Text_16E35B:: @ 816E35B
 	.string "Little kids can dart around so quickly...\p"
 	.string "You don't dare take your eyes off them\n"
 	.string "for an instant. It's very taxing.\p"
-	.string "Mine's with my POKéMON, so they should\n"
+	.string "Mine's with my Pokémon, so they should\n"
 	.string "be okay, but...$"
 
 Route109_Text_16E405:: @ 816E405
@@ -80,7 +80,7 @@ Route109_Text_16E5DC:: @ 816E5DC
 
 Route109_Text_16E62C:: @ 816E62C
 	.string "TRAINER TIPS\p"
-	.string "POKéMON at the same level may not\n"
+	.string "Pokémon at the same level may not\n"
 	.string "always have identical stats.\p"
-	.string "POKéMON raised by TRAINERS are said\n"
-	.string "to grow stronger than wild POKéMON.$"
+	.string "Pokémon raised by TRAINERS are said\n"
+	.string "to grow stronger than wild Pokémon.$"

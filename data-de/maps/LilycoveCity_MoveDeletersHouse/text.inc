@@ -1,12 +1,12 @@
 LilycoveCity_MoveDeletersHouse_Text_18B622:: @ 818B622
 	.string "Äh...\n"
 	.string "Oh, ja. Ich bin der ATTACKEN-VERLERNER.\p"
-	.string "Ich sorge dafür, dass die POKéMON ihre\n"
+	.string "Ich sorge dafür, dass die Pokémon ihre\n"
 	.string "Attacken vergessen.\p"
 	.string "Möchtest du, dass ich dir helfe?$"
 
 LilycoveCity_MoveDeletersHouse_Text_18B68C:: @ 818B68C
-	.string "Welches POKéMON soll eine Attacke\n"
+	.string "Welches Pokémon soll eine Attacke\n"
 	.string "vergessen?$"
 
 LilycoveCity_MoveDeletersHouse_Text_18B6B0:: @ 818B6B0

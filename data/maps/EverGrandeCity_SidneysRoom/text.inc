@@ -6,7 +6,7 @@ EverGrandeCity_SidneysRoom_Text_190728:: @ 8190728
 	.string "That's good! Looking real good!\p"
 	.string "All right! You and me, let's enjoy a\n"
 	.string "battle that can only be staged here\l"
-	.string "in the POKéMON LEAGUE!$"
+	.string "in the Pokémon LEAGUE!$"
 
 EverGrandeCity_SidneysRoom_Text_190823:: @ 8190823
 	.string "Well, how do you like that? I lost!\n"

@@ -1,6 +1,6 @@
 AbandonedShip_Corridors_B1F_Text_19856F:: @ 819856F
 	.string "Wenn wir zur See fahren, nehmen wir\n"
-	.string "MATROSEN immer unsere POKéMON mit.\l"
+	.string "MATROSEN immer unsere Pokémon mit.\l"
 	.string "Wie wäre es mit einem schnellen Kampf?$"
 
 AbandonedShip_Corridors_B1F_Text_1985C5:: @ 81985C5
@@ -9,7 +9,7 @@ AbandonedShip_Corridors_B1F_Text_1985C5:: @ 81985C5
 AbandonedShip_Corridors_B1F_Text_1985D7:: @ 81985D7
 	.string "Der Schiffsrumpf liegt tief unter der\n"
 	.string "Wasserlinie.\p"
-	.string "Wenn ein POKéMON wissen würde, wie\n"
+	.string "Wenn ein Pokémon wissen würde, wie\n"
 	.string "man taucht, würden wir Fortschritte\l"
 	.string "machen.$"
 

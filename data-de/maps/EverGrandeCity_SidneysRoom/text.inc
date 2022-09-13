@@ -6,7 +6,7 @@ EverGrandeCity_SidneysRoom_Text_190728:: @ 8190728
 	.string "Gut! Das sieht gut aus!\p"
 	.string "Schön! Dann lass uns beide einen Kampf\n"
 	.string "erleben, wie man ihn nur hier in der\l"
-	.string "POKéMON LIGA erleben kann!$"
+	.string "Pokémon LIGA erleben kann!$"
 
 EverGrandeCity_SidneysRoom_Text_190823:: @ 8190823
 	.string "Ich habe verloren! Ich, ULRICH von den\n"

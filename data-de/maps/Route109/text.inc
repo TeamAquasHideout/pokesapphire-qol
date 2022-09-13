@@ -45,7 +45,7 @@ Route109_Text_16E35B:: @ 816E35B
 	.string "Kleine Kinder sind blitzschnell und flink.\p"
 	.string "Du darfst sie nicht eine Sekunde aus\n"
 	.string "den Augen lassen. Das strengt an.\p"
-	.string "Meine Kinder sind mit meinen POKéMON\n"
+	.string "Meine Kinder sind mit meinen Pokémon\n"
 	.string "zusammen, da sind sie gut aufgehoben.$"
 
 Route109_Text_16E405:: @ 816E405
@@ -81,8 +81,8 @@ Route109_Text_16E5DC:: @ 816E5DC
 
 Route109_Text_16E62C:: @ 816E62C
 	.string "TIPPS für TRAINER\p"
-	.string "POKéMON mit gleichem Level haben nicht\n"
+	.string "Pokémon mit gleichem Level haben nicht\n"
 	.string "unbedingt identische Statuswerte.\p"
-	.string "POKéMON, die von TRAINERN aufgezogen\n"
+	.string "Pokémon, die von TRAINERN aufgezogen\n"
 	.string "werden, wachsen schneller als wilde\l"
-	.string "POKéMON.$"
+	.string "Pokémon.$"

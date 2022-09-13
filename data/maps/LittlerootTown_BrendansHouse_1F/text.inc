@@ -3,7 +3,7 @@ LittlerootTown_BrendansHouse_1F_Text_172429:: @ 8172429
 	.string "Isn't it nice in here, too?$"
 
 LittlerootTown_BrendansHouse_1F_Text_172453:: @ 8172453
-	.string "The mover's POKéMON do all the work\n"
+	.string "The mover's Pokémon do all the work\n"
 	.string "of moving us in and cleaning up after.\l"
 	.string "This is so convenient!\p"
 	.string "{PLAYER}, your room is upstairs.\n"
@@ -121,14 +121,14 @@ LittlerootTown_BrendansHouse_1F_Text_172B5E:: @ 8172B5E
 LittlerootTown_BrendansHouse_1F_Text_172BBC:: @ 8172BBC
 	.string "MOM: That DAD of yours...\p"
 	.string "He comes home for the first time in a\n"
-	.string "while, but all he talks about is POKéMON.\p"
+	.string "while, but all he talks about is Pokémon.\p"
 	.string "He should relax and stay a little longer.$"
 
 UnknownString_8172C50: @ 8172C50
 	.string "We bring you a special news bulletin.\p"
 	.string "We've received reports of a blue FLYING\n"
-	.string "POKéMON in various HOENN locales.\p"
-	.string "The identity of this POKéMON has not\n"
+	.string "Pokémon in various HOENN locales.\p"
+	.string "The identity of this Pokémon has not\n"
 	.string "yet been determined.\p"
 	.string "We now return you to your regular\n"
 	.string "movie presentation.$"
@@ -136,8 +136,8 @@ UnknownString_8172C50: @ 8172C50
 UnknownString_8172D30: @ 8172D30
 	.string "We bring you a special news bulletin.\p"
 	.string "We've received reports of a red FLYING\n"
-	.string "POKéMON in various HOENN locales.\p"
-	.string "The identity of this POKéMON has not\n"
+	.string "Pokémon in various HOENN locales.\p"
+	.string "The identity of this Pokémon has not\n"
 	.string "yet been determined.\p"
 	.string "We now return you to your regular\n"
 	.string "movie presentation.$"

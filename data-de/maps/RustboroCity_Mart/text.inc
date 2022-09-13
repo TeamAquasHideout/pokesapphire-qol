@@ -6,7 +6,7 @@ RustboroCity_Mart_Text_184C76:: @ 8184C76
 	.string "über den Weg läuft.$"
 
 RustboroCity_Mart_Text_184CD8:: @ 8184CD8
-	.string "Mein POKéMON hat sich entwickelt.\n"
+	.string "Mein Pokémon hat sich entwickelt.\n"
 	.string "Es hat jetzt sehr viele KP.\p"
 	.string "Ich sollte nun einige SUPERTRÄNKE\n"
 	.string "anstelle der normalen TRÄNKE kaufen.$"

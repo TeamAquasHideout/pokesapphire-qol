@@ -13,7 +13,7 @@ DewfordTown_Hall_Text_175528:: @ 8175528
 	.string "umsehen.$"
 
 DewfordTown_Hall_Text_17559E:: @ 817559E
-	.string "Ich bringe meinen POKéMON etwas über\n"
+	.string "Ich bringe meinen Pokémon etwas über\n"
 	.string "“{STR_VAR_1}” bei,\l"
 	.string "aber es klappt nicht so recht.\p"
 	.string "Scheinbar sind sie damit überfordert.$"
@@ -68,7 +68,7 @@ DewfordTown_Hall_Text_175842:: @ 8175842
 	.string "“{STR_VAR_1}”...\p"
 	.string "DAS BAND ZWISCHEN\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "UND POKéMON...\p"
+	.string "UND Pokémon...\p"
 	.string "HILFREICHE\n"
 	.string "“{STR_VAR_1}”...\p"
 	.string "Es ist total vollgestopft mit Büchern\n"
@@ -184,6 +184,6 @@ DewfordTown_Hall_Text_175E13:: @ 8175E13
 
 DewfordTown_Hall_Text_175EBE:: @ 8175EBE
 	.string "Ich liebe MATSCHBOMBE.\p"
-	.string "Aber POKéMON, die die Attacke\n"
+	.string "Aber Pokémon, die die Attacke\n"
 	.string "“{STR_VAR_1}” kennen,\l"
 	.string "sind auch absolut angesagt.$"

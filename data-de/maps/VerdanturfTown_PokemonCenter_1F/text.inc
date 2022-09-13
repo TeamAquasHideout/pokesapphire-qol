@@ -1,6 +1,6 @@
 VerdanturfTown_PokemonCenter_1F_Text_17831D:: @ 817831D
 	.string "Ich wage zu behaupten, ein TRAINER ist\n"
-	.string "nicht qualifiziert, wenn seine POKéMON\p"
+	.string "nicht qualifiziert, wenn seine Pokémon\p"
 	.string "nicht freundlich sind und sich wohl-\n"
 	.string "fühlen. Hast du ihnen {POKEBLOCK} gegeben?$"
 

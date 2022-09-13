@@ -47,6 +47,7 @@ extern const u8 SystemText_Option[];
 extern const u8 SystemText_Exit[];
 extern const u8 SystemText_Retire[];
 extern const u8 gOtherText_SafariStock[];
+extern const u8 SystemText_Debug[];
 
 // mystery_event_menu
 extern const u8 gSystemText_LinkStandby[];

@@ -1,5 +1,5 @@
 LilycoveCity_ContestHall_Text_1890D4:: @ 81890D4
-	.string "Dieses POKéMON hat den vorherigen\n"
+	.string "Dieses Pokémon hat den vorherigen\n"
 	.string "SCHÖNHEITSWETTBEWERB gewonnen.\p"
 	.string "Weißt du was? Heute werde ich den\n"
 	.string "KLUGHEITS-WETTBEWERB gewinnen!\p"
@@ -29,7 +29,7 @@ LilycoveCity_ContestHall_Text_189299:: @ 8189299
 	.string "HALLE in der tiefsten Provinz.$"
 
 LilycoveCity_ContestHall_Text_189301:: @ 8189301
-	.string "MC: Okay, KLUGE POKéMON und TRAINER.\n"
+	.string "MC: Okay, KLUGE Pokémon und TRAINER.\n"
 	.string "Seid ihr bereit?!?\p"
 	.string "Gebt euer Bestes!\n"
 	.string "Es geht um den Ausdruck!$"
@@ -45,23 +45,23 @@ LilycoveCity_ContestHall_Text_1893CE:: @ 81893CE
 	.string "Eieieiei...\n"
 	.string "Ich habe am falschen WETTBEWERB teil-\l"
 	.string "genommen. Hach...\p"
-	.string "Ich habe dieses starke POKéMON in\n"
+	.string "Ich habe dieses starke Pokémon in\n"
 	.string "einen KLUGHEITS-WETTBEWERB geschickt.\p"
 	.string "Los, beeindrucke mit einem\n"
 	.string "klugen ZERTRÜMMERER.$"
 
 LilycoveCity_ContestHall_Text_189463:: @ 8189463
 	.string "Ich habe viele Jahre und all meine\n"
-	.string "Weisheit gebraucht, um dieses POKéMON\l"
+	.string "Weisheit gebraucht, um dieses Pokémon\l"
 	.string "klug zu machen.\p"
 	.string "Damit mache ich es den jungen Spunden\n"
-	.string "nicht leicht, mein POKéMON zu über-\l"
+	.string "nicht leicht, mein Pokémon zu über-\l"
 	.string "trumpfen.\p"
 	.string "Mein holdes Weib, siehst du das?$"
 
 LilycoveCity_ContestHall_Text_189512:: @ 8189512
 	.string "Das ist es!\p"
-	.string "Wenn mein POKéMON eine kluge Attacke\n"
+	.string "Wenn mein Pokémon eine kluge Attacke\n"
 	.string "vorführt, wird das Publikum ausflippen\l"
 	.string "vor Begeisterung!$"
 
@@ -78,13 +78,13 @@ LilycoveCity_ContestHall_Text_1895F3:: @ 81895F3
 
 LilycoveCity_ContestHall_Text_189617:: @ 8189617
 	.string "Selbst wenn die TRAINER die gleichen\n"
-	.string "POKéMON einsetzen, so führen sie doch\l"
+	.string "Pokémon einsetzen, so führen sie doch\l"
 	.string "unterschiedliche Attacken vor.\p"
 	.string "Das ist so wie bei den Kämpfen: Jeder\n"
 	.string "hat seinen eigenen Stil.$"
 
 LilycoveCity_ContestHall_Text_1896BE:: @ 81896BE
-	.string "Ich denke, die POKéMON machen einen\n"
+	.string "Ich denke, die Pokémon machen einen\n"
 	.string "klügeren Eindruck als ihre TRAINER.$"
 
 LilycoveCity_ContestHall_Text_1896FE:: @ 81896FE
@@ -98,24 +98,24 @@ LilycoveCity_ContestHall_Text_189771:: @ 8189771
 	.string "WETTBEWERB teil? Viel Glück!$"
 
 LilycoveCity_ContestHall_Text_1897AA:: @ 81897AA
-	.string "JUROR: Ah, jedes POKéMON ist ein\n"
+	.string "JUROR: Ah, jedes Pokémon ist ein\n"
 	.string "Beispiel makelloser Schönheit!\p"
 	.string "Huch, fast hätte ich vergessen, sie zu\n"
 	.string "bewerten...$"
 
 LilycoveCity_ContestHall_Text_18980B:: @ 818980B
-	.string "Ein POKéMON von dieser Schönheit...\n"
+	.string "Ein Pokémon von dieser Schönheit...\n"
 	.string "Es gibt keines wie dieses.\p"
 	.string "Jedem werden die Augen übergehen, wenn\n"
 	.string "er diese Schönheit betrachtet.$"
 
 LilycoveCity_ContestHall_Text_189874:: @ 8189874
 	.string "Aaaaargh!\p"
-	.string "Ich habe mein POKéMON für diesen WETT-\n"
+	.string "Ich habe mein Pokémon für diesen WETT-\n"
 	.string "BEWERB sorgfältig gebürstet und\l"
 	.string "gestriegelt.\p"
 	.string "Dabei habe ich wohl übertrieben...\n"
-	.string "Das Fell meines POKéMON ist nun ganz\l"
+	.string "Das Fell meines Pokémon ist nun ganz\l"
 	.string "voller Fusseln...\p"
 	.string "Was soll ich jetzt nur tun?$"
 
@@ -127,7 +127,7 @@ LilycoveCity_ContestHall_Text_18990A:: @ 818990A
 	.string "Dann ist sie ja völlig sinnlos...$"
 
 LilycoveCity_ContestHall_Text_189981:: @ 8189981
-	.string "Dieses hübsche POKéMON sieht genau\n"
+	.string "Dieses hübsche Pokémon sieht genau\n"
 	.string "aus wie ich, als ich jünger war.\p"
 	.string "Als ich das zu meinem Mann sagte, hat er\n"
 	.string "den Kaffee, den er trank, ausgespuckt.\p"
@@ -141,13 +141,13 @@ LilycoveCity_ContestHall_Text_189A1D:: @ 8189A1D
 LilycoveCity_ContestHall_Text_189A82:: @ 8189A82
 	.string "Ahahahahaha!\p"
 	.string "Wirf mal einen Blick auf all diese\n"
-	.string "schönen POKéMON!\l"
+	.string "schönen Pokémon!\l"
 	.string "Ich liebe diesen Liebreiz!$"
 
 LilycoveCity_ContestHall_Text_189AE1:: @ 8189AE1
 	.string "Du kannst nicht immer nur aufgrund von\n"
 	.string "Schönheit gewinnen.\p"
-	.string "Du musst dein POKéMON striegeln, damit\n"
+	.string "Du musst dein Pokémon striegeln, damit\n"
 	.string "es so schön und glänzend ist wie meines.$"
 
 LilycoveCity_ContestHall_Text_189B4E:: @ 8189B4E
@@ -164,59 +164,59 @@ LilycoveCity_ContestHall_Text_189BBF:: @ 8189BBF
 
 LilycoveCity_ContestHall_Text_189C29:: @ 8189C29
 	.string "Oh, nein... Mein AZURILL wurde von\n"
-	.string "einem anderen POKéMON abgelenkt.$"
+	.string "einem anderen Pokémon abgelenkt.$"
 
 LilycoveCity_ContestHall_Text_189C67:: @ 8189C67
-	.string "Mein POKéMON hat noch nie einen Kampf\n"
+	.string "Mein Pokémon hat noch nie einen Kampf\n"
 	.string "gewonnen. Aber geh mit ihm in einen\l"
 	.string "WETTBEWERB und pass auf, was passiert.$"
 
 LilycoveCity_ContestHall_Text_189CB3:: @ 8189CB3
-	.string "Der BLÄTTERTANZ meines POKéMON ist der\n"
+	.string "Der BLÄTTERTANZ meines Pokémon ist der\n"
 	.string "Inbegriff von Eleganz.\p"
 	.string "Ich lasse es nicht zu, dass irgend-\n"
 	.string "jemand es dabei stört.$"
 
 LilycoveCity_ContestHall_Text_189D11:: @ 8189D11
-	.string "All diese POKéMON sind anmutig.\p"
-	.string "Aber, wenn mein POKéMON einen\n"
+	.string "All diese Pokémon sind anmutig.\p"
+	.string "Aber, wenn mein Pokémon einen\n"
 	.string "anmutigen Ausdruck vorführt...\p"
 	.string "Ich bin sicher, dass es dann anmutiger\n"
-	.string "als all die anderen POKéMON sein wird.$"
+	.string "als all die anderen Pokémon sein wird.$"
 
 LilycoveCity_ContestHall_Text_189DA2:: @ 8189DA2
 	.string "Mein Kind nimmt an diesem WETTBEWERB\n"
 	.string "teil.\p"
 	.string "Los, mein Schatz! Zeig es ihnen!\n"
-	.string "Dein POKéMON ist das Beste!$"
+	.string "Dein Pokémon ist das Beste!$"
 
 LilycoveCity_ContestHall_Text_189DF3:: @ 8189DF3
 	.string "Ich finde, das Mädchen dort drüben ist\n"
 	.string "das anmutigste Geschöpf von allen.\p"
-	.string "Wie bitte? Sie bewerten die POKéMON\n"
+	.string "Wie bitte? Sie bewerten die Pokémon\n"
 	.string "nach ihrer Anmut?!?$"
 
 LilycoveCity_ContestHall_Text_189E5F:: @ 8189E5F
-	.string "Oooh, all diese anmutigen POKéMON!\n"
+	.string "Oooh, all diese anmutigen Pokémon!\n"
 	.string "Ich möchte auch gerne eines haben!\p"
 	.string "Ich werde mir jetzt eines fangen.$"
 
 UnknownString_8189EC0: @ 8189EC0
 	.string "BÜHNE des COOLNESS-WETTBEWERBS\n"
-	.string "ERZITTERE VOR DEN COOLEN POKéMON!$"
+	.string "ERZITTERE VOR DEN COOLEN Pokémon!$"
 
 LilycoveCity_ContestHall_Text_189EF3:: @ 8189EF3
 	.string "BÜHNE des SCHÖNHEITSWETTBEWERBS\n"
-	.string "SEI GEBLENDET VON SCHÖNEN POKéMON!$"
+	.string "SEI GEBLENDET VON SCHÖNEN Pokémon!$"
 
 LilycoveCity_ContestHall_Text_189F29:: @ 8189F29
 	.string "BÜHNE des ANMUT-WETTBEWERBS\n"
-	.string "SEI GEFESSELT VON ANMUTIGEN POKéMON!$"
+	.string "SEI GEFESSELT VON ANMUTIGEN Pokémon!$"
 
 LilycoveCity_ContestHall_Text_189F5C:: @ 8189F5C
 	.string "BÜHNE des KLUGHEITS-WETTBEWERBS\n"
-	.string "SEI BEEINDRUCKT VON KLUGEN POKéMON!$"
+	.string "SEI BEEINDRUCKT VON KLUGEN Pokémon!$"
 
 UnknownString_8189F93: @ 8189F93
 	.string "BÜHNE des STÄRKEWETTBEWERBS\n"
-	.string "FÜRCHTE DICH VOR STARKEN POKéMON!$"
+	.string "FÜRCHTE DICH VOR STARKEN Pokémon!$"

@@ -14,7 +14,7 @@ LilycoveCity_LilycoveMuseum_2F_Text_187C64:: @ 8187C64
 	.string "famous works!\p"
 	.string "This exhibit hall, I wish to fill it with...\p"
 	.string "Modern and vibrant artworks of\n"
-	.string "POKéMON seemingly ready to spring\l"
+	.string "Pokémon seemingly ready to spring\l"
 	.string "forth into glorious life!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_187E1D:: @ 8187E1D
@@ -22,7 +22,7 @@ LilycoveCity_LilycoveMuseum_2F_Text_187E1D:: @ 8187E1D
 	.string "to monopolize the conversation.\p"
 	.string "Now, as you are young, and yet\n"
 	.string "obviously well traveled...\p"
-	.string "You must encounter lively POKéMON\n"
+	.string "You must encounter lively Pokémon\n"
 	.string "and works of art depicting them.\p"
 	.string "If you were to come across such a\n"
 	.string "painting, may we ask you to obtain\l"
@@ -32,12 +32,12 @@ LilycoveCity_LilycoveMuseum_2F_Text_187E1D:: @ 8187E1D
 LilycoveCity_LilycoveMuseum_2F_Text_187F4E:: @ 8187F4E
 	.string "I wish to fill this exhibit hall with\n"
 	.string "modern and vibrant paintings of\l"
-	.string "POKéMON.$"
+	.string "Pokémon.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_187F9D:: @ 8187F9D
 	.string "Thanks to you, we've added a new\n"
 	.string "painting to our collection!\p"
-	.string "I've heard it depicts your POKéMON.\n"
+	.string "I've heard it depicts your Pokémon.\n"
 	.string "Truly magnificent!\p"
 	.string "Thank you so very, very much!$"
 
@@ -93,22 +93,22 @@ LilycoveCity_LilycoveMuseum_2F_Text_1882E6:: @ 81882E6
 	.string "adornments.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_18831A:: @ 818831A
-	.string "It's a painting of POKéMON.$"
+	.string "It's a painting of Pokémon.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_188336:: @ 8188336
 	.string "I've been away awhile, so the new\n"
 	.string "paintings up here surprised me.\p"
-	.string "I wish someone would paint my POKéMON\n"
+	.string "I wish someone would paint my Pokémon\n"
 	.string "this pretty.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_1883AB:: @ 81883AB
 	.string "Well... So this is where they show the\n"
-	.string "topical POKéMON paintings.\p"
+	.string "topical Pokémon paintings.\p"
 	.string "I see, these new paintings are indeed\n"
 	.string "rather amusing.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_188423:: @ 8188423
 	.string "Wow, is that right?\n"
-	.string "These paintings are of your POKéMON.\p"
+	.string "These paintings are of your Pokémon.\p"
 	.string "Isn't that just the ultimate joy for\n"
 	.string "a TRAINER?$"

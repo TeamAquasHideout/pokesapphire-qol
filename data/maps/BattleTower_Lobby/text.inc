@@ -21,7 +21,7 @@ BattleTower_Lobby_Text_19A024:: @ 819A024
 	.string "Which would you like to challenge?$"
 
 BattleTower_Lobby_Text_19A07B:: @ 819A07B
-	.string "Please select the POKéMON you wish\n"
+	.string "Please select the Pokémon you wish\n"
 	.string "to enter.$"
 
 BattleTower_Lobby_Text_19A0A8:: @ 819A0A8
@@ -29,7 +29,7 @@ BattleTower_Lobby_Text_19A0A8:: @ 819A0A8
 
 BattleTower_Lobby_Text_19A0D1:: @ 819A0D1
 	.string "The BATTLE TOWER is a facility made\n"
-	.string "especially for POKéMON battles.\p"
+	.string "especially for Pokémon battles.\p"
 	.string "Within the TOWER are many BATTLE ROOMS.\p"
 	.string "In each BATTLE ROOM, seven TRAINERS\n"
 	.string "await your challenge.\p"
@@ -42,8 +42,8 @@ BattleTower_Lobby_Text_19A0D1:: @ 819A0D1
 
 BattleTower_Lobby_Text_19A249:: @ 819A249
 	.string "Excuse me!\p"
-	.string "You don't have three eligible POKéMON.\p"
-	.string "You must have three different POKéMON\n"
+	.string "You don't have three eligible Pokémon.\p"
+	.string "You must have three different Pokémon\n"
 	.string "of Level 50 or less to enter.\p"
 	.string "They also must be holding different\n"
 	.string "kinds of items.\p"
@@ -52,8 +52,8 @@ BattleTower_Lobby_Text_19A249:: @ 819A249
 
 BattleTower_Lobby_Text_19A32D:: @ 819A32D
 	.string "Excuse me!\p"
-	.string "You don't have three eligible POKéMON.\p"
-	.string "You must have three different POKéMON\n"
+	.string "You don't have three eligible Pokémon.\p"
+	.string "You must have three different Pokémon\n"
 	.string "to enter.\p"
 	.string "They also must be holding different\n"
 	.string "kinds of items.\p"
@@ -106,7 +106,7 @@ BattleTower_Lobby_Text_19A617:: @ 819A617
 	.string "You're finally about to face the\n"
 	.string "50th TRAINER.\p"
 	.string "From here on, every time you beat seven\n"
-	.string "TRAINERS in a row, your POKéMON will\l"
+	.string "TRAINERS in a row, your Pokémon will\l"
 	.string "receive a commemorative RIBBON.\p"
 	.string "Good luck!$"
 
@@ -117,7 +117,7 @@ BattleTower_Lobby_Text_19A6BE:: @ 819A6BE
 
 BattleTower_Lobby_Text_19A719:: @ 819A719
 	.string "{PLAYER} put the RIBBONS on the\n"
-	.string "challenger POKéMON.$"
+	.string "challenger Pokémon.$"
 
 BattleTower_Lobby_Text_19A747:: @ 819A747
 	.string "Hello, hello!\n"

@@ -1107,7 +1107,7 @@ void debug_80C4214(UNUSED u8 a0)
 
 void debug_80C42B8(u8 taskId)
 {
-     u8 sp00[] = DTR("ポケモンを　えらんでね", "Choose POKéMON");
+     u8 sp00[] = DTR("ポケモンを　えらんでね", "Choose Pokémon");
      u8 sp0c[] = DTR("{COLOR RED}START:つぎへ", "{COLOR RED}START: NEXT");
 
     Menu_DrawStdWindowFrame(0, 16, 29, 19);
@@ -1220,7 +1220,7 @@ void debug_80C4550(u8 taskId)
 void debug_80C4694(void)
 {
     u8 i;
-    u8 sp00[] = DTR("{COLOR RED}じぶんの　ポケモン", "{COLOR RED}Enemy's POKéMON");
+    u8 sp00[] = DTR("{COLOR RED}じぶんの　ポケモン", "{COLOR RED}Enemy's Pokémon");
     u8 sp10[POKEMON_NAME_LENGTH + 1];
 
     Menu_DrawStdWindowFrame(0, 0, 14, 15);
@@ -1235,7 +1235,7 @@ void debug_80C4694(void)
 void debug_80C4704(void)
 {
     u8 i;
-    u8 sp00[] = DTR("{COLOR RED}あいての　ポケモン", "{COLOR RED}Your POKéMON");
+    u8 sp00[] = DTR("{COLOR RED}あいての　ポケモン", "{COLOR RED}Your Pokémon");
     u8 sp10[POKEMON_NAME_LENGTH + 1];
 
     Menu_DrawStdWindowFrame(15, 0, 29, 15);
@@ -1849,7 +1849,7 @@ const u8 gUnknown_Debug_083F872A[] = _("PKMN{RIGHT_ARROW}BOX");
 #endif
 void InitCreatePokemon(void)
 {
-    u8 sp04[] = _("Create POKéMON   LR:Shift  START:Add");
+    u8 sp04[] = _("Create Pokémon   LR:Shift  START:Add");
 
     debug_80C35DC();
     BeginNormalPaletteFade(0xFFFFFFFF, 0, 16, 0, RGB(0, 0, 0));

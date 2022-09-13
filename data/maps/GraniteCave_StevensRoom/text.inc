@@ -21,10 +21,10 @@ GraniteCave_StevensRoom_Text_194BDD:: @ 8194BDD
 	.string "STEEL WING.$"
 
 GraniteCave_StevensRoom_Text_194C8D:: @ 8194C8D
-	.string "STEVEN: Your POKéMON appear quite\n"
+	.string "STEVEN: Your Pokémon appear quite\n"
 	.string "capable.\p"
 	.string "If you keep training, you could even\n"
-	.string "become the CHAMPION of the POKéMON\l"
+	.string "become the CHAMPION of the Pokémon\l"
 	.string "LEAGUE one day. That's what I think.\p"
 	.string "Now, I've got to hurry along.$"
 

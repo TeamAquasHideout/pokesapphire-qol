@@ -1,5 +1,5 @@
 BattleTower_BattleRoom_Text_19ACDC:: @ 819ACDC
-	.string "We will restore your POKéMON to\n"
+	.string "We will restore your Pokémon to\n"
 	.string "full health.$"
 
 BattleTower_BattleRoom_Text_19AD09:: @ 819AD09

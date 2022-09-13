@@ -8,7 +8,7 @@ const u8 gOtherText_BerryTransformed[] = _("The {STR_VAR_1} BERRY transformed in
 
 const u8 gOtherText_BerryAlreadyObtained[] = _("The {STR_VAR_1} BERRY has already been\nobtained.");
 
-const u8 gOtherText_SpecialRibbonReceived[] = _("A special RIBBON was awarded to your\nparty POKéMON.");
+const u8 gOtherText_SpecialRibbonReceived[] = _("A special RIBBON was awarded to your\nparty Pokémon.");
 
 const u8 gOtherText_DexUpgraded[] = _("The POKéDEX has been upgraded with\nthe NATIONAL MODE.");
 
@@ -32,7 +32,7 @@ const u8 gOtherText_BerryTransformed[] = _("Die {STR_VAR_1}BEERE verwandelte\nsi
 
 const u8 gOtherText_BerryAlreadyObtained[] = _("Du hast schon eine {STR_VAR_1}BEERE.");
 
-const u8 gOtherText_SpecialRibbonReceived[] = _("Ein besonderes BAND wurde deinem\nPOKéMON im Team verliehen.");
+const u8 gOtherText_SpecialRibbonReceived[] = _("Ein besonderes BAND wurde deinem\nPokémon im Team verliehen.");
 
 const u8 gOtherText_DexUpgraded[] = _("Der POKéDEX wurde mit dem NATIONALEN\nMODUS ausgerüstet.");
 

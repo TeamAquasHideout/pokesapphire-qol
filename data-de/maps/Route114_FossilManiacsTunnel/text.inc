@@ -16,7 +16,7 @@ Route114_FossilManiacsTunnel_Text_1928DE:: @ 81928DE
 	.string "Das ist schön... Traumhaft...\p"
 	.string "Was wirst du mit dem FOSSIL machen?\p"
 	.string "Ich habe gehört, dass DEVON versucht,\n"
-	.string "aus den FOSSILIEN POKéMON zum\l"
+	.string "aus den FOSSILIEN Pokémon zum\l"
 	.string "Leben zu erwecken...\p"
 	.string "Ich liebe FOSSILIEN, daher würde ich\n"
 	.string "so etwas niemals machen...$"

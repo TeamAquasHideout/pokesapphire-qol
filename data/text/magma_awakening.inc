@@ -8,7 +8,7 @@ SeafloorCavern_Room9_Text_1B486C:: @ 81B486C
 SeafloorCavern_Room9_Text_1B4897:: @ 81B4897
 	.string "MAXIE: Behold!\p"
 	.string "See how beautiful it is, the sleeping\n"
-	.string "form of the ancient POKéMON GROUDON!\p"
+	.string "form of the ancient Pokémon GROUDON!\p"
 	.string "I have waited so long for this day to\n"
 	.string "come...$"
 

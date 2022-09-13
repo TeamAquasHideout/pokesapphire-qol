@@ -5,7 +5,7 @@ RustboroCity_Mart_Text_184C76:: @ 8184C76
 	.string "in PETALBURG WOODS.$"
 
 RustboroCity_Mart_Text_184CD8:: @ 8184CD8
-	.string "My POKéMON evolved.\n"
+	.string "My Pokémon evolved.\n"
 	.string "It has a lot of HP now.\p"
 	.string "I should buy SUPER POTIONS for it\n"
 	.string "instead of ordinary POTIONS.$"

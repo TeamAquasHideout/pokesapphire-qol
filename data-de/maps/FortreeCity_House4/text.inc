@@ -1,12 +1,12 @@
 FortreeCity_House4_Text_1867AF:: @ 81867AF
-	.string "Wenn sie mit POKéMON zusammen sind,\n"
+	.string "Wenn sie mit Pokémon zusammen sind,\n"
 	.string "finden die Menschen schnell Freunde.\p"
 	.string "Und so rücken die Menschen weltweit\n"
 	.string "näher zusammen. Wunderbar, nicht wahr?$"
 
 FortreeCity_House4_Text_186835:: @ 8186835
 	.string "Fertig!\n"
-	.string "Los, VOGEL-POKéMON!$"
+	.string "Los, VOGEL-Pokémon!$"
 
 FortreeCity_House4_Text_18684E:: @ 818684E
 	.string "Hähähä, mein WINGULL macht\n"

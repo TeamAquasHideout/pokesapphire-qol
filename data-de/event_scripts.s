@@ -994,11 +994,11 @@ Common_EventScript_PlayerHandedOverTheItem:: @ 81A067F
 Text_PokemartSign:: @ 81A0D41
 	.string "“Ausgewählte Items für Ihren\n"
 	.string "Gebrauch!”\l"
-	.string "POKéMON-SUPERMARKT$"
+	.string "Pokémon-SUPERMARKT$"
 
 Text_PokemonCenterSign:: @ 81A0D75
 	.string "“Erfrische deine müden Partner!”\n"
-	.string "POKéMON-CENTER$"
+	.string "Pokémon-CENTER$"
 
 UnknownString_81A0DA6: @ 81A0DA6
 	.string "Hahaha...$"
@@ -1013,10 +1013,10 @@ UnknownString_81A0DC6: @ 81A0DC6
 	.string "Heute geschlossen!$"
 
 UnknownString_81A0DD4: @ 81A0DD4
-	.string "Magst du {STR_VAR_3}-POKéMON, {STR_VAR_1}?$"
+	.string "Magst du {STR_VAR_3}-Pokémon, {STR_VAR_1}?$"
 
 UnknownString_81A0DF5: @ 81A0DF5
-	.string "Er enthält ein POKéMON.$"
+	.string "Er enthält ein Pokémon.$"
 
 UnknownString_81A0E0C: @ 81A0E0C
 	.string "Wir treffen Vorbereitungen.$"
@@ -1063,14 +1063,14 @@ Text_NoRegisteredItem: @ 81A0FCC
 
 LittlerootTown_BrendansHouse_2F_Text_1A100C:: @ 81A100C
 LittlerootTown_MaysHouse_2F_Text_1A100C:: @ 81A100C
-	.string "Da ist eine E-Mail von der POKéMON\n"
+	.string "Da ist eine E-Mail von der Pokémon\n"
 	.string "TRAINERSCHULE.\p"
 	.string "... ... ... ... ... ...\p"
-	.string "Ein POKéMON kann bis zu vier Attacken\n"
+	.string "Ein Pokémon kann bis zu vier Attacken\n"
 	.string "lernen.\p"
 	.string "Die Fähigkeiten eines TRAINERS werden\n"
 	.string "durch die Attacken, die er seinen\l"
-	.string "POKéMON beibringt, erprobt.\p"
+	.string "Pokémon beibringt, erprobt.\p"
 	.string "... ... ... ... ... ...$"
 
 LittlerootTown_BrendansHouse_2F_Text_1A10D6:: @ 81A10D6
@@ -1090,7 +1090,7 @@ fieldPoisonText_PokemonFainted:: @ 81A1132
 	.string "$"
 
 UnknownString_81A1141: @ 81A1141
-	.string "{PLAYER} hat kein kampffähiges POKéMON\n"
+	.string "{PLAYER} hat kein kampffähiges Pokémon\n"
 	.string "mehr!\p"
 	.string "{PLAYER} wird ohnmächtig!$"
 
@@ -1105,16 +1105,16 @@ SlateportCity_Text_1A116E:: @ 81A116E
 	.string "Sachen verkaufen.$"
 
 gText_NurseJoy_OkayIllTakeYourPokemon:: @ 81A1245
-	.string "Okay, ich nehme deine POKéMON für einen\n"
+	.string "Okay, ich nehme deine Pokémon für einen\n"
 	.string "Moment in meine Obhut.$"
 
 gText_NurseJoy_Pokerus:: @ 81A1275
-	.string "Dein POKéMON scheint von dem\n"
+	.string "Dein Pokémon scheint von dem\n"
 	.string "POKéRUS befallen zu sein.\p"
 	.string "Über den POKéRUS ist bisher wenig be-\n"
 	.string "kannt, außer dass es Mikroorganismen\l"
-	.string "sind, die POKéMON befallen.\p"
-	.string "Sind deine POKéMON infiziert, wachsen\n"
+	.string "sind, die Pokémon befallen.\p"
+	.string "Sind deine Pokémon infiziert, wachsen\n"
 	.string "sie besonders gut.$"
 
 	.include "data/text/surf.inc"

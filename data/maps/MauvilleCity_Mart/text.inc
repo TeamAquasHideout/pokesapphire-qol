@@ -1,6 +1,6 @@
 MauvilleCity_Mart_Text_1827D3:: @ 81827D3
 	.string "There are items that temporarily\n"
-	.string "elevate the stats of POKéMON.\p"
+	.string "elevate the stats of Pokémon.\p"
 	.string "The ones I know you use in battle\n"
 	.string "are X ATTACK and X DEFEND...\p"
 	.string "I do believe that there are others\n"

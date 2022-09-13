@@ -2,10 +2,10 @@ SlateportCity_House1_Text_17D46A:: @ 817D46A
 	.string "Hallo! Ich bin der NAMENBEWERTER!\n"
 	.string "Ich bin das Orakel der Namen!\p"
 	.string "Ich würde mich freuen, die Kosenamen\n"
-	.string "deiner POKéMON bewerten zu dürfen.$"
+	.string "deiner Pokémon bewerten zu dürfen.$"
 
 SlateportCity_House1_Text_17D4DB:: @ 817D4DB
-	.string "Für welches POKéMON soll ich den\n"
+	.string "Für welches Pokémon soll ich den\n"
 	.string "Kosenamen bewerten?$"
 
 SlateportCity_House1_Text_17D505:: @ 817D505
@@ -19,7 +19,7 @@ SlateportCity_House1_Text_17D580:: @ 817D580
 	.string "Kosename lauten?$"
 
 SlateportCity_House1_Text_17D5B0:: @ 817D5B0
-	.string "Fertig! Von nun an heißt dein POKéMON\n"
+	.string "Fertig! Von nun an heißt dein Pokémon\n"
 	.string "{STR_VAR_1}!\p"
 	.string "Das ist ein besserer Name als der\n"
 	.string "vorherige. Welch ein Glück für dich!$"
@@ -29,7 +29,7 @@ SlateportCity_House1_Text_17D61E:: @ 817D61E
 	.string "Komm mich mal wieder besuchen.$"
 
 SlateportCity_House1_Text_17D63A:: @ 817D63A
-	.string "Fertig! Von nun an heißt dein POKéMON\n"
+	.string "Fertig! Von nun an heißt dein Pokémon\n"
 	.string "{STR_VAR_1}!\p"
 	.string "Eigentlich unterscheidet sich der Name\n"
 	.string "nicht von dem vorherigen, und doch ist\l"

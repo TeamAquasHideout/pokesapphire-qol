@@ -95,7 +95,7 @@ Route111_Text_1AC5CA:: @ 81AC5CA
 Route118_Text_1AC5CA:: @ 81AC5CA
 Route120_Text_1AC5CA:: @ 81AC5CA
 	.string "PIA: Gibt es irgendwo einen starken\n"
-	.string "TRAINER mit vielen POKéMON?$"
+	.string "TRAINER mit vielen Pokémon?$"
 
 Route111_Text_1AC60B:: @ 81AC60B
 	.string "PIA: Wow, das war was!\p"
@@ -134,9 +134,9 @@ Route120_Text_1AC7E4:: @ 81AC7E4
 Route111_Text_1AC820:: @ 81AC820
 Route118_Text_1AC820:: @ 81AC820
 Route120_Text_1AC820:: @ 81AC820
-	.string "UDO: Du hast nur ein POKéMON?\n"
+	.string "UDO: Du hast nur ein Pokémon?\n"
 	.string "Mehr nicht?\p"
-	.string "Wenn du mehr POKéMON hättest, wäre\n"
+	.string "Wenn du mehr Pokémon hättest, wäre\n"
 	.string "das Bildmaterial viel, viel besser!$"
 
 Route111_Text_1AC892:: @ 81AC892
@@ -236,7 +236,7 @@ gTVGabbyAndTyText9:: @ 81AD00A
 	.string "Nach dem Kampf baten wir {PLAYER}\n"
 	.string "um eine kurze Stellungnahme.\p"
 	.string "Der TRAINER sagte: “{STR_VAR_1}”.\p"
-	.string "Die POKéMON {STR_VAR_2} und\n"
+	.string "Die Pokémon {STR_VAR_2} und\n"
 	.string "{STR_VAR_3} von {PLAYER}...\l"
 	.string "Und “{STR_VAR_1}”...\p"
 	.string "Mmh! Sehr tiefsinnig! Da liegt ein\n"

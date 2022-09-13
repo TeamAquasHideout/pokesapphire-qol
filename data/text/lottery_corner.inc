@@ -1,12 +1,12 @@
 LilycoveCity_DepartmentStore_1F_Text_1C4B5E:: @ 81C4B5E
-	.string "This is the POKéMON LOTTERY CORNER.\p"
+	.string "This is the Pokémon LOTTERY CORNER.\p"
 	.string "All shoppers visiting our DEPARTMENT\n"
-	.string "STORE get to draw a POKéMON LOTO\l"
+	.string "STORE get to draw a Pokémon LOTO\l"
 	.string "TICKET.\p"
 	.string "If the LOTO TICKET's number matches\n"
-	.string "the ID number of any of your POKéMON,\l"
+	.string "the ID number of any of your Pokémon,\l"
 	.string "you will receive a fabulous gift.\p"
-	.string "Would you like to draw a POKéMON\n"
+	.string "Would you like to draw a Pokémon\n"
 	.string "LOTO TICKET?$"
 
 LilycoveCity_DepartmentStore_1F_Text_1C4C6A:: @ 81C4C6A
@@ -27,7 +27,7 @@ LilycoveCity_DepartmentStore_1F_Text_1C4CF6:: @ 81C4CF6
 	.string "The LOTO TICKET number is {STR_VAR_1}.\p"
 	.string "I need to run a check on this number\n"
 	.string "to see if it matches any of your\l"
-	.string "POKéMON's ID numbers. Please wait.$"
+	.string "Pokémon's ID numbers. Please wait.$"
 
 LilycoveCity_DepartmentStore_1F_Text_1C4D7D:: @ 81C4D7D
 	.string "Congratulations!\p"

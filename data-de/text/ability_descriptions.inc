@@ -2,7 +2,7 @@ gAbilityDescription_None: @ 81F99CC
 	.string "Keine Spezial-Fähigkeit.$"
 
 gAbilityDescription_Stench: @ 81F99E0
-	.string "Wehrt wilde POKéMON ab.$"
+	.string "Wehrt wilde Pokémon ab.$"
 
 gAbilityDescription_Drizzle: @ 81F99FA
 	.string "Ruft im Kampf Regen herbei.$"
@@ -125,7 +125,7 @@ gAbilityDescription_WaterVeil: @ 81F9D8D
 	.string "Verhindert Verbrennungen.$"
 
 gAbilityDescription_MagnetPull: @ 81F9D9D
-	.string "Fängt STAHL-POKéMON.$"
+	.string "Fängt STAHL-Pokémon.$"
 
 gAbilityDescription_Soundproof: @ 81F9DB7
 	.string "Immun gg. Lärm-Attacken.$"

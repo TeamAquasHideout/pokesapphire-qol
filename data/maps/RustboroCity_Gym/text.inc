@@ -5,14 +5,14 @@ RustboroCity_Gym_Text_183A4B:: @ 8183A4B
 	.string "I'm no TRAINER, not me, but I can\n"
 	.string "sure give you winning advice.\p"
 	.string "That's settled, then! We'll aim for the\n"
-	.string "POKéMON CHAMPIONSHIP together!\p"
+	.string "Pokémon CHAMPIONSHIP together!\p"
 	.string "It's your job as a TRAINER to collect\n"
 	.string "GYM BADGES, am I right?\p"
 	.string "But GYM LEADERS aren't pushovers!\p"
 	.string "And that's where I come in!\n"
 	.string "I'm here to provide expert advice!\p"
 	.string "ROXANNE, the GYM LEADER, is a user\n"
-	.string "of ROCK-type POKéMON.\p"
+	.string "of ROCK-type Pokémon.\p"
 	.string "The ROCK type is very durable, but\n"
 	.string "it can't stand WATER-type and\l"
 	.string "GRASS-type moves.\p"
@@ -57,12 +57,12 @@ RustboroCity_Gym_Text_183E98:: @ 8183E98
 
 RustboroCity_Gym_Text_183EE5:: @ 8183EE5
 	.string "Hello, I am ROXANNE, the RUSTBORO\n"
-	.string "POKéMON GYM LEADER.\p"
+	.string "Pokémon GYM LEADER.\p"
 	.string "I became a GYM LEADER so that I may\n"
-	.string "apply what I learned at the POKéMON\l"
+	.string "apply what I learned at the Pokémon\l"
 	.string "TRAINER'S SCHOOL in battle.\p"
 	.string "Would you kindly demonstrate how you\n"
-	.string "battle, and with which POKéMON?$"
+	.string "battle, and with which Pokémon?$"
 
 RustboroCity_Gym_Text_183FC4:: @ 8183FC4
 	.string "So...\n"
@@ -70,10 +70,10 @@ RustboroCity_Gym_Text_183FC4:: @ 8183FC4
 	.string "It seems that I still have much more\n"
 	.string "to learn...\p"
 	.string "I understand.\p"
-	.string "The POKéMON LEAGUE's rules state\n"
+	.string "The Pokémon LEAGUE's rules state\n"
 	.string "that TRAINERS are to be given this\l"
 	.string "if they defeat a GYM LEADER.\p"
-	.string "Please accept the official POKéMON\n"
+	.string "Please accept the official Pokémon\n"
 	.string "LEAGUE STONE BADGE.$"
 
 RustboroCity_Gym_Text_1840AB:: @ 81840AB
@@ -82,7 +82,7 @@ RustboroCity_Gym_Text_1840AB:: @ 81840AB
 
 RustboroCity_Gym_Text_1840D5:: @ 81840D5
 	.string "The STONE BADGE heightens the ATTACK\n"
-	.string "power of your POKéMON.\p"
+	.string "power of your Pokémon.\p"
 	.string "It also enables them to use the HM move\n"
 	.string "CUT outside of battle.\p"
 	.string "Please take this with you, too.$"
@@ -92,7 +92,7 @@ RustboroCity_Gym_Text_184170:: @ 8184170
 	.string "It not only inflicts damage by dropping\n"
 	.string "rocks, it also lowers SPEED.\p"
 	.string "If you use a TM, it instantly teaches\n"
-	.string "the move to a POKéMON.\p"
+	.string "the move to a Pokémon.\p"
 	.string "Remember, a TM can be used only once,\n"
 	.string "so think before you use it.$"
 
@@ -103,9 +103,9 @@ RustboroCity_Gym_Text_184252:: @ 8184252
 	.string "learn many things.$"
 
 RustboroCity_Gym_Text_1842CC:: @ 81842CC
-	.string "RUSTBORO CITY POKéMON GYM$"
+	.string "RUSTBORO CITY Pokémon GYM$"
 
 RustboroCity_Gym_Text_1842E6:: @ 81842E6
-	.string "RUSTBORO CITY POKéMON GYM\p"
+	.string "RUSTBORO CITY Pokémon GYM\p"
 	.string "ROXANNE'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"

@@ -1,5 +1,5 @@
 SootopolisCity_House8_Text_1900F7:: @ 81900F7
-	.string "Do you know the POKéMON SHROOMISH?\n"
+	.string "Do you know the Pokémon SHROOMISH?\n"
 	.string "It's hardly ever seen in SOOTOPOLIS.\p"
 	.string "Anyway, I love big SHROOMISH.\n"
 	.string "The bigger the better.\p"
@@ -47,7 +47,7 @@ SootopolisCity_House8_Text_1903C9:: @ 81903C9
 	.string "always wanted!$"
 
 SootopolisCity_House8_Text_190431:: @ 8190431
-	.string "Do you know the POKéMON BARBOACH?\n"
+	.string "Do you know the Pokémon BARBOACH?\n"
 	.string "It's rarely seen in SOOTOPOLIS.\p"
 	.string "I love, I mean love, big BARBOACH!\p"
 	.string "My big brother says that SHROOMISH is\n"

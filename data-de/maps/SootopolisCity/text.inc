@@ -4,7 +4,7 @@ ClosedSootopolisDoorText: @ 8169690
 SootopolisCity_Text_1696A4:: @ 81696A4
 	.string "Wer bist du denn wohl?\p"
 	.string "Dies ist die URZEITHÖHLE.\p"
-	.string "Die Geister der POKéMON, zur Ruhe\n"
+	.string "Die Geister der Pokémon, zur Ruhe\n"
 	.string "gebettet am PYROBERG, erwachen\l"
 	.string "hier zum Leben, sagt man.\p"
 	.string "Bitte verlasse diesen Ort.$"
@@ -58,7 +58,7 @@ SootopolisCity_Text_169AB7:: @ 8169AB7
 
 SootopolisCity_Text_169AE7:: @ 8169AE7
 	.string "TROY: Dieser Regen...\p"
-	.string "Menschen und POKéMON brauchen\n"
+	.string "Menschen und Pokémon brauchen\n"
 	.string "Wasser zum Leben...\p"
 	.string "Aber warum verursacht dieser Regen\n"
 	.string "so viele Probleme?\p"
@@ -81,7 +81,7 @@ SootopolisCity_Text_169C99:: @ 8169C99
 	.string "mutet, dass du die BLAUE KUGEL bei dir\l"
 	.string "hast.\p"
 	.string "Dir wird nichts passieren. Mit deinen\n"
-	.string "POKéMON an deiner Seite schaffst du es.\p"
+	.string "Pokémon an deiner Seite schaffst du es.\p"
 	.string "Davon bin ich überzeugt!$"
 
 SootopolisCity_Text_169D37:: @ 8169D37
@@ -92,7 +92,7 @@ SootopolisCity_Text_169D37:: @ 8169D37
 
 SootopolisCity_Text_169DA6:: @ 8169DA6
 	.string "TROY: Dir wird nichts passieren.\n"
-	.string "Mit deinen POKéMON an deiner Seite\l"
+	.string "Mit deinen Pokémon an deiner Seite\l"
 	.string "schaffst du es.\p"
 	.string "Davon bin ich überzeugt!$"
 
@@ -117,7 +117,7 @@ SootopolisCity_Text_169F3C:: @ 8169F3C
 
 SootopolisCity_Text_169F6B:: @ 8169F6B
 	.string "TROY: Dieser Sonnenschein...\p"
-	.string "Menschen und POKéMON brauchen\n"
+	.string "Menschen und Pokémon brauchen\n"
 	.string "Sonnenlicht zum Leben...\p"
 	.string "Aber warum verursacht dieses Licht\n"
 	.string "so viele Probleme?\p"
@@ -141,7 +141,7 @@ SootopolisCity_Text_16A13E:: @ 816A13E
 	.string "mutet, dass du die ROTE KUGEL bei dir\l"
 	.string "hast.\p"
 	.string "Dir wird nichts passieren. Mit deinen\n"
-	.string "POKéMON an deiner Seite schaffst du es.\p"
+	.string "Pokémon an deiner Seite schaffst du es.\p"
 	.string "Davon bin ich überzeugt!$"
 
 SootopolisCity_Text_16A1DB:: @ 816A1DB
@@ -152,7 +152,7 @@ SootopolisCity_Text_16A1DB:: @ 816A1DB
 
 SootopolisCity_Text_16A249:: @ 816A249
 	.string "TROY: Dir wird nichts passieren. Mit\n"
-	.string "deinen POKéMON an deiner Seite\l"
+	.string "deinen Pokémon an deiner Seite\l"
 	.string "schaffst du es.\p"
 	.string "Davon bin ich überzeugt!$"
 
@@ -181,7 +181,7 @@ SootopolisCity_Text_16A455:: @ 816A455
 	.string "Alles Leben beginnt in der URZEITHÖHLE\n"
 	.string "und endet am PYROBERG...\p"
 	.string "Woher kommen die Menschen und\n"
-	.string "POKéMON? Wohin gehen wir?$"
+	.string "Pokémon? Wohin gehen wir?$"
 
 SootopolisCity_Text_16A4D6:: @ 816A4D6
 	.string "Lass mich raten! Du wirst WASSILI\n"
@@ -212,7 +212,7 @@ SootopolisCity_Text_16A6AE:: @ 816A6AE
 	.string "Huch! Wo ist mein Haus?$"
 
 SootopolisCity_Text_16A6C7:: @ 816A6C7
-	.string "POKéMON ARENA von XENEROVILLE\n"
+	.string "Pokémon ARENA von XENEROVILLE\n"
 	.string "LEITER: WASSILI\p"
 	.string "“Künstler und Liebhaber des WASSERS.”$"
 

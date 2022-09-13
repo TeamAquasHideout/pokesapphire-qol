@@ -6,7 +6,7 @@ BattleTower_Outside_Text_199C6F:: @ 8199C6F
 BattleTower_Outside_Text_199CA4:: @ 8199CA4
 	.string "Dies ist der DUELLTURM.\p"
 	.string "TRAINER tragen mit ihren besten\n"
-	.string "POKéMON Ausscheidungskämpfe aus.$"
+	.string "Pokémon Ausscheidungskämpfe aus.$"
 
 BattleTower_Outside_Text_199D06:: @ 8199D06
 	.string "Hallo! Möchtest du mit der Fähre fahren?\n"

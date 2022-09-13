@@ -1,6 +1,6 @@
 LilycoveCity_ContestLobby_Text_18848C:: @ 818848C
 	.string "I only register four players for\n"
-	.string "POKéMON CONTESTS.\p"
+	.string "Pokémon CONTESTS.\p"
 	.string "If three other players link up, all\n"
 	.string "four may enter the same CONTEST.\p"
 	.string "Would you like to take part?$"
@@ -36,7 +36,7 @@ LilycoveCity_ContestLobby_Text_1886DC:: @ 81886DC
 	.string "Which CONTEST would you like to enter?$"
 
 LilycoveCity_ContestLobby_Text_188703:: @ 8188703
-	.string "Which POKéMON would you like to enter?$"
+	.string "Which Pokémon would you like to enter?$"
 
 LilycoveCity_ContestLobby_Text_18872A:: @ 818872A
 	.string "Transmitting...$"
@@ -65,9 +65,9 @@ LilycoveCity_ContestLobby_Text_18881F:: @ 818881F
 	.string "Please try again.$"
 
 LilycoveCity_ContestLobby_Text_188845:: @ 8188845
-	.string "Your POKéMON will be entered in\n"
+	.string "Your Pokémon will be entered in\n"
 	.string "the CONTEST.\p"
-	.string "Your POKéMON is Entry No. {STR_VAR_2}.$"
+	.string "Your Pokémon is Entry No. {STR_VAR_2}.$"
 
 UnknownString_8188890: @ 8188890
 	.string "Entry No. {STR_VAR_2} is assigned this color\n"
@@ -82,9 +82,9 @@ UnknownString_81888E6: @ 81888E6
 
 LilycoveCity_ContestLobby_Text_18890F:: @ 818890F
 	.string "Congratulations!\p"
-	.string "I did a painting of your POKéMON to\n"
+	.string "I did a painting of your Pokémon to\n"
 	.string "commemorate its victory...\p"
-	.string "Well, your POKéMON's appeals were\n"
+	.string "Well, your Pokémon's appeals were\n"
 	.string "so fantastic, it spurred me into\l"
 	.string "painting better than I usually do.\l"
 	.string "Look, see?$"
@@ -114,7 +114,7 @@ LilycoveCity_ContestLobby_Text_188AE8:: @ 8188AE8
 LilycoveCity_ContestLobby_Text_188BB5:: @ 8188BB5
 	.string "Oh, that's right!\p"
 	.string "As a memento of me painting your\n"
-	.string "POKéMON, please take this.$"
+	.string "Pokémon, please take this.$"
 
 LilycoveCity_ContestLobby_Text_188C03:: @ 8188C03
 	.string "{PLAYER} received a RIBBON.$"
@@ -142,13 +142,13 @@ LilycoveCity_ContestLobby_Text_188D3C:: @ 8188D3C
 	.string "Hoo, boy... Master Rank CONTESTS,\n"
 	.string "here I come.\p"
 	.string "The world will know that my dearest\n"
-	.string "POKéMON is the cutest being in all\l"
+	.string "Pokémon is the cutest being in all\l"
 	.string "existence. The time has come!\l"
 	.string "Uheheheh.$"
 
 LilycoveCity_ContestLobby_Text_188DDA:: @ 8188DDA
 	.string "You can see a whole variety of\n"
-	.string "POKéMON here.\p"
+	.string "Pokémon here.\p"
 	.string "That's why I make this place a regular\n"
 	.string "part of my daily stroll.$"
 
@@ -158,13 +158,13 @@ LilycoveCity_ContestLobby_Text_188E47:: @ 8188E47
 	.string "You should go get one in VERDANTURF\n"
 	.string "TOWN right away.\p"
 	.string "It's such a thrill having others see\n"
-	.string "POKéMON that you've raised with care\l"
+	.string "Pokémon that you've raised with care\l"
 	.string "and love.$"
 
 LilycoveCity_ContestLobby_Text_188F07:: @ 8188F07
 	.string "When you get up to the Master Rank\n"
 	.string "CONTESTS, you get your eyes opened\l"
-	.string "to striking POKéMON that just scream\l"
+	.string "to striking Pokémon that just scream\l"
 	.string "to be painted.$"
 
 LilycoveCity_ContestLobby_Text_188F81:: @ 8188F81
@@ -175,7 +175,7 @@ LilycoveCity_ContestLobby_Text_188F81:: @ 8188F81
 
 LilycoveCity_ContestLobby_Text_188FE3:: @ 8188FE3
 	.string "Day in and day out, I lavished my care\n"
-	.string "on this POKéMON.\p"
+	.string "on this Pokémon.\p"
 	.string "Its condition is peaking.\n"
 	.string "Today, victory is mine!$"
 

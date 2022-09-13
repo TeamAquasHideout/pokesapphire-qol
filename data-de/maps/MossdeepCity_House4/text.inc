@@ -5,7 +5,7 @@ MossdeepCity_House4_Text_18E0E3:: @ 818E0E3
 MossdeepCity_House4_Text_18E125:: @ 818E125
 	.string "Mein kleiner Bruder sagt, er liebt es, die\n"
 	.string "GEHEIMBASEN der anderen zu finden und\l"
-	.string "Kämpfe mit POKéMON auszutragen.$"
+	.string "Kämpfe mit Pokémon auszutragen.$"
 
 MossdeepCity_House4_Text_18E17E:: @ 818E17E
 	.string "Hast du dir eine GEHEIMBASIS in\n"

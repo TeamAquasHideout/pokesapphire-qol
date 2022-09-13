@@ -24,7 +24,7 @@ LilycoveCity_House3_Text_18BA2B:: @ 818BA2B
 	.string "the better it is. Don't forget this!\p"
 	.string "A good {POKEBLOCK} has a low feel\n"
 	.string "rating and a high level.\p"
-	.string "A POKéMON can eat more good\n"
+	.string "A Pokémon can eat more good\n"
 	.string "{POKEBLOCK}S than ordinary ones, too.\p"
 	.string "And this is important.\p"
 	.string "If you want to make smooth {POKEBLOCK}S,\n"
@@ -38,7 +38,7 @@ LilycoveCity_House3_Text_18BA2B:: @ 818BA2B
 	.string "people and make {POKEBLOCK}S together.\p"
 	.string "That's about all you need to know to\n"
 	.string "make good {POKEBLOCK}S.\p"
-	.string "If everyone had POKéMON they love,\n"
+	.string "If everyone had Pokémon they love,\n"
 	.string "smooth {POKEBLOCK}S, and a loving family,\l"
 	.string "the world would be a happier place.\p"
 	.string "Don't give up, dear!$"
@@ -64,5 +64,5 @@ LilycoveCity_House3_Text_18BE57:: @ 818BE57
 
 LilycoveCity_House3_Text_18BE8E:: @ 818BE8E
 	.string "I want to brag about how tough my\n"
-	.string "POKéMON is, so we're going to enter a\l"
+	.string "Pokémon is, so we're going to enter a\l"
 	.string "CONTEST together.$"

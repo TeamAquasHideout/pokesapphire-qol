@@ -6,7 +6,7 @@ VerdanturfTown_ContestLobby_Text_177D6C:: @ 8177D6C
 	.string "steht... Das muss Aufregung pur sein!$"
 
 VerdanturfTown_ContestLobby_Text_177DEC:: @ 8177DEC
-	.string "Oh, die Liebe zu meinen POKéMON...\n"
+	.string "Oh, die Liebe zu meinen Pokémon...\n"
 	.string "Diese Anziehungskraft...\p"
 	.string "Hups!\n"
 	.string "Das war gar nicht für deine Ohren\l"
@@ -15,16 +15,16 @@ VerdanturfTown_ContestLobby_Text_177DEC:: @ 8177DEC
 	.string "nimmst, probiere mal diese Attacke aus.$"
 
 VerdanturfTown_ContestLobby_Text_177E98:: @ 8177E98
-	.string "Meine Gefühle für POKéMON...\n"
-	.string "Oh, POKéMON ziehen mich so an...$"
+	.string "Meine Gefühle für Pokémon...\n"
+	.string "Oh, Pokémon ziehen mich so an...$"
 
 VerdanturfTown_ContestLobby_Text_177ECD:: @ 8177ECD
 	.string "An welchem WETTBEWERB planst du teil-\n"
 	.string "zunehmen?\p"
 	.string "Wenn du an einem COOLNESS-WETTBE-\n"
 	.string "WERB teilnehmen willst, muss das\l"
-	.string "POKéMON cool sein!\p"
-	.string "Wähle immer das POKéMON aus, das am\n"
+	.string "Pokémon cool sein!\p"
+	.string "Wähle immer das Pokémon aus, das am\n"
 	.string "besten zur Kategorie des WETTBE-\l"
 	.string "WERBS passt und die passenden\l"
 	.string "Attacken kennt.\p"

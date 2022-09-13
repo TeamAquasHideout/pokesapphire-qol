@@ -1,6 +1,6 @@
 static const u8 gItemDescription_MasterBall[] = _(
     "Der beste BALL.\n"
-    "Fängt das POKéMON\n"
+    "Fängt das Pokémon\n"
     "garantiert.");
 
 static const u8 gItemDescription_UltraBall[] = _(
@@ -16,7 +16,7 @@ static const u8 gItemDescription_GreatBall[] = _(
 static const u8 gItemDescription_PokeBall[] = _(
     "Damit fängst\n"
     "du wilde\n"
-    "POKéMON.");
+    "Pokémon.");
 
 static const u8 gItemDescription_SafariBall[] = _(
     "Ein BALL, der nur\n"
@@ -24,24 +24,24 @@ static const u8 gItemDescription_SafariBall[] = _(
     "eingesetzt wird.");
 
 static const u8 gItemDescription_NetBall[] = _(
-    "BALL fängt POKéMON\n"
+    "BALL fängt Pokémon\n"
     "des Typs WASSER\n"
     "und KÄFER besser.");
 
 static const u8 gItemDescription_DiveBall[] = _(
     "BALL fängt besser\n"
-    "POKéMON auf\n"
+    "Pokémon auf\n"
     "dem Meeresgrund.");
 
 static const u8 gItemDescription_NestBall[] = _(
     "BALL mit höherer\n"
     "Erfolgsquote bei\n"
-    "schwachen POKéMON.");
+    "schwachen Pokémon.");
 
 static const u8 gItemDescription_RepeatBall[] = _(
     "BALL fängt besser\n"
     "bereits gefangene\n"
-    "POKéMON.");
+    "Pokémon.");
 
 static const u8 gItemDescription_TimerBall[] = _(
     "BALL wird effekti-\n"
@@ -50,7 +50,7 @@ static const u8 gItemDescription_TimerBall[] = _(
 
 static const u8 gItemDescription_LuxuryBall[] = _(
     "Behaglicher BALL,\n"
-    "der POKéMON\n"
+    "der Pokémon\n"
     "freundlicher macht.");
 
 static const u8 gItemDescription_PremierBall[] = _(
@@ -60,33 +60,33 @@ static const u8 gItemDescription_PremierBall[] = _(
 
 static const u8 gItemDescription_Potion[] = _(
     "Füllt die KP eines\n"
-    "POKéMON um\n"
+    "Pokémon um\n"
     "20 Punkte auf.");
 
 static const u8 gItemDescription_Antidote[] = _(
     "Heilt Vergiftungen\n"
-    "bei POKéMON.");
+    "bei Pokémon.");
 
 static const u8 gItemDescription_BurnHeal[] = _(
     "Heilt Verbrennun-\n"
-    "gen bei POKéMON.");
+    "gen bei Pokémon.");
 
 static const u8 gItemDescription_IceHeal[] = _(
-    "Taut POKéMON\n"
+    "Taut Pokémon\n"
     "wieder auf.");
 
 static const u8 gItemDescription_Awakening[] = _(
     "Weckt schlafendes\n"
-    "POKéMON auf.");
+    "Pokémon auf.");
 
 static const u8 gItemDescription_ParalyzeHeal[] = _(
     "Heilt Paralyse\n"
-    "eines POKéMON.");
+    "eines Pokémon.");
 
 static const u8 gItemDescription_FullRestore[] = _(
     "Stellt KP und\n"
     "Status eines\n"
-    "POKéMON wieder her.");
+    "Pokémon wieder her.");
 
 static const u8 gItemDescription_MaxPotion[] = _(
     "Füllt die KP\n"
@@ -94,26 +94,26 @@ static const u8 gItemDescription_MaxPotion[] = _(
 
 static const u8 gItemDescription_HyperPotion[] = _(
     "Füllt die KP eines\n"
-    "POKéMON um\n"
+    "Pokémon um\n"
     "200 Punkte auf.");
 
 static const u8 gItemDescription_SuperPotion[] = _(
     "Füllt die KP eines\n"
-    "POKéMON um\n"
+    "Pokémon um\n"
     "50 Punkte auf.");
 
 static const u8 gItemDescription_FullHeal[] = _(
     "Beseitigt alle\n"
     "Statusprobleme\n"
-    "eines POKéMON.");
+    "eines Pokémon.");
 
 static const u8 gItemDescription_Revive[] = _(
-    "Belebt POKéMON\n"
+    "Belebt Pokémon\n"
     "und füllt die KP zur\n"
     "Hälfte wieder auf.");
 
 static const u8 gItemDescription_MaxRevive[] = _(
-    "Belebt POKéMON\n"
+    "Belebt Pokémon\n"
     "und füllt KP voll-\n"
     "ständig wieder auf.");
 
@@ -155,7 +155,7 @@ static const u8 gItemDescription_HealPowder[] = _(
 static const u8 gItemDescription_RevivalHerb[] = _(
     "Ein bitteres Kraut,\n"
     "das besiegte\n"
-    "POKéMON belebt.");
+    "Pokémon belebt.");
 
 static const u8 gItemDescription_Ether[] = _(
     "Füllt AP einer aus-\n"
@@ -173,7 +173,7 @@ static const u8 gItemDescription_Elixir[] = _(
 
 static const u8 gItemDescription_MaxElixir[] = _(
     "Füllt alle AP eines\n"
-    "POKéMON voll-\n"
+    "Pokémon voll-\n"
     "ständig auf.");
 
 static const u8 gItemDescription_LavaCookie[] = _(
@@ -184,27 +184,27 @@ static const u8 gItemDescription_LavaCookie[] = _(
 static const u8 gItemDescription_BlueFlute[] = _(
     "Eine gläserne Flöte,\n"
     "die schlafende\n"
-    "POKéMON aufweckt.");
+    "Pokémon aufweckt.");
 
 static const u8 gItemDescription_YellowFlute[] = _(
     "Eine gläserne Flöte,\n"
     "die verwirrte\n"
-    "POKéMON heilt.");
+    "Pokémon heilt.");
 
 static const u8 gItemDescription_RedFlute[] = _(
     "Eine gläserne Flöte,\n"
-    "die POKéMON von\n"
+    "die Pokémon von\n"
     "Anziehung heilt.");
 
 static const u8 gItemDescription_BlackFlute[] = _(
     "Eine gläserne Flöte,\n"
     "die wilde\n"
-    "POKéMON abhält.");
+    "Pokémon abhält.");
 
 static const u8 gItemDescription_WhiteFlute[] = _(
     "Eine gläserne Flöte,\n"
     "die wilde\n"
-    "POKéMON anzieht.");
+    "Pokémon anzieht.");
 
 static const u8 gItemDescription_BerryJuice[] = _(
     "Reiner Fruchtsaft,\n"
@@ -214,7 +214,7 @@ static const u8 gItemDescription_BerryJuice[] = _(
 static const u8 gItemDescription_SacredAsh[] = _(
     "Belebt und\n"
     "erfrischt alle\n"
-    "besiegten POKéMON.");
+    "besiegten Pokémon.");
 
 static const u8 gItemDescription_ShoalSalt[] = _(
     "Salz, das sich tief\n"
@@ -248,31 +248,31 @@ static const u8 gItemDescription_GreenShard[] = _(
 
 static const u8 gItemDescription_HPUp[] = _(
     "Hebt die KP\n"
-    "eines POKéMON.");
+    "eines Pokémon.");
 
 static const u8 gItemDescription_Protein[] = _(
     "Hebt den\n"
     "ANGR.-Wert\n"
-    "eines POKéMON.");
+    "eines Pokémon.");
 
 static const u8 gItemDescription_Iron[] = _(
     "Hebt den\n"
     "VERT.-Wert\n"
-    "eines POKéMON.");
+    "eines Pokémon.");
 
 static const u8 gItemDescription_Carbos[] = _(
     "Hebt den\n"
     "INIT.-Wert\n"
-    "eines POKéMON.");
+    "eines Pokémon.");
 
 static const u8 gItemDescription_Calcium[] = _(
     "Hebt den\n"
     "SP. ANGR.-Wert\n"
-    "eines POKéMON.");
+    "eines Pokémon.");
 
 static const u8 gItemDescription_RareCandy[] = _(
     "Hebt den Level\n"
-    "eines POKéMON\n"
+    "eines Pokémon\n"
     "um eins an.");
 
 static const u8 gItemDescription_PPUp[] = _(
@@ -283,7 +283,7 @@ static const u8 gItemDescription_PPUp[] = _(
 static const u8 gItemDescription_Zinc[] = _(
     "Hebt den\n"
     "SP. VERT.-Wert\n"
-    "eines POKéMON.");
+    "eines Pokémon.");
 
 static const u8 gItemDescription_PPMax[] = _(
     "Maximiert die\n"
@@ -328,22 +328,22 @@ static const u8 gItemDescription_XSpecial[] = _(
 static const u8 gItemDescription_PokeDoll[] = _(
     "Ermöglicht Flucht\n"
     "im Kampf gegen\n"
-    "wilde POKéMON.");
+    "wilde Pokémon.");
 
 static const u8 gItemDescription_FluffyTail[] = _(
     "Entfliehe damit\n"
     "jedem Kampf mit ei-\n"
-    "nem wilden POKéMON.");
+    "nem wilden Pokémon.");
 
 static const u8 gItemDescription_SuperRepel[] = _(
     "Hält 200 Schritte\n"
     "lang schwache,\n"
-    "wilde POKéMON ab.");
+    "wilde Pokémon ab.");
 
 static const u8 gItemDescription_MaxRepel[] = _(
     "Hält 250 Schritte\n"
     "lang schwache,\n"
-    "wilde POKéMON ab.");
+    "wilde Pokémon ab.");
 
 static const u8 gItemDescription_EscapeRope[] = _(
     "Ermöglicht die\n"
@@ -353,36 +353,36 @@ static const u8 gItemDescription_EscapeRope[] = _(
 static const u8 gItemDescription_Repel[] = _(
     "Hält 100 Schritte\n"
     "lang schwache,\n"
-    "wilde POKéMON ab.");
+    "wilde Pokémon ab.");
 
 static const u8 gItemDescription_SunStone[] = _(
     "Löst bei bestimm-\n"
-    "ten POKéMON die\n"
+    "ten Pokémon die\n"
     "Entwicklung aus.");
 
 static const u8 gItemDescription_MoonStone[] = _(
     "Löst bei bestimm-\n"
-    "ten POKéMON die\n"
+    "ten Pokémon die\n"
     "Entwicklung aus.");
 
 static const u8 gItemDescription_FireStone[] = _(
     "Löst bei bestimm-\n"
-    "ten POKéMON die\n"
+    "ten Pokémon die\n"
     "Entwicklung aus.");
 
 static const u8 gItemDescription_ThunderStone[] = _(
     "Löst bei bestimm-\n"
-    "ten POKéMON die\n"
+    "ten Pokémon die\n"
     "Entwicklung aus.");
 
 static const u8 gItemDescription_WaterStone[] = _(
     "Löst bei bestimm-\n"
-    "ten POKéMON die\n"
+    "ten Pokémon die\n"
     "Entwicklung aus.");
 
 static const u8 gItemDescription_LeafStone[] = _(
     "Löst bei bestimm-\n"
-    "ten POKéMON die\n"
+    "ten Pokémon die\n"
     "Entwicklung aus.");
 
 static const u8 gItemDescription_TinyMushroom[] = _(
@@ -456,7 +456,7 @@ static const u8 gItemDescription_WaveMail[] = _(
 
 static const u8 gItemDescription_BeadMail[] = _(
     "BRIEF mit Abbildung\n"
-    "des POKéMON, das\n"
+    "des Pokémon, das\n"
     "ihn trägt.");
 
 static const u8 gItemDescription_ShadowMail[] = _(
@@ -471,7 +471,7 @@ static const u8 gItemDescription_TropicMail[] = _(
 
 static const u8 gItemDescription_DreamMail[] = _(
     "BRIEF mit Abbildung\n"
-    "des POKéMON, das\n"
+    "des Pokémon, das\n"
     "ihn trägt.");
 
 static const u8 gItemDescription_FabMail[] = _(
@@ -481,7 +481,7 @@ static const u8 gItemDescription_FabMail[] = _(
 static const u8 gItemDescription_RetroMail[] = _(
     "BRIEF mit den Ab-\n"
     "bildungen dreier\n"
-    "POKéMON-Gesichter.");
+    "Pokémon-Gesichter.");
 
 static const u8 gItemDescription_CheriBerry[] = _(
     "Item (Tragen) be-\n"
@@ -491,7 +491,7 @@ static const u8 gItemDescription_CheriBerry[] = _(
 static const u8 gItemDescription_ChestoBerry[] = _(
     "Item (Tragen)\n"
     "weckt schlafendes\n"
-    "POKéMON im Kampf.");
+    "Pokémon im Kampf.");
 
 static const u8 gItemDescription_PechaBerry[] = _(
     "Item (Tragen) be-\n"
@@ -729,7 +729,7 @@ static const u8 gItemDescription_SootheBell[] = _(
 
 static const u8 gItemDescription_MentalHerb[] = _(
     "Item (Tragen) er-\n"
-    "löst POKéMON von\n"
+    "löst Pokémon von\n"
     "der Anziehung.");
 
 static const u8 gItemDescription_ChoiceBand[] = _(
@@ -754,7 +754,7 @@ static const u8 gItemDescription_AmuletCoin[] = _(
 
 static const u8 gItemDescription_CleanseTag[] = _(
     "Item (Tragen) kann\n"
-    "wilde POKéMON\n"
+    "wilde Pokémon\n"
     "abhalten.");
 
 static const u8 gItemDescription_SoulDew[] = _(
@@ -775,7 +775,7 @@ static const u8 gItemDescription_DeepSeaScale[] = _(
 static const u8 gItemDescription_SmokeBall[] = _(
     "Item (Tragen) er-\n"
     "möglicht Flucht vor\n"
-    "wilden POKéMON.");
+    "wilden Pokémon.");
 
 static const u8 gItemDescription_Everstone[] = _(
     "Wundersamer Stein\n"
@@ -809,7 +809,7 @@ static const u8 gItemDescription_Leftovers[] = _(
 
 static const u8 gItemDescription_DragonScale[] = _(
     "Seltsame Haut zum\n"
-    "Tragen für POKéMON\n"
+    "Tragen für Pokémon\n"
     "des Typs DRACHEN.");
 
 static const u8 gItemDescription_LightBall[] = _(
@@ -973,16 +973,16 @@ static const u8 gItemDescription_Itemfinder[] = _(
 static const u8 gItemDescription_OldRod[] = _(
     "Damit kannst du in\n"
     "jedem Gewässer\n"
-    "POKéMON angeln.");
+    "Pokémon angeln.");
 
 static const u8 gItemDescription_GoodRod[] = _(
     "Eine recht gute\n"
     "Angel zum\n"
-    "POKéMON-Fischen.");
+    "Pokémon-Fischen.");
 
 static const u8 gItemDescription_SuperRod[] = _(
     "Die beste Angel,\n"
-    "um nach POKéMON\n"
+    "um nach Pokémon\n"
     "zu fischen.");
 
 static const u8 gItemDescription_SSTicket[] = _(
@@ -992,7 +992,7 @@ static const u8 gItemDescription_SSTicket[] = _(
 
 static const u8 gItemDescription_ContestPass[] = _(
     "Ausweis zur Teil-\n"
-    "nahme an POKéMON- \n"
+    "nahme an Pokémon- \n"
     "WETTBEWERBEN.");
 
 static const u8 gItemDescription_WailmerPail[] = _(
@@ -1086,21 +1086,21 @@ static const u8 gItemDescription_StorageKey[] = _(
 
 static const u8 gItemDescription_RootFossil[] = _(
     "Fossil eines ural-\n"
-    "ten POKéMON, das in\n"
+    "ten Pokémon, das in\n"
     "der Tiefsee lebte.");
 
 static const u8 gItemDescription_ClawFossil[] = _(
     "Fossil eines ural-\n"
-    "ten POKéMON, das in\n"
+    "ten Pokémon, das in\n"
     "der Tiefsee lebte.");
 
 static const u8 gItemDescription_DevonScope[] = _(
     "Gerät von DEVON, \n"
     "das unsichtbare\n"
-    "POKéMON entlarvt.");
+    "Pokémon entlarvt.");
 
 static const u8 gItemDescription_TM01[] = _(
-    "Stark. POKéMON er-\n"
+    "Stark. Pokémon er-\n"
     "schrickt vielleicht\n"
     "bei gegn. Attacke.");
 
@@ -1131,7 +1131,7 @@ static const u8 gItemDescription_TM06[] = _(
 
 static const u8 gItemDescription_TM07[] = _(
     "Hagelsturm schadet\n"
-    "allen POKéMON außer\n"
+    "allen Pokémon außer\n"
     "denen des Typs EIS.");
 
 static const u8 gItemDescription_TM08[] = _(
@@ -1147,7 +1147,7 @@ static const u8 gItemDescription_TM09[] = _(
 static const u8 gItemDescription_TM10[] = _(
     "Die Stärke dieser\n"
     "Attacke hängt vom \n"
-    "jew. POKéMON ab.");
+    "jew. Pokémon ab.");
 
 static const u8 gItemDescription_TM11[] = _(
     "Verstärkt FEUER-\n"
@@ -1315,7 +1315,7 @@ static const u8 gItemDescription_TM43[] = _(
     "der Attacke.");
 
 static const u8 gItemDescription_TM44[] = _(
-    "POKéMON schläft\n"
+    "Pokémon schläft\n"
     "2 Runden. Füllt KP\n"
     "und heilt Status.");
 

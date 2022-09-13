@@ -1,9 +1,9 @@
 LilycoveCity_CoveLilyMotel_1F_Text_186B71:: @ 8186B71
 	.string "Hm, so haben sie also die Anzahl der\n"
-	.string "Gäste verdoppelt. Indem sie POKéMON\l"
+	.string "Gäste verdoppelt. Indem sie Pokémon\l"
 	.string "als Attraktion präsentieren?\p"
 	.string "Hm, vielleicht sollte ich ein niedliches\n"
-	.string "POKéMON zum Maskottchen meines\l"
+	.string "Pokémon zum Maskottchen meines\l"
 	.string "Gasthofes machen...\p"
 	.string "Ich frage mich, ob ich so mehr\n"
 	.string "Gäste hätte?$"
@@ -19,11 +19,11 @@ LilycoveCity_CoveLilyMotel_1F_Text_186CA6:: @ 8186CA6
 	.string "Du bist doch nicht aus Glas!$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_186CCE:: @ 8186CCE
-	.string "Interessant! Du sagst, ein POKéMON\n"
+	.string "Interessant! Du sagst, ein Pokémon\n"
 	.string "hat ein Item gefunden, das jemand ver-\l"
 	.string "loren hat?\p"
 	.string "Das ist ja was! Wenn wir auch so clevere\n"
-	.string "POKéMON hätten...\p"
+	.string "Pokémon hätten...\p"
 	.string "Dann könnten wir alles wiederfinden, was\n"
 	.string "unsere Gäste verloren haben.$"
 
@@ -38,10 +38,10 @@ LilycoveCity_CoveLilyMotel_1F_Text_186D7F:: @ 8186D7F
 	.string "GAME irgendwas...$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_186E57:: @ 8186E57
-	.string "Irre! Ein POKéMON, das das Haus be-\n"
+	.string "Irre! Ein Pokémon, das das Haus be-\n"
 	.string "wachte, hat Einbrecher geschnappt?\p"
 	.string "Klasse! Wir sollten auch über einen\n"
-	.string "Wachschutz durch POKéMON nachdenken.\p"
+	.string "Wachschutz durch Pokémon nachdenken.\p"
 	.string "Dadurch könnten wir unseren Gästen\n"
 	.string "viel mehr Sicherheit bieten.$"
 

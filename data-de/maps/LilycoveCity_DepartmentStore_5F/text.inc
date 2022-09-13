@@ -4,7 +4,7 @@ LilycoveCity_DepartmentStore_5F_Text_18C4F9:: @ 818C4F9
 	.string "kaufen, anstatt immer für meine Kinder.$"
 
 LilycoveCity_DepartmentStore_5F_Text_18C556:: @ 818C556
-	.string "Ich bin noch zu klein, um POKéMON auf-\n"
+	.string "Ich bin noch zu klein, um Pokémon auf-\n"
 	.string "zuziehen, daher bekomme ich eine PUPPE.$"
 
 LilycoveCity_DepartmentStore_5F_Text_18C59F:: @ 818C59F

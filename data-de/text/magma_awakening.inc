@@ -8,7 +8,7 @@ SeafloorCavern_Room9_Text_1B486C:: @ 81B486C
 SeafloorCavern_Room9_Text_1B4897:: @ 81B4897
 	.string "MARC: Schau nur, schau nur!\p"
 	.string "Schau, wie schön die schlafende Gestalt\n"
-	.string "des antiken POKéMON GROUDON ist!\p"
+	.string "des antiken Pokémon GROUDON ist!\p"
 	.string "Ich habe so lange auf diesen Tag\n"
 	.string "gewartet...$"
 

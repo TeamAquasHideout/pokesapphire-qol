@@ -1,6 +1,6 @@
 PacifidlogTown_House1_Text_178F9F:: @ 8178F9F
 	.string "In der HOENN-Region gibt es drei\n"
-	.string "POKéMON, die die Stärke von Gestein,\l"
+	.string "Pokémon, die die Stärke von Gestein,\l"
 	.string "Eis und Stahl repräsentieren.\p"
 	.string "Man sagt, sie verstecken sich in\n"
 	.string "Höhlen vor den Augen der Menschen.\p"

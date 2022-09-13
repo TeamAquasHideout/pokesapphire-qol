@@ -13,7 +13,7 @@ Route104_Text_1C55B9:: @ 81C55B9
 Route104_Text_1C5665:: @ 81C5665
 	.string "The way you look, you must be a\n"
 	.string "TRAINER, no?\p"
-	.string "TRAINERS often make POKéMON hold\n"
+	.string "TRAINERS often make Pokémon hold\n"
 	.string "BERRIES.\p"
 	.string "It's up to you whether to grow BERRIES\n"
 	.string "or use them.$"
@@ -37,7 +37,7 @@ Route111_Text_1C57D2:: @ 81C57D2
 
 Route114_Text_1C5803:: @ 81C5803
 	.string "I'm gathering BERRIES so I can win a\n"
-	.string "POKéMON CONTEST.\p"
+	.string "Pokémon CONTEST.\p"
 	.string "If you'd like, I'll share one with you.$"
 
 Route114_Text_1C5861:: @ 81C5861
@@ -53,7 +53,7 @@ Route120_Text_1C58F1:: @ 81C58F1
 	.string "Give the case a shake, and out pops\n"
 	.string "a {POKEBLOCK}...\p"
 	.string "And that {POKEBLOCK} is caught and eaten\n"
-	.string "by a POKéMON...\p"
+	.string "by a Pokémon...\p"
 	.string "It's an expression of love, isn't it?$"
 
 Route120_Text_1C5979:: @ 81C5979
@@ -88,7 +88,7 @@ LilycoveCity_Text_1C5B1D:: @ 81C5B1D
 LilycoveCity_Text_1C5B5D:: @ 81C5B5D
 	.string "When it gets right down to it...\p"
 	.string "The way dignified simplicity suits me,\n"
-	.string "{POKEBLOCK}S perfectly suit POKéMON.$"
+	.string "{POKEBLOCK}S perfectly suit Pokémon.$"
 
 Route123_BerryMastersHouse_Text_1C5BC4:: @ 81C5BC4
 	.string "You may call me the BERRY MASTER.\p"
@@ -194,10 +194,10 @@ Route104_PrettyPetalFlowerShop_Text_1C62DA:: @ 81C62DA
 
 Route104_PrettyPetalFlowerShop_Text_1C6335:: @ 81C6335
 	.string "You can plant a BERRY and grow it big,\n"
-	.string "or you can make a POKéMON hold it.\p"
+	.string "or you can make a Pokémon hold it.\p"
 	.string "But now they have a machine that mixes\n"
 	.string "up different BERRIES and makes candies\l"
-	.string "for POKéMON.\p"
+	.string "for Pokémon.\p"
 	.string "I want some candy, too.$"
 
 SootopolisCity_Text_1C63F2:: @ 81C63F2

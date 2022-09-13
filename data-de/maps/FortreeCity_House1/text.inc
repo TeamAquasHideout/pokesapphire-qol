@@ -1,5 +1,5 @@
 FortreeCity_House1_Text_18568C:: @ 818568C
-	.string "Hi! Da gibt es dieses POKéMON, nach\n"
+	.string "Hi! Da gibt es dieses Pokémon, nach\n"
 	.string "dem ich suche.\p"
 	.string "Ich möchte ein {STR_VAR_1} haben.\n"
 	.string "Hast du eines?\p"
@@ -25,11 +25,11 @@ FortreeCity_House1_Text_18577F:: @ 818577F
 
 FortreeCity_House1_Text_1857C7:: @ 81857C7
 	.string "Danke, dass du mit mir getauscht hast!\p"
-	.string "Dieses POKéMON habe ich mir schon lange\n"
+	.string "Dieses Pokémon habe ich mir schon lange\n"
 	.string "gewünscht. Bei mir wird's ihm gut gehen!$"
 
 FortreeCity_House1_Text_18582A:: @ 818582A
-	.string "Mit anderen sein POKéMON tauschen...\p"
+	.string "Mit anderen sein Pokémon tauschen...\p"
 	.string "Das ist, als ob du die Erinnerungen mit\n"
 	.string "anderen Menschen teilst.$"
 

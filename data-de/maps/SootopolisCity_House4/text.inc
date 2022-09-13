@@ -10,7 +10,7 @@ SootopolisCity_House4_Text_18FD41:: @ 818FD41
 	.string "Wäre das schön, wenn es die tatsächlich\n"
 	.string "gäbe. Aber auch ohne Schätze wäre eine\p"
 	.string "Reise unter Wasser zusammen mit\n"
-	.string "meinen POKéMON herrlich.$"
+	.string "meinen Pokémon herrlich.$"
 
 SootopolisCity_House4_Text_18FDD8:: @ 818FDD8
 	.string "AZUMARILL: Marurii.$"

@@ -21,7 +21,7 @@ SlateportCity_Text_1646FC:: @ 81646FC
 
 SlateportCity_Text_16471C:: @ 816471C
 	.string "Du musst dich mehr anstrengen.\p"
-	.string "Dann gebe ich dir und deinen POKéMON\n"
+	.string "Dann gebe ich dir und deinen Pokémon\n"
 	.string "ein schönes Geschenk.$"
 
 SlateportCity_Text_164775:: @ 8164775
@@ -31,7 +31,7 @@ SlateportCity_Text_164775:: @ 8164775
 SlateportCity_Text_1647A7:: @ 81647A7
 	.string "Das Licht dieses Leuchtturms sieht man\n"
 	.string "dutzende von Kilometern weit.\p"
-	.string "Ich frage mich, ob es nicht die POKéMON\n"
+	.string "Ich frage mich, ob es nicht die Pokémon\n"
 	.string "im Meer verwirrt.$"
 
 SlateportCity_Text_164814:: @ 8164814
@@ -62,10 +62,10 @@ SlateportCity_Text_164995:: @ 8164995
 
 SlateportCity_Text_164A30:: @ 8164A30
 	.string "Yeah! Darauf habe ich lange gewartet!\n"
-	.string "WETTBEWERBE für POKéMON!\l"
+	.string "WETTBEWERBE für Pokémon!\l"
 	.string "Ich werde mit Sicherheit teilnehmen!\p"
 	.string "Aber vorher muss ich mir einige\n"
-	.string "POKéMON fangen!$"
+	.string "Pokémon fangen!$"
 
 SlateportCity_Text_164AA9:: @ 8164AA9
 	.string "Puuuh... Ich bin fix und fertig...\p"
@@ -131,35 +131,35 @@ SlateportCity_Text_164E46:: @ 8164E46
 SlateportCity_Text_164E85:: @ 8164E85
 	.string "Das Meer ist wirklich überwältigend...\p"
 	.string "Ob es durch die vergossenen Tränen der\n"
-	.string "POKéMON entstanden ist?$"
+	.string "Pokémon entstanden ist?$"
 
 SlateportCity_Text_164EDB:: @ 8164EDB
 	.string "Weißt du, was mit alten, nicht mehr\n"
 	.string "seetüchtigen Schiffen gemacht wird?\p"
 	.string "Sie werden im Meer versenkt und so\n"
-	.string "zu Lebensraum für die POKéMON.$"
+	.string "zu Lebensraum für die Pokémon.$"
 
 SlateportCity_Text_164F62:: @ 8164F62
 	.string "Immer wenn ich hier herkomme, vergesse\n"
 	.string "ich mich und kaufe wie bescheuert ein.$"
 
 SlateportCity_Text_164F9E:: @ 8164F9E
-	.string "Wenn du die Kosenamen deiner POKéMON\n"
+	.string "Wenn du die Kosenamen deiner Pokémon\n"
 	.string "ändern willst, solltest du den NAMEN-\l"
 	.string "BEWERTER um Hilfe bitten.$"
 
 SlateportCity_Text_164FFC:: @ 8164FFC
-	.string "Erhältst du ein POKéMON durch Tausch,\n"
+	.string "Erhältst du ein Pokémon durch Tausch,\n"
 	.string "kannst du den Kosenamen nicht ändern.\p"
 	.string "Die Liebe des ursprünglichen TRAINERS\n"
 	.string "drückt sich in dem Kosenamen aus.$"
 
 SlateportCity_Text_16507C:: @ 816507C
-	.string "Eine WETTBEWERBSHALLE für POKéMON\n"
+	.string "Eine WETTBEWERBSHALLE für Pokémon\n"
 	.string "wurde kürzlich in GRAPHITPORT CITY\l"
 	.string "eröffnet.\p"
 	.string "Ich plane dort hinzugehen, wenn ich\n"
-	.string "meine POKéMON besser trainiert habe.$"
+	.string "meine Pokémon besser trainiert habe.$"
 
 SlateportCity_Text_1650F1:: @ 81650F1
 	.string "Hast du schon mal etwas über den\n"
@@ -174,7 +174,7 @@ SlateportCity_Text_16511E:: @ 816511E
 SlateportCity_Text_1651A1:: @ 81651A1
 	.string "Damit stellt man eine Leckerei her, die\n"
 	.string "{POKEBLOCK} genannt wird.\p"
-	.string "Wenn du einem POKéMON einen guten\n"
+	.string "Wenn du einem Pokémon einen guten\n"
 	.string "{POKEBLOCK} gibst, verbessern sich seine\l"
 	.string "Eigenschaften.$"
 
@@ -247,7 +247,7 @@ SlateportCity_Text_1655E7:: @ 81655E7
 	.string "Wir haben auf der ROUTE 128 eine Unter-\n"
 	.string "wasserhöhle entdeckt.\p"
 	.string "Wir glauben, es ist die Höhle eines\n"
-	.string "POKéMON, das schon lange ausge-\l"
+	.string "Pokémon, das schon lange ausge-\l"
 	.string "storben ist.$"
 
 SlateportCity_Text_1656BC:: @ 81656BC
@@ -277,9 +277,9 @@ SlateportCity_Text_16583A:: @ 816583A
 	.string "Bitte, komm mit mir!$"
 
 SlateportCity_Text_165856:: @ 8165856
-	.string "POKéMON WETTBEWERBE\n"
+	.string "Pokémon WETTBEWERBE\n"
 	.string "HYPER-KLASSE REGISTRIERUNGEN\l"
-	.string "“Lasst es krachen! POKéMON-\l"
+	.string "“Lasst es krachen! Pokémon-\l"
 	.string "TRAINER!”$"
 
 SlateportCity_Text_1658A0:: @ 81658A0
@@ -301,8 +301,8 @@ SlateportCity_Text_165952:: @ 8165952
 	.string "am HAFEN ausgegeben.”$"
 
 SlateportCity_Text_1659B3:: @ 81659B3
-	.string "POKéMON-FANCLUB\n"
-	.string "“Wir rufen alle Fans der POKéMON!”$"
+	.string "Pokémon-FANCLUB\n"
+	.string "“Wir rufen alle Fans der Pokémon!”$"
 
 SlateportCity_Text_1659E3:: @ 81659E3
 	.string "“Das unendliche Meer erhält\n"
@@ -312,7 +312,7 @@ SlateportCity_Text_1659E3:: @ 81659E3
 SlateportCity_Text_165A17:: @ 8165A17
 	.string "GRAPHITPORT CITY\p"
 	.string "“Der Hafen, an dem sich Menschen\n"
-	.string "und POKéMON begegnen.”$"
+	.string "und Pokémon begegnen.”$"
 
 SlateportCity_Text_165A57:: @ 8165A57
 	.string "GRAPHITPORT CITY MARKT\n"
@@ -333,4 +333,4 @@ SlateportCity_Text_165B02:: @ 8165B02
 
 SlateportCity_Text_165B48:: @ 8165B48
 	.string "HAUS DES NAMENBEWERTERS\n"
-	.string "“Bewertung von POKéMON-Kosenamen.”$"
+	.string "“Bewertung von Pokémon-Kosenamen.”$"

@@ -55,7 +55,7 @@ MossdeepCity_Text_169370:: @ 8169370
 
 MossdeepCity_Text_16944E:: @ 816944E
 	.string "Eine Reise auf einem Schiff ist toll.\p"
-	.string "Aber das Meer auf einem POKéMON zu\n"
+	.string "Aber das Meer auf einem Pokémon zu\n"
 	.string "überqueren, das SURFER einsetzt...\p"
 	.string "Das ist wirklich eine aufregende Sache.\n"
 	.string "Meinst du nicht auch, Kindchen?$"
@@ -75,13 +75,13 @@ MossdeepCity_Text_1695D3:: @ 81695D3
 	.string "Ein weißer Felsen.$"
 
 MossdeepCity_Text_1695E6:: @ 81695E6
-	.string "POKéMON ARENA von MOOSBACH CITY \n"
+	.string "Pokémon ARENA von MOOSBACH CITY \n"
 	.string "LEITER: SVENJA & BEN\p"
 	.string "“Die mystische Kombination!”$"
 
 MossdeepCity_Text_16962F:: @ 816962F
 	.string "MOOSBACH CITY\n"
-	.string "“Unser Motto: Liebe POKéMON!”$"
+	.string "“Unser Motto: Liebe Pokémon!”$"
 
 MossdeepCity_Text_16965C:: @ 816965C
 	.string "MOOSBACH CITY RAUMFAHRTZENTRUM\n"

@@ -1,6 +1,6 @@
 RustboroCity_DevonCorp_2F_Text_182B81:: @ 8182B81
 	.string "Wir wollen ein Gerät entwickeln, mit dem\n"
-	.string "wir mit POKéMON reden können.\p"
+	.string "wir mit Pokémon reden können.\p"
 	.string "Aber bisher waren wir nicht sehr\n"
 	.string "erfolgreich...$"
 
@@ -14,9 +14,9 @@ RustboroCity_DevonCorp_2F_Text_182C25:: @ 8182C25
 	.string "Wir haben endlich neue POKéBÄLLE\n"
 	.string "entwickelt!\p"
 	.string "Mit dem WIEDERBALL lassen sich\n"
-	.string "POKéMON leichter fangen, die du\l"
+	.string "Pokémon leichter fangen, die du\l"
 	.string "vorher schon mal gefangen hattest.\p"
-	.string "Mit dem TIMERBALL lassen sich POKéMON\n"
+	.string "Mit dem TIMERBALL lassen sich Pokémon\n"
 	.string "umso leichter fangen, je länger der\l"
 	.string "Kampf dauert.\p"
 	.string "Beide werden voller Stolz von der\n"
@@ -34,7 +34,7 @@ RustboroCity_DevonCorp_2F_Text_182D7E:: @ 8182D7E
 	.string "Das ist ein POKéNAV!\p"
 	.string "Er ist das Resultat der Wissbegierde\n"
 	.string "unseres PRÄSIDENTEN, der etwas über\l"
-	.string "die Gefühle der POKéMON lernen möchte.\p"
+	.string "die Gefühle der Pokémon lernen möchte.\p"
 	.string "Soll ich dir die Funktionen im Einzelnen\n"
 	.string "erklären?\p"
 	.string "Ach was, du findest sie schon ganz\n"
@@ -42,20 +42,20 @@ RustboroCity_DevonCorp_2F_Text_182D7E:: @ 8182D7E
 
 RustboroCity_DevonCorp_2F_Text_182E6B:: @ 8182E6B
 	.string "Ich arbeite an einer Vorrichtung, die\n"
-	.string "die Träume der POKéMON visualisieren\l"
+	.string "die Träume der Pokémon visualisieren\l"
 	.string "kann...\p"
 	.string "Aber so richtig geht es nicht voran.$"
 
 RustboroCity_DevonCorp_2F_Text_182ED5:: @ 8182ED5
 	.string "Ich arbeite an einer Vorrichtung, die\n"
-	.string "POKéMON aus Fossilien wieder zum Leben\l"
+	.string "Pokémon aus Fossilien wieder zum Leben\l"
 	.string "erweckt.\p"
 	.string "Und... Es klappt!!!$"
 
 RustboroCity_DevonCorp_2F_Text_182F35:: @ 8182F35
 	.string "Warte! Das Teil dort...\n"
-	.string "Ist das ein POKéMON-Fossil?\p"
-	.string "Möchtest du das POKéMON wieder zum\n"
+	.string "Ist das ein Pokémon-Fossil?\p"
+	.string "Möchtest du das Pokémon wieder zum\n"
 	.string "Leben erwecken?\p"
 	.string "Ich kann dir mit meiner neuesten Ent-\n"
 	.string "wicklung, dem FOSSIL-REGENERATOR,\l"
@@ -84,15 +84,15 @@ RustboroCity_DevonCorp_2F_Text_183072:: @ 8183072
 
 RustboroCity_DevonCorp_2F_Text_183124:: @ 8183124
 	.string "Danke für deine Geduld!\p"
-	.string "Dein fossiles POKéMON wurde zu neuem\n"
+	.string "Dein fossiles Pokémon wurde zu neuem\n"
 	.string "Leben erweckt!\p"
 	.string "Das Fossil war ein altertümliches\n"
-	.string "POKéMON. Ein {STR_VAR_2}!$"
+	.string "Pokémon. Ein {STR_VAR_2}!$"
 
 RustboroCity_DevonCorp_2F_Text_18319E:: @ 818319E
 	.string "{PLAYER} erhält das {STR_VAR_2} vom\n"
 	.string "FORSCHER von DEVON.$"
 
 RustboroCity_DevonCorp_2F_Text_1831C8:: @ 81831C8
-	.string "Oh oh, du hast zu viele POKéMON bei dir.\n"
+	.string "Oh oh, du hast zu viele Pokémon bei dir.\n"
 	.string "Du hast keinen Platz für dieses hier.$"

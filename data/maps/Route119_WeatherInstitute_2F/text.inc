@@ -1,13 +1,13 @@
 Route119_WeatherInstitute_2F_Text_19EEAF:: @ 819EEAF
 	.string "The INSTITUTE created a type of\n"
-	.string "POKéMON that has something to do with\l"
+	.string "Pokémon that has something to do with\l"
 	.string "the weather. We're here to take them!$"
 
 Route119_WeatherInstitute_2F_Text_19EF1B:: @ 819EF1B
 	.string "Our plan's being spoiled by a kid?$"
 
 Route119_WeatherInstitute_2F_Text_19EF3E:: @ 819EF3E
-	.string "If the POKéMON they made here can\n"
+	.string "If the Pokémon they made here can\n"
 	.string "control the weather freely, then we of\l"
 	.string "TEAM {EVIL_TEAM} definitely need it!$"
 
@@ -50,17 +50,17 @@ Route119_WeatherInstitute_2F_Text_19F1CF:: @ 819F1CF
 	.string "Thanks!\n"
 	.string "Thanks to you, we're safe!\p"
 	.string "It might be an odd way of thanking you,\n"
-	.string "but take this POKéMON.$"
+	.string "but take this Pokémon.$"
 
 Route119_WeatherInstitute_2F_Text_19F231:: @ 819F231
 	.string "Hm? You don't seem to have any room\n"
-	.string "for this POKéMON.$"
+	.string "for this Pokémon.$"
 
 Route119_WeatherInstitute_2F_Text_19F267:: @ 819F267
 	.string "{PLAYER} received CASTFORM!$"
 
 Route119_WeatherInstitute_2F_Text_19F27D:: @ 819F27D
-	.string "That POKéMON changes shape according\n"
+	.string "That Pokémon changes shape according\n"
 	.string "to the weather conditions.\p"
 	.string "There're plenty of them in the\n"
 	.string "INSTITUTE - go ahead and take it.$"

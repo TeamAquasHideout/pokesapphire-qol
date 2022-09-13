@@ -8,13 +8,13 @@ LittlerootTown_BrendansHouse_2F_Text_172E4C:: @ 8172E4C
 	.string "Gut! Alles ist wunderbar aufgeräumt!\p"
 	.string "Auch im Erdgeschoss ist alles\n"
 	.string "komplett eingerichtet.\p"
-	.string "POKéMON-Umzugshelfer sind so\n"
+	.string "Pokémon-Umzugshelfer sind so\n"
 	.string "praktisch.\p"
 	.string "Oh, du solltest prüfen, ob dein Schreib-\n"
 	.string "tisch vollständig eingeräumt ist!$"
 
 UnknownString_8172F31: @ 8172F31
-	.string "Im Regal stehen Bücher über POKéMON.\n"
+	.string "Im Regal stehen Bücher über Pokémon.\n"
 	.string "Das ist die wertvolle Sammlung\l"
 	.string "von {PLAYER}.$"
 

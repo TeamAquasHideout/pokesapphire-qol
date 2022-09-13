@@ -23,7 +23,7 @@ PetalburgCity_WallysHouse_Text_179996:: @ 8179996
 	.string "since he went to VERDANTURF TOWN.\p"
 	.string "We owe it all to you!\p"
 	.string "When WALLY left town, you helped\n"
-	.string "him catch a POKéMON, right?\p"
+	.string "him catch a Pokémon, right?\p"
 	.string "I think that made WALLY really\n"
 	.string "happy.\p"
 	.string "Actually, not just WALLY.\n"
@@ -34,7 +34,7 @@ PetalburgCity_WallysHouse_Text_179996:: @ 8179996
 	.string "I'd really like you to have this.$"
 
 PetalburgCity_WallysHouse_Text_179B14:: @ 8179B14
-	.string "If your POKéMON can SURF, you'll be\n"
+	.string "If your Pokémon can SURF, you'll be\n"
 	.string "able to go to all sorts of places.$"
 
 PetalburgCity_WallysHouse_Text_179B5B:: @ 8179B5B
@@ -51,7 +51,7 @@ PetalburgCity_WallysHouse_Text_179B92:: @ 8179B92
 
 PetalburgCity_WallysHouse_Text_179C2C:: @ 8179C2C
 	.string "WALLY was really happy when he told\n"
-	.string "us that he caught a POKéMON.\p"
+	.string "us that he caught a Pokémon.\p"
 	.string "It's been ages since I've seen him\n"
 	.string "smile like that.$"
 

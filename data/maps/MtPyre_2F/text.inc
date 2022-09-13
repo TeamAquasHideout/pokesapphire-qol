@@ -15,7 +15,7 @@ MtPyre_2F_Text_196368:: @ 8196368
 
 MtPyre_2F_Text_1963CB:: @ 81963CB
 	.string "LUKE: If you want to take me on, bring\n"
-	.string "some more POKéMON.\p"
+	.string "some more Pokémon.\p"
 	.string "If you don't, I won't be able to show\n"
 	.string "off how cool I am to my girl!$"
 
@@ -36,9 +36,9 @@ MtPyre_2F_Text_196504:: @ 8196504
 
 MtPyre_2F_Text_196539:: @ 8196539
 	.string "DEZ: If you want to challenge us, you\n"
-	.string "should bring at least two POKéMON.\p"
+	.string "should bring at least two Pokémon.\p"
 	.string "My boyfriend's strong.\n"
-	.string "Just one POKéMON won't do at all.$"
+	.string "Just one Pokémon won't do at all.$"
 
 MtPyre_2F_Text_1965BB:: @ 81965BB
 	.string "Memories of my darling SKITTY...\n"
@@ -51,7 +51,7 @@ MtPyre_2F_Text_196600:: @ 8196600
 	.string "the floor above.$"
 
 MtPyre_2F_Text_196674:: @ 8196674
-	.string "Hey! Are you searching for POKéMON?\n"
+	.string "Hey! Are you searching for Pokémon?\n"
 	.string "You came along after me! You're rude!$"
 
 MtPyre_2F_Text_1966BE:: @ 81966BE
@@ -60,4 +60,4 @@ MtPyre_2F_Text_1966BE:: @ 81966BE
 
 MtPyre_2F_Text_1966E7:: @ 81966E7
 	.string "People don't come here often, so\n"
-	.string "I thought there'd be rare POKéMON.$"
+	.string "I thought there'd be rare Pokémon.$"

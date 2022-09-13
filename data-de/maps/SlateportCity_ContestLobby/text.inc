@@ -1,5 +1,5 @@
 SlateportCity_ContestLobby_Text_17C937:: @ 817C937
-	.string "Ich möchte ein POKéMON aufziehen, das\n"
+	.string "Ich möchte ein Pokémon aufziehen, das\n"
 	.string "im Kampf und im WETTBEWERB\l"
 	.string "“unbesiegbar” ist.\p"
 	.string "Es ist schon verwirrend, herauszu-\n"
@@ -23,7 +23,7 @@ SlateportCity_ContestLobby_Text_17CA88:: @ 817CA88
 
 SlateportCity_ContestLobby_Text_17CAEC:: @ 817CAEC
 	.string "Wenn du einen WETTBEWERB gewinnst,\n"
-	.string "wird ein Bild deines POKéMON an die\l"
+	.string "wird ein Bild deines Pokémon an die\l"
 	.string "Wand gehängt.\p"
-	.string "Das Porträt deines POKéMON wird\n"
+	.string "Das Porträt deines Pokémon wird\n"
 	.string "außerdem mit deinem Namen versehen.$"

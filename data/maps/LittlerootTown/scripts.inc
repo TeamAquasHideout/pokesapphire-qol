@@ -175,7 +175,7 @@ LittlerootTown_EventScript_14D6C5:: @ 814D6C5
 	releaseall
 	end
 
-LittlerootTown_EventScript_14D6CD:: @ 814D6CD
+LittlerootTown_EventScript_FatMan:: @ 814D6CD
 	msgbox LittlerootTown_Text_16AC00, MSGBOX_NPC
 	end
 

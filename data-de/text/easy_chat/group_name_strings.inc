@@ -1,5 +1,5 @@
 gEasyChatGroupName_Pokemon:: @ 842C7DB
-	.string "POKéMON$"
+	.string "Pokémon$"
 
 gEasyChatGroupName_Trainer:: @ 842C7E3
 	.string "TRAINER$"
@@ -62,4 +62,4 @@ gEasyChatGroupName_TrendySaying:: @ 842C879
 	.string "HIPPER SPRUCH$"
 
 gEasyChatGroupName_Pokemon2:: @ 842C887
-	.string "POKéMON 2$"
+	.string "Pokémon 2$"

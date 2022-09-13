@@ -17,7 +17,7 @@ DewfordTown_House2_Text_176055:: @ 8176055
 	.string "Dieser SEIDENSCHAL steigert die Stärke\n"
 	.string "der NORMALEN Attacken.\p"
 	.string "Dieser wunderbare SCHAL passt einfach\n"
-	.string "zu fast allen POKéMON!$"
+	.string "zu fast allen Pokémon!$"
 
 DewfordTown_House2_Text_1760C8:: @ 81760C8
 	.string "Wow, du hast die beschwerliche Reise\n"

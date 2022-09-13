@@ -29,7 +29,7 @@ Route128_Text_172008:: @ 8172008
 
 Route128_Text_17210B:: @ 817210B
 	.string "{GOOD_LEADER}: This defies belief...\p"
-	.string "A super-ancient POKéMON...\p"
+	.string "A super-ancient Pokémon...\p"
 	.string "Its power is unbelievable.\n"
 	.string "It has upset the balance of nature...$"
 

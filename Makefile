@@ -81,6 +81,7 @@ RAMSCRGEN := tools/ramscrgen/ramscrgen$(EXE)
 GBAFIX    := tools/gbafix/gbafix$(EXE)
 MAPJSON   := tools/mapjson/mapjson$(EXE)
 JSONPROC  := tools/jsonproc/jsonproc$(EXE)
+SCRIPT := tools/poryscript/poryscript$(EXE)
 
 PERL := perl
 
@@ -203,6 +204,7 @@ mostlyclean: tidy
 	rm -f data/maps/connections.inc data/maps/events.inc data/maps/groups.inc data/maps/headers.inc
 	find data/maps \( -iname 'connections.inc' -o -iname 'events.inc' -o -iname 'header.inc' \) -exec rm {} +
 	rm -f $(AUTO_GEN_TARGETS)
+	rm -f $(patsubst %.pory,%.inc,$(shell find data/ -type f -name '*.pory'))
 
 clean: mostlyclean
 	$(MAKE) clean -C tools/gbagfx
@@ -215,6 +217,7 @@ clean: mostlyclean
 	$(MAKE) clean -C tools/gbafix
 	$(MAKE) clean -C tools/mapjson
 	$(MAKE) clean -C tools/jsonproc
+	$(MAKE) clean -C tools/poryscript
 
 tools:
 	@$(MAKE) -C tools/gbagfx
@@ -233,6 +236,8 @@ tidy:
 	$(RM) $(ALL_BUILDS:%=poke%{.gba,.elf,.map})
 	$(RM) $(MODERN_BUILDS:%=poke%{.gba,.elf,.map})
 	$(RM) -r build
+
+TOOLDIRS := $(filter-out tools/agbcc tools/binutils tools/poryscript,$(wildcard tools/*))
 
 $(ROM): %.gba: %.elf
 	$(OBJCOPY) -O binary --gap-fill 0xFF --pad-to 0x9000000 $< $@
@@ -330,6 +335,7 @@ include json_data_rules.mk
 %.gbapal: %.png ; $(GBAGFX) $< $@ $(GFX_OPTS)
 %.lz:     %     ; $(GBAGFX) $< $@ $(GFX_OPTS)
 %.rl:     %     ; $(GBAGFX) $< $@ $(GFX_OPTS)
+%.pory: ;
 
 #### Sound Rules ####
 
@@ -341,6 +347,8 @@ sound/%.bin: sound/%.aif
 
 sound/songs/%.s: sound/songs/%.mid
 	cd $(@D) && ../../$(MID2AGB) $(<F)
+
+data/%.inc: data/%.pory; $(SCRIPT) -i $< -o $@ -fw tools/poryscript/font_widths.json
 
 ###################
 ### Symbol file ###

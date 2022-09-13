@@ -5,9 +5,9 @@ FallarborTown_ContestHall_Text_177335:: @ 8177335
 	.string "die anderen Teilnehmer machen...$"
 
 FallarborTown_ContestHall_Text_1773C6:: @ 81773C6
-	.string "Schau mal! Mein POKéMON hat all\n"
+	.string "Schau mal! Mein Pokémon hat all\n"
 	.string "diese BÄNDER gewonnen!\p"
-	.string "Besitzen deine POKéMON auch BÄNDER?\n"
+	.string "Besitzen deine Pokémon auch BÄNDER?\n"
 	.string "Du kannst das im POKéNAV überprüfen.$"
 
 FallarborTown_ContestHall_Text_177437:: @ 8177437
@@ -17,5 +17,5 @@ FallarborTown_ContestHall_Text_177437:: @ 8177437
 	.string "aber immer vergebens.$"
 
 FallarborTown_ContestHall_Text_1774B1:: @ 81774B1
-	.string "POKéMON-WETTBEWERBE\n"
+	.string "Pokémon-WETTBEWERBE\n"
 	.string "BÜHNE für die SUPER-KLASSE!$"

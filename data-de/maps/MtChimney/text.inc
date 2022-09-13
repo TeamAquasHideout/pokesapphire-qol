@@ -54,7 +54,7 @@ MtChimney_Text_195A04:: @ 8195A04
 
 MtChimney_Text_195A45:: @ 8195A45
 	.string "Wenn du in deinem Herzen Platz für deine\n"
-	.string "POKéMON hast, dann kannst du auch\l"
+	.string "Pokémon hast, dann kannst du auch\l"
 	.string "große Dinge erreichen.$"
 
 MtChimney_Text_195AAD:: @ 8195AAD
@@ -63,7 +63,7 @@ MtChimney_Text_195AAD:: @ 8195AAD
 
 MtChimney_Text_195AD9:: @ 8195AD9
 	.string "Vielleicht schlägt dein Herz im Gleich-\n"
-	.string "klang mit den POKéMON.$"
+	.string "klang mit den Pokémon.$"
 
 MtChimney_Text_195B1C:: @ 8195B1C
 	.string "Ich habe Feuer in mir, Baby.\n"

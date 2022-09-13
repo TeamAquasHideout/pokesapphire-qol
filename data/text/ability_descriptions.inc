@@ -2,7 +2,7 @@ gAbilityDescription_None: @ 81F99CC
 	.string "No special ability.$"
 
 gAbilityDescription_Stench: @ 81F99E0
-	.string "Helps repel wild POKéMON.$"
+	.string "Helps repel wild Pokémon.$"
 
 gAbilityDescription_Drizzle: @ 81F99FA
 	.string "Summons rain in battle.$"
@@ -125,7 +125,7 @@ gAbilityDescription_WaterVeil: @ 81F9D8D
 	.string "Prevents burns.$"
 
 gAbilityDescription_MagnetPull: @ 81F9D9D
-	.string "Traps STEEL-type POKéMON.$"
+	.string "Traps STEEL-type Pokémon.$"
 
 gAbilityDescription_Soundproof: @ 81F9DB7
 	.string "Avoids sound-based moves.$"

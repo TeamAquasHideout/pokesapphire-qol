@@ -31,7 +31,7 @@ VictoryRoad_B2F_Text_1980AD:: @ 81980AD
 	.string "No signs of tiring at all!$"
 
 VictoryRoad_B2F_Text_1980C8:: @ 81980C8
-	.string "VICTORY ROAD and the POKéMON LEAGUE\n"
+	.string "VICTORY ROAD and the Pokémon LEAGUE\n"
 	.string "are long and grueling challenges.\l"
 	.string "Beware of fatigue!$"
 

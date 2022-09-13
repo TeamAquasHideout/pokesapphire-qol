@@ -32,7 +32,7 @@ Route119_WeatherInstitute_1F_Text_19ECF4:: @ 819ECF4
 
 Route119_WeatherInstitute_1F_Text_19ED22:: @ 819ED22
 	.string "Wow, you're really strong!\p"
-	.string "I wish I could be a POKéMON TRAINER\n"
+	.string "I wish I could be a Pokémon TRAINER\n"
 	.string "like you!$"
 
 Route119_WeatherInstitute_1F_Text_19ED6B:: @ 819ED6B

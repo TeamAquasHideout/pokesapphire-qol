@@ -2,7 +2,7 @@ FortreeCity_Gym_Text_18589C:: @ 818589C
 	.string "Yo, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
 	.string "FORTREE GYM LEADER WINONA is a\n"
-	.string "master of FLYING-type POKéMON.\p"
+	.string "master of FLYING-type Pokémon.\p"
 	.string "She's waiting at the back of this GYM,\n"
 	.string "behind the rotating doors.\p"
 	.string "She's waiting for new challengers who\n"
@@ -15,7 +15,7 @@ FortreeCity_Gym_Text_185994:: @ 8185994
 
 FortreeCity_Gym_Text_1859B9:: @ 81859B9
 	.string "Behold the elegant battle style of\n"
-	.string "BIRD POKéMON!$"
+	.string "BIRD Pokémon!$"
 
 FortreeCity_Gym_Text_1859EA:: @ 81859EA
 	.string "You...\n"
@@ -28,7 +28,7 @@ FortreeCity_Gym_Text_185A02:: @ 8185A02
 	.string "get to our LEADER?$"
 
 FortreeCity_Gym_Text_185A7F:: @ 8185A7F
-	.string "The lovers of BIRD POKéMON aspire\n"
+	.string "The lovers of BIRD Pokémon aspire\n"
 	.string "to join this GYM.\p"
 	.string "As a member of the FORTREE GYM,\n"
 	.string "I'm not allowed to lose!$"
@@ -70,17 +70,17 @@ FortreeCity_Gym_Text_185C8C:: @ 8185C8C
 
 FortreeCity_Gym_Text_185CCB:: @ 8185CCB
 	.string "I am WINONA. I am the LEADER of the\n"
-	.string "FORTREE POKéMON GYM.\p"
-	.string "I have become one with BIRD POKéMON\n"
+	.string "FORTREE Pokémon GYM.\p"
+	.string "I have become one with BIRD Pokémon\n"
 	.string "and have soared the skies...\p"
 	.string "However grueling the battle, we have\n"
 	.string "triumphed with grace...\p"
 	.string "Witness the elegant choreography\n"
-	.string "of BIRD POKéMON and I!$"
+	.string "of BIRD Pokémon and I!$"
 
 FortreeCity_Gym_Text_185DBA:: @ 8185DBA
 	.string "Never before have I seen a TRAINER\n"
-	.string "command POKéMON with more grace\l"
+	.string "command Pokémon with more grace\l"
 	.string "than I...\p"
 	.string "In recognition of your prowess,\n"
 	.string "I present to you this GYM BADGE.$"
@@ -90,7 +90,7 @@ FortreeCity_Gym_Text_185E48:: @ 8185E48
 	.string "from WINONA.$"
 
 FortreeCity_Gym_Text_185E73:: @ 8185E73
-	.string "With the FEATHER BADGE, all POKéMON up\n"
+	.string "With the FEATHER BADGE, all Pokémon up\n"
 	.string "to LV 70, even those received through\l"
 	.string "trades, will obey your every command.\p"
 	.string "You will also be able to use the\n"
@@ -101,16 +101,16 @@ FortreeCity_Gym_Text_185E73:: @ 8185E73
 FortreeCity_Gym_Text_185F4A:: @ 8185F4A
 	.string "TM40 contains AERIAL ACE.\p"
 	.string "Its speed...\n"
-	.string "No POKéMON should be able to avoid it.$"
+	.string "No Pokémon should be able to avoid it.$"
 
 FortreeCity_Gym_Text_185F98:: @ 8185F98
 	.string "Though I fell to you, I will remain\n"
-	.string "devoted to BIRD POKéMON.$"
+	.string "devoted to BIRD Pokémon.$"
 
 FortreeCity_Gym_Text_185FD5:: @ 8185FD5
-	.string "FORTREE CITY POKéMON GYM$"
+	.string "FORTREE CITY Pokémon GYM$"
 
 FortreeCity_Gym_Text_185FEE:: @ 8185FEE
-	.string "FORTREE CITY POKéMON GYM\p"
+	.string "FORTREE CITY Pokémon GYM\p"
 	.string "WINONA'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"

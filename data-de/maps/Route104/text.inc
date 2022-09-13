@@ -10,17 +10,17 @@ Route104_Text_16DA89:: @ 816DA89
 
 Route104_Text_16DAC9:: @ 816DAC9
 	.string "Bevor du einen POKéBALL wirfst,\n"
-	.string "schwäche das POKéMON erst.\p"
+	.string "schwäche das Pokémon erst.\p"
 	.string "Wenn es vergiftet ist, eine Verbrennung\n"
 	.string "hat oder schläft, kann es leichter\l"
 	.string "gefangen werden.$"
 
 Route104_Text_16DB5C:: @ 816DB5C
 	.string "Du bist ein gemeiner Dieb, wenn du ver-\n"
-	.string "suchst, das POKéMON eines anderen zu\l"
+	.string "suchst, das Pokémon eines anderen zu\l"
 	.string "stehlen.\p"
 	.string "Du solltest deine POKéBÄLLE nur auf\n"
-	.string "wilde POKéMON werfen.$"
+	.string "wilde Pokémon werfen.$"
 
 Route104_Text_16DBC9:: @ 816DBC9
 	.string "Oh, nein, ich bin kein TRAINER.\p"
@@ -36,7 +36,7 @@ Route104_Text_16DC5F:: @ 816DC5F
 	.string "hohem Bogen auszuspucken.\p"
 	.string "Du kannst dies hier haben, versuch es\n"
 	.string "einfach mal!\p"
-	.string "Wende es an einem POKéMON an und es\n"
+	.string "Wende es an einem Pokémon an und es\n"
 	.string "wird lernen, in schneller Folge\l"
 	.string "Saatkörner auszuspucken.$"
 
@@ -79,10 +79,10 @@ Route104_Text_16DF16:: @ 816DF16
 	.string "TIPPS für TRAINER\p"
 	.string "In der HOENN-Region gibt es Paare von\n"
 	.string "TRAINERN, die andere zu einem\l"
-	.string "2-gegen-2 POKéMON-Kampf, einem\l"
+	.string "2-gegen-2 Pokémon-Kampf, einem\l"
 	.string "DOPPELKAMPF, herausfordern.\p"
 	.string "In einem DOPPELKAMPF muss der TRAINER\n"
-	.string "zwei POKéMON antreten lassen. Das \l"
-	.string "POKéMON links neben der Liste und das\l"
+	.string "zwei Pokémon antreten lassen. Das \l"
+	.string "Pokémon links neben der Liste und das\l"
 	.string "an der Spitze der Liste. Achte also auf\l"
-	.string "die Reihenfolge der POKéMON.$"
+	.string "die Reihenfolge der Pokémon.$"

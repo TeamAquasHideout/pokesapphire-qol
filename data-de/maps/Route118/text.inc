@@ -8,10 +8,10 @@ Route118_Text_170D66:: @ 8170D66
 	.string "Ich erinnere mich.\p"
 	.string "{PLAYER}{KUN}.\p"
 	.string "In dieser großen Welt gibt es viele ver-\n"
-	.string "schiedene Arten von POKéMON mit\l"
+	.string "schiedene Arten von Pokémon mit\l"
 	.string "vielen verschiedenen Elementklassen.\p"
 	.string "Ziehst du verschiedene Elementklassen\n"
-	.string "auf? Oder nur POKéMON einer bestimmten\l"
+	.string "auf? Oder nur Pokémon einer bestimmten\l"
 	.string "Elementklasse?\p"
 	.string "Was denkst du als TRAINER darüber?\p"
 	.string "Tut mir Leid, ich bombardiere dich hier\n"
@@ -38,13 +38,13 @@ Route118_Text_170FB0:: @ 8170FB0
 
 Route118_Text_170FC8:: @ 8170FC8
 	.string "Versuche, alle möglichen Arten von\n"
-	.string "POKéMON mit der PROFIANGEL zu fangen.$"
+	.string "Pokémon mit der PROFIANGEL zu fangen.$"
 
 Route118_Text_170FFE:: @ 8170FFE
 	.string "Auch wenn gerade kein Schiff in der\n"
-	.string "Nähe ist, kannst du mit einem POKéMON,\l"
+	.string "Nähe ist, kannst du mit einem Pokémon,\l"
 	.string "das SURFER kennt, das Meer überqueren.\p"
-	.string "Auf POKéMON kann man sich immer\n"
+	.string "Auf Pokémon kann man sich immer\n"
 	.string "verlassen!$"
 
 Route118_Text_17108B:: @ 817108B

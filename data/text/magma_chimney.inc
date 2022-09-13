@@ -16,7 +16,7 @@ MtChimney_Text_1B38B3:: @ 81B38B3
 	.string "That is why we of TEAM MAGMA are\n"
 	.string "committed to expanding the landmass.\p"
 	.string "It will create space for new species\n"
-	.string "of POKéMON to evolve.\p"
+	.string "of Pokémon to evolve.\p"
 	.string "It will give us humans more space to\n"
 	.string "advance.\p"
 	.string "That is TEAM MAGMA's vision!\p"
@@ -133,7 +133,7 @@ MtChimney_Text_1B40EA:: @ 81B40EA
 
 MtChimney_Text_1B4128:: @ 81B4128
 	.string "If they expand the land, there'll be\n"
-	.string "less habitats for WATER POKéMON!$"
+	.string "less habitats for WATER Pokémon!$"
 
 MtChimney_Text_1B416E:: @ 81B416E
 	.string "TEAM MAGMA wants to expand the\n"

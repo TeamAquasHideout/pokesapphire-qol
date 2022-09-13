@@ -1,15 +1,15 @@
 Route111_WinstrateFamilysHouse_Text_191FCE:: @ 8191FCE
 	.string "Ich habe noch nie einen TRAINER ge-\n"
-	.string "sehen, der seine POKéMON so meister-\l"
+	.string "sehen, der seine Pokémon so meister-\l"
 	.string "haft einsetzt wie du.\p"
 	.string "Aber, ich muss dir auch sagen... Mein\n"
 	.string "Sohn ist stärker als du.\p"
-	.string "Er hat sogar die POKéMON LIGA heraus-\n"
+	.string "Er hat sogar die Pokémon LIGA heraus-\n"
 	.string "gefordert. Das solltest du wissen.$"
 
 Route111_WinstrateFamilysHouse_Text_19208A:: @ 819208A
 	.string "Wir benutzen dieses MACHOBAND, um die\n"
-	.string "POKéMON im Training noch mehr\l"
+	.string "Pokémon im Training noch mehr\l"
 	.string "zu stärken.\p"
 	.string "Da du unsere gesamte Familie besiegt\n"
 	.string "hast, brauchst du es vielleicht gar\l"
@@ -17,7 +17,7 @@ Route111_WinstrateFamilysHouse_Text_19208A:: @ 819208A
 	.string "MACHOBAND trotzdem gerne schenken.$"
 
 Route111_WinstrateFamilysHouse_Text_19214D:: @ 819214D
-	.string "Wenn es um POKéMON-Kämpfe geht, ist\n"
+	.string "Wenn es um Pokémon-Kämpfe geht, ist\n"
 	.string "die ganze Familie sehr leidenschaftlich.$"
 
 Route111_WinstrateFamilysHouse_Text_192190:: @ 8192190
@@ -36,14 +36,14 @@ Route111_WinstrateFamilysHouse_Text_192219:: @ 8192219
 	.string "Er ist viel stärker als jeder TRAINER,\n"
 	.string "den unsere Familie kennt.\p"
 	.string "Er müsste jetzt gerade eigentlich dabei\n"
-	.string "sein, die POKéMON LIGA\l"
+	.string "sein, die Pokémon LIGA\l"
 	.string "herauszufordern.\p"
 	.string "Wie ich meinen Enkel kenne, ist er\n"
 	.string "mittlerweile bestimmt schon der CHAMP!$"
 
 Route111_WinstrateFamilysHouse_Text_192334:: @ 8192334
 	.string "Mein Enkel müsste jetzt gerade dabei\n"
-	.string "sein, die POKéMON LIGA\l"
+	.string "sein, die Pokémon LIGA\l"
 	.string "herauszufordern.\p"
 	.string "Wie ich meinen Enkel kenne, ist er\n"
 	.string "mittlerweile bestimmt schon der CHAMP!$"

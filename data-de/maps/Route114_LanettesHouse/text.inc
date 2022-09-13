@@ -7,40 +7,40 @@ Route114_LanettesHouse_Text_192A0D:: @ 8192A0D
 	.string "niemandem! Ich gebe dir auch dies hier...$"
 
 Route114_LanettesHouse_Text_192ACC:: @ 8192ACC
-	.string "Soll ich dir einige Hinweise zum POKéMON-\n"
+	.string "Soll ich dir einige Hinweise zum Pokémon-\n"
 	.string "Lagerungs-System geben?\p"
 	.string "Du solltest deine BOXEN gut verwalten,\n"
-	.string "damit du weißt, welche POKéMON sich \l"
+	.string "damit du weißt, welche Pokémon sich \l"
 	.string "in welcher BOX befinden...$"
 
 Route114_LanettesHouse_Text_192B4A:: @ 8192B4A
 	.string "LANETTES Forschungs-Aufzeichnungen.\n"
 	.string "Das sind Informationen zu den BOXEN.\p"
 	.string "Es sollten BOXEN eingerichtet werden,\n"
-	.string "die jeweils 30 POKéMON aufnehmen\l"
+	.string "die jeweils 30 Pokémon aufnehmen\l"
 	.string "können.\p"
 	.string "Jeder TRAINER sollte in der Lage sein,\n"
-	.string "420 POKéMON im PC-System zu lagern.\p"
+	.string "420 Pokémon im PC-System zu lagern.\p"
 	.string "Weiterlesen?$"
 
 Route114_LanettesHouse_Text_192C01:: @ 8192C01
 	.string "Es muss ein Markierungssystem einge-\n"
 	.string "richtet werden, mit dem man eine gute\l"
-	.string "Übersicht über die POKéMON bekommt.\p"
+	.string "Übersicht über die Pokémon bekommt.\p"
 	.string "Der Name und der Hintergrund jeder BOX\n"
 	.string "lässt sich verändern, zur Freude der\l"
-	.string "darin gelagerten POKéMON.\p"
+	.string "darin gelagerten Pokémon.\p"
 	.string "Weiterlesen?$"
 
 Route114_LanettesHouse_Text_192CB4:: @ 8192CB4
-	.string "Immer, wenn ein POKéMON gelagert wird,\n"
+	.string "Immer, wenn ein Pokémon gelagert wird,\n"
 	.string "wird es in der BOX gelagert, die als\l"
 	.string "Letzte geöffnet wurde.\p"
-	.string "Ist diese BOX voll, wird das POKéMON in\n"
+	.string "Ist diese BOX voll, wird das Pokémon in\n"
 	.string "der nächsten BOX gelagert.\p"
 	.string "Mit anderen Worten, die zuletzt ge-\n"
 	.string "öffnete BOX wird automatisch gewählt,\l"
-	.string "um ein POKéMON zu lagern.$"
+	.string "um ein Pokémon zu lagern.$"
 
 Route114_LanettesHouse_Text_192DA9:: @ 8192DA9
 	.string "{PLAYER} schließt das Notizbuch.$"

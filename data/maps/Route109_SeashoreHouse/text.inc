@@ -2,7 +2,7 @@ Route109_SeashoreHouse_Text_19B4D9:: @ 819B4D9
 	.string "I'm the owner of the SEASHORE HOUSE.\n"
 	.string "But you can call me MR. SEA!\p"
 	.string "What I love above all is to see hot\n"
-	.string "POKéMON battles.\p"
+	.string "Pokémon battles.\p"
 	.string "Let me see that your heart burns hot!\p"
 	.string "If you can defeat all the TRAINERS\n"
 	.string "here, I'll reward your efforts.$"
@@ -26,7 +26,7 @@ Route109_SeashoreHouse_Text_19B6BE:: @ 819B6BE
 
 Route109_SeashoreHouse_Text_19B702:: @ 819B702
 	.string "Want to buy some SODA POP?\n"
-	.string "POKéMON love it!\p"
+	.string "Pokémon love it!\p"
 	.string "Just ¥300 a bottle!\n"
 	.string "Buy some!$"
 
@@ -41,7 +41,7 @@ Route109_SeashoreHouse_Text_19B773:: @ 819B773
 	.string "That's too bad.$"
 
 UnknownString_819B787: @ 819B787
-	.string "SODA POP! The POKéMON favorite!\n"
+	.string "SODA POP! The Pokémon favorite!\n"
 	.string "Just ¥300 a bottle! Want one?$"
 
 UnknownString_819B7C5: @ 819B7C5
@@ -70,7 +70,7 @@ Route109_SeashoreHouse_Text_19B89F:: @ 819B89F
 Route109_SeashoreHouse_Text_19B8E5:: @ 819B8E5
 	.string "Boring battles aren't worth the effort.\p"
 	.string "Fiery hot battles are what toughen up\n"
-	.string "TRAINERS and POKéMON!$"
+	.string "TRAINERS and Pokémon!$"
 
 Route109_SeashoreHouse_Text_19B949:: @ 819B949
 	.string "That's hot!$"
@@ -81,12 +81,12 @@ Route109_SeashoreHouse_Text_19B955:: @ 819B955
 
 Route109_SeashoreHouse_Text_19B988:: @ 819B988
 	.string "I'm going to show you how great my\n"
-	.string "POKéMON are, but don't cry!$"
+	.string "Pokémon are, but don't cry!$"
 
 Route109_SeashoreHouse_Text_19B9C7:: @ 819B9C7
 	.string "...I lost, but I won't cry...$"
 
 Route109_SeashoreHouse_Text_19B9E5:: @ 819B9E5
-	.string "If one of my POKéMON knew the move\n"
+	.string "If one of my Pokémon knew the move\n"
 	.string "for carrying me across water on its\l"
 	.string "back, I could get rid of this inner tube.$"

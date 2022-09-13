@@ -5,7 +5,7 @@ PetalburgCity_Gym_Text_179DF6:: @ 8179DF6
 	.string "Ich bin überrascht, dass du ganz\n"
 	.string "alleine hierher gefunden hast.\p"
 	.string "Oh, so ist das.\n"
-	.string "Du bist in POKéMON-Begleitung.\p"
+	.string "Du bist in Pokémon-Begleitung.\p"
 	.string "Ich glaube, du wirst einmal in meine Fuß-\n"
 	.string "stapfen als TRAINER treten, {PLAYER}.\p"
 	.string "Das sind großartige Aussichten!\n"
@@ -13,7 +13,7 @@ PetalburgCity_Gym_Text_179DF6:: @ 8179DF6
 
 PetalburgCity_Gym_Text_179F07:: @ 8179F07
 	.string "Äh... Ich... Ich hätte so gerne ein\n"
-	.string "POKéMON. Bitte...$"
+	.string "Pokémon. Bitte...$"
 
 PetalburgCity_Gym_Text_179F37:: @ 8179F37
 	.string "VATER: Wie? Du... Ach... Gut.\n"
@@ -24,7 +24,7 @@ PetalburgCity_Gym_Text_179F70:: @ 8179F70
 	.string "in WIESENFLUR besuchen.\p"
 	.string "Ich glaube, ich werde mich da doch\n"
 	.string "einsam fühlen, daher würde ich gerne ein\l"
-	.string "POKéMON mitnehmen.\p"
+	.string "Pokémon mitnehmen.\p"
 	.string "Aber ich habe noch nie eines gefangen.\n"
 	.string "Ich weiß nicht, wie das geht...$"
 
@@ -34,16 +34,16 @@ PetalburgCity_Gym_Text_17A03A:: @ 817A03A
 PetalburgCity_Gym_Text_17A04A:: @ 817A04A
 	.string "VATER: {PLAYER}, hast du das gehört?\p"
 	.string "Hilf doch bitte HEIKO dabei,\n"
-	.string "ein POKéMON zu fangen.$"
+	.string "ein Pokémon zu fangen.$"
 
 PetalburgCity_Gym_Text_17A0A8:: @ 817A0A8
 	.string "HEIKO, hier, ich leihe dir mein\n"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "HEIKO hat ein ZIGZACHS erhalten.$"
 
 PetalburgCity_Gym_Text_17A0EB:: @ 817A0EB
 	.string "HEIKO: Oh, wow!!!\n"
-	.string "Ein POKéMON!\p"
+	.string "Ein Pokémon!\p"
 	.string "VATER: Hm. Ich gebe dir auch diesen\n"
 	.string "POKéBALL. Dann leg los!\p"
 	.string "HEIKO erhält einen POKéBALL!$"
@@ -60,11 +60,11 @@ PetalburgCity_Gym_Text_17A196:: @ 817A196
 
 PetalburgCity_Gym_Text_17A1B0:: @ 817A1B0
 	.string "HEIKO: Danke. Ja, wunderbar.\n"
-	.string "Hier haben Sie Ihr POKéMON zurück.\p"
+	.string "Hier haben Sie Ihr Pokémon zurück.\p"
 	.string "Danke, {PLAYER}, dass du mit mir\n"
 	.string "gegangen bist.\p"
 	.string "Euch beiden habe ich es zu verdanken,\n"
-	.string "dass ich mein erstes POKéMON fangen\l"
+	.string "dass ich mein erstes Pokémon fangen\l"
 	.string "konnte.\p"
 	.string "Ich verspreche, ich werde mich gut\n"
 	.string "darum kümmern!\p"
@@ -80,7 +80,7 @@ PetalburgCity_Gym_Text_17A2A4:: @ 817A2A4
 	.string "diesem Ort.\p"
 	.string "Dort solltest du die ARENALEITERIN\n"
 	.string "FELIZIA herausfordern.\p"
-	.string "Danach suche die anderen POKéMON\n"
+	.string "Danach suche die anderen Pokémon\n"
 	.string "ARENEN auf und besiege die LEITER.\p"
 	.string "Sammle die ORDEN der verschiedenen\n"
 	.string "ARENEN, verstehst du?\p"
@@ -92,7 +92,7 @@ PetalburgCity_Gym_Text_17A2A4:: @ 817A2A4
 
 PetalburgCity_Gym_Text_17A41E:: @ 817A41E
 	.string "VATER: Hm? Wolltest du nicht zur\n"
-	.string "POKéMON ARENA in METAROST CITY?\p"
+	.string "Pokémon ARENA in METAROST CITY?\p"
 	.string "Für mich ist es keine Herausforderung,\n"
 	.string "gegen einen Grünschnabel anzutreten.\p"
 	.string "{PLAYER}, ich möchte, dass du mich he-\n"
@@ -121,7 +121,7 @@ PetalburgCity_Gym_Text_17A653:: @ 817A653
 	.string "VATER: Hm...\n"
 	.string "Du besitzt vier ORDEN.\p"
 	.string "Fein. Wie versprochen werden wir nun\n"
-	.string "einen POKéMON-Kampf ausfechten.\p"
+	.string "einen Pokémon-Kampf ausfechten.\p"
 	.string "{PLAYER}...\p"
 	.string "Ich bin so glücklich, dass mein eigenes\n"
 	.string "Kind stark genug ist, gegen\l"
@@ -146,8 +146,8 @@ PetalburgCity_Gym_Text_17A7DD:: @ 817A7DD
 
 PetalburgCity_Gym_Text_17A805:: @ 817A805
 	.string "VATER: Mit diesem ORDEN erhöht sich die\n"
-	.string "VERTEIDIGUNG all deiner POKéMON.\p"
-	.string "POKéMON, die die VM SURFER erlernt\n"
+	.string "VERTEIDIGUNG all deiner Pokémon.\p"
+	.string "Pokémon, die die VM SURFER erlernt\n"
 	.string "haben, können diese auch zum Reisen\l"
 	.string "über das Wasser einsetzen.\p"
 	.string "{PLAYER}, das ist mein Geschenk für\n"
@@ -157,7 +157,7 @@ PetalburgCity_Gym_Text_17A805:: @ 817A805
 PetalburgCity_Gym_Text_17A8CF:: @ 817A8CF
 	.string "VATER: TM42 enthält FASSADE.\p"
 	.string "Sie verdoppelt die Stärke der Attacken,\n"
-	.string "wenn das POKéMON vergiftet,\l"
+	.string "wenn das Pokémon vergiftet,\l"
 	.string "paralysiert oder verbrannt wurde.\p"
 	.string "So kann eine vermeintlich aussichtslose\n"
 	.string "Situation vielleicht gerettet werden.$"
@@ -185,7 +185,7 @@ PetalburgCity_Gym_Text_17AA6B:: @ 817AA6B
 
 PetalburgCity_Gym_Text_17AB17:: @ 817AB17
 	.string "VATER: {PLAYER}! Wie geht es dir?\p"
-	.string "Die Welt der POKéMON ist vielfältig.\p"
+	.string "Die Welt der Pokémon ist vielfältig.\p"
 	.string "Ich bin überzeugt, dass selbst das \n"
 	.string "härteste Training dieser Vielfalt nicht\l"
 	.string "gerecht wird.$"
@@ -234,18 +234,18 @@ PetalburgCity_Gym_Text_17AE30:: @ 817AE30
 
 PetalburgCity_Gym_Text_17AEBB:: @ 817AEBB
 	.string "Ob du siegst oder verlierst... Du darfst\n"
-	.string "dein Training und das deiner POKéMON\l"
+	.string "dein Training und das deiner Pokémon\l"
 	.string "auf keinen Fall vernachlässigen.\p"
 	.string "Das macht für mich einen wahren\n"
 	.string "ARENALEITER aus.$"
 
 PetalburgCity_Gym_Text_17AF5A:: @ 817AF5A
 	.string "Verschwende deine kostbare Zeit nicht\n"
-	.string "damit, die Fähigkeiten meines POKéMON\l"
+	.string "damit, die Fähigkeiten meines Pokémon\l"
 	.string "zu blockieren!$"
 
 PetalburgCity_Gym_Text_17AF98:: @ 817AF98
-	.string "Die Fähigkeiten meines POKéMON wurden\n"
+	.string "Die Fähigkeiten meines Pokémon wurden\n"
 	.string "nicht blockiert, und doch habe ich\l"
 	.string "verloren...$"
 
@@ -289,7 +289,7 @@ PetalburgCity_Gym_Text_17B237:: @ 817B237
 	.string "nur weil du das Kind unseres LEITERS\l"
 	.string "bist.\p"
 	.string "Ich werde dir beibringen, was es für ein\n"
-	.string "POKéMON bedeutet, einen kritischen\l"
+	.string "Pokémon bedeutet, einen kritischen\l"
 	.string "Schlag zu erhalten.$"
 
 PetalburgCity_Gym_Text_17B2C0:: @ 817B2C0
@@ -323,14 +323,14 @@ PetalburgCity_Gym_Text_17B46F:: @ 817B46F
 	.string "TRAINER auf dich.\p"
 	.string "Der linke ist der RAUM der VERTEIDIGUNG\n"
 	.string "und der rechte der RAUM der ERHOLUNG.\p"
-	.string "Die ATTACKEN deiner POKéMON werden\n"
+	.string "Die ATTACKEN deiner Pokémon werden\n"
 	.string "in beiden Räumen auf die Probe gestellt.$"
 
 PetalburgCity_Gym_Text_17B521:: @ 817B521
 	.string "Weißt du, wonach wir als TRAINER\n"
 	.string "streben?\p"
 	.string "Wir streben danach, die Seelenfreunde\n"
-	.string "unserer POKéMON zu werden.$"
+	.string "unserer Pokémon zu werden.$"
 
 PetalburgCity_Gym_Text_17B58D:: @ 817B58D
 	.string "Je stärker die VERTEIDIGUNG ist, desto\n"
@@ -361,17 +361,17 @@ PetalburgCity_Gym_Text_17B732:: @ 817B732
 	.string "Aber... Das war wohl nichts!$"
 
 PetalburgCity_Gym_Text_17B749:: @ 817B749
-	.string "Wie du deine POKéMON einsetzt...\n"
+	.string "Wie du deine Pokémon einsetzt...\n"
 	.string "Du bist wie dein Vater.\p"
 	.string "Geh weiter! Der ARENALEITER, dein\n"
 	.string "Vater, erwartet dich bereits!$"
 
 PetalburgCity_Gym_Text_17B7C0:: @ 817B7C0
 	.string "Sicher, es ist immer von Vorteil, die\n"
-	.string "POKéMON stärker werden zu lassen.\p"
+	.string "Pokémon stärker werden zu lassen.\p"
 	.string "Aber was macht einen Gewinner aus?\p"
 	.string "Nun, das sind die Gefühle, die ein\n"
-	.string "TRAINER seinen POKéMON entgegen-\l"
+	.string "TRAINER seinen Pokémon entgegen-\l"
 	.string "bringt.$"
 
 PetalburgCity_Gym_Text_17B844:: @ 817B844
@@ -417,14 +417,14 @@ PetalburgCity_Gym_Text_17BA00:: @ 817BA00
 
 PetalburgCity_Gym_Text_17BA3D:: @ 817BA3D
 	.string "“ARENALEITER”\p"
-	.string "“Sieh selbst, welche POKéMON dich\n"
+	.string "“Sieh selbst, welche Pokémon dich\n"
 	.string "erwarten!” steht auf dem Schild.\p"
 	.string "Möchtest du die Tür öffnen?$"
 
 PetalburgCity_Gym_Text_17BAA5:: @ 817BAA5
-	.string "POKéMON ARENA von BLÜTENBURG CITY$"
+	.string "Pokémon ARENA von BLÜTENBURG CITY$"
 
 PetalburgCity_Gym_Text_17BAC0:: @ 817BAC0
-	.string "POKéMON ARENA von BLÜTENBURG CITY\p"
+	.string "Pokémon ARENA von BLÜTENBURG CITY\p"
 	.string "NORMANS ANERKANNTE TRAINER:\n"
 	.string "{PLAYER}$"

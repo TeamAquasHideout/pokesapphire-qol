@@ -3,7 +3,7 @@ FortreeCity_Gym_Text_18589C:: @ 818589C
 	.string "CHAMP, {PLAYER}?\p"
 	.string "Die LEITERIN der ARENA von BAUMHAUSEN\n"
 	.string "CITY, WIBKE, ist eine Meisterin der\l"
-	.string "FLUG-POKéMON.\p"
+	.string "FLUG-Pokémon.\p"
 	.string "Sie wartet hinten in der ARENA auf dich,\n"
 	.string "hinter den Drehtüren.\p"
 	.string "Sie wartet auf neue Herausforderer,\n"
@@ -16,7 +16,7 @@ FortreeCity_Gym_Text_185994:: @ 8185994
 
 FortreeCity_Gym_Text_1859B9:: @ 81859B9
 	.string "Bewundere den eleganten Kampfstil der\n"
-	.string "VOGEL-POKéMON!$"
+	.string "VOGEL-Pokémon!$"
 
 FortreeCity_Gym_Text_1859EA:: @ 81859EA
 	.string "Du...\n"
@@ -30,7 +30,7 @@ FortreeCity_Gym_Text_185A02:: @ 8185A02
 	.string "zu unserer LEITERIN vorzudringen.$"
 
 FortreeCity_Gym_Text_185A7F:: @ 8185A7F
-	.string "Liebhaber von VOGEL-POKéMON streben\n"
+	.string "Liebhaber von VOGEL-Pokémon streben\n"
 	.string "danach, dieser ARENA beizutreten.\p"
 	.string "Als Mitglied der ARENA von BAUMHAUSEN\n"
 	.string "CITY darf ich nicht verlieren!$"
@@ -75,15 +75,15 @@ FortreeCity_Gym_Text_185CCB:: @ 8185CCB
 	.string "Ich bin WIBKE, die LEITERIN der ARENA\n"
 	.string "von BAUMHAUSEN CITY.\p"
 	.string "Ich wurde das mit Hilfe meiner VOGEL-\n"
-	.string "POKéMON und habe den Himmel berührt.\p"
+	.string "Pokémon und habe den Himmel berührt.\p"
 	.string "Wie anstrengend der Kampf auch war, wir\n"
 	.string "haben mit Grazie gewonnen...\p"
 	.string "Werde Zeuge der eleganten Choreo-\n"
-	.string "graphie meiner VOGEL-POKéMON!$"
+	.string "graphie meiner VOGEL-Pokémon!$"
 
 FortreeCity_Gym_Text_185DBA:: @ 8185DBA
 	.string "Ich habe noch nie einen TRAINER ge-\n"
-	.string "sehen, der seine POKéMON mit mehr\l"
+	.string "sehen, der seine Pokémon mit mehr\l"
 	.string "Grazie trainiert als ich...\p"
 	.string "In Anbetracht deiner Fähigkeiten\n"
 	.string "überreiche ich dir diesen ARENAORDEN.$"
@@ -94,7 +94,7 @@ FortreeCity_Gym_Text_185E48:: @ 8185E48
 
 FortreeCity_Gym_Text_185E73:: @ 8185E73
 	.string "Mit dem FEDERORDEN gehorchen dir alle\n"
-	.string "POKéMON bis Lv. 70, auch die, die du\l"
+	.string "Pokémon bis Lv. 70, auch die, die du\l"
 	.string "durch Tausch bekommen hast.\p"
 	.string "Außerdem kannst du nun die VM FLIEGEN\n"
 	.string "außerhalb eines Kampfes einsetzen.\p"
@@ -104,16 +104,16 @@ FortreeCity_Gym_Text_185E73:: @ 8185E73
 FortreeCity_Gym_Text_185F4A:: @ 8185F4A
 	.string "TM40 enthält AERO-ASS.\p"
 	.string "Diese Geschwindigkeit...\n"
-	.string "Kein POKéMON kann ihr entgehen.$"
+	.string "Kein Pokémon kann ihr entgehen.$"
 
 FortreeCity_Gym_Text_185F98:: @ 8185F98
 	.string "Auch wenn ich gegen dich verloren habe,\n"
-	.string "gehört meine Liebe den VOGEL-POKéMON.$"
+	.string "gehört meine Liebe den VOGEL-Pokémon.$"
 
 FortreeCity_Gym_Text_185FD5:: @ 8185FD5
-	.string "POKéMON ARENA von BAUMHAUSEN CITY$"
+	.string "Pokémon ARENA von BAUMHAUSEN CITY$"
 
 FortreeCity_Gym_Text_185FEE:: @ 8185FEE
-	.string "POKéMON ARENA von BAUMHAUSEN CITY\p"
+	.string "Pokémon ARENA von BAUMHAUSEN CITY\p"
 	.string "WIBKES ANERKANNTE TRAINER:\n"
 	.string "{PLAYER}$"

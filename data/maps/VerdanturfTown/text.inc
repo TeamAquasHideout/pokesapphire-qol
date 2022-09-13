@@ -1,7 +1,7 @@
 VerdanturfTown_Text_16CAEB:: @ 816CAEB
 	.string "My papa told me.\p"
 	.string "He says this tunnel is full of\n"
-	.string "timid POKéMON.\p"
+	.string "timid Pokémon.\p"
 	.string "They get all scared of loud noise and\n"
 	.string "make a big uproar.\p"
 	.string "So they had to stop the big tunnel\n"
@@ -23,13 +23,13 @@ VerdanturfTown_Text_16CC24:: @ 816CC24
 
 VerdanturfTown_Text_16CCD0:: @ 816CCD0
 	.string "I'm feeling a little confident about the\n"
-	.string "cuteness of my POKéMON.\p"
+	.string "cuteness of my Pokémon.\p"
 	.string "I wanted to make its CONTEST debut,\n"
 	.string "so that's why I'm here.$"
 
 VerdanturfTown_Text_16CD4D:: @ 816CD4D
 	.string "Did you see the cave next to the\n"
-	.string "POKéMON MART?\p"
+	.string "Pokémon MART?\p"
 	.string "There's a guy in there who's trying to\n"
 	.string "bust up boulders so he can bust out\l"
 	.string "through to the other side.\p"
@@ -37,7 +37,7 @@ VerdanturfTown_Text_16CD4D:: @ 816CD4D
 	.string "It'll make it easy to visit RUSTBORO.$"
 
 VerdanturfTown_Text_16CE30:: @ 816CE30
-	.string "That cave next to the POKéMON MART\n"
+	.string "That cave next to the Pokémon MART\n"
 	.string "is now a tunnel to the other side.\p"
 	.string "It's great - it's easy to go shop for new\n"
 	.string "DEVON products in RUSTBORO now.$"
@@ -51,9 +51,9 @@ VerdanturfTown_Text_16CF0D:: @ 816CF0D
 	.string "WANDA'S HOUSE$"
 
 VerdanturfTown_Text_16CF1B:: @ 816CF1B
-	.string "POKéMON CONTESTS\n"
+	.string "Pokémon CONTESTS\n"
 	.string "NORMAL RANK REGISTRATION\p"
-	.string "“Gather here, all ye POKéMON TRAINERS!”$"
+	.string "“Gather here, all ye Pokémon TRAINERS!”$"
 
 VerdanturfTown_Text_16CF6D:: @ 816CF6D
 	.string "RUSTURF TUNNEL\n"

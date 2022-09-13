@@ -7,7 +7,7 @@ VictoryRoad_1F_Text_19782B:: @ 819782B
 	.string "{PLAYER}, meine Niederlage gegen dich\n"
 	.string "hat mich viel stärker gemacht!\p"
 	.string "Ich werde nie wieder verlieren!\p"
-	.string "Ich werde gewinnen! Für die POKéMON,\n"
+	.string "Ich werde gewinnen! Für die Pokémon,\n"
 	.string "die mir Mut und Kraft gegeben haben!\p"
 	.string "Okay... Jetzt komme ich!$"
 
@@ -34,7 +34,7 @@ VictoryRoad_1F_Text_197A47:: @ 8197A47
 	.string "HEIKO: Ich konnte dich wieder nicht\n"
 	.string "besiegen... Aber eines Tages, {PLAYER},\l"
 	.string "eines Tages...\p"
-	.string "Da werde ich sogar die POKéMON LIGA\n"
+	.string "Da werde ich sogar die Pokémon LIGA\n"
 	.string "herausfordern!$"
 
 VictoryRoad_1F_Text_197AD1:: @ 8197AD1

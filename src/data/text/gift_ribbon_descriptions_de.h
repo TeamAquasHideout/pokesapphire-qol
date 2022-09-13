@@ -35,28 +35,28 @@ const u8 gGiftRibbonDescriptionPart1_2005GlobalCup[] = _(
     "WELTPOKAL 2005");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonBattleCup[] = _(
-    "POKéMON-KAMPF-POKAL");
+    "Pokémon-KAMPF-POKAL");
 
 const u8 gGiftRibbonDescriptionPart2_Participation[] = _(
     "Teilnehmer-BAND");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonLeague[] = _(
-    "POKéMON LIGA");
+    "Pokémon LIGA");
 
 const u8 gGiftRibbonDescriptionPart1_AdvanceCup[] = _(
     "TALENTPOKAL");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonTournament[] = _(
-    "POKéMON-Turnier");
+    "Pokémon-Turnier");
 
 const u8 gGiftRibbonDescriptionPart2_Participation2[] = _(
     "Teilnehmer-BAND");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonEvent[] = _(
-    "POKéMON-Wettkampf");
+    "Pokémon-Wettkampf");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonFestival[] = _(
-    "POKéMON-Festival");
+    "Pokémon-Festival");
 
 const u8 gGiftRibbonDescriptionPart1_DifficultyClearing[] = _(
     "Schw.-Grad-Abschl.");
@@ -89,16 +89,16 @@ const u8 gGiftRibbonDescriptionPart1_LegendMaking[] = _(
     "Legendäres");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonCenterTokyo[] = _(
-    "POKéMON-CENTER TOKIO");
+    "Pokémon-CENTER TOKIO");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonCenterOsaka[] = _(
-    "POKéMON-CENTER OSAKA");
+    "Pokémon-CENTER OSAKA");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonCenterNagoya[] = _(
-    "POKéMON-CENTER NAGOYA");
+    "Pokémon-CENTER NAGOYA");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonCenterNY[] = _(
-    "POKéMON-CENTER N. Y.");
+    "Pokémon-CENTER N. Y.");
 
 const u8 gGiftRibbonDescriptionPart1_SummerHolidays[] = _(
     "Sommerferien-BAND");
@@ -131,10 +131,10 @@ const u8 gGiftRibbonDescriptionPart1_LovedPokemon[] = _(
     "Ein Gedenk-BAND für ein");
 
 const u8 gGiftRibbonDescriptionPart2_LovedPokemon[] = _(
-    "beliebtes POKéMON.");
+    "beliebtes Pokémon.");
 
 const u8 gGiftRibbonDescriptionPart1_LoveForPokemon[] = _(
-    "Ein BAND für POKéMON-");
+    "Ein BAND für Pokémon-");
 
 const u8 gGiftRibbonDescriptionPart2_LoveForPokemon[] = _(
     "Freunde.");

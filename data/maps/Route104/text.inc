@@ -11,15 +11,15 @@ Route104_Text_16DA89:: @ 816DA89
 
 Route104_Text_16DAC9:: @ 816DAC9
 	.string "If you're going to throw a POKé BALL,\n"
-	.string "weaken the wild POKéMON first.\p"
+	.string "weaken the wild Pokémon first.\p"
 	.string "It will be easier to catch if it's been\n"
 	.string "poisoned, burned, or lulled to sleep.$"
 
 Route104_Text_16DB5C:: @ 816DB5C
 	.string "You're a thief if you try to steal\n"
-	.string "someone else's POKéMON.\p"
+	.string "someone else's Pokémon.\p"
 	.string "You should throw POKé BALLS only at\n"
-	.string "wild POKéMON.$"
+	.string "wild Pokémon.$"
 
 Route104_Text_16DBC9:: @ 816DBC9
 	.string "Oh, no, I'm not a TRAINER.\p"
@@ -32,7 +32,7 @@ Route104_Text_16DC5F:: @ 816DC5F
 	.string "I like filling my mouth with seeds,\n"
 	.string "then spitting them out fast!\p"
 	.string "You can have this, so you try it out!\p"
-	.string "Use it on a POKéMON, and it will learn\n"
+	.string "Use it on a Pokémon, and it will learn\n"
 	.string "a move for firing seeds rapidly.$"
 
 Route104_Text_16DD0E:: @ 816DD0E
@@ -73,9 +73,9 @@ Route104_Text_16DF16:: @ 816DF16
 	.string "TRAINER TIPS\p"
 	.string "In the HOENN region there are pairs\n"
 	.string "of TRAINERS who challenge others\l"
-	.string "for 2-on-2 POKéMON battles called\l"
+	.string "for 2-on-2 Pokémon battles called\l"
 	.string "DOUBLE BATTLES.\p"
 	.string "In a DOUBLE BATTLE, the TRAINER must\n"
-	.string "send out two POKéMON, the one at the\l"
+	.string "send out two Pokémon, the one at the\l"
 	.string "left of the list and the top one.\l"
-	.string "Watch how POKéMON are lined up.$"
+	.string "Watch how Pokémon are lined up.$"

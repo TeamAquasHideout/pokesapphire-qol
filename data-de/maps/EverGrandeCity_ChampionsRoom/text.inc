@@ -3,7 +3,7 @@ EverGrandeCity_ChampionsRoom_Text_190F9C:: @ 8190F9C
 	.string "Ich habe schon darauf gewartet, dich\n"
 	.string "eines Tages hier zu sehen.\p"
 	.string "Und? Was hast du alles auf deiner Reise\n"
-	.string "mit den POKéMON erlebt?\p"
+	.string "mit den Pokémon erlebt?\p"
 	.string "Was hast du gefühlt, als du auf so viele\n"
 	.string "andere TRAINER getroffen bist?\p"
 	.string "Was wurde in dir erweckt? Ich will, dass\n"
@@ -13,14 +13,14 @@ EverGrandeCity_ChampionsRoom_Text_190F9C:: @ 8190F9C
 EverGrandeCity_ChampionsRoom_Text_1910A0:: @ 81910A0
 	.string "Ich, der CHAMP, habe verloren...\p"
 	.string "Dir gebührt alle Ehre, {PLAYER}{KUN}!\p"
-	.string "Du bist wahrhaft ein edler POKéMON-\n"
+	.string "Du bist wahrhaft ein edler Pokémon-\n"
 	.string "TRAINER!$"
 
 EverGrandeCity_ChampionsRoom_Text_1910FE:: @ 81910FE
 	.string "TROY: Herzlichen Glückwunsch!\p"
-	.string "Die Gefühle, die du deinen POKéMON\n"
+	.string "Die Gefühle, die du deinen Pokémon\n"
 	.string "entgegenbringst...\p"
-	.string "Und die POKéMON, die auf diese Gefühle\n"
+	.string "Und die Pokémon, die auf diese Gefühle\n"
 	.string "mit all ihrer Kraft antworten...\p"
 	.string "Sie werden eins und bringen eine weit\n"
 	.string "größere Stärke hervor.\p"

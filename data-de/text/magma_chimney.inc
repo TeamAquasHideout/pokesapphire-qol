@@ -18,7 +18,7 @@ MtChimney_Text_1B38B3:: @ 81B38B3
 	.string "Daher widmet sich TEAM MAGMA der Auf-\n"
 	.string "gabe, die Landmassen zu vergrößern.\p"
 	.string "So entsteht mehr Raum für neue Arten\n"
-	.string "von POKéMON.\p"
+	.string "von Pokémon.\p"
 	.string "Und die Menschheit erhält mehr Raum,\n"
 	.string "sich zu entwickeln.\p"
 	.string "Das ist die große Vision von TEAM MAGMA!\p"
@@ -140,7 +140,7 @@ MtChimney_Text_1B40EA:: @ 81B40EA
 MtChimney_Text_1B4128:: @ 81B4128
 	.string "Wenn sie die Landmassen vergrößern,\n"
 	.string "gibt es weniger Lebensraum für\l"
-	.string "WASSER-POKéMON!$"
+	.string "WASSER-Pokémon!$"
 
 MtChimney_Text_1B416E:: @ 81B416E
 	.string "TEAM MAGMA will die Landmassen ver-\n"

@@ -2,9 +2,9 @@ MauvilleCity_Gym_Text_180815:: @ 8180815
 	.string "Hey, how's it going, the CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
 	.string "WATTSON, the LEADER of MAUVILLE\n"
-	.string "GYM, uses ELECTRIC-type POKéMON.\p"
+	.string "GYM, uses ELECTRIC-type Pokémon.\p"
 	.string "If you challenge him with WATER-type\n"
-	.string "POKéMON, he'll zap them! Bzzt!\p"
+	.string "Pokémon, he'll zap them! Bzzt!\p"
 	.string "And, he's put in switch-controlled doors\n"
 	.string "all over his GYM! Eccentric!\p"
 	.string "Hey, go for it!$"
@@ -22,7 +22,7 @@ MauvilleCity_Gym_Text_180997:: @ 8180997
 	.string "over-driven electric, man!$"
 
 MauvilleCity_Gym_Text_1809D1:: @ 81809D1
-	.string "POKéMON and rock, it's all about heart,\n"
+	.string "Pokémon and rock, it's all about heart,\n"
 	.string "whoah yeah!$"
 
 MauvilleCity_Gym_Text_180A05:: @ 8180A05
@@ -50,7 +50,7 @@ MauvilleCity_Gym_Text_180B1D:: @ 8180B1D
 	.string "little traps with switches.$"
 
 MauvilleCity_Gym_Text_180B5A:: @ 8180B5A
-	.string "With my charm and my POKéMON's moves,\n"
+	.string "With my charm and my Pokémon's moves,\n"
 	.string "you'll be shocked!$"
 
 MauvilleCity_Gym_Text_180B93:: @ 8180B93
@@ -87,9 +87,9 @@ MauvilleCity_Gym_Text_180DAF:: @ 8180DAF
 	.string "from WATTSON.$"
 
 MauvilleCity_Gym_Text_180DDA:: @ 8180DDA
-	.string "With the DYNAMO BADGE, POKéMON can\n"
+	.string "With the DYNAMO BADGE, Pokémon can\n"
 	.string "use ROCK SMASH out of battle.\p"
-	.string "And, it will make your POKéMON a little\n"
+	.string "And, it will make your Pokémon a little\n"
 	.string "bit faster, too.\p"
 	.string "Hmm...\n"
 	.string "You should take this, too!$"
@@ -108,9 +108,9 @@ MauvilleCity_Gym_Text_180F1D:: @ 8180F1D
 	.string "Go forth and endeavor, youngster!$"
 
 MauvilleCity_Gym_Text_180F4A:: @ 8180F4A
-	.string "MAUVILLE CITY POKéMON GYM$"
+	.string "MAUVILLE CITY Pokémon GYM$"
 
 MauvilleCity_Gym_Text_180F64:: @ 8180F64
-	.string "MAUVILLE CITY POKéMON GYM\p"
+	.string "MAUVILLE CITY Pokémon GYM\p"
 	.string "WATTSON'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"

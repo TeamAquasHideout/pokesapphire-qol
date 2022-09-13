@@ -2,8 +2,8 @@ LavaridgeTown_Gym_1F_Text_176312:: @ 8176312
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
 	.string "LAVARIDGE's GYM LEADER FLANNERY\n"
-	.string "uses FIRE-type POKéMON.\p"
-	.string "Her passion for POKéMON burns stronger\n"
+	.string "uses FIRE-type Pokémon.\p"
+	.string "Her passion for Pokémon burns stronger\n"
 	.string "and hotter than a volcano.\p"
 	.string "Don't get too close to her - you'll burn!\n"
 	.string "Hose her down with water and then\l"
@@ -55,7 +55,7 @@ LavaridgeTown_Gym_1F_Text_176660:: @ 8176660
 	.string "burned seriously.$"
 
 LavaridgeTown_Gym_1F_Text_1766D2:: @ 81766D2
-	.string "Can your POKéMON withstand\n"
+	.string "Can your Pokémon withstand\n"
 	.string "392-degree heat?$"
 
 LavaridgeTown_Gym_1F_Text_1766FE:: @ 81766FE
@@ -64,7 +64,7 @@ LavaridgeTown_Gym_1F_Text_1766FE:: @ 81766FE
 LavaridgeTown_Gym_1F_Text_17671D:: @ 817671D
 	.string "The temperature of magma is\n"
 	.string "392 degrees.\p"
-	.string "Your POKéMON beat me, so they should\n"
+	.string "Your Pokémon beat me, so they should\n"
 	.string "easily survive in magma.$"
 
 LavaridgeTown_Gym_1F_Text_176784:: @ 8176784
@@ -100,7 +100,7 @@ LavaridgeTown_Gym_1F_Text_176960:: @ 8176960
 	.string "LEADER.\p"
 	.string "I tried too hard to be someone I'm not.\p"
 	.string "I have to do things my natural way.\n"
-	.string "If I don't, my POKéMON will be confused.\p"
+	.string "If I don't, my Pokémon will be confused.\p"
 	.string "Thanks for teaching me that.\n"
 	.string "For that, you deserve this.$"
 
@@ -109,11 +109,11 @@ LavaridgeTown_Gym_1F_Text_176A62:: @ 8176A62
 	.string "from FLANNERY.$"
 
 LavaridgeTown_Gym_1F_Text_176A8C:: @ 8176A8C
-	.string "If you have a HEAT BADGE, all POKéMON\n"
+	.string "If you have a HEAT BADGE, all Pokémon\n"
 	.string "up to Level 50, even those you get in\l"
 	.string "trades from other people, will obey\l"
 	.string "you completely.\p"
-	.string "And, it lets POKéMON use the HM move\n"
+	.string "And, it lets Pokémon use the HM move\n"
 	.string "STRENGTH outside of battle.\p"
 	.string "This is a token of my appreciation.\n"
 	.string "Don't be shy about taking it!$"
@@ -123,7 +123,7 @@ LavaridgeTown_Gym_1F_Text_176B8F:: @ 8176B8F
 	.string "That move inflicts serious damage on\n"
 	.string "the opponent.\p"
 	.string "But it also sharply cuts the SP. ATK\n"
-	.string "of the POKéMON using it. It might not\l"
+	.string "of the Pokémon using it. It might not\l"
 	.string "be suitable for longer battles.$"
 
 LavaridgeTown_Gym_1F_Text_176C4A:: @ 8176C4A
@@ -132,9 +132,9 @@ LavaridgeTown_Gym_1F_Text_176C4A:: @ 8176C4A
 	.string "the GYM LEADER of PETALBURG.$"
 
 LavaridgeTown_Gym_1F_Text_176CAF:: @ 8176CAF
-	.string "LAVARIDGE TOWN POKéMON GYM$"
+	.string "LAVARIDGE TOWN Pokémon GYM$"
 
 LavaridgeTown_Gym_1F_Text_176CCA:: @ 8176CCA
-	.string "LAVARIDGE TOWN POKéMON GYM\p"
+	.string "LAVARIDGE TOWN Pokémon GYM\p"
 	.string "FLANNERY'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"

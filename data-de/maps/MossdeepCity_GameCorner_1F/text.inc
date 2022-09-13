@@ -1,6 +1,6 @@
 MossdeepCity_GameCorner_1F_Text_18E59A:: @ 818E59A
 	.string "Als ich noch jung war, bin ich als\n"
-	.string "POKéMON-TRAINER durch die Welt\l"
+	.string "Pokémon-TRAINER durch die Welt\l"
 	.string "gereist.\p"
 	.string "Nun, da ich ein alter Knabe geworden bin,\n"
 	.string "beobachte ich mit Freuden die jungen\l"

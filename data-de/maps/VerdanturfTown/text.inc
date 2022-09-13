@@ -1,7 +1,7 @@
 VerdanturfTown_Text_16CAEB:: @ 816CAEB
 	.string "Mein Papa hat mir das erzählt.\p"
 	.string "Er sagt, der Tunnel sei voller scheuer\n"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "Sie haben Angst vor lauten Geräuschen\n"
 	.string "und machen einen Aufruhr.\p"
 	.string "Daher musste das Tunnelprojekt\n"
@@ -26,7 +26,7 @@ VerdanturfTown_Text_16CC24:: @ 816CC24
 
 VerdanturfTown_Text_16CCD0:: @ 816CCD0
 	.string "Ich bin doch zufrieden mit der Anmut\n"
-	.string "meiner POKéMON.\p"
+	.string "meiner Pokémon.\p"
 	.string "Ich möchte hier zum ersten Mal an einem\n"
 	.string "WETTBEWERB teilnehmen.$"
 
@@ -56,9 +56,9 @@ VerdanturfTown_Text_16CF0D:: @ 816CF0D
 	.string "HEIKES HAUS$"
 
 VerdanturfTown_Text_16CF1B:: @ 816CF1B
-	.string "POKéMON WETTBEWERBE\n"
+	.string "Pokémon WETTBEWERBE\n"
 	.string "NORMAL-KLASSE REGISTRIERUNGEN\p"
-	.string "“Kommt her, all ihr POKéMON-TRAINER!”$"
+	.string "“Kommt her, all ihr Pokémon-TRAINER!”$"
 
 VerdanturfTown_Text_16CF6D:: @ 816CF6D
 	.string "METAFLURTUNNEL\n"

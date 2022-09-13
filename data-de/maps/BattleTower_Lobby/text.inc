@@ -21,7 +21,7 @@ BattleTower_Lobby_Text_19A024:: @ 819A024
 	.string "In welchem möchtest du antreten?$"
 
 BattleTower_Lobby_Text_19A07B:: @ 819A07B
-	.string "Bitte wähle die POKéMON aus, die\n"
+	.string "Bitte wähle die Pokémon aus, die\n"
 	.string "antreten sollen.$"
 
 BattleTower_Lobby_Text_19A0A8:: @ 819A0A8
@@ -29,7 +29,7 @@ BattleTower_Lobby_Text_19A0A8:: @ 819A0A8
 
 BattleTower_Lobby_Text_19A0D1:: @ 819A0D1
 	.string "Der DUELLTURM ist ein Gebäude, das\n"
-	.string "für POKéMON-Kämpfe gebaut wurde.\p"
+	.string "für Pokémon-Kämpfe gebaut wurde.\p"
 	.string "Im TURM gibt es viele KAMPFRÄUME.\p"
 	.string "In jedem KAMPFRAUM warten sieben\n"
 	.string "TRAINER auf einen Herausforderer.\p"
@@ -44,10 +44,10 @@ BattleTower_Lobby_Text_19A0D1:: @ 819A0D1
 
 BattleTower_Lobby_Text_19A249:: @ 819A249
 	.string "Entschuldigung!\p"
-	.string "Aber deine POKéMON sind nicht\n"
+	.string "Aber deine Pokémon sind nicht\n"
 	.string "teilnahmeberechtigt.\p"
 	.string "Du brauchst drei verschiedene\n"
-	.string "POKéMON von Level 50 oder weniger.\p"
+	.string "Pokémon von Level 50 oder weniger.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
 	.string "EIER{STR_VAR_1} nicht zugelassen.\p"
@@ -55,10 +55,10 @@ BattleTower_Lobby_Text_19A249:: @ 819A249
 
 BattleTower_Lobby_Text_19A32D:: @ 819A32D
 	.string "Entschuldigung!\p"
-	.string "Aber deine POKéMON sind nicht\n"
+	.string "Aber deine Pokémon sind nicht\n"
 	.string "teilnahmeberechtigt.\p"
 	.string "Du brauchst drei verschiedene\n"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
 	.string "EIER{STR_VAR_1} nicht zugelassen.\p"
@@ -112,7 +112,7 @@ BattleTower_Lobby_Text_19A617:: @ 819A617
 	.string "deine Herausforderung.\p"
 	.string "Jedes Mal, wenn du von jetzt an 7\n"
 	.string "TRAINER in Folge besiegst, wird deinen\l"
-	.string "POKéMON ein BAND verliehen.\p"
+	.string "Pokémon ein BAND verliehen.\p"
 	.string "Viel Glück!$"
 
 BattleTower_Lobby_Text_19A6BE:: @ 819A6BE
@@ -122,7 +122,7 @@ BattleTower_Lobby_Text_19A6BE:: @ 819A6BE
 
 BattleTower_Lobby_Text_19A719:: @ 819A719
 	.string "{PLAYER} steckt den herausfordernden\n"
-	.string "POKéMON die BÄNDER an.$"
+	.string "Pokémon die BÄNDER an.$"
 
 BattleTower_Lobby_Text_19A747:: @ 819A747
 	.string "Hallo, hallo!\n"

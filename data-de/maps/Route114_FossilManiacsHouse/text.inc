@@ -8,7 +8,7 @@ Route114_FossilManiacsHouse_Text_1925E1:: @ 81925E1
 	.string "du Löcher graben, wie mein Bruder...$"
 
 Route114_FossilManiacsHouse_Text_1926AE:: @ 81926AE
-	.string "Wenn ein POKéMON in einer Höhle\n"
+	.string "Wenn ein Pokémon in einer Höhle\n"
 	.string "SCHAUFLER einsetzt, kommst du zum\l"
 	.string "Eingang zurück.$"
 

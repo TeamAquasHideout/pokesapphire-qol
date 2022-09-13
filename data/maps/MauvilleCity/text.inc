@@ -1,5 +1,5 @@
 MauvilleCity_Text_165B76:: @ 8165B76
-	.string "UNCLE: It's because of POKéMON that\n"
+	.string "UNCLE: It's because of Pokémon that\n"
 	.string "this boy's got more pep, I suppose...\l"
 	.string "But he's become a bit too peppy...$"
 
@@ -11,7 +11,7 @@ MauvilleCity_Text_165BE3:: @ 8165BE3
 
 MauvilleCity_Text_165C57:: @ 8165C57
 	.string "UNCLE: Now hold on, WALLY.\p"
-	.string "Since you started living with POKéMON,\n"
+	.string "Since you started living with Pokémon,\n"
 	.string "you have grown quite a lot stronger.\p"
 	.string "But don't you think you're pushing it\n"
 	.string "to suddenly challenge a GYM?$"
@@ -62,7 +62,7 @@ MauvilleCity_Text_165F85:: @ 8165F85
 MauvilleCity_Text_165FB3:: @ 8165FB3
 	.string "{PLAYER}, thank you.\n"
 	.string "Being a TRAINER is tough, isn't it?\p"
-	.string "It's not enough just to have POKéMON\n"
+	.string "It's not enough just to have Pokémon\n"
 	.string "and make them battle. That isn't what\l"
 	.string "being a real TRAINER is about.$"
 
@@ -78,7 +78,7 @@ MauvilleCity_Text_1660FA:: @ 81660FA
 	.string "UNCLE: {PLAYER}{KUN}, it just dawned on me\n"
 	.string "that you must be the TRAINER who kept\l"
 	.string "an eye out for WALLY when he caught\l"
-	.string "his POKéMON.\p"
+	.string "his Pokémon.\p"
 	.string "Why don't you visit us in VERDANTURF\n"
 	.string "sometime?\l"
 	.string "I'm sure WALLY would enjoy it.$"
@@ -120,9 +120,9 @@ MauvilleCity_Text_166488:: @ 8166488
 	.string "young step up and take charge!$"
 
 MauvilleCity_Text_1664DF:: @ 81664DF
-	.string "You know, it's cool to have POKéMON\n"
+	.string "You know, it's cool to have Pokémon\n"
 	.string "battles and stuff...\p"
-	.string "But if your POKéMON gets hurt, you\n"
+	.string "But if your Pokémon gets hurt, you\n"
 	.string "have to nurse it back to health.$"
 
 MauvilleCity_Text_16655C:: @ 816655C
@@ -138,14 +138,14 @@ MauvilleCity_Text_1665DB:: @ 81665DB
 
 MauvilleCity_Text_16662A:: @ 816662A
 	.string "Even if you're riding a BIKE, wild\n"
-	.string "POKéMON could jump you.$"
+	.string "Pokémon could jump you.$"
 
 MauvilleCity_Text_166665:: @ 8166665
 	.string "MAUVILLE CITY\n"
 	.string "“The bright and shiny city of fun!”$"
 
 MauvilleCity_Text_166697:: @ 8166697
-	.string "MAUVILLE CITY POKéMON GYM\n"
+	.string "MAUVILLE CITY Pokémon GYM\n"
 	.string "LEADER: WATTSON\l"
 	.string "“The cheerfully electrifying man!”$"
 

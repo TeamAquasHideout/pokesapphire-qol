@@ -5,7 +5,7 @@ FortreeCity_House3_Text_186624:: @ 8186624
 	.string "getroffen, als ich seltene Steine\l"
 	.string "suchte.\p"
 	.string "Oh Junge, der hatte vielleicht\n"
-	.string "interessante POKéMON bei sich!\p"
+	.string "interessante Pokémon bei sich!\p"
 	.string "Die waren nicht nur selten, sondern\n"
 	.string "auch ausgesprochen gut trainiert!\p"
 	.string "Er ist bestimmt stärker als die ARENA-\n"

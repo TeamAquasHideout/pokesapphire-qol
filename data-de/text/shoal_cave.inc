@@ -26,7 +26,7 @@ ShoalCave_LowTideEntranceRoom_Text_1C6808:: @ 81C6808
 	.string "Fertig! Bitte schön!$"
 
 ShoalCave_LowTideEntranceRoom_Text_1C688E:: @ 81C688E
-	.string "Gib das einem POKéMON zum Tragen.\n"
+	.string "Gib das einem Pokémon zum Tragen.\n"
 	.string "Es wird das lieben, das garantiere ich!\p"
 	.string "Der Klang von SEEGESANG...\n"
 	.string "Er ist einfach vollendet!\p"

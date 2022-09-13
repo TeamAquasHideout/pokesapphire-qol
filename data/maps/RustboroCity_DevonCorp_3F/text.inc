@@ -25,7 +25,7 @@ RustboroCity_DevonCorp_3F_Text_183422:: @ 8183422
 
 RustboroCity_DevonCorp_3F_Text_183439:: @ 8183439
 	.string "MR. STONE: That device...\p"
-	.string "It's a POKéMON NAVIGATOR, or POKéNAV\n"
+	.string "It's a Pokémon NAVIGATOR, or POKéNAV\n"
 	.string "for short.\p"
 	.string "It's an indispensable tool for any\n"
 	.string "TRAINER on an adventure.\p"
@@ -43,13 +43,13 @@ RustboroCity_DevonCorp_3F_Text_18353E:: @ 818353E
 	.string "It should help you, a TRAINER.$"
 
 RustboroCity_DevonCorp_3F_Text_1835B3:: @ 81835B3
-	.string "MR. STONE: A POKéMON holding that\n"
+	.string "MR. STONE: A Pokémon holding that\n"
 	.string "EXP. SHARE will be given some of the\l"
 	.string "EXP Points from battle.\p"
 	.string "It will get EXP Points even if it didn't\n"
 	.string "actually battle.\p"
 	.string "I would say EXP. SHARE is quite useful\n"
-	.string "for raising weak POKéMON.$"
+	.string "for raising weak Pokémon.$"
 
 RustboroCity_DevonCorp_3F_Text_18368D:: @ 818368D
 	.string "MR. STONE: Since my youth, I've immersed\n"
@@ -57,7 +57,7 @@ RustboroCity_DevonCorp_3F_Text_18368D:: @ 818368D
 	.string "Consequently, I'm not familiar with\n"
 	.string "trends and that sort of thing.\p"
 	.string "But do young people all want to be\n"
-	.string "TRAINERS in the POKéMON LEAGUE?$"
+	.string "TRAINERS in the Pokémon LEAGUE?$"
 
 RustboroCity_DevonCorp_3F_Text_18374C:: @ 818374C
 	.string "This is the DEVON CORPORATION's\n"

@@ -16,10 +16,10 @@ LittlerootTown_Text_16A8EE:: @ 816A8EE
 LittlerootTown_Text_16A8FD:: @ 816A8FD
 	.string "MOM: {PLAYER}! {PLAYER}! Did you\n"
 	.string "introduce yourself to PROF. BIRCH?\p"
-	.string "Oh! What an adorable POKéMON!\n"
+	.string "Oh! What an adorable Pokémon!\n"
 	.string "You got it from PROF. BIRCH. How nice!\p"
 	.string "You're your father's child, all right.\n"
-	.string "You look good together with POKéMON!\p"
+	.string "You look good together with Pokémon!\p"
 	.string "Here, honey! If you're going out on an\n"
 	.string "adventure, wear these RUNNING SHOES.\p"
 	.string "They'll put a zip in your step!$"
@@ -40,7 +40,7 @@ LittlerootTown_Text_16AB10:: @ 816AB10
 	.string "... ... ... ... ... ... ... ...\n"
 	.string "... ... ... ... ... ... ... ...\p"
 	.string "To think that you have your very own\n"
-	.string "POKéMON now...\l"
+	.string "Pokémon now...\l"
 	.string "Your father will be overjoyed.\p"
 	.string "...But please be careful.\n"
 	.string "If anything happens, you can come home.\p"
@@ -48,7 +48,7 @@ LittlerootTown_Text_16AB10:: @ 816AB10
 
 LittlerootTown_Text_16AC00:: @ 816AC00
 	.string "If you use a PC, you can store items\n"
-	.string "and POKéMON.\p"
+	.string "and Pokémon.\p"
 	.string "The power of science is staggering!$"
 
 LittlerootTown_Text_16AC56:: @ 816AC56
@@ -60,11 +60,11 @@ LittlerootTown_Text_16AC56:: @ 816AC56
 
 LittlerootTown_Text_16ACEB:: @ 816ACEB
 	.string "If you go in the tall grass at the sides\n"
-	.string "of this road, wild POKéMON will appear.$"
+	.string "of this road, wild Pokémon will appear.$"
 
 LittlerootTown_Text_16AD3C:: @ 816AD3C
 	.string "It's not safe to go out there if you\n"
-	.string "don't have any POKéMON with you.$"
+	.string "don't have any Pokémon with you.$"
 
 LittlerootTown_Text_16AD82:: @ 816AD82
 	.string "I can hear someone shouting down the\n"
@@ -77,7 +77,7 @@ LittlerootTown_Text_16ADF2:: @ 816ADF2
 	.string "the PROFESSOR.$"
 
 LittlerootTown_Text_16AE25:: @ 816AE25
-	.string "Are you going to catch POKéMON?\n"
+	.string "Are you going to catch Pokémon?\n"
 	.string "Good luck!$"
 
 LittlerootTown_Text_16AE50:: @ 816AE50
@@ -85,7 +85,7 @@ LittlerootTown_Text_16AE50:: @ 816AE50
 	.string "“A town that can't be shaded any hue.”$"
 
 LittlerootTown_Text_16AE87:: @ 816AE87
-	.string "PROF. BIRCH'S POKéMON LAB$"
+	.string "PROF. BIRCH'S Pokémon LAB$"
 
 LittlerootTown_Text_16AEA1:: @ 816AEA1
 	.string "{PLAYER}'s HOUSE$"

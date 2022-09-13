@@ -6,7 +6,7 @@ PetalburgCity_Text_16433E:: @ 816433E
 PetalburgCity_Text_16438A:: @ 816438A
 	.string "Hiya! Are you maybe...\n"
 	.string "A rookie TRAINER?\p"
-	.string "Do you know what POKéMON TRAINERS\n"
+	.string "Do you know what Pokémon TRAINERS\n"
 	.string "do when they reach a new town?\p"
 	.string "They first check what kind of GYM\n"
 	.string "is in the town.$"
@@ -26,13 +26,13 @@ PetalburgCity_Text_164490:: @ 8164490
 	.string "What do you see reflected in your face?$"
 
 PetalburgCity_Text_16453F:: @ 816453F
-	.string "Let's say you have six POKéMON.\n"
+	.string "Let's say you have six Pokémon.\n"
 	.string "If you catch another one...\p"
 	.string "It is automatically sent to a STORAGE\n"
 	.string "BOX over a PC connection.$"
 
 PetalburgCity_Text_1645BB:: @ 81645BB
-	.string "PETALBURG CITY POKéMON GYM\n"
+	.string "PETALBURG CITY Pokémon GYM\n"
 	.string "LEADER: NORMAN\l"
 	.string "“A man in pursuit of power!”$"
 

@@ -4,13 +4,13 @@ FortreeCity_Text_167577:: @ 8167577
 	.string "Were you at a volcano or something?$"
 
 FortreeCity_Text_1675C2:: @ 81675C2
-	.string "I want to go to the POKéMON GYM, but\n"
+	.string "I want to go to the Pokémon GYM, but\n"
 	.string "something's blocking the way.\p"
 	.string "After all the bother I went through\n"
 	.string "training on ROUTE 120...$"
 
 FortreeCity_Text_167642:: @ 8167642
-	.string "I've got my pride-and-joy POKéMON\n"
+	.string "I've got my pride-and-joy Pokémon\n"
 	.string "with me. This time, I'll beat WINONA.$"
 
 FortreeCity_Text_16768A:: @ 816768A
@@ -29,12 +29,12 @@ FortreeCity_Text_16770E:: @ 816770E
 
 FortreeCity_Text_1677BD:: @ 81677BD
 	.string "Living on top of trees is okay.\p"
-	.string "But sometimes BUG POKéMON come in\n"
+	.string "But sometimes BUG Pokémon come in\n"
 	.string "through windows.\l"
 	.string "It can be really startling.$"
 
 FortreeCity_Text_16782C:: @ 816782C
-	.string "Some POKéMON evolve when they go\n"
+	.string "Some Pokémon evolve when they go\n"
 	.string "through a Game Link cable.$"
 
 FortreeCity_Text_167868:: @ 8167868
@@ -46,9 +46,9 @@ FortreeCity_Text_16788B:: @ 816788B
 
 FortreeCity_Text_1678CB:: @ 81678CB
 	.string "{PLAYER} used the DEVON SCOPE.\p"
-	.string "An invisible POKéMON became completely\n"
+	.string "An invisible Pokémon became completely\n"
 	.string "visible!\p"
-	.string "The startled POKéMON fled!$"
+	.string "The startled Pokémon fled!$"
 
 FortreeCity_Text_16792F:: @ 816792F
 	.string "FORTREE CITY\n"
@@ -56,7 +56,7 @@ FortreeCity_Text_16792F:: @ 816792F
 	.string "nature.”$"
 
 FortreeCity_Text_167969:: @ 8167969
-	.string "FORTREE CITY POKéMON GYM\n"
+	.string "FORTREE CITY Pokémon GYM\n"
 	.string "LEADER: WINONA\p"
 	.string "“The bird user taking flight into\n"
 	.string "the world.”$"

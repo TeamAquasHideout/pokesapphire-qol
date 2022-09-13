@@ -1,7 +1,7 @@
 Route109_SeashoreHouse_Text_19B4D9:: @ 819B4D9
 	.string "Ich bin der Besitzer des STRANDHAUSES.\n"
 	.string "Du kannst MR. MARE zu mir sagen.\p"
-	.string "Heißen POKéMON-Kämpfen zuzusehen\n"
+	.string "Heißen Pokémon-Kämpfen zuzusehen\n"
 	.string "liebe ich über alles!\p"
 	.string "Zeig mir, wie heiß dein Herz lodert!\p"
 	.string "Wenn du alle TRAINER besiegen kannst,\n"
@@ -26,7 +26,7 @@ Route109_SeashoreHouse_Text_19B6BE:: @ 819B6BE
 
 Route109_SeashoreHouse_Text_19B702:: @ 819B702
 	.string "Möchtest du etwas SPRUDEL kaufen?\n"
-	.string "POKéMON lieben ihn!\p"
+	.string "Pokémon lieben ihn!\p"
 	.string "Nur ¥300 pro Flasche!\n"
 	.string "Kauf doch welchen!$"
 
@@ -41,7 +41,7 @@ Route109_SeashoreHouse_Text_19B773:: @ 819B773
 	.string "Das ist aber wirklich schade.$"
 
 UnknownString_819B787: @ 819B787
-	.string "SPRUDEL! POKéMONs Liebling!\n"
+	.string "SPRUDEL! Pokémons Liebling!\n"
 	.string "Nur ¥300 pro Flasche! Möchtest du eine?$"
 
 UnknownString_819B7C5: @ 819B7C5
@@ -71,7 +71,7 @@ Route109_SeashoreHouse_Text_19B89F:: @ 819B89F
 Route109_SeashoreHouse_Text_19B8E5:: @ 819B8E5
 	.string "Langweilige Kämpfe lohnen sich nicht.\p"
 	.string "Feurig heiße Kämpfe aber stählen\n"
-	.string "TRAINER und POKéMON.$"
+	.string "TRAINER und Pokémon.$"
 
 Route109_SeashoreHouse_Text_19B949:: @ 819B949
 	.string "Das war brandheiß!$"
@@ -82,13 +82,13 @@ Route109_SeashoreHouse_Text_19B955:: @ 819B955
 
 Route109_SeashoreHouse_Text_19B988:: @ 819B988
 	.string "Ich werde dir zeigen, wie toll meine\n"
-	.string "POKéMON sind. Aber heul bloß nicht los!$"
+	.string "Pokémon sind. Aber heul bloß nicht los!$"
 
 Route109_SeashoreHouse_Text_19B9C7:: @ 819B9C7
 	.string "Ich habe verloren. Aber ich heule nicht!$"
 
 Route109_SeashoreHouse_Text_19B9E5:: @ 819B9E5
-	.string "Wenn doch nur eines meiner POKéMON\n"
+	.string "Wenn doch nur eines meiner Pokémon\n"
 	.string "wüsste, wie es mich über das Wasser\l"
 	.string "tragen kann. Dann wäre ich den\l"
 	.string "ollen Schwimmreifen los.$"

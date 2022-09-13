@@ -1,5 +1,5 @@
 RustboroCity_House3_Text_185584:: @ 8185584
-	.string "For my own POKéMON, I give them\n"
+	.string "For my own Pokémon, I give them\n"
 	.string "perfectly suited nicknames!\p"
 	.string "It's my expression of, uh...\n"
 	.string "originality, yes, that's it!$"

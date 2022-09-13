@@ -11,7 +11,7 @@ AbandonedShip_Rooms2_1F_Text_198835:: @ 8198835
 	.string "I wonder if someone got them already?$"
 
 AbandonedShip_Rooms2_1F_Text_19887F:: @ 819887F
-	.string "HAL: You don't even have two POKéMON.\n"
+	.string "HAL: You don't even have two Pokémon.\n"
 	.string "You can't expect to beat us like that.$"
 
 AbandonedShip_Rooms2_1F_Text_1988CC:: @ 81988CC
@@ -28,13 +28,13 @@ AbandonedShip_Rooms2_1F_Text_198934:: @ 8198934
 	.string "when I find them!$"
 
 AbandonedShip_Rooms2_1F_Text_19899A:: @ 819899A
-	.string "LOIS: Don't you have two POKéMON?\n"
+	.string "LOIS: Don't you have two Pokémon?\n"
 	.string "We'll have to battle another time!$"
 
 AbandonedShip_Rooms2_1F_Text_1989DF:: @ 81989DF
 	.string "HAL: We've been searching for\n"
 	.string "treasures all this time.\p"
-	.string "Our POKéMON have grown stronger, too.\n"
+	.string "Our Pokémon have grown stronger, too.\n"
 	.string "Let us show you, okay?$"
 
 AbandonedShip_Rooms2_1F_Text_198A53:: @ 8198A53
@@ -42,12 +42,12 @@ AbandonedShip_Rooms2_1F_Text_198A53:: @ 8198A53
 
 AbandonedShip_Rooms2_1F_Text_198A70:: @ 8198A70
 	.string "HAL: We can't find any treasures,\n"
-	.string "we lose at POKéMON...\p"
+	.string "we lose at Pokémon...\p"
 	.string "I want to go home... But if I say that,\n"
 	.string "she gets all angry with me...$"
 
 AbandonedShip_Rooms2_1F_Text_198AEE:: @ 8198AEE
-	.string "HAL: You don't even have two POKéMON.\n"
+	.string "HAL: You don't even have two Pokémon.\n"
 	.string "You can't expect to beat us like that.$"
 
 AbandonedShip_Rooms2_1F_Text_198B3B:: @ 8198B3B
@@ -61,10 +61,10 @@ AbandonedShip_Rooms2_1F_Text_198BCF:: @ 8198BCF
 	.string "LOIS: Oh, we lost again...$"
 
 AbandonedShip_Rooms2_1F_Text_198BEA:: @ 8198BEA
-	.string "LOIS: We'll raise our POKéMON more.\p"
+	.string "LOIS: We'll raise our Pokémon more.\p"
 	.string "We're not going home until we find our\n"
 	.string "treasures!$"
 
 AbandonedShip_Rooms2_1F_Text_198C40:: @ 8198C40
-	.string "LOIS: Don't you have two POKéMON?\n"
+	.string "LOIS: Don't you have two Pokémon?\n"
 	.string "We'll have to battle another time!$"

@@ -135,30 +135,30 @@ gTextStoryteller_Story6Text:: @ 81AF34D
 	.string "never refuse a chance to battle!$"
 
 gTextStoryteller_Story7Title:: @ 81AF3D0
-	.string "The POKéMON-Catching TRAINER$"
+	.string "The Pokémon-Catching TRAINER$"
 
 gTextStoryteller_Story7Action:: @ 81AF3ED
-	.string "Caught POKéMON$"
+	.string "Caught Pokémon$"
 
 gTextStoryteller_Story7Text:: @ 81AF3FC
 	.string "This is a tale of a TRAINER\n"
 	.string "named {STR_VAR_3}.\p"
 	.string "This TRAINER caught\n"
-	.string "{STR_VAR_1} POKéMON!\p"
+	.string "{STR_VAR_1} Pokémon!\p"
 	.string "{STR_VAR_3} is a legendary catcher of\n"
-	.string "wild POKéMON!$"
+	.string "wild Pokémon!$"
 
 gTextStoryteller_Story8Title:: @ 81AF46D
 	.string "The Fishing TRAINER$"
 
 gTextStoryteller_Story8Action:: @ 81AF481
-	.string "Caught POKéMON with a ROD$"
+	.string "Caught Pokémon with a ROD$"
 
 gTextStoryteller_Story8Text:: @ 81AF49B
 	.string "This is a tale of a TRAINER\n"
 	.string "named {STR_VAR_3}.\p"
 	.string "This TRAINER caught\n"
-	.string "{STR_VAR_1} POKéMON while fishing!\p"
+	.string "{STR_VAR_1} Pokémon while fishing!\p"
 	.string "{STR_VAR_3} is a legendary fishing\n"
 	.string "expert!$"
 
@@ -171,7 +171,7 @@ gTextStoryteller_Story9Action:: @ 81AF529
 gTextStoryteller_Story9Text:: @ 81AF536
 	.string "This is a tale of a TRAINER\n"
 	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER hatched {STR_VAR_1} POKéMON\n"
+	.string "This TRAINER hatched {STR_VAR_1} Pokémon\n"
 	.string "from EGGS!\p"
 	.string "{STR_VAR_3} is a legendary warmer\n"
 	.string "of EGGS!$"
@@ -180,40 +180,40 @@ gTextStoryteller_Story10Title:: @ 81AF5A9
 	.string "The Evolver TRAINER$"
 
 gTextStoryteller_Story10Action:: @ 81AF5BD
-	.string "Evolved POKéMON$"
+	.string "Evolved Pokémon$"
 
 gTextStoryteller_Story10Text:: @ 81AF5CD
 	.string "This is a tale of a TRAINER\n"
 	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER made {STR_VAR_1} POKéMON\n"
+	.string "This TRAINER made {STR_VAR_1} Pokémon\n"
 	.string "evolve!\p"
 	.string "{STR_VAR_3} is the ultimate evolver\n"
-	.string "of POKéMON!$"
+	.string "of Pokémon!$"
 
 gTextStoryteller_Story11Title:: @ 81AF63F
-	.string "The POKéMON CENTER-Loving TRAINER$"
+	.string "The Pokémon CENTER-Loving TRAINER$"
 
 gTextStoryteller_Story11Action:: @ 81AF661
-	.string "Used POKéMON CENTERS$"
+	.string "Used Pokémon CENTERS$"
 
 gTextStoryteller_Story11Text:: @ 81AF676
 	.string "This is a tale of a TRAINER\n"
 	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER healed POKéMON\n"
-	.string "{STR_VAR_1} times at POKéMON CENTERS!\p"
+	.string "This TRAINER healed Pokémon\n"
+	.string "{STR_VAR_1} times at Pokémon CENTERS!\p"
 	.string "There could be no greater lover of\n"
-	.string "POKéMON CENTERS than {STR_VAR_3}!$"
+	.string "Pokémon CENTERS than {STR_VAR_3}!$"
 
 gTextStoryteller_Story12Title:: @ 81AF711
 	.string "The Homebody TRAINER$"
 
 gTextStoryteller_Story12Action:: @ 81AF726
-	.string "Rested POKéMON at home$"
+	.string "Rested Pokémon at home$"
 
 gTextStoryteller_Story12Text:: @ 81AF73D
 	.string "This is a tale of a TRAINER\n"
 	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER healed POKéMON\n"
+	.string "This TRAINER healed Pokémon\n"
 	.string "{STR_VAR_1} times at home!\p"
 	.string "There could be no more of a homebody\n"
 	.string "than {STR_VAR_3}!$"
@@ -370,7 +370,7 @@ gTextStoryteller_Story23Text:: @ 81AFEEE
 	.string "This TRAINER entered CONTESTS\n"
 	.string "{STR_VAR_1} times!\p"
 	.string "{STR_VAR_3} must love showing off\n"
-	.string "POKéMON to others!$"
+	.string "Pokémon to others!$"
 
 gTextStoryteller_Story24Title:: @ 81AFF68
 	.string "The CONTEST Master$"
@@ -440,7 +440,7 @@ gTextStoryteller_Story28Text:: @ 81B0213
 	.string "This TRAINER checked a POKéDEX\n"
 	.string "{STR_VAR_1} times!\p"
 	.string "{STR_VAR_3} must love inspecting\n"
-	.string "POKéMON in a POKéDEX!$"
+	.string "Pokémon in a POKéDEX!$"
 
 gTextStoryteller_Story29Title:: @ 81B0290
 	.string "The RIBBON Collector$"
@@ -498,32 +498,32 @@ gTextStoryteller_Story32Text:: @ 81B049A
 	.string "who's conscious of the time.$"
 
 gTextStoryteller_Story33Title:: @ 81B0523
-	.string "The POKéMON LOTTERY Wizard$"
+	.string "The Pokémon LOTTERY Wizard$"
 
 gTextStoryteller_Story33Action:: @ 81B053E
-	.string "Won POKéMON LOTTERIES$"
+	.string "Won Pokémon LOTTERIES$"
 
 gTextStoryteller_Story33Text:: @ 81B0554
 	.string "This is a tale of a TRAINER\n"
 	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER won POKéMON LOTTERIES\n"
+	.string "This TRAINER won Pokémon LOTTERIES\n"
 	.string "{STR_VAR_1} times!\p"
 	.string "{STR_VAR_3} must have many friends\n"
-	.string "to trade POKéMON with!$"
+	.string "to trade Pokémon with!$"
 
 gTextStoryteller_Story34Title:: @ 81B05D8
 	.string "The DAY CARE-Using Trainer$"
 
 gTextStoryteller_Story34Action:: @ 81B05F3
-	.string "Left POKéMON at the DAY CARE$"
+	.string "Left Pokémon at the DAY CARE$"
 
 gTextStoryteller_Story34Text:: @ 81B0610
 	.string "This is a tale of a TRAINER\n"
 	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER left POKéMON with the\n"
+	.string "This TRAINER left Pokémon with the\n"
 	.string "DAY CARE {STR_VAR_1} times!\p"
 	.string "{STR_VAR_3} must be a real go-getter\n"
-	.string "who raises POKéMON aggressively!$"
+	.string "who raises Pokémon aggressively!$"
 
 gTextStoryteller_Story35Title:: @ 81B06A9
 	.string "The CABLE CAR-Loving TRAINER$"

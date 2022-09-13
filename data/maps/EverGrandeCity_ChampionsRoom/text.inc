@@ -3,7 +3,7 @@ EverGrandeCity_ChampionsRoom_Text_190F9C:: @ 8190F9C
 	.string "I was looking forward to seeing you\n"
 	.string "here one day.\p"
 	.string "You... What did you see on your\n"
-	.string "journey with POKéMON?\p"
+	.string "journey with Pokémon?\p"
 	.string "What did you feel, meeting so many\n"
 	.string "other TRAINERS like you?\p"
 	.string "What has awoken in you?\n"
@@ -13,14 +13,14 @@ EverGrandeCity_ChampionsRoom_Text_190F9C:: @ 8190F9C
 EverGrandeCity_ChampionsRoom_Text_1910A0:: @ 81910A0
 	.string "I, the CHAMPION, fall in defeat...\p"
 	.string "Kudos to you, {PLAYER}{KUN}!\p"
-	.string "You are a truly noble POKéMON\n"
+	.string "You are a truly noble Pokémon\n"
 	.string "TRAINER!$"
 
 EverGrandeCity_ChampionsRoom_Text_1910FE:: @ 81910FE
 	.string "STEVEN: Congratulations!\p"
 	.string "The feelings you have for your\n"
-	.string "POKéMON...\p"
-	.string "And the POKéMON that responded to\n"
+	.string "Pokémon...\p"
+	.string "And the Pokémon that responded to\n"
 	.string "those feelings with all their might...\p"
 	.string "They came together as one, and created\n"
 	.string "an even greater power.\p"

@@ -3,7 +3,7 @@ LilycoveCity_DepartmentStore_4F_Text_18C39C:: @ 818C39C
 	.string "Eine offensive Attacke...\n"
 	.string "Oder defensive Attacke...\p"
 	.string "Es ist nicht einfach, zu entscheiden,\n"
-	.string "welche TM ein POKéMON lernen soll.$"
+	.string "welche TM ein Pokémon lernen soll.$"
 
 LilycoveCity_DepartmentStore_4F_Text_18C41B:: @ 818C41B
 	.string "Es gibt so viele verschiedene Arten von\n"
@@ -13,9 +13,9 @@ LilycoveCity_DepartmentStore_4F_Text_18C41B:: @ 818C41B
 
 LilycoveCity_DepartmentStore_4F_Text_18C481:: @ 818C481
 	.string "Ich hätte gerne all die unterschied-\n"
-	.string "lichen TMs, aber ein POKéMON kann nur\l"
+	.string "lichen TMs, aber ein Pokémon kann nur\l"
 	.string "vier Attacken lernen.$"
 
 UnknownString_818C4CE: @ 818C4CE
-	.string "EINE ABKÜRZUNG ZUR POKéMON LIGA\n"
+	.string "EINE ABKÜRZUNG ZUR Pokémon LIGA\n"
 	.string "3S: TM$"

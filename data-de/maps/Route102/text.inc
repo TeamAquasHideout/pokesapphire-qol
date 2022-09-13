@@ -1,6 +1,6 @@
 PetalburgCity_Text_16D361:: @ 816D361
 	.string "HEIKO: {PLAYER}...\n"
-	.string "POKéMON verstecken sich in hohem Gras\l"
+	.string "Pokémon verstecken sich in hohem Gras\l"
 	.string "wie diesem hier, oder?\p"
 	.string "Bitte bleib hier und schau, ob ich sie\n"
 	.string "auch richtig fange.\p"
@@ -8,7 +8,7 @@ PetalburgCity_Text_16D361:: @ 816D361
 
 PetalburgCity_Text_16D3DE:: @ 816D3DE
 	.string "HEIKO: Ich habe es geschafft... Es\n"
-	.string "gehört mir... Mein POKéMON!!!$"
+	.string "gehört mir... Mein Pokémon!!!$"
 
 PetalburgCity_Text_16D408:: @ 816D408
 	.string "{PLAYER}, danke schön!\n"
@@ -32,7 +32,7 @@ UnknownString_816D4BB: @ 816D4BB
 	.string "herunterspringen kann.$"
 
 Route102_Text_16D51A:: @ 816D51A
-	.string "Ich werde jede Menge POKéMON fangen!$"
+	.string "Ich werde jede Menge Pokémon fangen!$"
 
 Route102_Text_16D547:: @ 816D547
 	.string "ROUTE 102\n"

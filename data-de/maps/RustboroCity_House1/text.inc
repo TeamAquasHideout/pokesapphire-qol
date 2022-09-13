@@ -1,5 +1,5 @@
 RustboroCity_House1_Text_184EBA:: @ 8184EBA
-	.string "Gibst du deinen POKéMON Kosenamen?\n"
+	.string "Gibst du deinen Pokémon Kosenamen?\n"
 	.string "Ich habe meinem einen coolen Namen\l"
 	.string "gegeben.\p"
 	.string "Aber wenn ich es nun beim Namen rufe,\n"
@@ -15,14 +15,14 @@ RustboroCity_House1_Text_184F8F:: @ 8184F8F
 	.string "Tse, wie enttäuschend.$"
 
 RustboroCity_House1_Text_184FC1:: @ 8184FC1
-	.string "Ooh, das ist ein gutes POKéMON...$"
+	.string "Ooh, das ist ein gutes Pokémon...$"
 
 RustboroCity_House1_Text_184FDD:: @ 8184FDD
 	.string "Willst du nicht wissen, wie andere\n"
-	.string "Leute ihre POKéMON nennen?$"
+	.string "Leute ihre Pokémon nennen?$"
 
 RustboroCity_House1_Text_185020:: @ 8185020
 	.string "An allen Orten gibt es alle Sorten von\n"
-	.string "POKéMON und Menschen.\p"
+	.string "Pokémon und Menschen.\p"
 	.string "Ich finde das faszinierend, daher\n"
 	.string "besuche ich alle möglichen Orte.$"

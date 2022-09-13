@@ -1,6 +1,6 @@
 gTVNewsText_EnergyGuru1:: @ 81AD135
 	.string "Greetings!\n"
-	.string "It's time for POKéMON NEWS.\p"
+	.string "It's time for Pokémon NEWS.\p"
 	.string "SLATEPORT's most popular kind of guy,\n"
 	.string "the ENERGY GURU, is in the news again!\p"
 	.string "He promises to, “Stupendously go for\n"
@@ -11,11 +11,11 @@ gTVNewsText_EnergyGuru1:: @ 81AD135
 	.string "money. That'll be good...”\p"
 	.string "It sounds like a trip to SLATEPORT\n"
 	.string "would be well worth your while that day.\p"
-	.string "That's the news on POKéMON NEWS.$"
+	.string "That's the news on Pokémon NEWS.$"
 
 gTVNewsText_EnergyGuru2:: @ 81AD2E0
 	.string "Greetings!\n"
-	.string "It's time for POKéMON NEWS.\p"
+	.string "It's time for Pokémon NEWS.\p"
 	.string "This is the news you've all been\n"
 	.string "waiting for!\p"
 	.string "SLATEPORT'S ENERGY GURU is going\n"
@@ -25,11 +25,11 @@ gTVNewsText_EnergyGuru2:: @ 81AD2E0
 	.string "A trip to SLATEPORT CITY sounds\n"
 	.string "worthwhile. Why not visit and shop\l"
 	.string "to your heart's content?\p"
-	.string "That's the news on POKéMON NEWS.$"
+	.string "That's the news on Pokémon NEWS.$"
 
 gTVNewsText_EnergyGuru3:: @ 81AD434
 	.string "Greetings!\n"
-	.string "It's time for POKéMON NEWS.\p"
+	.string "It's time for Pokémon NEWS.\p"
 	.string "This is the news you've all been\n"
 	.string "waiting for!\p"
 	.string "SLATEPORT'S ENERGY GURU is going\n"
@@ -40,22 +40,22 @@ gTVNewsText_EnergyGuru3:: @ 81AD434
 	.string "still has ample merchandise left.\p"
 	.string "Why not visit SLATEPORT CITY for\n"
 	.string "a most enjoyable shopping trip?\p"
-	.string "That's the news on POKéMON NEWS.$"
+	.string "That's the news on Pokémon NEWS.$"
 
 gTVNewsText_GameCorner1:: @ 81AD5B0
 	.string "Greetings!\n"
-	.string "It's time for POKéMON NEWS.\p"
+	.string "It's time for Pokémon NEWS.\p"
 	.string "It's approaching!\n"
 	.string "It's finally coming!\p"
 	.string "The GAME CORNER's service day will be\n"
 	.string "here in just this many days: {STR_VAR_1}!\p"
 	.string "Even those who are usually unlucky\n"
 	.string "may be lucky on this particular day!\p"
-	.string "That's the news on POKéMON NEWS.$"
+	.string "That's the news on Pokémon NEWS.$"
 
 gTVNewsText_GameCorner2:: @ 81AD6AE
 	.string "Greetings!\n"
-	.string "It's time for POKéMON NEWS.\p"
+	.string "It's time for Pokémon NEWS.\p"
 	.string "It's here!\n"
 	.string "It's finally arrived!\p"
 	.string "GAME CORNER's service day has finally\n"
@@ -64,11 +64,11 @@ gTVNewsText_GameCorner2:: @ 81AD6AE
 	.string "and ROULETTE?\p"
 	.string "The location is MAUVILLE CITY.\n"
 	.string "This is the place!\p"
-	.string "That's the news on POKéMON NEWS.$"
+	.string "That's the news on Pokémon NEWS.$"
 
 gTVNewsText_GameCorner3:: @ 81AD7A7
 	.string "Greetings!\n"
-	.string "It's time for POKéMON NEWS.\p"
+	.string "It's time for Pokémon NEWS.\p"
 	.string "It's here!\n"
 	.string "It's finally arrived!\p"
 	.string "GAME CORNER's service day has finally\n"
@@ -77,22 +77,22 @@ gTVNewsText_GameCorner3:: @ 81AD7A7
 	.string "and ROULETTE?\p"
 	.string "Time is limited and has almost run out.\n"
 	.string "The location is MAUVILLE CITY.\p"
-	.string "That's the news on POKéMON NEWS.$"
+	.string "That's the news on Pokémon NEWS.$"
 
 gTVNewsText_LilycoveDepartment1:: @ 81AD8B4
 	.string "Greetings!\n"
-	.string "It's time for POKéMON NEWS.\p"
+	.string "It's time for Pokémon NEWS.\p"
 	.string "We've just received wonderful news\n"
 	.string "from LILYCOVE DEPARTMENT STORE.\p"
 	.string "The DEPARTMENT STORE's clear-out sale\n"
 	.string "will be in just this many days: {STR_VAR_1}!\p"
 	.string "That thingamajig or that doodad that\n"
 	.string "you've always wanted could be yours!\p"
-	.string "That's the news on POKéMON NEWS.$"
+	.string "That's the news on Pokémon NEWS.$"
 
 gTVNewsText_LilycoveDepartment2:: @ 81AD9D3
 	.string "Greetings!\n"
-	.string "It's time for POKéMON NEWS.\p"
+	.string "It's time for Pokémon NEWS.\p"
 	.string "This is the news you've all been\n"
 	.string "waiting for!\p"
 	.string "LILYCOVE DEPARTMENT STORE's clear-out\n"
@@ -101,11 +101,11 @@ gTVNewsText_LilycoveDepartment2:: @ 81AD9D3
 	.string "you've always dreamt about...\p"
 	.string "You may be in for fateful encounters\n"
 	.string "with them all!\p"
-	.string "That's the news on POKéMON NEWS.$"
+	.string "That's the news on Pokémon NEWS.$"
 
 gTVNewsText_LilycoveDepartment3:: @ 81ADB01
 	.string "Greetings!\n"
-	.string "It's time for POKéMON NEWS.\p"
+	.string "It's time for Pokémon NEWS.\p"
 	.string "This is the news you've all been\n"
 	.string "waiting for!\p"
 	.string "LILYCOVE DEPARTMENT STORE's clear-out\n"
@@ -114,7 +114,7 @@ gTVNewsText_LilycoveDepartment3:: @ 81ADB01
 	.string "you've always dreamt about...\p"
 	.string "You may be in for fateful encounters\n"
 	.string "with them all!\p"
-	.string "That's the news on POKéMON NEWS.$"
+	.string "That's the news on Pokémon NEWS.$"
 
 	@ all text advertisements below are unused.
 gTVUnusedText_DevonCorporation:: @ 81ADC2F
@@ -122,15 +122,15 @@ gTVUnusedText_DevonCorporation:: @ 81ADC2F
 	.string "by the DEVON CORPORATION.$"
 
 gTVUnusedText_Contests:: @ 81ADC6E
-	.string "What's important is love for POKéMON.\p"
+	.string "What's important is love for Pokémon.\p"
 	.string "What you need is a little courage.\p"
-	.string "Let your cherished POKéMON take\n"
-	.string "center stage! POKéMON CONTESTS!$"
+	.string "Let your cherished Pokémon take\n"
+	.string "center stage! Pokémon CONTESTS!$"
 
 gTVUnusedText_DayCare:: @ 81ADCF7
-	.string "We raise your beloved POKéMON with\n"
+	.string "We raise your beloved Pokémon with\n"
 	.string "all of our love!\p"
-	.string "For all your POKéMON-training needs,\n"
+	.string "For all your Pokémon-training needs,\n"
 	.string "visit our DAY CARE on ROUTE 117.$"
 
 gTVUnusedText_LavaridgeSpa:: @ 81ADD71

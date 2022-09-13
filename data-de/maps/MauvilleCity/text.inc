@@ -1,6 +1,6 @@
 MauvilleCity_Text_165B76:: @ 8165B76
 	.string "ONKEL: Ich glaube, es liegt an dem\n"
-	.string "POKéMON, dass dieser Junge mehr Pep\l"
+	.string "Pokémon, dass dieser Junge mehr Pep\l"
 	.string "hat. Aber er hat zu viel Pep...$"
 
 MauvilleCity_Text_165BE3:: @ 8165BE3
@@ -11,7 +11,7 @@ MauvilleCity_Text_165BE3:: @ 8165BE3
 
 MauvilleCity_Text_165C57:: @ 8165C57
 	.string "ONKEL: Nun hör mal auf, HEIKO.\p"
-	.string "Seit du mit POKéMON zusammenlebst, bist\n"
+	.string "Seit du mit Pokémon zusammenlebst, bist\n"
 	.string "du viel stärker geworden.\p"
 	.string "Aber - du überforderst dich, wenn du\n"
 	.string "plötzlich in einer ARENA antrittst.$"
@@ -62,7 +62,7 @@ MauvilleCity_Text_165F85:: @ 8165F85
 MauvilleCity_Text_165FB3:: @ 8165FB3
 	.string "{PLAYER}, herzlichen Dank! TRAINER zu\n"
 	.string "sein verlangt viel von einem, oder?\p"
-	.string "Man besitzt nicht einfach nur POKéMON\n"
+	.string "Man besitzt nicht einfach nur Pokémon\n"
 	.string "und lässt sie kämpfen. Um ein richtiger\l"
 	.string "TRAINER zu sein, braucht es mehr.$"
 
@@ -78,7 +78,7 @@ MauvilleCity_Text_1660FA:: @ 81660FA
 	.string "ONKEL: {PLAYER}{KUN}, mir dämmert es so\n"
 	.string "langsam. Du musst der TRAINER sein, der\l"
 	.string "sich damals um HEIKO gekümmert hat, als\l"
-	.string "er sein erstes POKéMON fing.\p"
+	.string "er sein erstes Pokémon fing.\p"
 	.string "Warum besuchst du uns nicht irgendwann\n"
 	.string "in WIESENFLUR? Ich bin sicher,\l"
 	.string "HEIKO würde sich sehr freuen.$"
@@ -124,9 +124,9 @@ MauvilleCity_Text_166488:: @ 8166488
 	.string "sich die jungen Leute heute entwickeln!$"
 
 MauvilleCity_Text_1664DF:: @ 81664DF
-	.string "Weißt du, es ist cool, dass es POKéMON-\n"
+	.string "Weißt du, es ist cool, dass es Pokémon-\n"
 	.string "Kämpfe und all das Zeugs gibt...\p"
-	.string "Aber wenn dein POKéMON verletzt wird,\n"
+	.string "Aber wenn dein Pokémon verletzt wird,\n"
 	.string "dann musst du es gesund pflegen.$"
 
 MauvilleCity_Text_16655C:: @ 816655C
@@ -142,14 +142,14 @@ MauvilleCity_Text_1665DB:: @ 81665DB
 
 MauvilleCity_Text_16662A:: @ 816662A
 	.string "Selbst wenn du mit dem RAD fährst,\n"
-	.string "können dich POKéMON anspringen.$"
+	.string "können dich Pokémon anspringen.$"
 
 MauvilleCity_Text_166665:: @ 8166665
 	.string "MALVENFROH CITY\n"
 	.string "“Die strahlende Stadt der Freude!”$"
 
 MauvilleCity_Text_166697:: @ 8166697
-	.string "POKéMON ARENA von MALVENFROH CITY\n"
+	.string "Pokémon ARENA von MALVENFROH CITY\n"
 	.string "LEITER: WALTER\l"
 	.string "“Der Mann, der Spannung entlädt!”$"
 

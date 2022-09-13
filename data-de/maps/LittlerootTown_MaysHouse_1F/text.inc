@@ -28,7 +28,7 @@ LittlerootTown_BrendansHouse_1F_Text_173262:: @ 8173262
 
 LittlerootTown_BrendansHouse_1F_Text_1732B9:: @ 81732B9
 	.string "Ich glaube, es ist wunderbar für Leute,\n"
-	.string "mit ihren POKéMON zu reisen.\p"
+	.string "mit ihren Pokémon zu reisen.\p"
 	.string "Aber du solltest öfter nach Hause\n"
 	.string "gehen und deiner Mutter zeigen, dass es\l"
 	.string "dir gut geht.\p"

@@ -1,7 +1,7 @@
 Route115_Text_170273:: @ 8170273
 	.string "Exploring a cave isn't like walking\n"
 	.string "on a road.\p"
-	.string "You never know when wild POKéMON will\n"
+	.string "You never know when wild Pokémon will\n"
 	.string "appear. It's full of suspense.$"
 
 Route115_Text_1702E7:: @ 81702E7

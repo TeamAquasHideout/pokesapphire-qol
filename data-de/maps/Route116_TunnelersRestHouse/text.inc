@@ -6,7 +6,7 @@ Route116_TunnelersRestHouse_Text_192F33:: @ 8192F33
 	.string "die Arbeit stoppen.\p"
 	.string "Es stellte sich heraus, dass sich unsere\n"
 	.string "Arbeit negativ auf die wilden\l"
-	.string "POKéMON in dieser Gegend auswirkte.\p"
+	.string "Pokémon in dieser Gegend auswirkte.\p"
 	.string "Und daher haben wir nun nichts mehr zu\n"
 	.string "tun, außer hier faul herumzuhängen.$"
 
@@ -16,7 +16,7 @@ Route116_TunnelersRestHouse_Text_193049:: @ 8193049
 	.string "versucht verzweifelt durchzukommen.\p"
 	.string "Er sagt, wenn er Schritt für Schritt\n"
 	.string "ohne laute Maschinen gräbt, werden die\l"
-	.string "POKéMON nicht gestört und ihr natür-\l"
+	.string "Pokémon nicht gestört und ihr natür-\l"
 	.string "licher Lebensraum bleibt erhalten.$"
 
 Route116_TunnelersRestHouse_Text_193135:: @ 8193135

@@ -12,33 +12,33 @@ OldaleTown_Text_16AF2F:: @ 816AF2F
 	.string "Er ist an dem blauen Dach erkennbar.\p"
 	.string "Wir verkaufen eine Menge nützlicher\n"
 	.string "Dinge, wie POKéBÄLLE, mit denen man\l"
-	.string "POKéMON fängt.\p"
+	.string "Pokémon fängt.\p"
 	.string "Hier, dies ist ein Item, quasi als Werbe-\n"
 	.string "geschenk für dich.$"
 
 OldaleTown_Text_16AFE1:: @ 816AFE1
 	.string "Ein TRANK kann zu jeder Zeit eingesetzt\n"
 	.string "werden, daher ist er in manchen\l"
-	.string "Situationen wertvoller als ein POKéMON-\l"
+	.string "Situationen wertvoller als ein Pokémon-\l"
 	.string "CENTER.$"
 
 OldaleTown_Text_16B045:: @ 816B045
 	.string "Aaaah! Warte!\n"
 	.string "Bitte nicht dort entlang laufen!\p"
 	.string "Ich habe dort die Fußspuren eines\n"
-	.string "seltenen POKéMON gesehen!\p"
+	.string "seltenen Pokémon gesehen!\p"
 	.string "Warte bis ich fertig bin, sie\n"
 	.string "abzuzeichnen, okay?$"
 
 OldaleTown_Text_16B0CC:: @ 816B0CC
 	.string "Ich habe dort die Fußspuren eines\n"
-	.string "seltenen POKéMON gesehen!\p"
+	.string "seltenen Pokémon gesehen!\p"
 	.string "Warte, bis ich fertig bin, sie\n"
 	.string "abzuzeichnen, okay?$"
 
 OldaleTown_Text_16B12A:: @ 816B12A
 	.string "Ich habe die Fußspuren eines seltenen\n"
-	.string "POKéMON abgezeichnet.\p"
+	.string "Pokémon abgezeichnet.\p"
 	.string "Aber hinterher habe ich festgestellt,\n"
 	.string "dass es meine eigenen Spuren waren...$"
 

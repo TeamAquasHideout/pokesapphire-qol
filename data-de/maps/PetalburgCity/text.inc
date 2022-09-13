@@ -6,7 +6,7 @@ PetalburgCity_Text_16433E:: @ 816433E
 PetalburgCity_Text_16438A:: @ 816438A
 	.string "He da! Bist du vielleicht...\n"
 	.string "Ein Anfänger unter den TRAINERN?\p"
-	.string "Weißt du, was POKéMON-TRAINER machen,\n"
+	.string "Weißt du, was Pokémon-TRAINER machen,\n"
 	.string "wenn sie in einen neuen Ort kommen?\p"
 	.string "Sie sehen sich als Erstes die ARENA\n"
 	.string "im Ort an.$"
@@ -27,13 +27,13 @@ PetalburgCity_Text_164490:: @ 8164490
 	.string "Was siehst du in deinem Spiegelbild?$"
 
 PetalburgCity_Text_16453F:: @ 816453F
-	.string "Nehmen wir an, du hättest 6 POKéMON.\n"
+	.string "Nehmen wir an, du hättest 6 Pokémon.\n"
 	.string "Wenn du jetzt ein weiteres fängst...\p"
-	.string "wird es automatisch in das POKéMON-\n"
+	.string "wird es automatisch in das Pokémon-\n"
 	.string "LAGERUNGS-SYSTEM gesendet.$"
 
 PetalburgCity_Text_1645BB:: @ 81645BB
-	.string "POKéMON ARENA von BLÜTENBURG CITY\n"
+	.string "Pokémon ARENA von BLÜTENBURG CITY\n"
 	.string "LEITER: NORMAN\l"
 	.string "“Ein Mann, der nach Stärke strebt!”$"
 

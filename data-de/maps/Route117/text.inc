@@ -1,5 +1,5 @@
 Route117_Text_170C26:: @ 8170C26
-	.string "Ich habe mein POKéMON in der PENSION\n"
+	.string "Ich habe mein Pokémon in der PENSION\n"
 	.string "abgegeben.\p"
 	.string "Als ich es wieder abholte, kannte es\n"
 	.string "eine Attacke, die ich ihm nicht beige-\l"
@@ -22,5 +22,5 @@ Route117_Text_170D1E:: @ 8170D1E
 	.string "{RIGHT_ARROW} MALVENFROH CITY$"
 
 Route117_Text_170D38:: @ 8170D38
-	.string "POKéMON-PENSION\n"
-	.string "“Lass uns deine POKéMON aufziehen.”$"
+	.string "Pokémon-PENSION\n"
+	.string "“Lass uns deine Pokémon aufziehen.”$"

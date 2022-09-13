@@ -24,15 +24,15 @@ UnknownString_81C35A9: @ 81C35A9
 
 Route121_SafariZoneEntrance_Text_1C35D0:: @ 81C35D0
 	.string "Willkommen in der SAFARI-ZONE!\p"
-	.string "Hier bekommst du viele POKéMON zu\n"
+	.string "Hier bekommst du viele Pokémon zu\n"
 	.string "Gesicht, die sehr selten in der HOENN-\l"
 	.string "Region sind.\p"
 	.string "Du kannst sie in ihrer ganzen Wildheit\n"
 	.string "und ungezähmt in ihrer natürlichen\l"
 	.string "Umgebung beobachten.\p"
-	.string "Wir haben unsere Tore für die POKéMON-\n"
+	.string "Wir haben unsere Tore für die Pokémon-\n"
 	.string "TRAINER geöffnet.\p"
-	.string "Fangt euch POKéMON. Und behaltet sie!\p"
+	.string "Fangt euch Pokémon. Und behaltet sie!\p"
 	.string "Kommt und genießt die Welt der\n"
 	.string "SAFARI-ZONE!$"
 
@@ -46,7 +46,7 @@ Route121_SafariZoneEntrance_Text_1C373C:: @ 81C373C
 Route121_SafariZoneEntrance_Text_1C375F:: @ 81C375F
 	.string "Sobald du die SAFARI-ZONE betrittst,\n"
 	.string "stehen dir 30 SAFARIBÄLLE zur Ver-\l"
-	.string "fügung, um POKéMON zu fangen.\p"
+	.string "fügung, um Pokémon zu fangen.\p"
 	.string "Das SAFARI-Spiel ist vorbei, sobald du\n"
 	.string "deine SAFARIBÄLLE verbraucht oder\l"
 	.string "500 Schritte gemacht hast.\p"
@@ -115,46 +115,46 @@ SafariZone_Southeast_Text_1C3B2D:: @ 81C3B2D
 SafariZone_Southeast_Text_1C3B71:: @ 81C3B71
 	.string "Weißt du was?\p"
 	.string "Wenn du einen {POKEBLOCK} in diese Kiste\n"
-	.string "dort legst, werden POKéMON angelockt.$"
+	.string "dort legst, werden Pokémon angelockt.$"
 
 SafariZone_Southeast_Text_1C3BBD:: @ 81C3BBD
 	.string "Ich wollte noch weiter hinein, aber\n"
 	.string "ich habe mein RAD vergessen.\p"
 	.string "Irgendetwas sagt mir, dass in den abge-\n"
-	.string "legenen Gegenden seltene POKéMON\l"
+	.string "legenen Gegenden seltene Pokémon\l"
 	.string "leben.$"
 
 SafariZone_Southwest_Text_1C3C39:: @ 81C3C39
-	.string "Manchmal, wenn ich einem POKéMON einen\n"
+	.string "Manchmal, wenn ich einem Pokémon einen\n"
 	.string "{POKEBLOCK} zuwerfe, ignoriert es das total.\p"
-	.string "Ob POKéMON auch manche Dinge mögen\n"
+	.string "Ob Pokémon auch manche Dinge mögen\n"
 	.string "und manche nicht? Wie wir Menschen?$"
 
 SafariZone_Northwest_Text_1C3CAE:: @ 81C3CAE
 	.string "Hechel... Keuch...\n"
 	.string "Ich... bin hierher gekommen... aber...\p"
 	.string "Ich bin erschöpft... Japs... Ich habe\n"
-	.string "keine Energie, ein POKéMON zu fangen.$"
+	.string "keine Energie, ein Pokémon zu fangen.$"
 
 SafariZone_Northeast_Text_1C3D19:: @ 81C3D19
 	.string "Ich habe eine Mission. Ich will WASSER-\n"
-	.string "POKéMON fangen, die es in HOENN nicht\l"
+	.string "Pokémon fangen, die es in HOENN nicht\l"
 	.string "gibt.\p"
 	.string "Weißt du zufällig, wo hier der See ist?$"
 
 SafariZone_Northeast_Text_1C3D80:: @ 81C3D80
-	.string "Ich will viele seltene POKéMON fangen\n"
+	.string "Ich will viele seltene Pokémon fangen\n"
 	.string "und mit meinen Freunden tauschen.$"
 
 SafariZone_Southeast_Text_1C3DCE:: @ 81C3DCE
 	.string "Ich habe einen {POKEBLOCK} in den {POKEBLOCK}-\n"
 	.string "NAPF gelegt. Er ist verschwunden.\p"
-	.string "Ein POKéMON muss ihn gefuttert haben,\n"
+	.string "Ein Pokémon muss ihn gefuttert haben,\n"
 	.string "ohne dass ich das gemerkt habe.$"
 
 Route121_SafariZoneEntrance_Text_1C3E4B:: @ 81C3E4B
 	.string "TIPP für TRAINER in der SAFARI-ZONE!\p"
-	.string "Wirf POKéMON {POKEBLOCK} zu, dann ergreifen\n"
+	.string "Wirf Pokémon {POKEBLOCK} zu, dann ergreifen\n"
 	.string "sie nicht so schnell die Flucht.$"
 
 SafariZone_Southwest_Text_1C3EA3:: @ 81C3EA3
@@ -163,21 +163,21 @@ SafariZone_Southwest_Text_1C3EA3:: @ 81C3EA3
 
 SafariZone_RestHouse_Text_1C3EC9:: @ 81C3EC9
 	.string "Ich habe keine {POKEBLOCK}, aber ich habe\n"
-	.string "trotzdem viele POKéMON gefangen.\p"
+	.string "trotzdem viele Pokémon gefangen.\p"
 	.string "Du kannst deine Chancen erhöhen, indem\n"
-	.string "du näher an das POKéMON herangehst,\l"
+	.string "du näher an das Pokémon herangehst,\l"
 	.string "bevor du den SAFARIBALL wirfst.$"
 
 SafariZone_RestHouse_Text_1C3F71:: @ 81C3F71
-	.string "POKéMON fliehen nicht so schnell, wenn\n"
+	.string "Pokémon fliehen nicht so schnell, wenn\n"
 	.string "man ihnen {POKEBLOCK} zuwirft.\p"
-	.string "POKéMON, die von Natur aus nicht schnell\n"
+	.string "Pokémon, die von Natur aus nicht schnell\n"
 	.string "fliehen, braucht man sie nicht\l"
 	.string "unbedingt zuzuwerfen.$"
 
 SafariZone_RestHouse_Text_1C3FF4:: @ 81C3FF4
 	.string "Wird ein {POKEBLOCK} in den NAPF gelegt,\n"
-	.string "werden POKéMON angelockt.\p"
-	.string "Ich glaube, POKéMON mit der gleichen\n"
+	.string "werden Pokémon angelockt.\p"
+	.string "Ich glaube, Pokémon mit der gleichen\n"
 	.string "Wesensart werden von ähnlichen {POKEBLOCK}N\l"
 	.string "angezogen.$"

@@ -11,7 +11,7 @@ LilycoveCity_CoveLilyMotel_2F_Text_18708F:: @ 818708F
 	.string "Wow! Das ist beeindruckend!\n"
 	.string "Wirklich äußerst beeindruckend!\p"
 	.string "Dein POKéDEX ist absolut vollständig!\n"
-	.string "Du musst die POKéMON wirklich lieben!\p"
+	.string "Du musst die Pokémon wirklich lieben!\p"
 	.string "Ich bin echt beeindruckt!\p"
 	.string "Ich möchte dir als Zeichen meiner Aner-\n"
 	.string "kennung gerne etwas schenken!$"
@@ -24,7 +24,7 @@ LilycoveCity_CoveLilyMotel_2F_Text_187149:: @ 8187149
 
 LilycoveCity_CoveLilyMotel_2F_Text_18719E:: @ 818719E
 	.string "Ich bin der GRAPHIC ARTIST! Sind die\n"
-	.string "POKéMON in der Region von HOENN\l"
+	.string "Pokémon in der Region von HOENN\l"
 	.string "nicht interessant?$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_1871DF:: @ 81871DF

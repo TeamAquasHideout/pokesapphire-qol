@@ -1,13 +1,13 @@
 LilycoveCity_DepartmentStore_1F_Text_1C4B5E:: @ 81C4B5E
-	.string "Dies ist die POKéMON-LOTTERIE.\p"
+	.string "Dies ist die Pokémon-LOTTERIE.\p"
 	.string "Alle Besucher des EINKAUFSZENTRUMS\n"
-	.string "können einen POKéMON-LOTTOSCHEIN\l"
+	.string "können einen Pokémon-LOTTOSCHEIN\l"
 	.string "ziehen.\p"
 	.string "Wenn die Nummer des LOTTOSCHEINS mit\n"
-	.string "der ID-Nummer eines deiner POKéMON\l"
+	.string "der ID-Nummer eines deiner Pokémon\l"
 	.string "übereinstimmt, gewinnst du einen Preis.\p"
 	.string "Möchtest du einen\n"
-	.string "POKéMON-LOTTOSCHEIN ziehen?$"
+	.string "Pokémon-LOTTOSCHEIN ziehen?$"
 
 LilycoveCity_DepartmentStore_1F_Text_1C4C6A:: @ 81C4C6A
 	.string "Bitte, komme morgen wieder.$"
@@ -27,7 +27,7 @@ LilycoveCity_DepartmentStore_1F_Text_1C4CF6:: @ 81C4CF6
 	.string "Der LOTTOSCHEIN hat die Nummer {STR_VAR_1}.\p"
 	.string "Ich muss diese Nummer jetzt prüfen,\n"
 	.string "um zu sehen, ob sie mit der ID-Nummer\l"
-	.string "eines deiner POKéMON übereinstimmt.$"
+	.string "eines deiner Pokémon übereinstimmt.$"
 
 LilycoveCity_DepartmentStore_1F_Text_1C4D7D:: @ 81C4D7D
 	.string "Herzlichen Glückwunsch!\p"

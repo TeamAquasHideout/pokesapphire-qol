@@ -4,7 +4,7 @@ ClosedSootopolisDoorText: @ 8169690
 SootopolisCity_Text_1696A4:: @ 81696A4
 	.string "Who might you be?\p"
 	.string "This is the CAVE OF ORIGIN.\p"
-	.string "The spirits of POKéMON, becalmed at\n"
+	.string "The spirits of Pokémon, becalmed at\n"
 	.string "MT. PYRE, are said to be revived here.\p"
 	.string "Please leave.$"
 
@@ -56,7 +56,7 @@ SootopolisCity_Text_169AB7:: @ 8169AB7
 
 SootopolisCity_Text_169AE7:: @ 8169AE7
 	.string "STEVEN: This rain...\p"
-	.string "People and POKéMON need water to live...\p"
+	.string "People and Pokémon need water to live...\p"
 	.string "But why does this rain fill us with\n"
 	.string "so much dread?\p"
 	.string "The rain clouds over SOOTOPOLIS will\n"
@@ -76,7 +76,7 @@ SootopolisCity_Text_169BC7:: @ 8169BC7
 SootopolisCity_Text_169C99:: @ 8169C99
 	.string "STEVEN: {PLAYER}{KUN}, I never expected you\n"
 	.string "to be holding the BLUE ORB.\p"
-	.string "You'll be okay. With your POKéMON,\n"
+	.string "You'll be okay. With your Pokémon,\n"
 	.string "you'll get things done no matter what.\p"
 	.string "I'm convinced of it!$"
 
@@ -88,7 +88,7 @@ SootopolisCity_Text_169D37:: @ 8169D37
 
 SootopolisCity_Text_169DA6:: @ 8169DA6
 	.string "STEVEN: You'll be okay. With your\n"
-	.string "POKéMON, you'll get things done\l"
+	.string "Pokémon, you'll get things done\l"
 	.string "whatever happens.\p"
 	.string "I'm convinced of it!$"
 
@@ -113,7 +113,7 @@ SootopolisCity_Text_169F3C:: @ 8169F3C
 
 SootopolisCity_Text_169F6B:: @ 8169F6B
 	.string "STEVEN: This sunlight...\p"
-	.string "People and POKéMON need sunlight\n"
+	.string "People and Pokémon need sunlight\n"
 	.string "to live...\p"
 	.string "But why does this sunlight fill us\n"
 	.string "with so much dread?\p"
@@ -134,7 +134,7 @@ SootopolisCity_Text_16A06C:: @ 816A06C
 SootopolisCity_Text_16A13E:: @ 816A13E
 	.string "STEVEN: {PLAYER}{KUN}, I never expected you\n"
 	.string "to be holding the RED ORB.\p"
-	.string "You'll be okay. With your POKéMON,\n"
+	.string "You'll be okay. With your Pokémon,\n"
 	.string "you'll get things done no matter what.\p"
 	.string "I'm convinced of it!$"
 
@@ -146,7 +146,7 @@ SootopolisCity_Text_16A1DB:: @ 816A1DB
 
 SootopolisCity_Text_16A249:: @ 816A249
 	.string "STEVEN: You'll be okay. With your\n"
-	.string "POKéMON, you'll get things done\l"
+	.string "Pokémon, you'll get things done\l"
 	.string "whatever happens.\p"
 	.string "I'm convinced of it!$"
 
@@ -173,7 +173,7 @@ SootopolisCity_Text_16A33E:: @ 816A33E
 SootopolisCity_Text_16A455:: @ 816A455
 	.string "All life starts at the CAVE OF ORIGIN,\n"
 	.string "and it all ends on MT. PYRE...\p"
-	.string "Where do people and POKéMON come\n"
+	.string "Where do people and Pokémon come\n"
 	.string "from? Where are we bound?$"
 
 SootopolisCity_Text_16A4D6:: @ 816A4D6
@@ -205,7 +205,7 @@ SootopolisCity_Text_16A6AE:: @ 816A6AE
 	.string "Hunh? Where is my house?$"
 
 SootopolisCity_Text_16A6C7:: @ 816A6C7
-	.string "SOOTOPOLIS CITY POKéMON GYM\n"
+	.string "SOOTOPOLIS CITY Pokémon GYM\n"
 	.string "LEADER: WALLACE\p"
 	.string "“Artist, and lover of WATER.”$"
 

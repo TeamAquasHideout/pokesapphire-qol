@@ -69,7 +69,7 @@ SlateportCity_Harbor_Text_17FE60:: @ 817FE60
 	.string "Why would TEAM {EVIL_TEAM} steal my\n"
 	.string "SUBMARINE EXPLORER 1?\p"
 	.string "They can't be after the slumbering\n"
-	.string "POKéMON at the bottom of the sea...\p"
+	.string "Pokémon at the bottom of the sea...\p"
 	.string "But even if I were to chase them,\n"
 	.string "I don't stand a chance against them...$"
 
@@ -81,7 +81,7 @@ SlateportCity_Harbor_Text_17FF35:: @ 817FF35
 	.string "You're not responsible for this.\p"
 	.string "Trying to catch a submarine...\n"
 	.string "It's impossible for most people.\p"
-	.string "You would need a POKéMON that knows\n"
+	.string "You would need a Pokémon that knows\n"
 	.string "how to DIVE...\p"
 	.string "Perhaps if you went out to\n"
 	.string "MOSSDEEP CITY...\p"
@@ -91,7 +91,7 @@ SlateportCity_Harbor_Text_17FF35:: @ 817FF35
 SlateportCity_Harbor_Text_1800A0:: @ 81800A0
 	.string "CAPT. STERN: Trying to catch a\n"
 	.string "submarine...  It's impossible.\p"
-	.string "You would need a POKéMON that knows\n"
+	.string "You would need a Pokémon that knows\n"
 	.string "how to DIVE...\p"
 	.string "Perhaps if you went out to\n"
 	.string "MOSSDEEP CITY...\p"

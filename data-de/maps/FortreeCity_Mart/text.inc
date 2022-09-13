@@ -12,4 +12,4 @@ FortreeCity_Mart_Text_186251:: @ 8186251
 
 FortreeCity_Mart_Text_1862CA:: @ 81862CA
 	.string "Ein SONDERBONBON erhöht den Level\n"
-	.string "eines POKéMON sofort um 1.$"
+	.string "eines Pokémon sofort um 1.$"

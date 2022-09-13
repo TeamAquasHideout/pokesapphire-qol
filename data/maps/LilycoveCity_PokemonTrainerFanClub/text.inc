@@ -110,7 +110,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_18A8C4:: @ 818A8C4
 
 LilycoveCity_PokemonTrainerFanClub_Text_18A984:: @ 818A984
 	.string "Everyone here, we're all huge fans\n"
-	.string "of POKéMON battles.\p"
+	.string "of Pokémon battles.\p"
 	.string "We discuss who we consider to be\n"
 	.string "the strongest of all TRAINERS.\p"
 	.string "If you were to become famous, we\n"
@@ -218,7 +218,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_18B030:: @ 818B030
 LilycoveCity_PokemonTrainerFanClub_Text_18B0C8:: @ 818B0C8
 	.string "You are really popular...\p"
 	.string "You're strong, and you're caring to\n"
-	.string "POKéMON. No one can knock you.\p"
+	.string "Pokémon. No one can knock you.\p"
 	.string "But, you know, I believe in {STR_VAR_1}.\p"
 	.string "{STR_VAR_1} is definitely stronger!\n"
 	.string "I'm positive!$"

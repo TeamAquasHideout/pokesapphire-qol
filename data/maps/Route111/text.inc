@@ -2,7 +2,7 @@ Route111_Text_16F705:: @ 816F705
 	.string "Hello! I take it you're a traveler.\p"
 	.string "How's this? What do you say to taking\n"
 	.string "on our family of four in a series of\l"
-	.string "POKéMON battles?$"
+	.string "Pokémon battles?$"
 
 Route111_Text_16F785:: @ 816F785
 	.string "Is that so?\n"
@@ -78,10 +78,10 @@ Route111_Text_16FB67:: @ 816FB67
 	.string "{PLAYER} left the CLAW FOSSIL alone.$"
 
 Route111_Text_16FB86:: @ 816FB86
-	.string "If you don't raise your POKéMON some\n"
+	.string "If you don't raise your Pokémon some\n"
 	.string "more, it could be tough to keep winning\l"
 	.string "up through the ranks.\p"
-	.string "I've heard the POKéMON LEAGUE's\n"
+	.string "I've heard the Pokémon LEAGUE's\n"
 	.string "ELITE FOUR are far stronger than\l"
 	.string "any GYM LEADER.$"
 
@@ -112,7 +112,7 @@ Route111_Text_16FD1B:: @ 816FD1B
 
 Route111_Text_16FD55:: @ 816FD55
 	.string "TRAINER TIPS\p"
-	.string "One of the indicators of a POKéMON's\n"
+	.string "One of the indicators of a Pokémon's\n"
 	.string "powerfulness is SP. ATK. It stands for\l"
 	.string "“SPECIAL ATTACK.”\p"
 	.string "Likewise, SP. DEF stands for “SPECIAL\n"

@@ -7,7 +7,7 @@ MtPyre_6F_Text_196A30:: @ 8196A30
 
 MtPyre_6F_Text_196A4C:: @ 8196A4C
 	.string "Perhaps the power is from the spirits\n"
-	.string "of POKéMON in fitful sleep here...$"
+	.string "of Pokémon in fitful sleep here...$"
 
 MtPyre_6F_Text_196A95:: @ 8196A95
 	.string "Behind you...\n"
@@ -17,5 +17,5 @@ MtPyre_6F_Text_196AB1:: @ 8196AB1
 	.string "Something faded away...$"
 
 MtPyre_6F_Text_196AC9:: @ 8196AC9
-	.string "The POKéMON at rest here...\n"
+	.string "The Pokémon at rest here...\n"
 	.string "Sometimes, they play...$"

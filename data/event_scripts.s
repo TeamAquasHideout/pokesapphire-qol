@@ -718,6 +718,7 @@ UnknownString_819C21F: @ 819C21F
 	.include "data/scripts/trainer_battle.inc"
 	.include "data/scripts/new_game.inc"
 	.include "data/scripts/hall_of_fame.inc"
+	.include "data/scripts/debug_menu.inc"
 
 EventScript_WhiteOut:: @ 819FC74
 	call EverGrandeCity_HallOfFame_EventScript_ResetEliteFour
@@ -992,11 +993,11 @@ Common_EventScript_PlayerHandedOverTheItem:: @ 81A067F
 
 Text_PokemartSign:: @ 81A0D41
 	.string "“Selected items for your convenience!”\n"
-	.string "POKéMON MART$"
+	.string "Pokémon MART$"
 
 Text_PokemonCenterSign:: @ 81A0D75
 	.string "“Rejuvenate your tired partners!”\n"
-	.string "POKéMON CENTER$"
+	.string "Pokémon CENTER$"
 
 UnknownString_81A0DA6: @ 81A0DA6
 	.string "Fufufu...$"
@@ -1011,11 +1012,11 @@ UnknownString_81A0DC6: @ 81A0DC6
 	.string "Closed today!$"
 
 UnknownString_81A0DD4: @ 81A0DD4
-	.string "You like the {STR_VAR_3}-type POKéMON\n"
+	.string "You like the {STR_VAR_3}-type Pokémon\n"
 	.string "{STR_VAR_1}?$"
 
 UnknownString_81A0DF5: @ 81A0DF5
-	.string "It contains a POKéMON!$"
+	.string "It contains a Pokémon!$"
 
 UnknownString_81A0E0C: @ 81A0E0C
 	.string "We're making preparations.$"
@@ -1061,12 +1062,12 @@ Text_NoRegisteredItem: @ 81A0FCC
 
 LittlerootTown_BrendansHouse_2F_Text_1A100C:: @ 81A100C
 LittlerootTown_MaysHouse_2F_Text_1A100C:: @ 81A100C
-	.string "There's an e-mail from POKéMON TRAINER\n"
+	.string "There's an e-mail from Pokémon TRAINER\n"
 	.string "SCHOOL.\p"
 	.string "... ... ... ... ... ...\p"
-	.string "A POKéMON may learn up to four moves.\p"
+	.string "A Pokémon may learn up to four moves.\p"
 	.string "A TRAINER's expertise is tested on the\n"
-	.string "move sets chosen for POKéMON.\p"
+	.string "move sets chosen for Pokémon.\p"
 	.string "... ... ... ... ... ...$"
 
 LittlerootTown_BrendansHouse_2F_Text_1A10D6:: @ 81A10D6
@@ -1085,7 +1086,7 @@ fieldPoisonText_PokemonFainted:: @ 81A1132
 	.string "{STR_VAR_1} fainted...\p$"
 
 UnknownString_81A1141: @ 81A1141
-	.string "{PLAYER} is out of useable POKéMON!\p"
+	.string "{PLAYER} is out of useable Pokémon!\p"
 	.string "{PLAYER} whited out!$"
 
 SlateportCity_Text_1A116E:: @ 81A116E
@@ -1098,16 +1099,16 @@ SlateportCity_Text_1A116E:: @ 81A116E
 	.string "you good stuff in secrecy.$"
 
 gText_NurseJoy_OkayIllTakeYourPokemon:: @ 81A1245
-	.string "Okay, I'll take your POKéMON for a\n"
+	.string "Okay, I'll take your Pokémon for a\n"
 	.string "few seconds.$"
 
 gText_NurseJoy_Pokerus:: @ 81A1275
-	.string "Your POKéMON may be infected with\n"
+	.string "Your Pokémon may be infected with\n"
 	.string "POKéRUS.\p"
 	.string "Little is known about the POKéRUS\n"
 	.string "except that they are microscopic life-\l"
-	.string "forms that attach to POKéMON.\p"
-	.string "While infected, POKéMON are said to\n"
+	.string "forms that attach to Pokémon.\p"
+	.string "While infected, Pokémon are said to\n"
 	.string "grow exceptionally well.$"
 
 	.include "data/text/surf.inc"

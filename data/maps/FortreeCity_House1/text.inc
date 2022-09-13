@@ -1,5 +1,5 @@
 FortreeCity_House1_Text_18568C:: @ 818568C
-	.string "Hi, there's this POKéMON that I'm\n"
+	.string "Hi, there's this Pokémon that I'm\n"
 	.string "looking for.\p"
 	.string "I want a {STR_VAR_1}.\n"
 	.string "Do you have one?\p"
@@ -12,7 +12,7 @@ FortreeCity_House1_Text_1856F7:: @ 81856F7
 
 FortreeCity_House1_Text_185737:: @ 8185737
 	.string "Wait!\n"
-	.string "That POKéMON isn't a {STR_VAR_1}.\p"
+	.string "That Pokémon isn't a {STR_VAR_1}.\p"
 	.string "I guess you don't want to trade\n"
 	.string "with me.$"
 
@@ -23,11 +23,11 @@ FortreeCity_House1_Text_18577F:: @ 818577F
 
 FortreeCity_House1_Text_1857C7:: @ 81857C7
 	.string "Thank you for trading with me!\p"
-	.string "I really wanted this POKéMON, so\n"
+	.string "I really wanted this Pokémon, so\n"
 	.string "I promise to take good care of it!$"
 
 FortreeCity_House1_Text_18582A:: @ 818582A
-	.string "Trading POKéMON with others...\p"
+	.string "Trading Pokémon with others...\p"
 	.string "It's as if you're trading your own\n"
 	.string "memories with other people.$"
 

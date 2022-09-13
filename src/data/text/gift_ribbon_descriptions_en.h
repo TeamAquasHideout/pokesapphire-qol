@@ -35,28 +35,28 @@ const u8 gGiftRibbonDescriptionPart1_2005GlobalCup[] = _(
     "2005 GLOBAL CUP");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonBattleCup[] = _(
-    "POKéMON BATTLE CUP");
+    "Pokémon BATTLE CUP");
 
 const u8 gGiftRibbonDescriptionPart2_Participation[] = _(
     "Participation RIBBON");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonLeague[] = _(
-    "POKéMON LEAGUE");
+    "Pokémon LEAGUE");
 
 const u8 gGiftRibbonDescriptionPart1_AdvanceCup[] = _(
     "ADVANCE CUP");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonTournament[] = _(
-    "POKéMON Tournament");
+    "Pokémon Tournament");
 
 const u8 gGiftRibbonDescriptionPart2_Participation2[] = _(
     "Participation RIBBON");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonEvent[] = _(
-    "POKéMON Event");
+    "Pokémon Event");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonFestival[] = _(
-    "POKéMON Festival");
+    "Pokémon Festival");
 
 const u8 gGiftRibbonDescriptionPart1_DifficultyClearing[] = _(
     "Difficulty-clearing");
@@ -89,16 +89,16 @@ const u8 gGiftRibbonDescriptionPart1_LegendMaking[] = _(
     "Legend-making");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonCenterTokyo[] = _(
-    "POKéMON CENTER TOKYO");
+    "Pokémon CENTER TOKYO");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonCenterOsaka[] = _(
-    "POKéMON CENTER OSAKA");
+    "Pokémon CENTER OSAKA");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonCenterNagoya[] = _(
-    "POKéMON CENTER NAGOYA");
+    "Pokémon CENTER NAGOYA");
 
 const u8 gGiftRibbonDescriptionPart1_PokemonCenterNY[] = _(
-    "POKéMON CENTER NY");
+    "Pokémon CENTER NY");
 
 const u8 gGiftRibbonDescriptionPart1_SummerHolidays[] = _(
     "Summer Holidays RIBBON");
@@ -131,13 +131,13 @@ const u8 gGiftRibbonDescriptionPart1_LovedPokemon[] = _(
     "A commemorative RIBBON");
 
 const u8 gGiftRibbonDescriptionPart2_LovedPokemon[] = _(
-    "for a loved POKéMON.");
+    "for a loved Pokémon.");
 
 const u8 gGiftRibbonDescriptionPart1_LoveForPokemon[] = _(
     "RIBBON that shows");
 
 const u8 gGiftRibbonDescriptionPart2_LoveForPokemon[] = _(
-    "love for POKéMON.");
+    "love for Pokémon.");
 
 const u8 *const gGiftRibbonDescriptions[][2] = 
 {

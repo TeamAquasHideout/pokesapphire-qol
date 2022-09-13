@@ -1,8 +1,8 @@
 VerdanturfTown_FriendshipRatersHouse_Text_178A9C:: @ 8178A9C
-	.string "Let me see your POKéMON.\n"
+	.string "Let me see your Pokémon.\n"
 	.string "I'll check to see how much it likes you.\p"
 	.string "Oh.\n"
-	.string "Your POKéMON...$"
+	.string "Your Pokémon...$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_178AF2:: @ 8178AF2
 	.string "It adores you.\n"
@@ -32,7 +32,7 @@ VerdanturfTown_FriendshipRatersHouse_Text_178C39:: @ 8178C39
 
 VerdanturfTown_FriendshipRatersHouse_Text_178C90:: @ 8178C90
 	.string "This is a little hard for me to say...\p"
-	.string "Your POKéMON simply detests you.\n"
+	.string "Your Pokémon simply detests you.\n"
 	.string "Doesn't that make you uncomfortable?$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_178CFD:: @ 8178CFD

@@ -2,7 +2,7 @@ Route115_Text_170273:: @ 8170273
 	.string "Höhlenforschung ist nicht mit einem\n"
 	.string "Spaziergang auf einer Straße zu\l"
 	.string "vergleichen.\p"
-	.string "Du weißt nie, wann ein wildes POKéMON\n"
+	.string "Du weißt nie, wann ein wildes Pokémon\n"
 	.string "auftaucht. Du bist immer angespannt.$"
 
 Route115_Text_1702E7:: @ 81702E7

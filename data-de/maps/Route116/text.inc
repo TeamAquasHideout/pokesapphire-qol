@@ -17,14 +17,14 @@ Route116_Text_1703F7:: @ 81703F7
 	.string "Ich war dabei, einen Tunnel ohne Werk-\n"
 	.string "zeug zu graben, als so ein Idiot mich\l"
 	.string "verjagt hat!\p"
-	.string "Dieser Tunnel ist voller POKéMON, die\n"
+	.string "Dieser Tunnel ist voller Pokémon, die\n"
 	.string "sensibel auf Lärm reagieren. Sie können\l"
 	.string "einen Aufruhr veranstalten.\p"
 	.string "Daher arbeiten wir ohne schwere\n"
 	.string "Maschinen an dem Tunnel...\p"
 	.string "Ich befürchte, dieser Idiot wird\n"
 	.string "irgendetwas Dummes tun und die\l"
-	.string "POKéMON in Aufruhr versetzen.$"
+	.string "Pokémon in Aufruhr versetzen.$"
 
 Route116_Text_170556:: @ 8170556
 	.string "Nnn... Brüll!\p"
@@ -108,10 +108,10 @@ Route116_Text_170AB8:: @ 8170AB8
 
 Route116_Text_170ACE:: @ 8170ACE
 	.string "TIPPS für TRAINER\p"
-	.string "Wenn du die Entwicklung eines POKéMON\n"
+	.string "Wenn du die Entwicklung eines Pokémon\n"
 	.string "stoppen willst, musst du den B-Knopf\l"
 	.string "drücken, während es sich entwickeln will.\l"
-	.string "Das POKéMON entwickelt sich dann nicht.\p"
+	.string "Das Pokémon entwickelt sich dann nicht.\p"
 	.string "Das nennt man Entwicklungsstopp.$"
 
 Route116_Text_170B7D:: @ 8170B7D

@@ -5,7 +5,7 @@ BattleTower_Outside_Text_199C6F:: @ 8199C6F
 BattleTower_Outside_Text_199CA4:: @ 8199CA4
 	.string "This is the BATTLE TOWER.\p"
 	.string "TRAINERS bring their best-raised\n"
-	.string "POKéMON for elimination-style matches.$"
+	.string "Pokémon for elimination-style matches.$"
 
 BattleTower_Outside_Text_199D06:: @ 8199D06
 	.string "Hello, are you here for the ferry?\n"

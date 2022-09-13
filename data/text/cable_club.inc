@@ -1,18 +1,18 @@
 OldaleTown_PokemonCenter_2F_Text_1A4510:: @ 81A4510
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Welcome to the Pokémon CABLE CLUB\n"
 	.string "COLOSSEUM.\p"
 	.string "You may battle with your friends here.\p"
 	.string "Would you like to battle?$"
 
 OldaleTown_PokemonCenter_2F_Text_1A457E:: @ 81A457E
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Welcome to the Pokémon CABLE CLUB\n"
 	.string "TRADE CENTER.\p"
-	.string "You may trade your POKéMON here\n"
+	.string "You may trade your Pokémon here\n"
 	.string "with a friend.\p"
-	.string "Would you like to trade POKéMON?$"
+	.string "Would you like to trade Pokémon?$"
 
 OldaleTown_PokemonCenter_2F_Text_1A45FE:: @ 81A45FE
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Welcome to the Pokémon CABLE CLUB\n"
 	.if REVISION >= 1
 	.string "RECORD CORNER.\p"
 	.else
@@ -25,16 +25,16 @@ OldaleTown_PokemonCenter_2F_Text_1A45FE:: @ 81A45FE
 OldaleTown_PokemonCenter_2F_Text_1A4696:: @ 81A4696
 	.string "There are three link battle modes.\p"
 	.string "SINGLE BATTLE is for two TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
+	.string "with one or more Pokémon each.\p"
+	.string "Each TRAINER can have one Pokémon\n"
 	.string "in battle at a time.\p"
 	.string "DOUBLE BATTLE is for two TRAINERS\n"
-	.string "with two or more POKéMON each.\p"
+	.string "with two or more Pokémon each.\p"
 	.string "Each TRAINER will send out two\n"
-	.string "POKéMON in battle at a time.\p"
+	.string "Pokémon in battle at a time.\p"
 	.string "MULTI BATTLE is for four TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
+	.string "with one or more Pokémon each.\p"
+	.string "Each TRAINER can have one Pokémon\n"
 	.string "in battle at a time.$"
 
 OldaleTown_PokemonCenter_2F_Text_1A4826:: @ 81A4826
@@ -46,14 +46,14 @@ OldaleTown_PokemonCenter_2F_Text_1A4840:: @ 81A4840
 
 OldaleTown_PokemonCenter_2F_Text_1A486A:: @ 81A486A
 	.string "For a DOUBLE BATTLE, you must have\n"
-	.string "at least two POKéMON.$"
+	.string "at least two Pokémon.$"
 
 OldaleTown_PokemonCenter_2F_Text_1A48A3:: @ 81A48A3
 	.string "For trading, you must have at least\n"
-	.string "two POKéMON with you.$"
+	.string "two Pokémon with you.$"
 
 OldaleTown_PokemonCenter_2F_Text_1A48DD:: @ 81A48DD
-	.string "Your {STR_VAR_1} BERRY-holding POKéMON\n"
+	.string "Your {STR_VAR_1} BERRY-holding Pokémon\n"
 	.string "can't be traded.$"
 
 gUnknown_081A490C:: @ 81A490C
@@ -161,7 +161,7 @@ RecordCorner_Text_1A4DF7:: @ 81A4DF7
 	.string "Thanks for coming.$"
 
 UnknownString_81A4E0A: @ 81A4E0A
-	.string "Please choose your POKéMON for the\n"
+	.string "Please choose your Pokémon for the\n"
 	.string "MULTI BATTLE.$"
 
 RecordCorner_Text_1A4E3B:: @ 81A4E3B

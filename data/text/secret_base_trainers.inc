@@ -117,7 +117,7 @@ SecretBase_RedCave1_Text_1A1FBD:: @ 81A1FBD
 	.string "I finally got to use it!$"
 
 SecretBase_RedCave1_Text_1A2026:: @ 81A2026
-	.string "Welcome to my POKéMON LAB.\p"
+	.string "Welcome to my Pokémon LAB.\p"
 	.string "I carry out research on battling in\n"
 	.string "secrecy.\p"
 	.string "Would you like to see how strong I am?$"
@@ -138,7 +138,7 @@ SecretBase_RedCave1_Text_1A2109:: @ 81A2109
 	.string "Please come back again tomorrow.$"
 
 SecretBase_RedCave1_Text_1A2147:: @ 81A2147
-	.string "Welcome to my POKéMON LAB.\p"
+	.string "Welcome to my Pokémon LAB.\p"
 	.string "I carry out research on battling in\n"
 	.string "secrecy.$"
 
@@ -174,10 +174,10 @@ SecretBase_RedCave1_Text_1A22FA:: @ 81A22FA
 SecretBase_RedCave1_Text_1A236A:: @ 81A236A
 	.string "I simply adore shopping for decorations\n"
 	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
+	.string "I also love raising Pokémon just\n"
 	.string "as much.\p"
 	.string "If you would be so kind, will you battle\n"
-	.string "with my POKéMON?$"
+	.string "with my Pokémon?$"
 
 SecretBase_RedCave1_Text_1A2405:: @ 81A2405
 	.string "Thank you.\n"
@@ -197,7 +197,7 @@ SecretBase_RedCave1_Text_1A2446:: @ 81A2446
 SecretBase_RedCave1_Text_1A2480:: @ 81A2480
 	.string "I simply adore shopping for decorations\n"
 	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
+	.string "I also love raising Pokémon just\n"
 	.string "as much.$"
 
 SecretBase_RedCave1_Text_1A24E1:: @ 81A24E1
@@ -257,7 +257,7 @@ SecretBase_RedCave1_Text_1A27A4:: @ 81A27A4
 SecretBase_RedCave1_Text_1A2830:: @ 81A2830
 	.string "I found a spot I liked, and I did it up\n"
 	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
+	.string "I raise my favorite Pokémon and grow\n"
 	.string "stronger with it.\p"
 	.string "That's what I do.\n"
 	.string "Want to battle with me?$"
@@ -279,7 +279,7 @@ SecretBase_RedCave1_Text_1A294D:: @ 81A294D
 SecretBase_RedCave1_Text_1A297C:: @ 81A297C
 	.string "I found a spot I liked, and I did it up\n"
 	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
+	.string "I raise my favorite Pokémon and grow\n"
 	.string "stronger with it.\p"
 	.string "Every day is a great day.$"
 

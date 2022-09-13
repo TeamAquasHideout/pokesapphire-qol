@@ -24,7 +24,7 @@ PetalburgCity_WallysHouse_Text_179996:: @ 8179996
 	.string "worden, seit er in WIESENFLUR ist.\p"
 	.string "Das verdanken wir allein dir!\p"
 	.string "Als HEIKO den Ort verließ, hast du\n"
-	.string "ihm geholfen, ein POKéMON zu fangen,\l"
+	.string "ihm geholfen, ein Pokémon zu fangen,\l"
 	.string "stimmt's?\p"
 	.string "Ich glaube, das hat HEIKO richtig\n"
 	.string "glücklich gemacht.\p"
@@ -36,7 +36,7 @@ PetalburgCity_WallysHouse_Text_179996:: @ 8179996
 	.string "Aber ich möchte dir dies schenken.$"
 
 PetalburgCity_WallysHouse_Text_179B14:: @ 8179B14
-	.string "Wenn dein POKéMON SURFER beherrscht,\n"
+	.string "Wenn dein Pokémon SURFER beherrscht,\n"
 	.string "kannst du viele neue Orte bereisen.$"
 
 PetalburgCity_WallysHouse_Text_179B5B:: @ 8179B5B
@@ -54,7 +54,7 @@ PetalburgCity_WallysHouse_Text_179B92:: @ 8179B92
 
 PetalburgCity_WallysHouse_Text_179C2C:: @ 8179C2C
 	.string "HEIKO war richtig glücklich, als er\n"
-	.string "uns erzählte, dass er ein POKéMON\l"
+	.string "uns erzählte, dass er ein Pokémon\l"
 	.string "gefangen habe.\p"
 	.string "Ich habe ihn schon seit Ewigkeiten\n"
 	.string "nicht mehr so glücklich erlebt!$"

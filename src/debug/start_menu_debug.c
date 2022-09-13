@@ -1710,8 +1710,8 @@ const u8 Str_839C01E[] = DTR("にがおえ　ばんごう\n"
                              "しゅるい\n"
                              "こせいらんすう",
                              "PORTRAIT No.\n"
-                             "POKéMON No.\n"
-                             "POKéMON Name\n"
+                             "Pokémon No.\n"
+                             "Pokémon Name\n"
                              "BREEDER Name\n" // TRN ?
                              "TYPE\n"
                              "Personality");
@@ -1971,7 +1971,7 @@ const u8 Str_839C0EA[] = DTR("バトル", "BATTLES");
 const u8 Str_839C0EE[] = DTR("やせいバトル", "Wild BATTLES");
 const u8 Str_839C0F5[] = DTR("トレーナーバトル", "TRAINER BATTLES");
 const u8 Str_839C0FE[] = DTR("でんどういり", "HALL of FAME times");
-const u8 Str_839C105[] = DTR("ポケモンほかく", "POKéMON caught");
+const u8 Str_839C105[] = DTR("ポケモンほかく", "Pokémon caught");
 const u8 Str_839C10D[] = DTR("つった　かいすう", "Times fished");
 const u8 Str_839C116[] = DTR("タマゴかえった", "EGGS hatched");
 const u8 Str_839C11E[] = DTR("しんかした", "Evolutions");
@@ -2008,7 +2008,7 @@ const u8 Str_839C22B[] = DTR("だんさ　とびおり", "Ledge hops");
 const u8 Str_839C234[] = DTR("TVを　みた", "Watched TV");
 const u8 Str_839C23B[] = DTR("とけいを　みた", "Checked CLOCK");
 const u8 Str_839C243[] = DTR("くじが　あたった", "LOTTERY wins");
-const u8 Str_839C24C[] = DTR("ポケモンあずけた", "POKéMON DAYCARE uses");
+const u8 Str_839C24C[] = DTR("ポケモンあずけた", "Pokémon DAYCARE uses");
 const u8 Str_839C255[] = DTR("ロープウェイりよう", "CABLE CAR uses");
 const u8 Str_839C25F[] = DTR("おんせん　はいった", "HOT SPRING uses");
 

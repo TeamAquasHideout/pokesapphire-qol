@@ -2,7 +2,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_187348:: @ 8187348
 	.string "Welcome to LILYCOVE MUSEUM.\p"
 	.string "Please take the time to enjoy our\n"
 	.string "collection of fantastic artwork\l"
-	.string "featuring POKéMON.$"
+	.string "featuring Pokémon.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_1873B9:: @ 81873B9
 	.string "I'm the CURATOR of this MUSEUM of\n"
@@ -18,7 +18,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_187459:: @ 8187459
 
 LilycoveCity_LilycoveMuseum_1F_Text_187495:: @ 8187495
 	.string "Oh? I do believe that you seem to\n"
-	.string "be a POKéMON TRAINER.\p"
+	.string "be a Pokémon TRAINER.\p"
 	.string "Have you an interest in paintings,\n"
 	.string "too?$"
 
@@ -42,16 +42,16 @@ LilycoveCity_LilycoveMuseum_1F_Text_1875BE:: @ 81875BE
 
 LilycoveCity_LilycoveMuseum_1F_Text_1875F8:: @ 81875F8
 	.string "It's a painting of a beautiful, smiling\n"
-	.string "woman with a POKéMON on her lap.$"
+	.string "woman with a Pokémon on her lap.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_187641:: @ 8187641
-	.string "It's a painting of a legendary POKéMON\n"
+	.string "It's a painting of a legendary Pokémon\n"
 	.string "from long ago.\p"
 	.string "The artist painted this from\n"
 	.string "imagination.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_1876A1:: @ 81876A1
-	.string "It's a painting of GRASS POKéMON\n"
+	.string "It's a painting of GRASS Pokémon\n"
 	.string "swaying in a breeze.\p"
 	.string "They appear to be enjoying the wind's\n"
 	.string "gentle caress.$"
@@ -63,7 +63,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_18770C:: @ 818770C
 
 LilycoveCity_LilycoveMuseum_1F_Text_18775F:: @ 818775F
 	.string "It's a replica of a famous sculpture.\p"
-	.string "It depicts an ancient BIRD POKéMON.$"
+	.string "It depicts an ancient BIRD Pokémon.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_1877A9:: @ 81877A9
 	.string "It's a big POKé BALL carved from a\n"
@@ -73,7 +73,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_1877A9:: @ 81877A9
 
 LilycoveCity_LilycoveMuseum_1F_Text_187810:: @ 8187810
 	.string "It's a huge stone tablet inscribed\n"
-	.string "with POKéMON and dense text in the\l"
+	.string "with Pokémon and dense text in the\l"
 	.string "small characters of an ancient,\l"
 	.string "unreadable language.$"
 
@@ -82,7 +82,7 @@ UnknownString_818788B: @ 818788B
 	.string "What works of great magnificence...$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_1878B7:: @ 81878B7
-	.string "Battling with POKéMON is fun,\n"
+	.string "Battling with Pokémon is fun,\n"
 	.string "I'll grant you that.\p"
 	.string "But one mustn't forget our love for\n"
 	.string "the fine arts.$"
@@ -99,7 +99,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_1879BF:: @ 81879BF
 	.string "She's like Mommy!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_1879E6:: @ 81879E6
-	.string "This POKéMON is adorable!\n"
+	.string "This Pokémon is adorable!\n"
 	.string "Just like our little boy!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_187A1A:: @ 8187A1A

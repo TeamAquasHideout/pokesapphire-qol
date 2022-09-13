@@ -26,7 +26,7 @@ VerdanturfTown_WandasHouse_Text_17859A:: @ 817859A
 	.string "gewirkt bei HEIKOS Gesundheit.\p"
 	.string "Und nicht nur die natürliche Umgebung!\n"
 	.string "Ich denke, auch die Freundschaft zu\l"
-	.string "den POKéMON hat ihm geholfen...$"
+	.string "den Pokémon hat ihm geholfen...$"
 
 VerdanturfTown_WandasHouse_Text_178683:: @ 8178683
 	.string "HEIKO ist weggegangen...\n"
@@ -53,7 +53,7 @@ VerdanturfTown_WandasHouse_Text_1787FB:: @ 81787FB
 	.string "HEIKE: Mach dir keine Sorgen um HEIKO.\n"
 	.string "Ihm geht es mit Sicherheit gut.\p"
 	.string "Ich kenne doch meinen kleinen Vetter.\n"
-	.string "Außerdem hat er sein POKéMON dabei.$"
+	.string "Außerdem hat er sein Pokémon dabei.$"
 
 VerdanturfTown_WandasHouse_Text_17886A:: @ 817886A
 	.string "Dank dir kann ich meine Freundin jetzt\n"

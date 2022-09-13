@@ -13,7 +13,7 @@ Route101_Text_16D15E:: @ 816D15E
 
 Route101_Text_16D191:: @ 816D191
 	.string "PROF. BIRK: Puuuh...\p"
-	.string "Ich habe im hohen Gras POKéMON\n"
+	.string "Ich habe im hohen Gras Pokémon\n"
 	.string "studiert, als ich angesprungen wurde.\p"
 	.string "Du hast mich gerettet.\n"
 	.string "Vielen, vielen Dank!\p"
@@ -21,18 +21,18 @@ Route101_Text_16D191:: @ 816D191
 	.string "Hi, du bist doch {PLAYER}{KUN}!\p"
 	.string "Aber dies ist nicht der Ort für ein\n"
 	.string "Schwätzchen, komm doch mit \l"
-	.string "in mein POKéMON-LABOR, okay?$"
+	.string "in mein Pokémon-LABOR, okay?$"
 
 Route101_Text_16D25E:: @ 816D25E
-	.string "Sind deine POKéMON müde, bring sie in\n"
-	.string "ein POKéMON-CENTER.\p"
+	.string "Sind deine Pokémon müde, bring sie in\n"
+	.string "ein Pokémon-CENTER.\p"
 	.string "In ROSALTSTADT, gleich hier um die\n"
-	.string "Ecke, gibt es ein POKéMON-CENTER.$"
+	.string "Ecke, gibt es ein Pokémon-CENTER.$"
 
 Route101_Text_16D2CB:: @ 816D2CB
-	.string "Wilde POKéMON springen dich in hohem\n"
+	.string "Wilde Pokémon springen dich in hohem\n"
 	.string "Gras gerne an.\p"
-	.string "Wenn du POKéMON fangen willst, musst\n"
+	.string "Wenn du Pokémon fangen willst, musst\n"
 	.string "du ins hohe Gras gehen und sie suchen.$"
 
 Route101_Text_16D349:: @ 816D349

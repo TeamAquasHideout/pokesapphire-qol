@@ -1,17 +1,17 @@
 Route117_Text_1B25CB:: @ 81B25CB
 	.string "Ich bin der PENSIONSLEITER.\p"
 	.string "Ich kümmere mich um die wertvollen\n"
-	.string "POKéMON der TRAINER.\p"
-	.string "Wenn ich eines deiner POKéMON auf-\n"
+	.string "Pokémon der TRAINER.\p"
+	.string "Wenn ich eines deiner Pokémon auf-\n"
 	.string "ziehen soll, sprich mit meiner Frau.$"
 
 Route117_Text_1B2659:: @ 81B2659
 	.string "Ach, du bist es!\p"
-	.string "Wir haben deine POKéMON aufgezogen\n"
+	.string "Wir haben deine Pokémon aufgezogen\n"
 	.string "und wurden überrascht!\p"
-	.string "Deine POKéMON haben nun ein EI!\p"
+	.string "Deine Pokémon haben nun ein EI!\p"
 	.string "Wir wissen nicht, wie das passiert ist,\n"
-	.string "aber deine POKéMON haben es.\p"
+	.string "aber deine Pokémon haben es.\p"
 	.string "Möchtest du es haben?$"
 
 Route117_Text_1B2710:: @ 81B2710
@@ -40,11 +40,11 @@ Route117_Text_1B27E3:: @ 81B27E3
 	.string "ausgetauscht haben...$"
 
 UnknownString_81B2858: @ 81B2858
-	.string "Wenn du deine POKéMON zurückhaben\n"
+	.string "Wenn du deine Pokémon zurückhaben\n"
 	.string "möchtest, sprich doch mit meiner Frau.$"
 
 Route117_Text_1B2897:: @ 81B2897
-	.string "Ah, du bist es! Deine POKéMON\n"
+	.string "Ah, du bist es! Deine Pokémon\n"
 	.string "{STR_VAR_1} und {STR_VAR_2} entwickeln\l"
 	.string "sich prächtig.$"
 
@@ -54,11 +54,11 @@ Route117_Text_1B28C4:: @ 81B28C4
 
 Route117_PokemonDayCare_Text_1B28F2:: @ 81B28F2
 	.string "Ich bin die PENSIONSLEITERIN.\p"
-	.string "Wir ziehen POKéMON für dich auf.\p"
+	.string "Wir ziehen Pokémon für dich auf.\p"
 	.string "Sollen wir eins für dich aufziehen?$"
 
 Route117_PokemonDayCare_Text_1B2947:: @ 81B2947
-	.string "Welches POKéMON sollen wir für dich\n"
+	.string "Welches Pokémon sollen wir für dich\n"
 	.string "aufziehen?$"
 
 Route117_PokemonDayCare_Text_1B296E:: @ 81B296E
@@ -67,7 +67,7 @@ Route117_PokemonDayCare_Text_1B296E:: @ 81B296E
 	.string "Schau später mal nach ihm.$"
 
 Route117_PokemonDayCare_Text_1B29AD:: @ 81B29AD
-	.string "Wir können zwei deiner POKéMON nehmen.\n"
+	.string "Wir können zwei deiner Pokémon nehmen.\n"
 	.string "Möchtest du noch eins in Pflege geben?$"
 
 Route117_PokemonDayCare_Text_1B29F4:: @ 81B29F4
@@ -90,7 +90,7 @@ Route117_PokemonDayCare_Text_1B2A76:: @ 81B2A76
 
 Route117_PokemonDayCare_Text_1B2A88:: @ 81B2A88
 	.string "Ach, du bist es! Schön dich zu sehen.\n"
-	.string "Deinen POKéMON kann es einfach\l"
+	.string "Deinen Pokémon kann es einfach\l"
 	.string "nur gut gehen!$"
 
 Route117_PokemonDayCare_Text_1B2ACC:: @ 81B2ACC
@@ -98,11 +98,11 @@ Route117_PokemonDayCare_Text_1B2ACC:: @ 81B2ACC
 	.string "gewachsen.$"
 
 Route117_PokemonDayCare_Text_1B2AEF:: @ 81B2AEF
-	.string "Dein POKéMON-Team ist vollzählig.\n"
+	.string "Dein Pokémon-Team ist vollzählig.\n"
 	.string "Schaffe Platz und komm dann wieder.$"
 
 UnknownString_81B2B27: @ 81B2B27
-	.string "Welches POKéMON nimmst du wieder mit?$"
+	.string "Welches Pokémon nimmst du wieder mit?$"
 
 Route117_PokemonDayCare_Text_1B2B49:: @ 81B2B49
 	.string "Wenn du dein {STR_VAR_1}\n"
@@ -110,22 +110,22 @@ Route117_PokemonDayCare_Text_1B2B49:: @ 81B2B49
 
 Route117_PokemonDayCare_Text_1B2B75:: @ 81B2B75
 	.string "Sehr schön!\n"
-	.string "Hier ist dein POKéMON!$"
+	.string "Hier ist dein Pokémon!$"
 
 Route117_PokemonDayCare_Text_1B2B93:: @ 81B2B93
 	.string "{PLAYER} hat {STR_VAR_1} von der\n"
 	.string "PENSIONSLEITERIN zurückerhalten.$"
 
 Route117_PokemonDayCare_Text_1B2BBB:: @ 81B2BBB
-	.string "Oh! Du hast aber nur ein POKéMON.\p"
+	.string "Oh! Du hast aber nur ein Pokémon.\p"
 	.string "Komm einfach später wieder.$"
 
 Route117_PokemonDayCare_Text_1B2BF6:: @ 81B2BF6
-	.string "Möchtest du dein POKéMON wieder\n"
+	.string "Möchtest du dein Pokémon wieder\n"
 	.string "mitnehmen?$"
 
 Route117_PokemonDayCare_Text_1B2C17:: @ 81B2C17
-	.string "Wenn du das POKéMON hier lässt, womit\n"
+	.string "Wenn du das Pokémon hier lässt, womit\n"
 	.string "willst du denn dann kämpfen?\p"
 	.string "Komm einfach später wieder.$"
 

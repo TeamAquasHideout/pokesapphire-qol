@@ -60,11 +60,11 @@ SlateportCity_OceanicMuseum_1F_Text_17E477:: @ 817E477
 SlateportCity_OceanicMuseum_1F_Text_17E4D7:: @ 817E4D7
 	.string "Das Meer ist erbarmungslos rau und\n"
 	.string "unendlich tief...\p"
-	.string "In ihm müssen viele POKéMON leben, die\n"
+	.string "In ihm müssen viele Pokémon leben, die\n"
 	.string "wir bisher noch nicht kennen.$"
 
 SlateportCity_OceanicMuseum_1F_Text_17E540:: @ 817E540
-	.string "Ich möchte ein POKéMON aus dem Meer\n"
+	.string "Ich möchte ein Pokémon aus dem Meer\n"
 	.string "haben.\p"
 	.string "Wenn man das umarmt, ist es bestimmt\n"
 	.string "schön kalt und wunderbar glitschig.$"

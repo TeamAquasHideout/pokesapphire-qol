@@ -55,7 +55,7 @@ MtChimney_Text_195A04:: @ 8195A04
 
 MtChimney_Text_195A45:: @ 8195A45
 	.string "If you can mesh your heart with those\n"
-	.string "of your POKéMON, why, you should be\l"
+	.string "of your Pokémon, why, you should be\l"
 	.string "able to achieve great things.$"
 
 MtChimney_Text_195AAD:: @ 8195AAD
@@ -64,7 +64,7 @@ MtChimney_Text_195AAD:: @ 8195AAD
 
 MtChimney_Text_195AD9:: @ 8195AD9
 	.string "Perhaps your heart has become one\n"
-	.string "with the hearts of your POKéMON.$"
+	.string "with the hearts of your Pokémon.$"
 
 MtChimney_Text_195B1C:: @ 8195B1C
 	.string "I've got the fire in me, baby.\n"
@@ -79,7 +79,7 @@ MtChimney_Text_195B84:: @ 8195B84
 
 MtChimney_Text_195BB2:: @ 8195BB2
 	.string "I've finally made it to MT. CHIMNEY.\n"
-	.string "I want to make my POKéMON battle!$"
+	.string "I want to make my Pokémon battle!$"
 
 MtChimney_Text_195BF9:: @ 8195BF9
 	.string "The way you battle...\n"

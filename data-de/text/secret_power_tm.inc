@@ -3,7 +3,7 @@ Route111_Text_1A3520:: @ 81A3520
 	.string "Was ich hier mache?\p"
 	.string "Ich überlege, ob ich mir hier mein\n"
 	.string "eigenes Refugium mit Hilfe einer\l"
-	.string "POKéMON-Attacke einrichte.\p"
+	.string "Pokémon-Attacke einrichte.\p"
 	.string "Genau! Ich gebe dir diese TM. Richte\n"
 	.string "dir damit auch dein eigenes Reich ein!$"
 

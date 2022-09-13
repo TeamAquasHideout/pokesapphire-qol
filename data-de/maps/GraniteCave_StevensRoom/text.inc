@@ -21,11 +21,11 @@ GraniteCave_StevensRoom_Text_194BDD:: @ 8194BDD
 	.string "STAHLFLÜGEL.$"
 
 GraniteCave_StevensRoom_Text_194C8D:: @ 8194C8D
-	.string "TROY: Deine POKéMON sehen recht\n"
+	.string "TROY: Deine Pokémon sehen recht\n"
 	.string "talentiert aus.\p"
 	.string "Wenn du fleißig trainierst, wirst du\n"
 	.string "vielleicht eines Tages der CHAMP der\l"
-	.string "POKéMON LIGA. Das ist meine Meinung.\p"
+	.string "Pokémon LIGA. Das ist meine Meinung.\p"
 	.string "Nun muss ich mich aber wirklich beeilen.$"
 
 GraniteCave_StevensRoom_Text_194D43:: @ 8194D43

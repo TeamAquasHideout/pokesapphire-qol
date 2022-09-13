@@ -9,7 +9,7 @@ JaggedPass_Text_195E27:: @ 8195E27
 	.string "Verlieren ist bitter.$"
 
 JaggedPass_Text_195E3E:: @ 8195E3E
-	.string "Ja, ich bin im Umgang mit POKéMON nicht\n"
+	.string "Ja, ich bin im Umgang mit Pokémon nicht\n"
 	.string "gerade talentiert.\p"
 	.string "Aber wenn es um die Leidenschaft für\n"
 	.string "die Berge geht, stecke ich dich locker\l"

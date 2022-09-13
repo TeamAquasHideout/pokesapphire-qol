@@ -7,7 +7,7 @@ RusturfTunnel_Text_194188:: @ 8194188
 
 RusturfTunnel_Text_19419B:: @ 819419B
 	.string "Grrr, man sollte sie alle kielholen.\p"
-	.string "Das als Geisel genommene POKéMON hat\n"
+	.string "Das als Geisel genommene Pokémon hat\n"
 	.string "sich als völlig wertlos erwiesen!\p"
 	.string "Und dafür habe ich nun einen Flucht-\n"
 	.string "weg in diesem Tunnel nach Nirgendwo\l"
@@ -76,7 +76,7 @@ RusturfTunnel_Text_19461D:: @ 819461D
 
 RusturfTunnel_Text_194693:: @ 8194693
 	.string "Diese VM enthält STÄRKE.\p"
-	.string "Wenn ein kräftiges POKéMON diese VM\n"
+	.string "Wenn ein kräftiges Pokémon diese VM\n"
 	.string "lernt, ist es in der Lage, sogar die\l"
 	.string "schwersten Felsen zu bewegen.$"
 
@@ -99,14 +99,14 @@ RusturfTunnel_Text_194814:: @ 8194814
 	.string "Wie nennt man einen ungestümen Mann\n"
 	.string "hoch im Gebirge? Einen Bergfreund.\p"
 	.string "So, warum nennt man dann nicht auch ein\n"
-	.string "POKéMON in den Bergen ein Berg-\l"
-	.string "POKéMON?$"
+	.string "Pokémon in den Bergen ein Berg-\l"
+	.string "Pokémon?$"
 
 RusturfTunnel_Text_1948A2:: @ 81948A2
-	.string "Meine POKéMON...\n"
+	.string "Meine Pokémon...\n"
 	.string "Haben alle Energie verloren...$"
 
 RusturfTunnel_Text_1948C4:: @ 81948C4
 	.string "Sie haben das Projekt hier einge-\n"
-	.string "stellt, um die POKéMON zu schützen,\l"
+	.string "stellt, um die Pokémon zu schützen,\l"
 	.string "nicht wahr? Eine rührende Story.$"

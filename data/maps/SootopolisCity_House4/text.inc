@@ -11,7 +11,7 @@ SootopolisCity_House4_Text_18FD41:: @ 818FD41
 	.string "It would be nice if they existed, but\n"
 	.string "even if they didn't, it would be so\l"
 	.string "beautiful to take an underwater\l"
-	.string "stroll with my POKéMON.$"
+	.string "stroll with my Pokémon.$"
 
 SootopolisCity_House4_Text_18FDD8:: @ 818FDD8
 	.string "AZUMARILL: Marurii.$"

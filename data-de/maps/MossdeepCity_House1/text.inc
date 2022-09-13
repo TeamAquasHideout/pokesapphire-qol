@@ -15,4 +15,4 @@ MossdeepCity_House1_Text_18D4C0:: @ 818D4C0
 MossdeepCity_House1_Text_18D4F1:: @ 818D4F1
 	.string "Mein Mann weiß auf den ersten Blick,\n"
 	.string "welche Art von {POKEBLOCK}\l"
-	.string "ein POKéMON mag und welche nicht.$"
+	.string "ein Pokémon mag und welche nicht.$"

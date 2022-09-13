@@ -1,5 +1,5 @@
 FortreeCity_House2_Text_186306:: @ 8186306
-	.string "Menschen... POKéMON...\p"
+	.string "Menschen... Pokémon...\p"
 	.string "Ihre versteckten Kräfte werden durch\n"
 	.string "das Leben in der Natur geweckt.$"
 
@@ -26,11 +26,11 @@ FortreeCity_House2_Text_1864C6:: @ 81864C6
 	.string "Oh! Hervorragend!\n"
 	.string "Deine versteckten Kräfte sind erwacht!\p"
 	.string "Hier, das ist für dich. Wecke damit die\n"
-	.string "versteckten Kräfte deiner POKéMON.$"
+	.string "versteckten Kräfte deiner Pokémon.$"
 
 FortreeCity_House2_Text_18652F:: @ 818652F
 	.string "KRAFTRESERVE ist eine Attacke, die je\n"
-	.string "nach POKéMON anders aussieht.$"
+	.string "nach Pokémon anders aussieht.$"
 
 FortreeCity_House2_Text_186565:: @ 8186565
 	.string "Och, zu schade!\n"

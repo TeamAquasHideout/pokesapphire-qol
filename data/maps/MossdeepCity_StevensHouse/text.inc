@@ -4,7 +4,7 @@ MossdeepCity_StevensHouse_Text_18DA77:: @ 818DA77
 	.string "embarrassing how empty it is here.\p"
 	.string "Oh, here, you should take this HM.\p"
 	.string "It contains DIVE.\n"
-	.string "I've already taught my POKéMON.$"
+	.string "I've already taught my Pokémon.$"
 
 MossdeepCity_StevensHouse_Text_18DB22:: @ 818DB22
 	.string "STEVEN: While you're using SURF, you\n"
@@ -28,7 +28,7 @@ MossdeepCity_StevensHouse_Text_18DC25:: @ 818DC25
 
 MossdeepCity_StevensHouse_Text_18DD12:: @ 818DD12
 	.string "{PLAYER} checked the POKé BALL.\p"
-	.string "It contained the POKéMON\n"
+	.string "It contained the Pokémon\n"
 	.string "BELDUM.\p"
 	.string "Take the POKé BALL?$"
 
@@ -36,7 +36,7 @@ MossdeepCity_StevensHouse_Text_18DD61:: @ 818DD61
 	.string "{PLAYER} obtained a BELDUM.$"
 
 MossdeepCity_StevensHouse_Text_18DD77:: @ 818DD77
-	.string "There is no space for another POKéMON.$"
+	.string "There is no space for another Pokémon.$"
 
 MossdeepCity_StevensHouse_Text_18DD9E:: @ 818DD9E
 	.string "{PLAYER} left the POKé BALL where\n"
@@ -54,7 +54,7 @@ MossdeepCity_StevensHouse_Text_18DDC2:: @ 818DDC2
 	.string "I want you to take the POKé BALL on\n"
 	.string "the desk.\p"
 	.string "Inside it is a BELDUM, my favorite\n"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "I'm counting on you.\p"
 	.string "May our paths cross some day.\p"
 	.string "STEVEN STONE$"
@@ -71,7 +71,7 @@ MossdeepCity_StevensHouse_Text_18DF1A:: @ 818DF1A
 	.string "I want you to take the POKé BALL on\n"
 	.string "the desk.\p"
 	.string "Inside it is a BELDUM, my favorite\n"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "I'm counting on you.\p"
 	.string "If you'd like, you should also take\n"
 	.string "the HM DIVE.\p"

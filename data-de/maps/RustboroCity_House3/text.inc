@@ -1,5 +1,5 @@
 RustboroCity_House3_Text_185584:: @ 8185584
-	.string "Meinen eigenen POKéMON habe ich\n"
+	.string "Meinen eigenen Pokémon habe ich\n"
 	.string "perfekt passende Kosenamen gegeben!\p"
 	.string "Das ist mein Ausdruck von... äh...\n"
 	.string "Originalität. Genau! Originalität!$"

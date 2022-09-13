@@ -31,7 +31,7 @@ VictoryRoad_B2F_Text_1980AD:: @ 81980AD
 	.string "Keine Anzeichen von Müdigkeit...$"
 
 VictoryRoad_B2F_Text_1980C8:: @ 81980C8
-	.string "Die SIEGESSTRASSE und die POKéMON\n"
+	.string "Die SIEGESSTRASSE und die Pokémon\n"
 	.string "LIGA sind große und langwierige Heraus-\l"
 	.string "forderungen. Werde bloß nicht müde!!!$"
 

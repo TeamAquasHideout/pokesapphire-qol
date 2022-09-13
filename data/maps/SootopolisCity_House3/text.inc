@@ -1,5 +1,5 @@
 SootopolisCity_House3_Text_18FB36:: @ 818FB36
-	.string "You're a POKéMON TRAINER, aren't you?\p"
+	.string "You're a Pokémon TRAINER, aren't you?\p"
 	.string "SOOTOPOLIS's GYM LEADER WALLACE has\n"
 	.string "many fans.\l"
 	.string "Do you have any?$"

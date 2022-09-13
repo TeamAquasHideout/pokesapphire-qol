@@ -25,15 +25,15 @@ FallarborTown_Text_16C941:: @ 816C941
 	.string "herausgefordert?\p"
 	.string "Ihr Großvater ist sehr berühmt.\n"
 	.string "Er war einer der TOP VIER in der\l"
-	.string "POKéMON LIGA.\p"
+	.string "Pokémon LIGA.\p"
 	.string "Es würde mich gar nicht wundern, wenn\n"
 	.string "FLAVIA ebenfalls ein großer TRAINER\l"
 	.string "wird.$"
 
 FallarborTown_Text_16CA39:: @ 816CA39
-	.string "POKéMON WETTBEWERBE\n"
+	.string "Pokémon WETTBEWERBE\n"
 	.string "SUPER-KLASSE REGISTRIERUNGEN\p"
-	.string "“Brecht in die POKéMON-Szene\n"
+	.string "“Brecht in die Pokémon-Szene\n"
 	.string "ein!”$"
 
 FallarborTown_Text_16CA83:: @ 816CA83
@@ -43,4 +43,4 @@ FallarborTown_Text_16CA83:: @ 816CA83
 
 FallarborTown_Text_16CAB9:: @ 816CAB9
 	.string "HAUS des ATTACKEN-HELFERS\n"
-	.string "“Neue Attacken für deine POKéMON.”$"
+	.string "“Neue Attacken für deine Pokémon.”$"

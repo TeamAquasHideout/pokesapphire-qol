@@ -28,7 +28,7 @@ RustboroCity_DevonCorp_3F_Text_183422:: @ 8183422
 
 RustboroCity_DevonCorp_3F_Text_183439:: @ 8183439
 	.string "MR. TRUMM: Dieses Gerät...\p"
-	.string "Es ist ein POKéMON NAVIGATOR - oder\n"
+	.string "Es ist ein Pokémon NAVIGATOR - oder\n"
 	.string "kurz ein POKéNAV.\p"
 	.string "Ein unentbehrliches Hilfsmittel für\n"
 	.string "jeden TRAINER auf Abenteuerreise.\p"
@@ -47,13 +47,13 @@ RustboroCity_DevonCorp_3F_Text_18353E:: @ 818353E
 	.string "Es wird dir als TRAINER sicher helfen.$"
 
 RustboroCity_DevonCorp_3F_Text_1835B3:: @ 81835B3
-	.string "MR. TRUMM: Trägt ein POKéMON den EP-\n"
+	.string "MR. TRUMM: Trägt ein Pokémon den EP-\n"
 	.string "TEILER, so erhält es in jedem Kampf\l"
 	.string "Erfahrungspunkte.\p"
 	.string "Auch wenn es gar nicht am Kampf\n"
 	.string "teilnimmt.\p"
 	.string "Ich würde sagen, der EP-TEILER ist sehr\n"
-	.string "nützlich, um schwache POKéMON aufzu-\l"
+	.string "nützlich, um schwache Pokémon aufzu-\l"
 	.string "ziehen.$"
 
 RustboroCity_DevonCorp_3F_Text_18368D:: @ 818368D
@@ -63,7 +63,7 @@ RustboroCity_DevonCorp_3F_Text_18368D:: @ 818368D
 	.string "Deshalb weiß ich auch nicht unbedingt,\n"
 	.string "was gerade im Trend liegt.\p"
 	.string "Wollen alle jungen Leute TRAINER in der\n"
-	.string "POKéMON LIGA werden?$"
+	.string "Pokémon LIGA werden?$"
 
 RustboroCity_DevonCorp_3F_Text_18374C:: @ 818374C
 	.string "Dies ist die zweite Etage der DEVON\n"

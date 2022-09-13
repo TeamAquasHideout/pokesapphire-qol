@@ -1,6 +1,6 @@
 gTVNewsText_EnergyGuru1:: @ 81AD135
 	.string "Guten Tag, meine Damen und Herren!\n"
-	.string "Hier sind die POKéMON NACHRICHTEN.\p"
+	.string "Hier sind die Pokémon NACHRICHTEN.\p"
 	.string "Heute berichten wir über GRAPHITPORT\n"
 	.string "CITYS bekanntesten Typen, den\l"
 	.string "STATUSWERTE GURU!\p"
@@ -11,11 +11,11 @@ gTVNewsText_EnergyGuru1:: @ 81AD135
 	.string "er uns den Rat: “Spart euer\n"
 	.string "Geld. Das wäre gut...”\p"
 	.string "GRAPHITPORT CITY ist eine Reise wert!\p"
-	.string "Das waren die POKéMON NACHRICHTEN.$"
+	.string "Das waren die Pokémon NACHRICHTEN.$"
 
 gTVNewsText_EnergyGuru2:: @ 81AD2E0
 	.string "Guten Tag, meine Damen und Herren!\n"
-	.string "Hier sind die POKéMON NACHRICHTEN.\p"
+	.string "Hier sind die Pokémon NACHRICHTEN.\p"
 	.string "Auf diese Nachrichten haben Sie\n"
 	.string "alle schon sehnsüchtig gewartet!\p"
 	.string "GRAPHITPORT CITYS STATUSWERTE GURU\n"
@@ -25,11 +25,11 @@ gTVNewsText_EnergyGuru2:: @ 81AD2E0
 	.string "GRAPHITPORT CITY ist also eine Reise\n"
 	.string "wert. Also: Schauen Sie vorbei und\l"
 	.string "kaufen Sie, was das Herz begehrt.\p"
-	.string "Das waren die POKéMON NACHRICHTEN.$"
+	.string "Das waren die Pokémon NACHRICHTEN.$"
 
 gTVNewsText_EnergyGuru3:: @ 81AD434
 	.string "Guten Tag, meine Damen und Herren!\n"
-	.string "Hier sind die POKéMON NACHRICHTEN.\p"
+	.string "Hier sind die Pokémon NACHRICHTEN.\p"
 	.string "Auf diese Nachrichten haben Sie\n"
 	.string "alle schon sehnsüchtig gewartet!\p"
 	.string "GRAPHITPORT CITYS STATUSWERTE GURU\n"
@@ -41,22 +41,22 @@ gTVNewsText_EnergyGuru3:: @ 81AD434
 	.string "Packungen vorhanden sind.\p"
 	.string "Also: Auf nach GRAPHITPORT CITY und\n"
 	.string "genießen Sie den Einkauf!\p"
-	.string "Das waren die POKéMON NACHRICHTEN.$"
+	.string "Das waren die Pokémon NACHRICHTEN.$"
 
 gTVNewsText_GameCorner1:: @ 81AD5B0
 	.string "Guten Tag meine Damen und Herren!\n"
-	.string "Hier sind die POKéMON NACHRICHTEN.\p"
+	.string "Hier sind die Pokémon NACHRICHTEN.\p"
 	.string "Bald ist es so weit!\n"
 	.string "Bald ist der Tag gekommen!\p"
 	.string "In {STR_VAR_1} Tagen erleben wir ihn, den\n"
 	.string "Tag der SPIELHALLE!\p"
 	.string "Selbst diejenigen, die nie Glück haben,\n"
 	.string "werden ihr Glück nicht fassen können!\p"
-	.string "Das waren die POKéMON NACHRICHTEN.$"
+	.string "Das waren die Pokémon NACHRICHTEN.$"
 
 gTVNewsText_GameCorner2:: @ 81AD6AE
 	.string "Guten Tag meine Damen und Herren!\n"
-	.string "Hier sind die POKéMON NACHRICHTEN.\p"
+	.string "Hier sind die Pokémon NACHRICHTEN.\p"
 	.string "Endlich ist es so weit!\n"
 	.string "Endlich ist der Tag gekommen!\p"
 	.string "Heute erleben wir ihn, den Tag der\n"
@@ -65,11 +65,11 @@ gTVNewsText_GameCorner2:: @ 81AD6AE
 	.string "oder den EINARMIGEN BANDITEN heraus.\p"
 	.string "Das Stichwort heißt: MALVENFROH CITY!\n"
 	.string "Dort finden Sie Ihr Glück!\p"
-	.string "Das waren die POKéMON NACHRICHTEN.$"
+	.string "Das waren die Pokémon NACHRICHTEN.$"
 
 gTVNewsText_GameCorner3:: @ 81AD7A7
 	.string "Guten Tag, meine Damen und Herren!\n"
-	.string "Hier sind die POKéMON NACHRICHTEN.\p"
+	.string "Hier sind die Pokémon NACHRICHTEN.\p"
 	.string "Endlich ist es so weit!\n"
 	.string "Endlich ist der Tag gekommen!\p"
 	.string "Heute erleben wir ihn, den Tag der\n"
@@ -79,11 +79,11 @@ gTVNewsText_GameCorner3:: @ 81AD7A7
 	.string "Beeilen Sie sich, denn auch dieser Tag\n"
 	.string "hat nur 24 Stunden. MALVENFROH CITY\l"
 	.string "ruft!\p"
-	.string "Das waren die POKéMON NACHRICHTEN.$"
+	.string "Das waren die Pokémon NACHRICHTEN.$"
 
 gTVNewsText_LilycoveDepartment1:: @ 81AD8B4
 	.string "Guten Tag meine Damen und Herren!\n"
-	.string "Hier sind die POKéMON NACHRICHTEN.\p"
+	.string "Hier sind die Pokémon NACHRICHTEN.\p"
 	.string "Soeben erreichen uns wundervolle Nach-\n"
 	.string "richten vom SEEGRASULB CITY\l"
 	.string "EINKAUFSZENTRUM.\p"
@@ -92,11 +92,11 @@ gTVNewsText_LilycoveDepartment1:: @ 81AD8B4
 	.string "Das Dingsbums und das Dingsda, welches\n"
 	.string "Sie schon immer haben wollten, kann\l"
 	.string "Ihnen gehören.\p"
-	.string "Das waren die POKéMON NACHRICHTEN.$"
+	.string "Das waren die Pokémon NACHRICHTEN.$"
 
 gTVNewsText_LilycoveDepartment2:: @ 81AD9D3
 	.string "Guten Tag meine Damen und Herren!\n"
-	.string "Hier sind die POKéMON NACHRICHTEN.\p"
+	.string "Hier sind die Pokémon NACHRICHTEN.\p"
 	.string "Auf diese Nachricht haben Sie schon\n"
 	.string "sehnsüchtig gewartet!\p"
 	.string "Im SEEGRASULB CITY EINKAUFSZENTRUM\n"
@@ -105,11 +105,11 @@ gTVNewsText_LilycoveDepartment2:: @ 81AD9D3
 	.string "Das Dingsbums und das Dingsda, welches\n"
 	.string "Sie schon immer haben wollten...\p"
 	.string "Sie können sie dort finden!\p"
-	.string "Das waren die POKéMON NACHRICHTEN.$"
+	.string "Das waren die Pokémon NACHRICHTEN.$"
 
 gTVNewsText_LilycoveDepartment3:: @ 81ADB01
 	.string "Guten Tag, meine Damen und Herren!\n"
-	.string "Hier sind die POKéMON NACHRICHTEN.\p"
+	.string "Hier sind die Pokémon NACHRICHTEN.\p"
 	.string "Auf diese Nachricht haben Sie schon\n"
 	.string "sehnsüchtig gewartet!\p"
 	.string "Im SEEGRASULB CITY EINKAUFSZENTRUM\n"
@@ -118,7 +118,7 @@ gTVNewsText_LilycoveDepartment3:: @ 81ADB01
 	.string "Das Dingsbums und das Dingsda, welches\n"
 	.string "Sie schon immer haben wollten...\p"
 	.string "Sie können sie dort finden!\p"
-	.string "Das waren die POKéMON NACHRICHTEN.$"
+	.string "Das waren die Pokémon NACHRICHTEN.$"
 
 	@ all text advertisements below are unused.
 gTVUnusedText_DevonCorporation:: @ 81ADC2F
@@ -127,15 +127,15 @@ gTVUnusedText_DevonCorporation:: @ 81ADC2F
 
 gTVUnusedText_Contests:: @ 81ADC6E
 	.string "Das Wichtigste ist Liebe zu den\n"
-	.string "POKéMON!\p"
+	.string "Pokémon!\p"
 	.string "Was man braucht ist Mut.\p"
-	.string "Stelle die geliebten POKéMON in den\n"
-	.string "Mittelpunkt! POKéMON WETTBEWERB!$"
+	.string "Stelle die geliebten Pokémon in den\n"
+	.string "Mittelpunkt! Pokémon WETTBEWERB!$"
 
 gTVUnusedText_DayCare:: @ 81ADCF7
-	.string "Wir ziehen deine geliebten POKéMON mit\n"
+	.string "Wir ziehen deine geliebten Pokémon mit\n"
 	.string "all unserer Hingabe auf!\p"
-	.string "Alles was deine POKéMON zum Wachsen\n"
+	.string "Alles was deine Pokémon zum Wachsen\n"
 	.string "brauchen: Die PENSION an der ROUTE 117.$"
 
 gTVUnusedText_LavaridgeSpa:: @ 81ADD71

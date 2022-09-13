@@ -3,8 +3,8 @@ MauvilleCity_Gym_Text_180815:: @ 8180815
 	.string "CHAMP, {PLAYER}?\p"
 	.string "WALTER, der ARENALEITER von\n"
 	.string "MALVENFROH CITY, setzt\l"
-	.string "ELEKTRO-POKéMON ein.\p"
-	.string "Wenn du ihn mit WASSER-POKéMON\n"
+	.string "ELEKTRO-Pokémon ein.\p"
+	.string "Wenn du ihn mit WASSER-Pokémon\n"
 	.string "angreifst, macht er sie fertig! Britzel!\p"
 	.string "Und die Türen lassen sich nur mit\n"
 	.string "Schaltern öffnen! Wahnsinn!\p"
@@ -23,7 +23,7 @@ MauvilleCity_Gym_Text_180997:: @ 8180997
 	.string "und bis zum Kurzschluss belastet!$"
 
 MauvilleCity_Gym_Text_1809D1:: @ 81809D1
-	.string "POKéMON und Rock... Alles, was ins Herz\n"
+	.string "Pokémon und Rock... Alles, was ins Herz\n"
 	.string "trifft, boh yeah!$"
 
 MauvilleCity_Gym_Text_180A05:: @ 8180A05
@@ -52,7 +52,7 @@ MauvilleCity_Gym_Text_180B1D:: @ 8180B1D
 
 MauvilleCity_Gym_Text_180B5A:: @ 8180B5A
 	.string "Mein Charme und die Attacken meiner\n"
-	.string "POKéMON werden dich schocken!$"
+	.string "Pokémon werden dich schocken!$"
 
 MauvilleCity_Gym_Text_180B93:: @ 8180B93
 	.string "Ich bin geschockt von deiner Stärke!$"
@@ -91,10 +91,10 @@ MauvilleCity_Gym_Text_180DAF:: @ 8180DAF
 	.string "WALTER erhalten.$"
 
 MauvilleCity_Gym_Text_180DDA:: @ 8180DDA
-	.string "Mit dem DYNAMO-ORDEN können POKéMON\n"
+	.string "Mit dem DYNAMO-ORDEN können Pokémon\n"
 	.string "ZERTRÜMMERER auch außerhalb eines\l"
 	.string "Kampfes einsetzen.\p"
-	.string "Und außerdem werden deine POKéMON ein\n"
+	.string "Und außerdem werden deine Pokémon ein\n"
 	.string "kleines bisschen schneller.\p"
 	.string "Hmm...\n"
 	.string "Dies hier solltest du auch nehmen!$"
@@ -114,9 +114,9 @@ MauvilleCity_Gym_Text_180F1D:: @ 8180F1D
 	.string "Mach weiter so, streng dich an, Kind!$"
 
 MauvilleCity_Gym_Text_180F4A:: @ 8180F4A
-	.string "POKéMON ARENA von MALVENFROH CITY$"
+	.string "Pokémon ARENA von MALVENFROH CITY$"
 
 MauvilleCity_Gym_Text_180F64:: @ 8180F64
-	.string "POKéMON ARENA von MALVENFROH CITY\p"
+	.string "Pokémon ARENA von MALVENFROH CITY\p"
 	.string "WALTERS ANERKANNTE TRAINER:\n"
 	.string "{PLAYER}$"

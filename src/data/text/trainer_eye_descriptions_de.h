@@ -68,7 +68,7 @@ static const u8 TrainerEyeDescription_PokeManiac_Steve[] = _(
     "Durch Stärke gewinnen!$"
     "Habe sie nachts gefangen...$"
     "Große, kräftige und zähe$"
-    "POKéMON sind die besten...");
+    "Pokémon sind die besten...");
 
 static const u8 TrainerEyeDescription_Swimmer_Tony[] = _(
     "Volle Pulle zuschlagen!$"
@@ -90,13 +90,13 @@ static const u8 TrainerEyeDescription_Guitarist_Dalton[] = _(
 
 static const u8 TrainerEyeDescription_Kindler_Bernie[] = _(
     "Alles niederbrennen!$"
-    "Feuergefährliche POKéMON!$"
+    "Feuergefährliche Pokémon!$"
     "Neben einem Lagerfeuer$"
     "sollte stets Wasser stehen!");
 
 static const u8 TrainerEyeDescription_Camper_Ethan[] = _(
     "Man muss hartnäckig sein.$"
-    "Jede Art von POKéMON.$"
+    "Jede Art von Pokémon.$"
     "PKMN, die in der Wildnis auf-$"
     "wachsen, werden stark!");
 
@@ -120,7 +120,7 @@ static const u8 TrainerEyeDescription_Psychic_Cameron[] = _(
 
 static const u8 TrainerEyeDescription_Psychic_Jacki[] = _(
     "Mit vollem Einsatz kämpfen.$"
-    "Geheimnisvolle POKéMON.$"
+    "Geheimnisvolle Pokémon.$"
     "Wenn ich spreche,$"
     "setze ich Telepathie ein.");
 

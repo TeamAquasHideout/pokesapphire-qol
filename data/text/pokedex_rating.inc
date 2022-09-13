@@ -5,23 +5,23 @@ gBirchDexRatingText_ComeToShowMePokedex:: @ 81C4449
 
 gBirchDexRatingText_Cancel:: @ 81C449B
 	.string "Hm? Oh, you haven't caught enough\n"
-	.string "POKéMON to make it worthwhile.$"
+	.string "Pokémon to make it worthwhile.$"
 
 gBirchDexRatingText_SoYouveSeenAndCaught:: @ 81C44DC
 	.string "Hmhm...\p"
-	.string "So, you've seen {STR_VAR_1} POKéMON,\n"
-	.string "and you've caught {STR_VAR_2} POKéMON...$"
+	.string "So, you've seen {STR_VAR_1} Pokémon,\n"
+	.string "and you've caught {STR_VAR_2} Pokémon...$"
 
 gBirchDexRatingText_LessThan10:: @ 81C4520
 	.string "You should go into grassy areas more\n"
-	.string "and look for POKéMON more carefully.$"
+	.string "and look for Pokémon more carefully.$"
 
 gBirchDexRatingText_LessThan20:: @ 81C456A
 	.string "I guess you're getting the hang of it.\n"
 	.string "But, it gets harder from here.$"
 
 gBirchDexRatingText_LessThan30:: @ 81C45B0
-	.string "Some POKéMON only appear in certain\n"
+	.string "Some Pokémon only appear in certain\n"
 	.string "areas. You'll need to be persistent.$"
 
 gBirchDexRatingText_LessThan40:: @ 81C45F9
@@ -34,10 +34,10 @@ gBirchDexRatingText_LessThan50:: @ 81C4648
 
 gBirchDexRatingText_LessThan60:: @ 81C467E
 	.string "Are you using any RODS?\n"
-	.string "There are many POKéMON in the sea.$"
+	.string "There are many Pokémon in the sea.$"
 
 gBirchDexRatingText_LessThan70:: @ 81C46B9
-	.string "Instead of just catching POKéMON,\n"
+	.string "Instead of just catching Pokémon,\n"
 	.string "how about making them evolve, too?$"
 
 gBirchDexRatingText_LessThan80:: @ 81C46FE
@@ -50,7 +50,7 @@ gBirchDexRatingText_LessThan90:: @ 81C4747
 
 gBirchDexRatingText_LessThan100:: @ 81C4780
 	.string "Have you visited the SAFARI ZONE?\p"
-	.string "I hear there are some POKéMON that\n"
+	.string "I hear there are some Pokémon that\n"
 	.string "can only be caught there.$"
 
 gBirchDexRatingText_LessThan110:: @ 81C47DF
@@ -58,33 +58,33 @@ gBirchDexRatingText_LessThan110:: @ 81C47DF
 	.string "mark. This is an impressive POKéDEX!$"
 
 gBirchDexRatingText_LessThan120:: @ 81C4828
-	.string "There might be POKéMON that can be\n"
+	.string "There might be Pokémon that can be\n"
 	.string "found using ROCK SMASH.$"
 
 gBirchDexRatingText_LessThan130:: @ 81C4863
-	.string "You should get some more POKéMON by\n"
+	.string "You should get some more Pokémon by\n"
 	.string "trading with others.$"
 
 gBirchDexRatingText_LessThan140:: @ 81C489C
-	.string "I've heard of POKéMON that evolve when\n"
+	.string "I've heard of Pokémon that evolve when\n"
 	.string "they come to fully love their TRAINERS.$"
 
 gBirchDexRatingText_LessThan150:: @ 81C48EB
 	.string "I had no idea that there were so many\n"
-	.string "POKéMON species in the HOENN region.$"
+	.string "Pokémon species in the HOENN region.$"
 
 gBirchDexRatingText_LessThan160:: @ 81C4936
-	.string "On occasion, some POKéMON appear in\n"
+	.string "On occasion, some Pokémon appear in\n"
 	.string "large numbers like wild outbreaks.\l"
 	.string "Don't miss opportunities like those.$"
 
 gBirchDexRatingText_LessThan170:: @ 81C49A2
 	.string "One can get a very good idea about the\n"
-	.string "POKéMON of the HOENN region by looking\l"
+	.string "Pokémon of the HOENN region by looking\l"
 	.string "through your POKéDEX.$"
 
 gBirchDexRatingText_LessThan180:: @ 81C4A06
-	.string "I'd say you already qualify as a POKéMON\n"
+	.string "I'd say you already qualify as a Pokémon\n"
 	.string "PROFESSOR, and a good one, too!$"
 
 gBirchDexRatingText_LessThan190:: @ 81C4A4F
@@ -102,5 +102,5 @@ gBirchDexRatingText_DexCompleted:: @ 81C4ADA
 gBirchDexRatingText_OnANationwideBasis:: @ 81C4B05
 	.string "Hmhm...\n"
 	.string "On a nationwide basis...\p"
-	.string "You've seen {STR_VAR_1} POKéMON,\n"
-	.string "and you've caught {STR_VAR_2} POKéMON...$"
+	.string "You've seen {STR_VAR_1} Pokémon,\n"
+	.string "and you've caught {STR_VAR_2} Pokémon...$"

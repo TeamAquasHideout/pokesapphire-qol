@@ -1,19 +1,19 @@
 OldaleTown_PokemonCenter_2F_Text_1A4510:: @ 81A4510
-	.string "Willkommen im POKéMON KABEL-CLUB-\n"
+	.string "Willkommen im Pokémon KABEL-CLUB-\n"
 	.string "KOLOSSEUM.\p"
 	.string "Hier kannst du mit deinen Freunden\n"
 	.string "kämpfen.\p"
 	.string "Möchtest du jetzt kämpfen?$"
 
 OldaleTown_PokemonCenter_2F_Text_1A457E:: @ 81A457E
-	.string "Willkommen im POKéMON KABEL-CLUB-\n"
+	.string "Willkommen im Pokémon KABEL-CLUB-\n"
 	.string "HANDELSCENTER.\p"
 	.string "Hier kannst du mit deinen Freunden\n"
-	.string "POKéMON tauschen.\p"
-	.string "Möchtest du jetzt POKéMON tauschen?$"
+	.string "Pokémon tauschen.\p"
+	.string "Möchtest du jetzt Pokémon tauschen?$"
 
 OldaleTown_PokemonCenter_2F_Text_1A45FE:: @ 81A45FE
-	.string "Willkommen beim POKéMON KABEL-CLUB-\n"
+	.string "Willkommen beim Pokémon KABEL-CLUB-\n"
 	.string "STATISTIKTAUSCH.\p"
 	.string "Hier kannst du mit deinen Freunden\n"
 	.string "die Rekorde als TRAINER austauschen.\p"
@@ -23,18 +23,18 @@ OldaleTown_PokemonCenter_2F_Text_1A4696:: @ 81A4696
 	.string "Es gibt drei Arten des Kampfes\n"
 	.string "via Verbindungskabel.\p"
 	.string "EINZELKAMPF ist für zwei TRAINER, die\n"
-	.string "jeder ein oder mehrere POKéMON\l"
+	.string "jeder ein oder mehrere Pokémon\l"
 	.string "besitzen.\p"
 	.string "Jeder TRAINER schickt pro Runde\n"
-	.string "ein POKéMON in den Kampf.\p"
+	.string "ein Pokémon in den Kampf.\p"
 	.string "DOPPELKAMPF ist für zwei TRAINER mit\n"
-	.string "zwei oder mehr POKéMON.\p"
+	.string "zwei oder mehr Pokémon.\p"
 	.string "Jeder TRAINER schickt pro Runde zwei\n"
-	.string "POKéMON in den Kampf.\p"
+	.string "Pokémon in den Kampf.\p"
 	.string "MULTIKÄMPFE sind für vier TRAINER mit\n"
-	.string "einem oder mehr POKéMON.\p"
+	.string "einem oder mehr Pokémon.\p"
 	.string "Jeder TRAINER schickt pro Runde ein\n"
-	.string "POKéMON in den Kampf.$"
+	.string "Pokémon in den Kampf.$"
 
 OldaleTown_PokemonCenter_2F_Text_1A4826:: @ 81A4826
 	.string "Möchtest du kämpfen?$"
@@ -44,14 +44,14 @@ OldaleTown_PokemonCenter_2F_Text_1A4840:: @ 81A4840
 
 OldaleTown_PokemonCenter_2F_Text_1A486A:: @ 81A486A
 	.string "Für einen DOPPELKAMPF brauchst du\n"
-	.string "mindestens zwei POKéMON.$"
+	.string "mindestens zwei Pokémon.$"
 
 OldaleTown_PokemonCenter_2F_Text_1A48A3:: @ 81A48A3
 	.string "Für einen Tausch musst du mindestens\n"
-	.string "zwei POKéMON bei dir haben.$"
+	.string "zwei Pokémon bei dir haben.$"
 
 OldaleTown_PokemonCenter_2F_Text_1A48DD:: @ 81A48DD
-	.string "Dein POKéMON trägt eine {STR_VAR_1}-\n"
+	.string "Dein Pokémon trägt eine {STR_VAR_1}-\n"
 	.string "BEERE und kann nicht getauscht werden.$"
 
 OldaleTown_PokemonCenter_2F_Text_1A490C:: @ 81A490C
@@ -163,7 +163,7 @@ RecordCorner_Text_1A4DF7:: @ 81A4DF7
 	.string "Danke für den Besuch!$"
 
 UnknownString_81A4E0A: @ 81A4E0A
-	.string "Bitte wähle die POKéMON für den\n"
+	.string "Bitte wähle die Pokémon für den\n"
 	.string "MULTIKAMPF.$"
 
 RecordCorner_Text_1A4E3B:: @ 81A4E3B

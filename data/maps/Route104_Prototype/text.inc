@@ -1,6 +1,6 @@
 Route104_Prototype_Text_19AD9B:: @ 819AD9B
 	.string "Oh? You look like a good TRAINER.\n"
-	.string "Will you look at my POKéMON?$"
+	.string "Will you look at my Pokémon?$"
 
 Route104_Prototype_Text_19ADDA:: @ 819ADDA
 	.string "I'm not good enough for you.$"
@@ -11,18 +11,18 @@ Route104_Prototype_Text_19ADF7:: @ 819ADF7
 
 Route104_Prototype_Text_19AE3E:: @ 819AE3E
 	.string "Go!\n"
-	.string "Go, our POKéMON!$"
+	.string "Go, our Pokémon!$"
 
 Route104_Prototype_Text_19AE53:: @ 819AE53
 	.string "Oh... We couldn't win.$"
 
 Route104_Prototype_Text_19AE6A:: @ 819AE6A
-	.string "Did it surprise you that two POKéMON\n"
+	.string "Did it surprise you that two Pokémon\n"
 	.string "battled at the same time?$"
 
 Route104_Prototype_Text_19AEA9:: @ 819AEA9
 	.string "You can't battle with us if you have\n"
-	.string "only one POKéMON.\l"
+	.string "only one Pokémon.\l"
 	.string "Why? Because we're strong!$"
 
 Route104_Prototype_Text_19AEFB:: @ 819AEFB
@@ -37,7 +37,7 @@ Route104_Prototype_Text_19AF56:: @ 819AF56
 	.string "You must be a great TRAINER!$"
 
 Route104_Prototype_Text_19AF8A:: @ 819AF8A
-	.string "My POKéMON are extremely cute and\n"
+	.string "My Pokémon are extremely cute and\n"
 	.string "extremely strong.\l"
 	.string "Please allow me to show you.$"
 
@@ -47,12 +47,12 @@ Route104_Prototype_Text_19AFDB:: @ 819AFDB
 
 Route104_Prototype_Text_19B00D:: @ 819B00D
 	.string "The next time we meet, I will have raised\n"
-	.string "my POKéMON much more.\p"
+	.string "my Pokémon much more.\p"
 	.string "Don't expect mercy then!$"
 
 Route104_Prototype_Text_19B066:: @ 819B066
 	.string "We HIKERS are always full of energy!\n"
-	.string "My POKéMON are also full of energy, too.\l"
+	.string "My Pokémon are also full of energy, too.\l"
 	.string "We're always itching for a battle!$"
 
 Route104_Prototype_Text_19B0D7:: @ 819B0D7
@@ -72,11 +72,11 @@ Route104_Prototype_Text_19B17D:: @ 819B17D
 	.string "We lost!$"
 
 Route104_Prototype_Text_19B18D:: @ 819B18D
-	.string "If two POKéMON can battle at the same\n"
+	.string "If two Pokémon can battle at the same\n"
 	.string "time, all sorts of new things can happen.$"
 
 Route104_Prototype_Text_19B1DD:: @ 819B1DD
-	.string "Do you only have one POKéMON that can\n"
+	.string "Do you only have one Pokémon that can\n"
 	.string "battle?\p"
 	.string "Then we can't battle with you yet.$"
 
@@ -99,17 +99,17 @@ Route104_Prototype_Text_19B2E9:: @ 819B2E9
 	.string "game's release!$"
 
 Route104_Prototype_Text_19B33B:: @ 819B33B
-	.string "I've never seen the POKéMON you have.\n"
+	.string "I've never seen the Pokémon you have.\n"
 	.string "It makes me envious a little.$"
 
 Route104_Prototype_Text_19B37F:: @ 819B37F
 	.string "Look at all those TRAINERS!\n"
-	.string "They have different POKéMON, too.\l"
+	.string "They have different Pokémon, too.\l"
 	.string "And they're all waiting for you!$"
 
 Route104_Prototype_Text_19B3DE:: @ 819B3DE
-	.string "Welcome to the World of POKéMON!$"
+	.string "Welcome to the World of Pokémon!$"
 
 Route104_Prototype_Text_19B3FF:: @ 819B3FF
-	.string "May all POKéMON battles be bright,\n"
+	.string "May all Pokémon battles be bright,\n"
 	.string "fun, and ferocious!$"

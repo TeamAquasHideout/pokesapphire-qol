@@ -5,5 +5,5 @@ RustboroCity_House2_Text_18532D:: @ 818532D
 
 RustboroCity_House2_Text_185388:: @ 8185388
 	.string "FELIZIA, die ARENALEITERIN, weiß\n"
-	.string "wirklich eine Menge über POKéMON.\p"
+	.string "wirklich eine Menge über Pokémon.\p"
 	.string "Und sie ist sehr stark!$"

@@ -8,7 +8,7 @@ DewfordTown_Text_16B2A7:: @ 816B2A7
 	.string "“A tiny island in the blue sea.”$"
 
 DewfordTown_Text_16B2D5:: @ 816B2D5
-	.string "DEWFORD TOWN POKéMON GYM\n"
+	.string "DEWFORD TOWN Pokémon GYM\n"
 	.string "LEADER: BRAWLY\l"
 	.string "“A big wave in fighting!”$"
 

@@ -1,24 +1,24 @@
 FallarborTown_ContestLobby_Text_1A5DFC:: @ 81A5DFC
 	.string "Hallo! Wir nehmen Anmeldungen für die\n"
-	.string "{STR_VAR_1}-KLASSE POKéMON\l"
+	.string "{STR_VAR_1}-KLASSE Pokémon\l"
 	.string "WETTBEWERBE entgegen.$"
 
 FallarborTown_ContestLobby_Text_1A5E46:: @ 81A5E46
-	.string "Soll eines deiner POKéMON an einem der\n"
+	.string "Soll eines deiner Pokémon an einem der\n"
 	.string "WETTBEWERBE teilnehmen?$"
 
 FallarborTown_ContestLobby_Text_1A5E7C:: @ 81A5E7C
 	.string "Welches Thema möchtest du dir ansehen?$"
 
 FallarborTown_ContestLobby_Text_1A5E98:: @ 81A5E98
-	.string "In einem POKéMON WETTBEWERB zeigen\n"
-	.string "4 TRAINER jeweils eines ihrer POKéMON\l"
+	.string "In einem Pokémon WETTBEWERB zeigen\n"
+	.string "4 TRAINER jeweils eines ihrer Pokémon\l"
 	.string "einer Jury.\p"
 	.string "Der WETTBEWERB besteht aus zwei\n"
 	.string "Durchläufen.\p"
 	.string "Im ersten Durchlauf wird geprüft, wie\n"
-	.string "gut das POKéMON beim Publikum ankommt.\p"
-	.string "Im zweiten Durchlauf muss das POKéMON\n"
+	.string "gut das Pokémon beim Publikum ankommt.\p"
+	.string "Im zweiten Durchlauf muss das Pokémon\n"
 	.string "mit der Ausdruckskraft seiner Attacken\l"
 	.string "überzeugen.\p"
 	.string "Die Attacken müssen sorgfältig gewählt\n"
@@ -27,7 +27,7 @@ FallarborTown_ContestLobby_Text_1A5E98:: @ 81A5E98
 	.string "suche, die Attacken gut zu platzieren.\p"
 	.string "Am Ende werden die Ergebnisse beider\n"
 	.string "Durchläufe addiert.\p"
-	.string "Das POKéMON mit dem besten Ergebnis\n"
+	.string "Das Pokémon mit dem besten Ergebnis\n"
 	.string "wird zum Gewinner erklärt.$"
 
 FallarborTown_ContestLobby_Text_1A609B:: @ 81A609B
@@ -35,28 +35,28 @@ FallarborTown_ContestLobby_Text_1A609B:: @ 81A609B
 	.string "COOLNESS, SCHÖNHEIT, ANMUT, KLUGHEIT\n"
 	.string "und STÄRKE heißen die Kategorien.\p"
 	.string "Wähle einen WETTBEWERB, der deinem\n"
-	.string "POKéMON am besten liegt.$"
+	.string "Pokémon am besten liegt.$"
 
 FallarborTown_ContestLobby_Text_1A613F:: @ 81A613F
-	.string "Die POKéMON WETTBEWERBE sind in vier\n"
+	.string "Die Pokémon WETTBEWERBE sind in vier\n"
 	.string "Klassen aufgeteilt.\p"
 	.string "NORMAL, SUPER, HYPER und MASTER.\p"
 	.string "In der NORMAL-KLASSE kann jedes\n"
-	.string "POKéMON antreten.\p"
-	.string "Jedes POKéMON, das die NORMAL-KLASSE\n"
+	.string "Pokémon antreten.\p"
+	.string "Jedes Pokémon, das die NORMAL-KLASSE\n"
 	.string "gewonnen hat, kann in der SUPER-KLASSE\l"
 	.string "derselben Kategorie antreten.\p"
-	.string "Genauso kann das POKéMON, das in der\n"
+	.string "Genauso kann das Pokémon, das in der\n"
 	.string "SUPER-KLASSE gewonnen hat, in der\l"
 	.string "HYPER-KLASSE und nach einem Sieg\p"
 	.string "dort in der MASTER-KLASSE antreten.\n"
 	.string "Immer in derselben Kategorie.\p"
-	.string "Ein POKéMON, das in der MASTER-KLASSE\n"
+	.string "Ein Pokémon, das in der MASTER-KLASSE\n"
 	.string "gewonnen hat, kann sooft es sein\l"
 	.string "TRAINER mag, wieder dort antreten.$"
 
 FallarborTown_ContestLobby_Text_1A6319:: @ 81A6319
-	.string "Welches POKéMON soll teilnehmen?$"
+	.string "Welches Pokémon soll teilnehmen?$"
 
 FallarborTown_ContestLobby_Text_1A6340:: @ 81A6340
 	.string "Jeder, der eine WETTBEWERBSKARTE\n"
@@ -70,7 +70,7 @@ FallarborTown_ContestLobby_Text_1A6340:: @ 81A6340
 LilycoveCity_ContestLobby_Text_1A63F4:: @ 81A63F4
 	.string "Ich akzeptiere nur Anmeldungen von\n"
 	.string "vier Spielern, die via Link verbunden\l"
-	.string "sind und am POKéMON WETTBEWERB\l"
+	.string "sind und am Pokémon WETTBEWERB\l"
 	.string "teilnehmen wollen.\p"
 	.string "Jeder, der eine WETTBEWERBSKARTE\n"
 	.string "besitzt, darf teilnehmen.\p"
@@ -109,7 +109,7 @@ FallarborTown_ContestLobby_Text_1A6623:: @ 81A6623
 FallarborTown_ContestLobby_Text_1A664A:: @ 81A664A
 LilycoveCity_ContestLobby_Text_1A664A:: @ 81A664A
 	.string "Tut mir schrecklich Leid, aber dein\n"
-	.string "POKéMON kann hier noch nicht\l"
+	.string "Pokémon kann hier noch nicht\l"
 	.string "antreten...$"
 
 FallarborTown_ContestLobby_Text_1A669F:: @ 81A669F
@@ -119,24 +119,24 @@ LilycoveCity_ContestLobby_Text_1A669F:: @ 81A669F
 
 FallarborTown_ContestLobby_Text_1A66DC:: @ 81A66DC
 LilycoveCity_ContestLobby_Text_1A66DC:: @ 81A66DC
-	.string "Dein POKéMON ist nicht in der Lage, an\n"
+	.string "Dein Pokémon ist nicht in der Lage, an\n"
 	.string "einem WETTBEWERB teilzunehmen...$"
 
 FallarborTown_ContestLobby_Text_1A6724:: @ 81A6724
 	.string "Oh, aber das BAND...\p"
-	.string "Dein POKéMON hat diesen WETTBEWERB\n"
+	.string "Dein Pokémon hat diesen WETTBEWERB\n"
 	.string "schon einmal gewonnen, oder?\p"
 	.string "Möchtest du es trotzdem für diesen\n"
 	.string "WETTBEWERB anmelden?$"
 
 FallarborTown_ContestLobby_Text_1A67A3:: @ 81A67A3
 LilycoveCity_ContestLobby_Text_1A67A3:: @ 81A67A3
-	.string "Ist das dein WETTBEWERBS-POKéMON?$"
+	.string "Ist das dein WETTBEWERBS-Pokémon?$"
 
 FallarborTown_ContestLobby_Text_1A67C1:: @ 81A67C1
-	.string "Okay, dein POKéMON wird an diesem\n"
+	.string "Okay, dein Pokémon wird an diesem\n"
 	.string "WETTBEWERB teilnehmen.\p"
-	.string "Dein POKéMON ist die Nummer 4.\n"
+	.string "Dein Pokémon ist die Nummer 4.\n"
 	.string "Der WETTBEWERB wird in Kürze starten.$"
 
 FallarborTown_ContestLobby_Text_1A6832:: @ 81A6832
@@ -146,7 +146,7 @@ VerdanturfTown_ContestLobby_Text_1A6832:: @ 81A6832
 	.string "Bitte folge mir, und viel Glück!$"
 
 FallarborTown_ContestLobby_Text_1A685A:: @ 81A685A
-	.string "Herzlichen Glückwunsch! Dein POKéMON\n"
+	.string "Herzlichen Glückwunsch! Dein Pokémon\n"
 	.string "hat den WETTBEWERB gewonnen!\p"
 	.string "Und hier haben wir deinen Preis.\n"
 	.string "Bitte, komm hier herüber!$"
@@ -156,16 +156,16 @@ FallarborTown_ContestLobby_Text_1A68C6:: @ 81A68C6
 
 LinkContestRoom1_Text_1A68F0:: @ 81A68F0
 	.string "MC: Hallo! Wir fangen nun mit einem \n"
-	.string "{STR_VAR_3}-KLASSE POKéMON {STR_VAR_2}-\l"
+	.string "{STR_VAR_3}-KLASSE Pokémon {STR_VAR_2}-\l"
 	.string "WETTBEWERB an!\p"
-	.string "Die folgenden TRAINER und ihre POKéMON\n"
+	.string "Die folgenden TRAINER und ihre Pokémon\n"
 	.string "nehmen teil:$"
 
 LinkContestRoom1_Text_1A6976:: @ 81A6976
 	.string "MC: Hallo! Wir fangen nun mit einem \n"
-	.string "4-Spieler POKéMON {STR_VAR_2}-\l"
+	.string "4-Spieler Pokémon {STR_VAR_2}-\l"
 	.string "WETTBEWERB via Link an!\p"
-	.string "Die folgenden TRAINER und ihre POKéMON\n"
+	.string "Die folgenden TRAINER und ihre Pokémon\n"
 	.string "nehmen teil:$"
 
 LinkContestRoom1_Text_1A6A04:: @ 81A6A04
@@ -174,10 +174,10 @@ LinkContestRoom1_Text_1A6A04:: @ 81A6A04
 
 LinkContestRoom1_Text_1A6A1F:: @ 81A6A1F
 	.string "MC: Nun haben wir alle vier teilnehmenden\n"
-	.string "POKéMON gesehen.\p"
+	.string "Pokémon gesehen.\p"
 	.string "Zeit für die erste Bewertung!\p"
 	.string "Das Publikum entscheidet, welches\n"
-	.string "POKéMON am besten gefällt.\p"
+	.string "Pokémon am besten gefällt.\p"
 	.string "Und ohne weitere Verzögerung kommen\n"
 	.string "wir zu der Bewertung!$"
 

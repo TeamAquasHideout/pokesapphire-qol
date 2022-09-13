@@ -1,32 +1,32 @@
 FallarborTown_ContestLobby_Text_1A5DFC:: @ 81A5DFC
 	.string "Hello, there!\p"
 	.string "We're accepting registrations for\n"
-	.string "{STR_VAR_1} Rank POKéMON CONTESTS.$"
+	.string "{STR_VAR_1} Rank Pokémon CONTESTS.$"
 
 FallarborTown_ContestLobby_Text_1A5E46:: @ 81A5E46
-	.string "Would you like to enter your POKéMON\n"
+	.string "Would you like to enter your Pokémon\n"
 	.string "in our CONTESTS?$"
 
 FallarborTown_ContestLobby_Text_1A5E7C:: @ 81A5E7C
 	.string "Which topic would you like?$"
 
 FallarborTown_ContestLobby_Text_1A5E98:: @ 81A5E98
-	.string "A POKéMON CONTEST involves four\n"
-	.string "TRAINERS entering one POKéMON each\l"
+	.string "A Pokémon CONTEST involves four\n"
+	.string "TRAINERS entering one Pokémon each\l"
 	.string "in competitive judging.\p"
 	.string "A CONTEST has two stages of judging,\n"
 	.string "primary and secondary.\p"
 	.string "Primary judging is a popularity poll\n"
 	.string "involving the audience.\p"
 	.string "Secondary judging features appeals\n"
-	.string "by the POKéMON using their moves.\p"
+	.string "by the Pokémon using their moves.\p"
 	.string "Plan appeals carefully to earn the\n"
 	.string "most attention of the JUDGE and\l"
 	.string "excite the audience.\l"
 	.string "Do your best to stand out.\p"
 	.string "The primary and secondary scores are\n"
 	.string "added at the end.\p"
-	.string "The POKéMON garnering the highest\n"
+	.string "The Pokémon garnering the highest\n"
 	.string "score is declared the winner.$"
 
 FallarborTown_ContestLobby_Text_1A609B:: @ 81A609B
@@ -34,28 +34,28 @@ FallarborTown_ContestLobby_Text_1A609B:: @ 81A609B
 	.string "COOL, BEAUTY, CUTE, SMART, and\n"
 	.string "TOUGH are the five categories.\p"
 	.string "Choose the CONTEST that is right for\n"
-	.string "the POKéMON you plan to enter.$"
+	.string "the Pokémon you plan to enter.$"
 
 FallarborTown_ContestLobby_Text_1A613F:: @ 81A613F
-	.string "There are four ranks of POKéMON\n"
+	.string "There are four ranks of Pokémon\n"
 	.string "CONTESTS.\p"
 	.string "NORMAL, SUPER, HYPER and MASTER\n"
 	.string "are the four ranks.\p"
-	.string "In the NORMAL Rank, any POKéMON may\n"
+	.string "In the NORMAL Rank, any Pokémon may\n"
 	.string "enter.\p"
-	.string "Any POKéMON that won a NORMAL Rank\n"
+	.string "Any Pokémon that won a NORMAL Rank\n"
 	.string "CONTEST may move up the SUPER Rank in\l"
 	.string "the same category.\p"
 	.string "In the same way, a SUPER Rank winner\n"
 	.string "can move up to the HYPER Rank, and a\l"
 	.string "HYPER Rank winner can advance to the\l"
 	.string "MASTER Rank in the same category.\p"
-	.string "A POKéMON that won in the MASTER Rank\n"
+	.string "A Pokémon that won in the MASTER Rank\n"
 	.string "may compete in the MASTER Rank as\l"
 	.string "often as its TRAINER wants.$"
 
 FallarborTown_ContestLobby_Text_1A6319:: @ 81A6319
-	.string "Which POKéMON would you like to enter?$"
+	.string "Which Pokémon would you like to enter?$"
 
 FallarborTown_ContestLobby_Text_1A6340:: @ 81A6340
 	.string "Anyone with a CONTEST PASS may enter.\p"
@@ -67,7 +67,7 @@ FallarborTown_ContestLobby_Text_1A6340:: @ 81A6340
 
 LilycoveCity_ContestLobby_Text_1A63F4:: @ 81A63F4
 	.string "I accept registrations only from four\n"
-	.string "linked players for a POKéMON CONTEST.\p"
+	.string "linked players for a Pokémon CONTEST.\p"
 	.string "Anyone with a CONTEST PASS may enter.\p"
 	.string "You may obtain a CONTEST PASS at the\n"
 	.string "NORMAL RANK CONTEST HALL in\l"
@@ -101,35 +101,35 @@ FallarborTown_ContestLobby_Text_1A6623:: @ 81A6623
 
 FallarborTown_ContestLobby_Text_1A664A:: @ 81A664A
 LilycoveCity_ContestLobby_Text_1A664A:: @ 81A664A
-	.string "I'm terribly sorry, but your POKéMON\n"
+	.string "I'm terribly sorry, but your Pokémon\n"
 	.string "is not qualified to compete at this\l"
 	.string "Rank yet...$"
 
 FallarborTown_ContestLobby_Text_1A669F:: @ 81A669F
 LilycoveCity_ContestLobby_Text_1A669F:: @ 81A669F
 	.string "I'm sorry, but an EGG cannot take part\n"
-	.string "in a POKéMON CONTEST.$"
+	.string "in a Pokémon CONTEST.$"
 
 FallarborTown_ContestLobby_Text_1A66DC:: @ 81A66DC
 LilycoveCity_ContestLobby_Text_1A66DC:: @ 81A66DC
-	.string "Your POKéMON appears to be in no\n"
+	.string "Your Pokémon appears to be in no\n"
 	.string "condition to take part in a CONTEST...$"
 
 FallarborTown_ContestLobby_Text_1A6724:: @ 81A6724
 	.string "Oh, but that RIBBON...\p"
-	.string "Your POKéMON has won this CONTEST\n"
+	.string "Your Pokémon has won this CONTEST\n"
 	.string "before, hasn't it?\p"
 	.string "Would you like to enter it in this\n"
 	.string "CONTEST anyway?$"
 
 FallarborTown_ContestLobby_Text_1A67A3:: @ 81A67A3
 LilycoveCity_ContestLobby_Text_1A67A3:: @ 81A67A3
-	.string "Is that your CONTEST POKéMON?$"
+	.string "Is that your CONTEST Pokémon?$"
 
 FallarborTown_ContestLobby_Text_1A67C1:: @ 81A67C1
-	.string "Okay, your POKéMON will be entered\n"
+	.string "Okay, your Pokémon will be entered\n"
 	.string "in this CONTEST.\p"
-	.string "Your POKéMON is Entry No. 4.\n"
+	.string "Your Pokémon is Entry No. 4.\n"
 	.string "The CONTEST will begin shortly.$"
 
 FallarborTown_ContestLobby_Text_1A6832:: @ 81A6832
@@ -140,7 +140,7 @@ VerdanturfTown_ContestLobby_Text_1A6832:: @ 81A6832
 	.string "Good luck!$"
 
 FallarborTown_ContestLobby_Text_1A685A:: @ 81A685A
-	.string "Congratulations! Your POKéMON is the\n"
+	.string "Congratulations! Your Pokémon is the\n"
 	.string "CONTEST winner!\p"
 	.string "We have your prize right here.\n"
 	.string "Please, right this way!$"
@@ -151,28 +151,28 @@ FallarborTown_ContestLobby_Text_1A68C6:: @ 81A68C6
 
 LinkContestRoom1_Text_1A68F0:: @ 81A68F0
 	.string "MC: Hello! We're just getting started\n"
-	.string "with a {STR_VAR_3} Rank POKéMON\l"
+	.string "with a {STR_VAR_3} Rank Pokémon\l"
 	.string "{STR_VAR_2} CONTEST!\p"
 	.string "The participating TRAINERS and their\n"
-	.string "POKéMON are as follows:$"
+	.string "Pokémon are as follows:$"
 
 LinkContestRoom1_Text_1A6976:: @ 81A6976
 	.string "MC: Hello! We're just getting started\n"
-	.string "with a 4-player linked POKéMON\l"
+	.string "with a 4-player linked Pokémon\l"
 	.string "{STR_VAR_2} CONTEST!\p"
 	.string "The participating TRAINERS and their\n"
-	.string "POKéMON are as follows:$"
+	.string "Pokémon are as follows:$"
 
 LinkContestRoom1_Text_1A6A04:: @ 81A6A04
 	.string "MC: Entry No. {STR_VAR_2}!\n"
 	.string "{STR_VAR_1}'s {STR_VAR_3}!$"
 
 LinkContestRoom1_Text_1A6A1F:: @ 81A6A1F
-	.string "MC: We've just seen the four POKéMON\n"
+	.string "MC: We've just seen the four Pokémon\n"
 	.string "contestants.\p"
 	.string "Now it's time for primary judging!\p"
 	.string "The audience will vote on their\n"
-	.string "favorite POKéMON contestants.\p"
+	.string "favorite Pokémon contestants.\p"
 	.string "Without any further ado, let the\n"
 	.string "voting begin!$"
 

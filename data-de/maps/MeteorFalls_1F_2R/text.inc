@@ -12,7 +12,7 @@ MeteorFalls_1F_2R_Text_193A35:: @ 8193A35
 MeteorFalls_1F_2R_Text_193A60:: @ 8193A60
 	.string "Der Weg vor mir ist lang und\n"
 	.string "beschwerlich.\p"
-	.string "Wann werden meine POKéMON und ich\n"
+	.string "Wann werden meine Pokémon und ich\n"
 	.string "zu den Besten gehören?$"
 
 MeteorFalls_1F_2R_Text_193AB3:: @ 8193AB3
@@ -34,7 +34,7 @@ MeteorFalls_1F_2R_Text_193B4C:: @ 8193B4C
 
 MeteorFalls_1F_2R_Text_193BB7:: @ 8193BB7
 	.string "URS: Wir haben immer in trauter Zwei-\n"
-	.string "samkeit mit unseren POKéMON gegen\l"
+	.string "samkeit mit unseren Pokémon gegen\l"
 	.string "andere gekämpft. Wir werden siegen!$"
 
 MeteorFalls_1F_2R_Text_193C10:: @ 8193C10
@@ -50,7 +50,7 @@ MeteorFalls_1F_2R_Text_193C35:: @ 8193C35
 MeteorFalls_1F_2R_Text_193C9F:: @ 8193C9F
 	.string "URS: Nun, was für ein junger TRAINER!\p"
 	.string "Möchtest du mit uns kämpfen? Wenn ja,\n"
-	.string "dann musst du dir noch mehr POKéMON\l"
+	.string "dann musst du dir noch mehr Pokémon\l"
 	.string "besorgen.$"
 
 MeteorFalls_1F_2R_Text_193D10:: @ 8193D10
@@ -66,19 +66,19 @@ MeteorFalls_1F_2R_Text_193D6E:: @ 8193D6E
 MeteorFalls_1F_2R_Text_193D9A:: @ 8193D9A
 	.string "EVI: 50 Jahre verheiratet...\p"
 	.string "Immer wenn wir uneinig sind, ent-\n"
-	.string "scheiden wir es mit einem POKéMON-\l"
+	.string "scheiden wir es mit einem Pokémon-\l"
 	.string "Kampf.$"
 
 MeteorFalls_1F_2R_Text_193DFB:: @ 8193DFB
 	.string "EVI: Hmm... Bist du nicht ein bisschen zu\n"
 	.string "klein für einen TRAINER?\p"
 	.string "Möchtest du mit uns kämpfen? Dann\n"
-	.string "musst du dir noch mehr POKéMON\l"
+	.string "musst du dir noch mehr Pokémon\l"
 	.string "besorgen.$"
 
 MeteorFalls_1F_2R_Text_193E75:: @ 8193E75
 	.string "URS: Wir haben immer in trauter Zwei-\n"
-	.string "samkeit mit unseren POKéMON gegen\l"
+	.string "samkeit mit unseren Pokémon gegen\l"
 	.string "andere gekämpft. Wir werden siegen!$"
 
 MeteorFalls_1F_2R_Text_193ECE:: @ 8193ECE
@@ -94,7 +94,7 @@ MeteorFalls_1F_2R_Text_193EF3:: @ 8193EF3
 MeteorFalls_1F_2R_Text_193F59:: @ 8193F59
 	.string "URS: Nun, was für ein junger TRAINER!\p"
 	.string "Möchtest du mit uns kämpfen? Wenn ja,\n"
-	.string "dann musst du dir noch mehr POKéMON\l"
+	.string "dann musst du dir noch mehr Pokémon\l"
 	.string "besorgen.$"
 
 MeteorFalls_1F_2R_Text_193FCA:: @ 8193FCA
@@ -117,5 +117,5 @@ MeteorFalls_1F_2R_Text_1940DF:: @ 81940DF
 	.string "EVI: Hmm... Bist du nicht ein bisschen zu\n"
 	.string "klein für einen TRAINER?\p"
 	.string "Möchtest du gegen uns kämpfen? Dann\n"
-	.string "musst du dir noch mehr POKéMON\l"
+	.string "musst du dir noch mehr Pokémon\l"
 	.string "besorgen.$"

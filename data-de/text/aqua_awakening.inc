@@ -8,7 +8,7 @@ UnknownString_81B41D5: @ 81B41D5
 UnknownString_81B4201: @ 81B4201
 	.string "ADRIAN: Schau nur, schau nur!\p"
 	.string "Schau, wie schön die schlafende Gestalt\n"
-	.string "des antiken POKéMON KYOGRE ist!\p"
+	.string "des antiken Pokémon KYOGRE ist!\p"
 	.string "Ich habe so lange auf diesen Tag\n"
 	.string "gewartet...$"
 

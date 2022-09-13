@@ -2,11 +2,11 @@ DewfordTown_Gym_Text_174D98:: @ 8174D98
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
 	.string "DEWFORD's GYM LEADER BRAWLY commands\n"
-	.string "FIGHTING-type POKéMON.\p"
+	.string "FIGHTING-type Pokémon.\p"
 	.string "Going against him with NORMAL-type\n"
-	.string "POKéMON is asking for trouble.\p"
-	.string "FIGHTING POKéMON will lay a serious\n"
-	.string "smack down on NORMAL POKéMON,\l"
+	.string "Pokémon is asking for trouble.\p"
+	.string "FIGHTING Pokémon will lay a serious\n"
+	.string "smack down on NORMAL Pokémon,\l"
 	.string "so be careful!\p"
 	.string "What's worse, the GYM is as dark as\n"
 	.string "the ocean floor.\p"
@@ -42,7 +42,7 @@ DewfordTown_Gym_Text_175031:: @ 8175031
 	.string "I'm not going to waste this loss.\n"
 	.string "I'll use it to motivate me to train!\p"
 	.string "One day I'll become a GYM LEADER...\p"
-	.string "No, I'll become the POKéMON LEAGUE\n"
+	.string "No, I'll become the Pokémon LEAGUE\n"
 	.string "CHAMPION!$"
 
 DewfordTown_Gym_Text_1750C9:: @ 81750C9
@@ -80,7 +80,7 @@ DewfordTown_Gym_Text_1752BB:: @ 81752BB
 	.string "from BRAWLY.$"
 
 DewfordTown_Gym_Text_1752E6:: @ 81752E6
-	.string "The KNUCKLE BADGE makes all POKéMON\n"
+	.string "The KNUCKLE BADGE makes all Pokémon\n"
 	.string "up to Level 30, even those you get in\l"
 	.string "trades, obey without question.\p"
 	.string "And, you'll be able to use the HM move\n"
@@ -99,9 +99,9 @@ DewfordTown_Gym_Text_175412:: @ 8175412
 	.string "among TRAINERS one day!$"
 
 DewfordTown_Gym_Text_175477:: @ 8175477
-	.string "DEWFORD TOWN POKéMON GYM$"
+	.string "DEWFORD TOWN Pokémon GYM$"
 
 DewfordTown_Gym_Text_175490:: @ 8175490
-	.string "DEWFORD TOWN POKéMON GYM\p"
+	.string "DEWFORD TOWN Pokémon GYM\p"
 	.string "BRAWLY'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
