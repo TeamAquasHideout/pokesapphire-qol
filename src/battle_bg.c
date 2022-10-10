@@ -2,6 +2,7 @@
 #include "battle.h"
 #include "decompress.h"
 #include "ewram.h"
+#include "event_data.h"
 #include "graphics.h"
 #include "link.h"
 #include "main.h"
@@ -268,7 +269,7 @@ void DrawMainBattleBackground(void)
     }
     else if (gBattleTypeFlags & BATTLE_TYPE_KYOGRE_GROUDON)
     {
-        if (gGameVersion == VERSION_RUBY)
+        if (gGameVersion == VERSION_RUBY || FlagGet(FLAG_GROUDON_POSTGAME) == FALSE)
         {
             LZDecompressVram(gBattleTerrainTiles_Cave, (void*)(BG_CHAR_ADDR(2)));
             LZDecompressVram(gBattleTerrainTilemap_Cave, (void*)(BG_SCREEN_ADDR(26)));

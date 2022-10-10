@@ -400,7 +400,8 @@
     "SkyPillar_4F",
     "ShoalCave_LowTideIceRoom",
     "SkyPillar_5F",
-    "SkyPillar_Top"
+    "SkyPillar_Top",
+    "MountainHeart"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",

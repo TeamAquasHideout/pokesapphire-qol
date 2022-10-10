@@ -1,0 +1,65 @@
+mapscripts MountainHeart_MapScripts{
+
+}
+
+script TriggerGroudon{
+    if(flag(FLAG_GROUDON_POSTGAME) == FALSE)
+    {
+        goto(StartCutscene)
+    }
+    release
+    end 
+
+}
+
+script StartCutscene{
+    turnobject(OBJ_EVENT_ID_PLAYER, DIR_NORTH)
+    special(ShakeScreenInElevator)
+    applymovement(1, GroudonMoveForward)
+	waitstate
+    waitmovement(1)
+    special(ShakeScreenInElevator)
+    applymovement(1, GroudonMoveForward)
+	waitstate
+    waitmovement(1)
+    special(ShakeScreenInElevator)
+    applymovement(1, GroudonMoveForward)
+	waitstate
+    waitmovement(1)
+    playmoncry(SPECIES_GROUDON , 2)
+    setwildbattle(SPECIES_GROUDON, 80, ITEM_NONE)
+	delay(40)
+	waitmoncry
+    setflag(FLAG_SYS_CTRL_OBJ_DELETE)
+	special(ScrSpecial_StartGroudonKyogreBattle)
+	waitstate
+    clearflag(FLAG_SYS_CTRL_OBJ_DELETE)
+    removeobject(1)
+    specialvar(VAR_RESULT, GetBattleOutcome)
+	compare(VAR_RESULT, 1)
+    call_if_eq(GroudonDefeat)
+    setflag(FLAG_GROUDON_POSTGAME)
+    release 
+    end 
+
+}
+
+script GroudonDefeat{
+    msgbox(String_GroudonDefeat, MSGBOX_DEFAULT)
+    closemessage
+    return
+}
+
+movement GroudonMoveForward{
+    walk_down
+}
+
+script TestScriptGroudon{
+    clearflag(FLAG_GROUDON_POSTGAME)
+}
+
+raw`
+String_GroudonDefeat:
+	.string "Groudon appears to have settled\n"
+	.string "into sleep again...$"
+`

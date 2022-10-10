@@ -3320,6 +3320,16 @@
       "secondary_tileset": "gTileset_Pacifidlog",
       "border_filepath": "data/layouts/SkyPillar_Top/border.bin",
       "blockdata_filepath": "data/layouts/SkyPillar_Top/map.bin"
+    },
+    {
+      "id": "LAYOUT_MOUNTAIN_HEART",
+      "name": "MountainHeart_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lavaridge",
+      "border_filepath": "data/layouts/MountainHeart/border.bin",
+      "blockdata_filepath": "data/layouts/MountainHeart/map.bin"
     }
   ]
 }
