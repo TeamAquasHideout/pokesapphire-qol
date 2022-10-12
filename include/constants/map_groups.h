@@ -371,6 +371,7 @@
 #define MAP_SKY_PILLAR_5F                         (84 | (24 << 8))
 #define MAP_SKY_PILLAR_TOP                        (85 | (24 << 8))
 #define MAP_MOUNTAIN_HEART                        (86 | (24 << 8))
+#define MAP_METEOR_FALLS_DEOXYS                   (87 | (24 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (25 << 8))

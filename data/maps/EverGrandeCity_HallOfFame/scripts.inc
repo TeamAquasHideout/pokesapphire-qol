@@ -17,6 +17,7 @@ EverGrandeCity_HallOfFame_MapScript2_15BB9E:: @ 815BB9E
 
 EverGrandeCity_HallOfFame_EventScript_15BBA8:: @ 815BBA8
 	lockall
+	clearflag FLAG_GROUDON_POSTGAME
 	applymovement 1, EverGrandeCity_HallOfFame_Movement_15BC59
 	applymovement OBJ_EVENT_ID_PLAYER, EverGrandeCity_HallOfFame_Movement_15BC59
 	waitmovement 0

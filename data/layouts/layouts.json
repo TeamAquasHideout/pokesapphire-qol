@@ -1265,7 +1265,7 @@
       "id": "LAYOUT_METEOR_FALLS_1F_2R",
       "name": "MeteorFalls_1F_2R_Layout",
       "width": 30,
-      "height": 32,
+      "height": 38,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_MeteorFalls",
       "border_filepath": "data/layouts/MeteorFalls_1F_2R/border.bin",
@@ -3330,6 +3330,16 @@
       "secondary_tileset": "gTileset_Lavaridge",
       "border_filepath": "data/layouts/MountainHeart/border.bin",
       "blockdata_filepath": "data/layouts/MountainHeart/map.bin"
+    },
+    {
+      "id": "LAYOUT_METEOR_FALLS_DEOXYS",
+      "name": "MeteorFalls_Deoxys_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_MeteorFalls",
+      "border_filepath": "data/layouts/MeteorFalls_Deoxys/border.bin",
+      "blockdata_filepath": "data/layouts/MeteorFalls_Deoxys/map.bin"
     }
   ]
 }

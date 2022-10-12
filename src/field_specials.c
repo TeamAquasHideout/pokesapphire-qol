@@ -38,6 +38,7 @@
 #include "constants/moves.h"
 #include "constants/species.h"
 #include "constants/weather.h"
+#include "pokedex.h"
 
 #if ENGLISH
 #define CHAR_DECIMAL_SEPARATOR CHAR_PERIOD
@@ -2214,4 +2215,9 @@ void sub_810FF48(void)
 u8 sub_810FF60(void)
 {
     return sub_810FB10(gSpecialVar_0x8004);
+}
+
+bool8 GetCaughtMon(void)
+{
+    return GetSetPokedexFlag(SpeciesToNationalPokedexNum(VarGet(VAR_TEMP_1)), FLAG_GET_CAUGHT);
 }

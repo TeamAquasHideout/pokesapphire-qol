@@ -61,7 +61,7 @@ SouthernIsland_Interior_EventScript_160BA7:: @ 8160BA7
 	waitmovement 0
 	delay 50
 	special RemoveCameraDummy
-	setwildbattle SPECIES_LATIAS_OR_LATIOS, 50, ITEM_SOUL_DEW
+	setwildbattle SPECIES_LATIAS_OR_LATIOS, 80, ITEM_SOUL_DEW
 	setflag FLAG_HIDE_LATIOS_OR_LATIAS_STATIONARY
 	setflag FLAG_SYS_CTRL_OBJ_DELETE
 	special ScrSpecial_StartSouthernIslandBattle

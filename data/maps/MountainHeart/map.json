@@ -30,8 +30,8 @@
       "x": 11,
       "y": 18,
       "elevation": 0,
-      "dest_map": "MAP_JAGGED_PASS",
-      "dest_warp_id": 4
+      "dest_map": "MAP_FIERY_PATH",
+      "dest_warp_id": 2
     }
   ],
   "coord_events": [

@@ -401,7 +401,8 @@
     "ShoalCave_LowTideIceRoom",
     "SkyPillar_5F",
     "SkyPillar_Top",
-    "MountainHeart"
+    "MountainHeart",
+    "MeteorFalls_Deoxys"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",

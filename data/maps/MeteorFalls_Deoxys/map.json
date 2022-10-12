@@ -1,0 +1,31 @@
+{
+  "id": "MAP_METEOR_FALLS_DEOXYS",
+  "name": "MeteorFalls_Deoxys",
+  "layout": "LAYOUT_METEOR_FALLS_DEOXYS",
+  "music": "MUS_CAVE_OF_ORIGIN",
+  "region_map_section": "MAPSEC_METEOR_FALLS",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_UNDERGROUND",
+  "show_map_name": false,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": 0,
+  "object_events": [
+
+  ],
+  "warp_events": [
+    {
+      "x": 10,
+      "y": 18,
+      "elevation": 0,
+      "dest_map": "MAP_METEOR_FALLS_1F_2R",
+      "dest_warp_id": 5
+    }
+  ],
+  "coord_events": [
+
+  ],
+  "bg_events": [
+
+  ]
+}

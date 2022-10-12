@@ -1694,3 +1694,6 @@ Text_1C6C62: @ 81C6C62
 
 	.include "data/maps/MountainHeart/scripts.inc"
 	.include "data/maps/MountainHeart/text.inc"
+
+	.include "data/maps/MeteorFalls_Deoxys/scripts.inc"
+	.include "data/maps/MeteorFalls_Deoxys/text.inc"

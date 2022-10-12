@@ -1548,3 +1548,19 @@
 	setorcopyvar VAR_0x8000, \decoration
 	callstd STD_OBTAIN_DECORATION
 	.endm
+
+	@ Calls a script if the Player's Pokedex has recorded the data of the specified Pokemon.
+	.macro call_if_mon_caught species:req, script:req
+	setvar VAR_TEMP_1, \species
+	specialvar VAR_RESULT, GetCaughtMon
+	compare VAR_RESULT, TRUE
+	call_if TRUE, \script
+	.endm
+
+	@ Gotos a script if the Player's Pokedex has recorded the data of the specified Pokemon.
+	.macro goto_if_mon_caught species:req, script:req
+	setvar VAR_TEMP_1, \species
+	specialvar VAR_RESULT, GetCaughtMon
+	compare VAR_RESULT, TRUE
+	goto_if TRUE, \script
+	.endm

@@ -14,3 +14,12 @@ PetalburgCity_House1_Text_17BB4A:: @ 817BB4A
 	.string "And, sometimes, even get a little\n"
 	.string "homesick...\p"
 	.string "It must be fabulous to travel!$"
+
+SouthernIsland::
+	.string "Your Father told me you caught Latias!\n"
+	.string "It must have been hard...\p"
+	.string "I noticed the pair while sailing\n"
+	.string "around the Southern Islands...\p"
+	.string "You should take a trip out there\n"
+	.string "if you have the time.\p"
+	.string "Here, take this to the Harbor!$"
